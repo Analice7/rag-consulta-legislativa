@@ -14,3 +14,5 @@ faiss-cpu==1.7.4
 tqdm==4.64.1
 jupyter==1.0.0
 plotly==5.8.0
+PyPDF2==3.0.0
+
