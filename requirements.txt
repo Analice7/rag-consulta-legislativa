@@ -1,0 +1,16 @@
+streamlit
+langchain
+transformers
+sentence-transformers
+numpy
+pandas
+nltk
+spacy
+pytest
+matplotlib
+seaborn
+scikit-learn
+faiss-cpu
+tqdm
+jupyter
+plotly
