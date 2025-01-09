@@ -101,6 +101,12 @@ def parse_text_to_structure(text):
             tramitation = tramitation_match.group(1).split("\n")
             page_data["tramitation"] = [t.strip() for t in tramitation if t.strip()]
 
+        # Extrair documentos
+        document_match = re.search(r"DOCUMENTOS\s+(.+)", section, re.DOTALL)
+        if document_match:
+            document = document_match.group(1).split("\n")
+            page_data["document"] = [t.strip() for t in document if t.strip()]
+
         # Extrair despachos e ações
         actions = []
         action_matches = re.findall(
