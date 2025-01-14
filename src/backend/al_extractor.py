@@ -301,5 +301,5 @@ def process_all_pdfs(input_folder, output_folder):
 
 if __name__ == "__main__":
     input_folder = "../../data/raw/atividade_legislativa/"
-    output_folder = "../../data/processed/atividade_legislativa/"
+    output_folder = "../../data/extracted/atividade_legislativa/"
     process_all_pdfs(input_folder, output_folder)
