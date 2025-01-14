@@ -1,0 +1,23 @@
+{
+    "veto": {
+        "numero": "46",
+        "ano": "2024"
+    },
+    "ementa": "Veto Parcial aposto ao o Projeto de Lei nº 4.614, de 2024, que \"Altera as Leis nºs 8.171, de 17 de janeiro de 1991 (Lei da Política Agrícola), 8.742, de 7 de dezembro de 1993 (Lei Orgânica da Assistência Social), 14.601, de 19 de junho de 2023 (Lei do Programa Bolsa Família), e 14.995, de 10 de outubro de 2024, para dispor sobre políticas públicas; e dá outras providências.\"",
+    "mensagem": {
+        "numero": "1699",
+        "ano": "2024"
+    },
+    "dispositivos_vetados": [
+        {
+            "dispositivo_vetado": "Art. 6º do Projeto de Lei, na parte em que altera o § 2º-B do art. 20 da Lei nº 8.742, de 7 de dezembro de 1993",
+            "texto_dispositivo": "§ 2º-B. Para a concessão administrativa ou judicial do benefício de que trata este artigo, a avaliação a que se refere o § 2º-A deste artigo deve atestar deficiência de grau moderado ou grave, nos termos de regulamento.",
+            "razao_veto": "A proposição legislativa contraria o interesse público, uma vez que poderia trazer insegurança jurídica em relação à concessão de benefícios."
+        },
+        {
+            "dispositivo_vetado": "Inciso II do caput do art. 9º do Projeto de Lei",
+            "texto_dispositivo": "II - o § 4º do art. 6º da Lei nº 14.601, de 19 de junho de 2023 (Lei do Programa Bolsa Família).",
+            "razao_veto": "A proposição legislativa contraria o interesse público, uma vez que poderia suscitar insegurança jurídica em relação às regras de elegibilidade para reingressar no Programa Bolsa Família."
+        }
+    ]
+}
