@@ -1,0 +1,18 @@
+{
+    "veto": {
+        "numero": "48",
+        "ano": "2024"
+    },
+    "ementa": "Veto parcial aposto ao Projeto de Lei Complementar nº 200, de 2024, que \"Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; revoga a Lei Complementar nº 207, de 16 de maio de 2024; e dá outras providências.\"",
+    "mensagem": {
+        "numero": "1707",
+        "ano": "2024"
+    },
+    "dispositivos_vetados": [
+        {
+            "dispositivo_vetado": "Art. 3º do Projeto de Lei Complementar",
+            "texto_dispositivo": "Art. 3º Ficam autorizados o contingenciamento e o bloqueio de dotações provenientes de emendas parlamentares não impositivas, observada a mesma proporção aplicada às demais despesas discricionárias, limitados a 15% (quinze por cento) do total das referidas dotações, com o objetivo de atender às disposições previstas nas normas fiscais vigentes. § 1º As dotações bloqueadas não serão consideradas para fins de atendimentoaos limites de que trata o art. 3º da Lei Complementar nº 200, de 30 de agosto de 2023, e o espaço no limite aberto pelo bloqueio não poderá ser usado para o aumento ou criação de despesas discricionárias. § 2º O bloqueio de que tratam o caput e o § 1º deste artigo será destinadoexclusivamente ao atendimento aos limites de que trata o art. 3º da Lei Complementar nº 200, de 30 de agosto de 2023. § 3º O contingenciamento e o bloqueio de que trata o caput deste artigonecessariamente observarão prioridades elencadas pelo Poder Legislativo. § 4º Verificado que o montante das despesas obrigatórias será inferior ao valor queensejou o bloqueio, o valor será revertido. § 5º O crédito orçamentário para suplementação de despesas obrigatórias,correspondente ao bloqueio de que trata o caput deste artigo, poderá ser realizado sem anulação de dotações orçamentárias.",
+            "razao_veto": "Em que pese a boa intenção do legislador, o art. 3º do Projeto de Lei Complementar, que prevê o tratamento do contingenciamento e do bloqueio das dotações provenientes de emendas parlamentares não impositivas, não autorizaria expressamente o bloqueio e o contingenciamento das emendas impositivas, individuais e de bancadaestadual, tratadas expressamente na Constituição.Desse modo, por não haver previsão expressa dessas últimas espécies de emendas parlamentares como passíveis de bloqueio e contingenciamento, o dispositivo estaria em dissonância com o entendimento do Supremo Tribunal Federal previsto na Arguição de Descumprimento de Preceito Fundamental – ADPF nº 854, quaisquer regras, restrições ou impedimentos aplicáveis às programações discricionárias do Poder Executivo se aplicam às emendas parlamentares, e vice-versa"
+        }
+    ]
+}
