@@ -32,15 +32,15 @@ def extract_text_from_html(arquivo):
         'link': link
     }
     
-    output_directory = "date/processed/html"
+    output_directory = "data/extracted/leis"
     os.makedirs(output_directory, exist_ok=True) #Verifica se o diretorio existe
     
-    with open(f"date/processed/html/{arquivo[:-5]}.json", "w", encoding="utf-8") as json_file:
+    with open(f"data/extracted/leis/{arquivo[:-5]}.json", "w", encoding="utf-8") as json_file:
         json.dump(dados_extracao, json_file, ensure_ascii=False, indent=4)
         print(f"salvo! {arquivo[:-5]}")
     
 if __name__ == "__main__":
-    directory = "date/raw/html"
+    directory = "data/raw/leis"
     extension = ".html"
 
     for arquivo in os.listdir(directory):
