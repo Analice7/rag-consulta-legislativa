@@ -27,7 +27,7 @@ def process_texts_in_file(data, remove_chars=r'[^\w\s]'):
     return result
 
 if __name__ == "__main__":
-    directory = "../../data/extracted"
+    directory = "data/extracted"
     extension = ".json"
     for i in ['atividade_legislativa', 'leis', 'vetos']:
          for arquivo in os.listdir(f"{directory}/{i}"):
@@ -38,5 +38,5 @@ if __name__ == "__main__":
                 
             dictionary = process_texts_in_file(data)
             
-            with open(f'../../data/processed/{i}/{arquivo[:-5]}_processed.json', 'w', encoding = 'utf-8', errors= 'ignore') as file_processed:
+            with open(f'data/processed/{i}/{arquivo[:-5]}_processed.json', 'w', encoding = 'utf-8', errors= 'ignore') as file_processed:
                 json.dump(dictionary, file_processed, ensure_ascii=False, indent=4)

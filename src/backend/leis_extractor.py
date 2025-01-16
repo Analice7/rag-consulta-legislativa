@@ -20,6 +20,7 @@ def extract_text_from_html(arquivo):
     if lei_texto_aux1:
         lei_texto_aux2 = [p.get_text() for p in lei_texto_aux1] #Retira tags restantes
         lei_texto = '\n'.join(lei_texto_aux2) #Transforma em string
+        lei_texto = lei_texto.replace("(NR)", "")
     else:
         lei_texto = None
         
