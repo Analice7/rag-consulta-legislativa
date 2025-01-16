@@ -6,133 +6,115 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import nltk
 
+# Extrai texto de todas as páginas de um arquivo PDF.
 def extract_text_from_pdf(pdf_path):
-    """
-    Extrai texto de todas as páginas de um arquivo PDF.
-    """
-    text = ""
-    tramitacao = []
-    with fitz.open(pdf_path) as pdf:
-        for page_num in range(len(pdf)):
-            page = pdf[page_num]
-            page_text = page.get_text()
-            
-            # Adiciona a marcação de página ao texto
-            text += page_text + f"\npg {page_num + 1}\n"
-            
-            # Captura a ementa
-            if "ementa" in page_text.lower():
-                ementa = re.findall(r"ementa[:\s]+(.*?)\n", page_text, re.IGNORECASE)
-                if ementa:
-                    text += f"Ementa: {ementa[0]}\n"
-            
-            # Captura a tramitação
-            tramitacao_data = re.findall(r"(\d{2}/\d{2}/\d{4})\s*(.*?)(?=\d{2}/\d{2}/\d{4}|$)", page_text, re.DOTALL)
-            for date, action in tramitacao_data:
-                tramitacao.append({"date": date, "action": action.strip()})
     
-    return text, tramitacao
+    text = ""
+    with fitz.open(pdf_path) as pdf:
+       for page in pdf:
+           text += page.get_text()
+    
+    return text
 
+# Processa o texto extraído do PDF e organiza em um formato estruturado.
 def parse_text_to_structure(text):
-    """
-    Processa o texto extraído do PDF e organiza em um formato estruturado.
-    """
-    structured_data = {"paginas": []}  # Estrutura para armazenar os dados
-    page_data = {}
+    
+    structured_data = {} 
 
-    structured_data["paginas"].append(page_data)
-
-    page_data = {}
-
-    # Extrair número e ano do projeto
+    # Extrai número e ano do projeto
     title_match = re.search(r"(.+? n[º°] \d+, de \d{4})", text)
     if title_match:
-        page_data["Atividade legislativa"] = title_match.group(1)
+        structured_data["Atividade legislativa"] = title_match.group(1)
 
-    # Extrair autoria
+    # Extrai autoria
     author_match = re.search(r"Autoria:\s*(.+)", text)
     if author_match:
-        page_data["Autoria"] = author_match.group(1)
+        structured_data["Autoria"] = author_match.group(1)
 
-    # Extrair iniciativa
+    # Extrai iniciativa
     initiative_match = re.search(r"Iniciativa:\s*(.+?)(?:\n(Ementa:|$))", text)
     if initiative_match:
-        page_data["Iniciativa"] = initiative_match.group(1)
+        structured_data["Iniciativa"] = initiative_match.group(1)
 
-    # Extrair ementa
-    ementa_match = re.search(r"Ementa:\s*(.*?)(?=\s*Assunto:|$)", text, re.DOTALL)
+    # Extrai ementa
+    ementa_match = re.search(r"Ementa:\s*(.*?)(?=\s*Assunto:|Explicação da Ementa:|$)", text, re.DOTALL)
     if ementa_match:
-        page_data["Ementa"] = ementa_match.group(1).strip()
+        structured_data["Ementa"] = ementa_match.group(1).strip()
 
-    # Extrair o Assunto (Não mudar)
+    # Extrai explicação da ementa
+    explication_match = re.search(r"Explicação da Ementa:\s*(.+)", text)
+    if explication_match:
+        structured_data["Explicação da Ementa"] = explication_match.group(1)
+
+    # Extrai o Assunto (Não mudar)
     subject_match = re.search(r"Data de Leitura:\s*([^\n]+)", text)
     if subject_match:
-        page_data["Assunto"] = subject_match.group(1).strip()
+        structured_data["Assunto"] = subject_match.group(1).strip()
 
-    # Extrair a Data de Leitura
+    # Extrai a Data de Leitura
     reading_date_match = re.search(r"Data de Leitura:\s*([^\n]+)(?:\n(Tramitação encerrada)|$)", text)
     if reading_date_match:
-        page_data["Data de leitura"] = reading_date_match.group(1).strip()
+        structured_data["Data de leitura"] = reading_date_match.group(1).strip()
 
-    # Extrair despacho
+    # Extrai despacho
     dispatch_match = re.search(r"Despacho:\s+((?:.|\n)*?)(?:\n(Relatoria:|TRAMITAÇÃO)|$)", text, re.DOTALL)
     if dispatch_match:
-        dispatch = dispatch_match.group(1).split("\n")
-        if "Despacho" in page_data:
-            page_data["Despacho"].extend(d.strip() for d in dispatch if d.strip())
+        dispatch = dispatch_match.group(1)
+        if "Despacho" in structured_data:
+            structured_data["Despacho"] += " " + dispatch.strip()
         else:
-            page_data["Despacho"] = [d.strip() for d in dispatch if d.strip()]
+            structured_data["Despacho"] = dispatch.strip()
 
-    # Extrair relatoria
+    # Extrai relatoria
     reporting_match = re.search(r"Relatoria:\s+((?:.|\n)*?)(?:\n(Despacho:)|$)", text, re.DOTALL)
     if reporting_match:
-        reporting = reporting_match.group(1).split("\n")
-        if "Relatoria" in page_data:
-            page_data["Relatoria"].extend(r.strip() for r in reporting if r.strip())
+        reporting = reporting_match.group(1)
+        if "Relatoria" in structured_data:
+            structured_data["Relatoria"] += " " + reporting.strip()
         else:
-            page_data["Relatoria"] = [r.strip() for r in reporting if r.strip()]
+            structured_data["Relatoria"] = reporting.strip()
 
-    # Extrair tramitação encerrada
+    # Extrai tramitação encerrada
     tramitation_cloded_match = re.search(r"Tramitação encerrada\s+(.+?)(?=\s*(Relatoria:|Despacho:|$))", text, re.DOTALL)
     if tramitation_cloded_match:
         tramitation_cloded = tramitation_cloded_match.group(1)
 
-        # Divida o conteúdo nas partes corretas
-        tramitation_lines = []
+        tramitation_lines = {}
         
-        # Expressões para capturar as seções específicas (NÃO MUDAR!!!)
         decision = re.search(r"(.+?)\s*Decisão:", tramitation_cloded, re.DOTALL)
-        if decision:
-            tramitation_lines.append(f"Decisão: {decision.group(1).strip()}")
+        decision = decision.group(1).strip() if decision else None
                                         
         destiny = re.findall(r"Último local:\s*(.+?)(?=\s*(Destino:|Último estado:|$))", tramitation_cloded, re.DOTALL)
-        if destiny:
-            tramitation_lines.append(f"Destino: {destiny[0][0].strip()}") 
+        destiny = destiny[0][0].strip() if destiny else None
 
         last_location = re.findall(r"Decisão:\s*(.+?)(?=\s*(Último local:|Destino:|Último estado:|$))", tramitation_cloded, re.DOTALL)
-        if last_location:
-            tramitation_lines.append(f"Último local: {last_location[0][0].strip()}")  
+        last_location = last_location[0][0].strip() if last_location else None
 
         last_state = re.findall(r"Último estado:\s*(.+?)(?=\s*(Matérias Relacionadas:|$))", tramitation_cloded, re.DOTALL)
-        if last_state:
-            tramitation_lines.append(f"Último estado: {last_state[0][0].strip()}") 
+        last_state = last_state[0][0].strip() if last_state else None
 
-        # Adiciona a tramitação finalizada ao JSON
-        page_data["Tramitação encerrada"] = tramitation_lines
+        tramitation_lines = {
+            "Decisão": decision,
+            "Destino": destiny,
+            "Último local": last_location,
+            "Último estado": last_state
+        } 
+
+        structured_data["Tramitação encerrada"] = tramitation_lines
 
     
-    # Extrair tramitação
+    # Extrai tramitação
     tramitation_matches = re.findall(r"TRAMITAÇÃO[\s\S]+?(?=\nDOCUMENTOS|pg \d|$)", text, re.DOTALL)
     if not tramitation_matches:
         print("Nenhuma tramitação encontrada.")
-        return []
+        return {}
     
     combined_tramitation = " ".join(tramitation_matches)
 
     # Dividir tramitação em blocos por data
     tramitation_blocks = re.findall(r"(\d{2}/\d{2}/\d{4}.*?Ação:.*?(?=\d{2}/\d{2}/\d{4}|$))", combined_tramitation, re.DOTALL)
 
-    organized_tramitation = []
+    organized_tramitation = {}
 
     for block in tramitation_blocks:
         if not block.strip():
@@ -155,20 +137,17 @@ def parse_text_to_structure(text):
             acao_match = re.search(rf"{re.escape(org)}\s*(.*?)(?=\s*Situação:|$)", block, re.DOTALL) if org else None
             acao = acao_match.group(1).strip() if acao_match else None
 
-
-        # Montar o bloco estruturado
         tramitation_entry = {
-            "Data": date,
             "Órgão": org,
             "Situação": situacao,
             "Ação": acao
         }
 
-        organized_tramitation.append(tramitation_entry)
+        organized_tramitation[date] = tramitation_entry
 
-    page_data["Tramitação"] = organized_tramitation
+    structured_data["Tramitação"] = organized_tramitation
 
-    # Extrair documentos
+    # Extrai documentos
     documents_matches = re.findall(r"DOCUMENTOS[\s\S]*?(?=\n[A-Z ]+:\s|$)", text, re.DOTALL)
     flag = 0
 
@@ -180,7 +159,7 @@ def parse_text_to_structure(text):
 
     documents_blocks = re.findall(r"(.*?\d{2}/\d{2}/\d{4}\nData:.*?)(?=\d{2}/\d{2}/\d{4}\nData:|$)", combined_documents, re.DOTALL)
 
-    organized_documents = []
+    organized_documents = {}
 
     next_document = None
     for block in documents_blocks:
@@ -246,9 +225,7 @@ def parse_text_to_structure(text):
 
             next_document = next_document_match.group(2).strip() if next_document_match else None
 
-        # Montar o bloco estruturado
         document_entry = {
-            "Documento" : document,
             "Data": data,
             "Autor": author,
             "Local": place,
@@ -256,38 +233,33 @@ def parse_text_to_structure(text):
             "Descrição/Ementa": describe
         }
 
-        organized_documents.append(document_entry)
+        organized_documents[document] = document_entry
 
-    page_data["Documentos"] = organized_documents
-    
-    structured_data["paginas"].append(page_data)
+    structured_data["Documentos"] = organized_documents
 
     return structured_data
 
+# Salva o dicionário estruturado em um arquivo JSON.
 def save_to_json(data, output_path):
-    """
-    Salva o dicionário estruturado em um arquivo JSON.
-    """
+    
     with open(output_path, "w", encoding="utf-8") as json_file:
         json.dump(data, json_file, ensure_ascii=False, indent=4)
 
+# Processo completo: extrai texto do PDF, estrutura os dados e salva no JSON.
 def process_pdf(pdf_path, json_output_path):
-    """
-    Processo completo: extrai texto do PDF, estrutura os dados e salva no JSON.
-    """
+ 
     print(f"Processando o arquivo: {pdf_path}...")
     try:
-        text, tramitacao_data = extract_text_from_pdf(pdf_path)
+        text = extract_text_from_pdf(pdf_path)
         structured_data = parse_text_to_structure(text)
         save_to_json(structured_data, json_output_path)
         print(f"Dados extraídos e salvos em {json_output_path}")
     except Exception as e:
         print(f"Erro ao processar {pdf_path}: {e}")
 
+# Processa todos os PDFs em uma pasta de entrada e salva os JSONs na pasta de saída.
 def process_all_pdfs(input_folder, output_folder):
-    """
-    Processa todos os PDFs em uma pasta de entrada e salva os JSONs na pasta de saída.
-    """
+   
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
 

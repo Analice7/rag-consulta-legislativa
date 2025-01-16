@@ -1,244 +1,165 @@
 {
-    "paginas": [
-        {},
-        {
-            "Atividade legislativa": "Projeto de Lei n° 3802, de 2024",
-            "Autoria": "Câmara dos Deputados",
-            "Iniciativa": "Deputado Federal José Guimarães (PT/CE)",
-            "Ementa": "Altera a Lei nº 14.467, de 16 de novembro de 2022, que dispõe sobre o tratamento tributário aplicável às perdas\nincorridas no recebimento de créditos decorrentes das atividades de instituições autorizadas a funcionar pelo Banco\nCentral do Brasil.",
-            "Assunto": "Economia e Desenvolvimento  - Sistema Financeiro Nacional",
-            "Despacho": [
-                "19/12/2024",
-                "Leitura da Matéria",
-                "Ao Plenário",
-                "(SF-PLEN) Plenário do Senado Federal"
-            ],
-            "Relatoria": [
-                "PLEN - (Plenário do Senado Federal)",
-                "Relator(es):",
-                "Senador Eduardo Braga (encerrado em 20/12/2024 -",
-                "Deliberação da matéria)"
-            ],
-            "Tramitação encerrada": [
-                "Decisão: Aprovada pelo Plenário",
-                "Destino: À sanção",
-                "Último local: 03/01/2025 - Plenário do Senado\nFederal (Secretaria Legislativa do\nSenado Federal)",
-                "Último estado: 30/12/2024 - TRANSFORMADA EM\nNORMA JURÍDICA"
-            ],
-            "Tramitação": [
-                {
-                    "Data": "30/12/2024",
-                    "Órgão": "SF-SEXPE - Secretaria de Expediente",
-                    "Situação": "TRANSFORMADA EM NORMA JURÍDICA",
-                    "Ação": "(PR) PRESIDÊNCIA DA REPÚBLICA.\nSANCIONADA. LEI 15078 DE 2024.\nDOU (Diário Oficial da União) - 30/12/2024 - Seção I - págs. 1 e 1.\nSancionada em 27/12/2024."
-                },
-                {
-                    "Data": "26/12/2024",
-                    "Órgão": "SF-SEXPE - Secretaria de Expediente",
-                    "Situação": "REMETIDA À SANÇÃO",
-                    "Ação": "Remetido Ofício SF n.º 1600, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,\nencaminhando a Mensagem SF n.º 317/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção\npresidencial autógrafo do Projeto.\nRemetido Ofício SF n.º 1601, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto"
-                },
-                {
-                    "Data": "20/12/2024",
-                    "Órgão": "SF-SEXPE - Secretaria de Expediente",
-                    "Situação": null,
-                    "Ação": "Anexado o texto revisado.\nAção:"
-                },
-                {
-                    "Data": "20/12/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": "APROVADA",
-                    "Ação": "(Continuação da Sessão Deliberativa Extraordinária iniciada em 19/12/2024)\nEncaminhada à publicação e, posteriormente retirada, pelo autor, a Emendas n° 1-PLEN.\nEncaminhado à publicação e aprovado o RQS nº 986/2024, solicitando urgência para a matéria.\nProferido pelo Senador Eduardo Braga e encaminhado à publicação o Parecer n° 264/2024 - PLEN/SF, favorável ao Projeto.\nEncerrada a discussão.\nAprovado o projeto, com os votos contrários dos Senadores Eduardo Girão,  Cleitinho, da Senadora Damares Alves e dos\nSenadores Izalci Lucas e Magno Malta.\nA matéria vai à sanção.\nSerá feita a devida comunicação à Câmara dos Deputados.\n(Encaminhado à publicação o RQS nº 1005/2024)"
-                },
-                {
-                    "Data": "20/12/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": "APROVADO PARECER NA COMISSÃO",
-                    "Ação": "Encerrada a relatoria do Senador Eduardo Braga por deliberação da matéria."
-                },
-                {
-                    "Data": "20/12/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebido o Requerimento nº 1005, de 2024, do Senador Hamilton Mourão, solicitando a retirada definitiva da Emenda n° 1.\nAção:"
-                },
-                {
-                    "Data": "20/12/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 1, do Senador Hamilton Mourão.\nAção:"
-                },
-                {
-                    "Data": "20/12/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebido o Requerimento nº 986, de 2024, de Líderes, solicitando urgência para a matéria.\nAção:"
-                },
-                {
-                    "Data": "19/12/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebido o Relatório do Senador Eduardo Braga.\nAção:"
-                },
-                {
-                    "Data": "19/12/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Designado Relator de Plenário o Senador Eduardo Braga.\nAção:"
-                },
-                {
-                    "Data": "19/12/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": "AGUARDANDO DESPACHO",
-                    "Ação": "pg\n2\n\n TRAMITAÇÃO\nAutuado o Projeto de Lei nº 3802/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação."
-                }
-            ],
-            "Documentos": [
-                {
-                    "Documento": "Relatório Legislativo",
-                    "Data": "19/12/2024",
-                    "Autor": "Senador Eduardo Braga (MDB/AM)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebido o Relatório do Senador Eduardo Braga.",
-                    "Descrição/Ementa": "Parecer ao PL 3802/2024"
-                },
-                {
-                    "Documento": "PL 3802/2024",
-                    "Data": "19/12/2024",
-                    "Autor": "Câmara dos Deputados",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Autuado o Projeto de Lei nº 3802/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
-                    "Descrição/Ementa": "Altera a Lei nº 14.467, de 16 de novembro de 2022, que dispõe sobre o tratamento tributário aplicável às perdas incorridas no\nrecebimento de créditos decorrentes das atividades de instituições autorizadas a funcionar pelo Banco Central do Brasil."
-                },
-                {
-                    "Documento": "Avulso inicial da matéria",
-                    "Data": "19/12/2024",
-                    "Autor": "Senado Federal",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Autuado o Projeto de Lei nº 3802/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
-                    "Descrição/Ementa": "-"
-                },
-                {
-                    "Documento": "Requerimento",
-                    "Data": "19/12/2024",
-                    "Autor": "Senador Eduardo Girão (NOVO/CE)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Requer, nos termos do Art. 293, II, do Regimento Interno do Senado Federal, que seja registrado o meu voto contrário ao PL\n3802/2024, que \"Altera a Lei nº 14.467, de 16 de novembro de 2022, que dispõe sobre o tratamento tributário aplicável às\nperdas incorridas no recebimento de créditos decorrentes das atividades de instituições autorizadas a funcionar pelo Banco\nCentral do Brasil.\""
-                },
-                {
-                    "Documento": "RQS 986/2024",
-                    "Data": "20/12/2024",
-                    "Autor": "Líder do Governo Jaques Wagner (PT/BA), Líder do Bloco Parlamentar da Resistência Democrática Eliziane Gama (PSD/MA)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebido o Requerimento nº 986, de 2024, de Líderes, solicitando urgência para a matéria.",
-                    "Descrição/Ementa": "Requer urgência para o Projeto de Lei nº 3802/2024, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado\nFederal."
-                },
-                {
-                    "Documento": "pg\n3\n\npg 3\nEmenta: PL 3802/2024\nAtividade Legislativa\nProjeto de Lei n° 3802, de 2024\nDOCUMENTOS\nEMENDA 1 PLEN - PL",
-                    "Data": "20/12/2024",
-                    "Autor": "Senador Hamilton Mourão (REPUBLICANOS/RS)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 1, do Senador Hamilton Mourão.",
-                    "Descrição/Ementa": "Emenda  ao PL 3802/2024"
-                },
-                {
-                    "Documento": "RQS 1005/2024",
-                    "Data": "20/12/2024",
-                    "Autor": "Senador Hamilton Mourão (REPUBLICANOS/RS)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebido o Requerimento nº 1005, de 2024, do Senador Hamilton Mourão, solicitando a retirada definitiva da Emenda n° 1.",
-                    "Descrição/Ementa": "Requer a retirada definitiva da Emenda nº 1 ao Projeto de Lei nº 3802/2024."
-                },
-                {
-                    "Documento": "Avulso de emendas",
-                    "Data": "20/12/2024",
-                    "Autor": "Senado Federal",
-                    "Local": "null",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "-"
-                },
-                {
-                    "Documento": "P.S 264/2024 - PLEN",
-                    "Data": "20/12/2024",
-                    "Autor": "Senador Eduardo Braga (MDB/AM)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Parecer nº 264/2024-PLEN/SF"
-                },
-                {
-                    "Documento": "Minuta",
-                    "Data": "20/12/2024",
-                    "Autor": "Senado Federal",
-                    "Local": "Secretaria de Expediente",
-                    "Ação Legislativa": "Anexado o texto revisado.",
-                    "Descrição/Ementa": "OFSF 1600/2024"
-                },
-                {
-                    "Documento": "OFSF 1600/2024",
-                    "Data": "26/12/2024",
-                    "Autor": "Primeiro-Secretário do Senado Federal",
-                    "Local": "pg",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°\n3802/2024."
-                },
-                {
-                    "Documento": "OFSF 1601/2024",
-                    "Data": "26/12/2024",
-                    "Autor": "Primeiro-Secretário do Senado Federal",
-                    "Local": "Comissão Diretora do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 3802/2024."
-                },
-                {
-                    "Documento": "MPSF 317/2024",
-                    "Data": "26/12/2024",
-                    "Autor": "Presidente do Senado Federal",
-                    "Local": "Comissão Diretora do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Encaminha à sanção o Projeto de Lei n° 3.802, de 2024."
-                },
-                {
-                    "Documento": "Autógrafo - PL 3802/2024",
-                    "Data": "26/12/2024",
-                    "Autor": "Senado Federal",
-                    "Local": "Secretaria de Expediente",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Altera a Lei nº 14.467, de 16 de novembro de 2022, que dispõe sobre o tratamento tributário aplicável às perdas incorridas no\nrecebimento de créditos decorrentes das atividades de instituições autorizadas a funcionar pelo Banco Central do Brasil."
-                },
-                {
-                    "Documento": "Mensagem",
-                    "Data": "26/12/2024",
-                    "Autor": "Presidente do Senado Federal",
-                    "Local": "Comissão Diretora do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Recibo físico da Presidência da República referente à Mensagem SF n° 317/24 (assinada eletronicamente e impressa para"
-                },
-                {
-                    "Documento": "pg\n5\n\npg 5\nEmenta: OFSF 1601/2024\nAtividade Legislativa\nProjeto de Lei n° 3802, de 2024\nDOCUMENTOS\nrecibo).\nAutógrafo restituído após",
-                    "Data": "03/01/2025",
-                    "Autor": "Presidência da República",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Autógrafo restituído pela Presidência da República ao Senado Federal após sanção."
-                },
-                {
-                    "Documento": "MSG 1700/2024 - Presidência",
-                    "Data": "03/01/2025",
-                    "Autor": "Presidência da República",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Restitui o autógrafo do Projeto de Lei nº 3.802, de 2024, sancionado e convertido na Lei nº 14.467, de 16 de novembro de 2022."
-                },
-                {
-                    "Documento": "OF. 1933/2024 - Casa Civil",
-                    "Data": "03/01/2025",
-                    "Autor": "Casa Civil",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Comunica a restituição do autógrafo sancionado e a Lei nº 15.078, de 27 de dezembro de 2024, promulgada."
-                }
-            ]
+    "Atividade legislativa": "Projeto de Lei n° 3802, de 2024",
+    "Autoria": "Câmara dos Deputados",
+    "Iniciativa": "Deputado Federal José Guimarães (PT/CE)",
+    "Ementa": "Altera a Lei nº 14.467, de 16 de novembro de 2022, que dispõe sobre o tratamento tributário aplicável às perdas\nincorridas no recebimento de créditos decorrentes das atividades de instituições autorizadas a funcionar pelo Banco\nCentral do Brasil.",
+    "Assunto": "Economia e Desenvolvimento  - Sistema Financeiro Nacional",
+    "Despacho": "19/12/2024\nLeitura da Matéria\nAo Plenário\n(SF-PLEN) Plenário do Senado Federal",
+    "Relatoria": "PLEN - (Plenário do Senado Federal)\nRelator(es):\nSenador Eduardo Braga (encerrado em 20/12/2024 -\nDeliberação da matéria)",
+    "Tramitação encerrada": {
+        "Decisão": "Aprovada pelo Plenário",
+        "Destino": "À sanção",
+        "Último local": "03/01/2025 - Plenário do Senado\nFederal (Secretaria Legislativa do\nSenado Federal)",
+        "Último estado": "30/12/2024 - TRANSFORMADA EM\nNORMA JURÍDICA"
+    },
+    "Tramitação": {
+        "30/12/2024": {
+            "Órgão": "SF-SEXPE - Secretaria de Expediente",
+            "Situação": "TRANSFORMADA EM NORMA JURÍDICA",
+            "Ação": "(PR) PRESIDÊNCIA DA REPÚBLICA.\nSANCIONADA. LEI 15078 DE 2024.\nDOU (Diário Oficial da União) - 30/12/2024 - Seção I - págs. 1 e 1.\nSancionada em 27/12/2024."
+        },
+        "26/12/2024": {
+            "Órgão": "SF-SEXPE - Secretaria de Expediente",
+            "Situação": "REMETIDA À SANÇÃO",
+            "Ação": "Remetido Ofício SF n.º 1600, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,\nencaminhando a Mensagem SF n.º 317/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção\npresidencial autógrafo do Projeto.\nRemetido Ofício SF n.º 1601, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto"
+        },
+        "20/12/2024": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebido o Requerimento nº 986, de 2024, de Líderes, solicitando urgência para a matéria.\nAção:"
+        },
+        "19/12/2024": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": "AGUARDANDO DESPACHO",
+            "Ação": "pg\n2\nAtividade Legislativa\nProjeto de Lei n° 3802, de 2024\nTRAMITAÇÃO\nAutuado o Projeto de Lei nº 3802/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação."
         }
-    ]
+    },
+    "Documentos": {
+        "Relatório Legislativo": {
+            "Data": "19/12/2024",
+            "Autor": "Senador Eduardo Braga (MDB/AM)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebido o Relatório do Senador Eduardo Braga.",
+            "Descrição/Ementa": "Parecer ao PL 3802/2024"
+        },
+        "PL 3802/2024": {
+            "Data": "19/12/2024",
+            "Autor": "Câmara dos Deputados",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Autuado o Projeto de Lei nº 3802/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
+            "Descrição/Ementa": "Altera a Lei nº 14.467, de 16 de novembro de 2022, que dispõe sobre o tratamento tributário aplicável às perdas incorridas no\nrecebimento de créditos decorrentes das atividades de instituições autorizadas a funcionar pelo Banco Central do Brasil."
+        },
+        "Avulso inicial da matéria": {
+            "Data": "19/12/2024",
+            "Autor": "Senado Federal",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Autuado o Projeto de Lei nº 3802/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
+            "Descrição/Ementa": "-"
+        },
+        "Requerimento": {
+            "Data": "19/12/2024",
+            "Autor": "Senador Eduardo Girão (NOVO/CE)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Requer, nos termos do Art. 293, II, do Regimento Interno do Senado Federal, que seja registrado o meu voto contrário ao PL\n3802/2024, que \"Altera a Lei nº 14.467, de 16 de novembro de 2022, que dispõe sobre o tratamento tributário aplicável às\nperdas incorridas no recebimento de créditos decorrentes das atividades de instituições autorizadas a funcionar pelo Banco\nCentral do Brasil.\""
+        },
+        "RQS 986/2024": {
+            "Data": "20/12/2024",
+            "Autor": "Líder do Governo Jaques Wagner (PT/BA), Líder do Bloco Parlamentar da Resistência Democrática Eliziane Gama (PSD/MA)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebido o Requerimento nº 986, de 2024, de Líderes, solicitando urgência para a matéria.",
+            "Descrição/Ementa": "Requer urgência para o Projeto de Lei nº 3802/2024, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado\nFederal."
+        },
+        "pg\n3\nAtividade Legislativa\nProjeto de Lei n° 3802, de 2024\nDOCUMENTOS\nEMENDA 1 PLEN - PL": {
+            "Data": "20/12/2024",
+            "Autor": "Senador Hamilton Mourão (REPUBLICANOS/RS)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 1, do Senador Hamilton Mourão.",
+            "Descrição/Ementa": "Emenda  ao PL 3802/2024"
+        },
+        "RQS 1005/2024": {
+            "Data": "20/12/2024",
+            "Autor": "Senador Hamilton Mourão (REPUBLICANOS/RS)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebido o Requerimento nº 1005, de 2024, do Senador Hamilton Mourão, solicitando a retirada definitiva da Emenda n° 1.",
+            "Descrição/Ementa": "Requer a retirada definitiva da Emenda nº 1 ao Projeto de Lei nº 3802/2024."
+        },
+        "Avulso de emendas": {
+            "Data": "20/12/2024",
+            "Autor": "Senado Federal",
+            "Local": "null",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "-"
+        },
+        "P.S 264/2024 - PLEN": {
+            "Data": "20/12/2024",
+            "Autor": "Senador Eduardo Braga (MDB/AM)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Parecer nº 264/2024-PLEN/SF"
+        },
+        "Minuta": {
+            "Data": "20/12/2024",
+            "Autor": "Senado Federal",
+            "Local": "Secretaria de Expediente",
+            "Ação Legislativa": "Anexado o texto revisado.",
+            "Descrição/Ementa": "OFSF 1600/2024"
+        },
+        "OFSF 1600/2024": {
+            "Data": "26/12/2024",
+            "Autor": "Primeiro-Secretário do Senado Federal",
+            "Local": "pg",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°\n3802/2024."
+        },
+        "OFSF 1601/2024": {
+            "Data": "26/12/2024",
+            "Autor": "Primeiro-Secretário do Senado Federal",
+            "Local": "Comissão Diretora do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 3802/2024."
+        },
+        "MPSF 317/2024": {
+            "Data": "26/12/2024",
+            "Autor": "Presidente do Senado Federal",
+            "Local": "Comissão Diretora do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Encaminha à sanção o Projeto de Lei n° 3.802, de 2024."
+        },
+        "Autógrafo - PL 3802/2024": {
+            "Data": "26/12/2024",
+            "Autor": "Senado Federal",
+            "Local": "Secretaria de Expediente",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Altera a Lei nº 14.467, de 16 de novembro de 2022, que dispõe sobre o tratamento tributário aplicável às perdas incorridas no\nrecebimento de créditos decorrentes das atividades de instituições autorizadas a funcionar pelo Banco Central do Brasil."
+        },
+        "Mensagem": {
+            "Data": "26/12/2024",
+            "Autor": "Presidente do Senado Federal",
+            "Local": "Comissão Diretora do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Recibo físico da Presidência da República referente à Mensagem SF n° 317/24 (assinada eletronicamente e impressa para"
+        },
+        "pg\n5\nAtividade Legislativa\nProjeto de Lei n° 3802, de 2024\nDOCUMENTOS\nrecibo).\nAutógrafo restituído após": {
+            "Data": "03/01/2025",
+            "Autor": "Presidência da República",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Autógrafo restituído pela Presidência da República ao Senado Federal após sanção."
+        },
+        "MSG 1700/2024 - Presidência": {
+            "Data": "03/01/2025",
+            "Autor": "Presidência da República",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Restitui o autógrafo do Projeto de Lei nº 3.802, de 2024, sancionado e convertido na Lei nº 14.467, de 16 de novembro de 2022."
+        },
+        "OF. 1933/2024 - Casa Civil": {
+            "Data": "03/01/2025",
+            "Autor": "Casa Civil",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Comunica a restituição do autógrafo sancionado e a Lei nº 15.078, de 27 de dezembro de 2024, promulgada."
+        }
+    }
 }

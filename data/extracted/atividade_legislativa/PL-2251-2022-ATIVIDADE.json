@@ -1,375 +1,254 @@
 {
-    "paginas": [
-        {},
-        {
-            "Atividade legislativa": "Projeto de Lei n° 2251, de 2022",
-            "Autoria": "Câmara dos Deputados",
-            "Iniciativa": "Presidência da República",
-            "Ementa": "Autoriza o Poder Executivo a doar área para a instalação da Embaixada da República de Cabo Verde.",
-            "Assunto": "Administração Pública  - Domínio e Bens Públicos",
-            "Despacho": [
-                "16/03/2023",
-                "Decisão da Presidência",
-                "Análise - Tramitação sucessiva, Instrução da matéria",
-                "(SF-CRE) Comissão de Relações Exteriores e Defesa Nacional",
-                "(SF-CCJ) Comissão de Constituição, Justiça e Cidadania"
-            ],
-            "Relatoria": [
-                "CCJ - (Comissão de Constituição, Justiça e Cidadania)",
-                "Relator(es):",
-                "Senador Veneziano Vital do Rêgo (encerrado em 30/10/2024 -",
-                "Substituído por \"ad hoc\")",
-                "Senador Alessandro Vieira (Relator Ad hoc) (encerrado em",
-                "30/10/2024 - Deliberação da matéria)",
-                "CRE - (Comissão de Relações Exteriores e Defesa Nacional)",
-                "Relator(es):",
-                "Senador Fernando Dueire (encerrado em 14/09/2023 -",
-                "Deliberação da matéria)"
-            ],
-            "Tramitação encerrada": [
-                "Decisão: Aprovada pelo Plenário",
-                "Destino: À sanção",
-                "Último local: 18/12/2024 - Secretaria de Expediente",
-                "Último estado: 17/12/2024 - TRANSFORMADA EM\nNORMA JURÍDICA"
-            ],
-            "Tramitação": [
-                {
-                    "Data": "19/12/2024",
-                    "Órgão": "SF-SEXPE - Secretaria de Expediente",
-                    "Situação": null,
-                    "Ação": "Remetido Ofício SF nº 1465, de 19/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando, para os\ndevidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1657, de 2024, na origem,\nrestituindo autógrafos do Projeto de Lei n° 2251, de 2022, sancionado e transformado na Lei nº 15.043, de 16 de dezembro de\n2024.\nÀ COARQ.\nAção:"
-                },
-                {
-                    "Data": "18/12/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Encaminhada à publicação a Mensagem da Presidência da República nº 1.657, de 2024, na origem, que restitui autógrafo do\nProjeto de Lei nº 2.251, de 2022 (nº 4.256, de 2016, na Câmara dos Deputados), sancionado e convertido na Lei nº 15.043, de 16\nde dezembro de 2024. Será feita a devida comunicação à Câmara dos Deputados.\nAção:"
-                },
-                {
-                    "Data": "17/12/2024",
-                    "Órgão": "SF-SEXPE - Secretaria de Expediente",
-                    "Situação": "TRANSFORMADA EM NORMA JURÍDICA",
-                    "Ação": "(PR) PRESIDÊNCIA DA REPÚBLICA.\nSANCIONADA. LEI 15043 DE 2024.\nDOU (Diário Oficial da União) - 17/12/2024 - Seção I - págs. 1 e 1.\nSancionada em 16/12/2024."
-                },
-                {
-                    "Data": "28/11/2024",
-                    "Órgão": "SF-SEXPE - Secretaria de Expediente",
-                    "Situação": "REMETIDA À SANÇÃO",
-                    "Ação": "Remetido Ofício SF n.º 1307, de 27/11/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,\nencaminhando a Mensagem SF n.º 239/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção\npresidencial autógrafo do Projeto.\nRemetido Ofício SF n.º 1308, de 27/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto\nfoi encaminhado à sanção presidencial."
-                },
-                {
-                    "Data": "26/11/2024",
-                    "Órgão": "SF-SEXPE - Secretaria de Expediente",
-                    "Situação": null,
-                    "Ação": "Anexado o texto revisado.\nAção:"
-                },
-                {
-                    "Data": "26/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": "APROVADA",
-                    "Ação": "(Sessão Deliberativa Ordinária, realizada em 26/11/2024)\nDiscussão encerrada.\nAprovado o projeto, nos termos dos pareceres.\nA matéria vai à sanção.\nSerá feita a devida comunicação à Câmara dos Deputados."
-                },
-                {
-                    "Data": "24/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": "INCLUÍDA EM ORDEM DO DIA",
-                    "Ação": "Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 26/11/2024.\nDiscussão, em turno único."
-                },
-                {
-                    "Data": "18/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
-                    "Ação": "Aguardando inclusão em Ordem do Dia.\nDiscussão, em turno único."
-                },
-                {
-                    "Data": "18/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "A Sessão Deliberativa Extraordinária de 19/11/2024 foi convertida em Sessão Não Deliberativa.\nMatéria retirada de pauta.\nAção:"
-                },
-                {
-                    "Data": "16/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": "INCLUÍDA EM ORDEM DO DIA",
-                    "Ação": "Incluído em Ordem do Dia da Sessão Deliberativa Extraordinária Semipresencial de 19/11/2024.\nDiscussão, em turno único."
-                },
-                {
-                    "Data": "14/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Aguardando inclusão em Ordem do Dia.\nDiscussão, em turno único.\nAção:\npg\n2\n\n TRAMITAÇÃO"
-                },
-                {
-                    "Data": "14/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
-                    "Ação": "Encerrou-se em 13 de novembro o prazo para apresentação de emendas ao Projeto de Lei nº 2.251, de 2022.\nNão foram apresentadas emendas perante a Mesa.\nA matéria será incluída em Ordem do Dia oportunamente."
-                },
-                {
-                    "Data": "31/10/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, \"d\", do RISF). De 04/11/2024\na 13/11/2024. Perante a Mesa.\nAção:\nPublicado no DSF Páginas 30 - DSF nº 188"
-                },
-                {
-                    "Data": "31/10/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": "AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA",
-                    "Ação": "Concluída a instrução da matéria, fica aberto o prazo de cinco dias úteis para recebimento de emendas, nos termos do art. 235,\nII, \"d\", do Regimento Interno."
-                },
-                {
-                    "Data": "30/10/2024",
-                    "Órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
-                    "Situação": null,
-                    "Ação": "À SLSF, para prosseguimento da tramitação.\nAção:"
-                },
-                {
-                    "Data": "30/10/2024",
-                    "Órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
-                    "Situação": "APROVADO PARECER NA COMISSÃO",
-                    "Ação": "Na 35ª Reunião Ordinária, realizada nesta data, a Presidência designa Relator “ad hoc” o Senador Alessandro Vieira, em\nsubstituição ao Senador Veneziano Vital do Rêgo.\nA Comissão aprova o Relatório, que passa a constituir o Parecer da CCJ, favorável ao Projeto."
-                },
-                {
-                    "Data": "19/10/2024",
-                    "Órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
-                    "Situação": "INCLUÍDA NA PAUTA DA REUNIÃO",
-                    "Ação": "Matéria constante da Pauta da 32ª Reunião da Comissão de Constituição, Justiça e Cidadania, agendada para o dia 23/10/2024."
-                },
-                {
-                    "Data": "15/10/2024",
-                    "Órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
-                    "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
-                    "Ação": "Recebido o Relatório do Senador Veneziano Vital do Rêgo, com voto favorável ao Projeto.\nMatéria pronta para a Pauta na Comissão."
-                },
-                {
-                    "Data": "08/02/2024",
-                    "Órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
-                    "Situação": "MATÉRIA COM A RELATORIA",
-                    "Ação": "pg\n3\n\n TRAMITAÇÃO\nDistribuído ao Senador Veneziano Vital do Rêgo, para emitir relatório."
-                },
-                {
-                    "Data": "14/09/2023",
-                    "Órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
-                    "Situação": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
-                    "Ação": "Matéria aguardando distribuição."
-                },
-                {
-                    "Data": "14/09/2023",
-                    "Órgão": "CRE - Comissão de Relações Exteriores e Defesa Nacional",
-                    "Situação": null,
-                    "Ação": "Encerrada a relatoria do Senador Fernando Dueire por deliberação da matéria.\nAção:"
-                },
-                {
-                    "Data": "14/09/2023",
-                    "Órgão": "CRE - Comissão de Relações Exteriores e Defesa Nacional",
-                    "Situação": "APROVADO PARECER NA COMISSÃO",
-                    "Ação": "Reunida a Comissão nesta data, é aprovado o relatório que passa a constituir parecer da comissão favorável à matéria.\nA matéria vai à Comissão de Constituição, Justiça e Cidadania, para prosseguimento da tramitação."
-                },
-                {
-                    "Data": "12/09/2023",
-                    "Órgão": "CRE - Comissão de Relações Exteriores e Defesa Nacional",
-                    "Situação": "INCLUÍDA NA PAUTA DA REUNIÃO",
-                    "Ação": "Matéria constante da Pauta da 18ª Reunião da Comissão de Relações Exteriores e Defesa Nacional, agendada para o dia\n14/09/2023."
-                },
-                {
-                    "Data": "31/08/2023",
-                    "Órgão": "CRE - Comissão de Relações Exteriores e Defesa Nacional",
-                    "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
-                    "Ação": "Matéria não apreciada, em razão da não realização da 18ª reunião da Comissão."
-                },
-                {
-                    "Data": "29/08/2023",
-                    "Órgão": "CRE - Comissão de Relações Exteriores e Defesa Nacional",
-                    "Situação": "INCLUÍDA NA PAUTA DA REUNIÃO",
-                    "Ação": "Matéria constante da Pauta da 18ª Reunião da Comissão de Relações Exteriores e Defesa Nacional, agendada para o dia\n31/08/2023."
-                },
-                {
-                    "Data": "23/08/2023",
-                    "Órgão": "CRE - Comissão de Relações Exteriores e Defesa Nacional",
-                    "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
-                    "Ação": "Matéria não apreciada, em razão do cancelamento da 18ª reunião da Comissão."
-                },
-                {
-                    "Data": "17/08/2023",
-                    "Órgão": "CRE - Comissão de Relações Exteriores e Defesa Nacional",
-                    "Situação": "INCLUÍDA NA PAUTA DA REUNIÃO",
-                    "Ação": "Matéria constante da Pauta da 18ª Reunião da Comissão de Relações Exteriores e Defesa Nacional, agendada para o dia\n24/08/2023."
-                },
-                {
-                    "Data": "04/07/2023",
-                    "Órgão": "CRE - Comissão de Relações Exteriores e Defesa Nacional",
-                    "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
-                    "Ação": "Recebido relatório do Senador Fernando Dueire, pela aprovação do projeto."
-                },
-                {
-                    "Data": "23/03/2023",
-                    "Órgão": "CRE - Comissão de Relações Exteriores e Defesa Nacional",
-                    "Situação": "MATÉRIA COM A RELATORIA",
-                    "Ação": "Distribuído ao Senador Fernando Dueire, para emitir relatório."
-                },
-                {
-                    "Data": "17/03/2023",
-                    "Órgão": "CRE - Comissão de Relações Exteriores e Defesa Nacional",
-                    "Situação": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
-                    "Ação": "Recebido na Comissão nesta data."
-                },
-                {
-                    "Data": "16/03/2023",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": "MATÉRIA DESPACHADA",
-                    "Ação": "A matéria vai à CRE, seguindo posteriormente à CCJ."
-                },
-                {
-                    "Data": "21/12/2022",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "A proposição continua a tramitar, nos termos do art. 332 do Regimento Interno.\nAção:"
-                },
-                {
-                    "Data": "10/08/2022",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Encaminhado à publicação, em 10/08/2022.\nAção:\nPublicado no DSF Páginas 972-974 - DSF nº 123"
-                }
-            ],
-            "Documentos": [
-                {
-                    "Documento": "PL 2251/2022",
-                    "Data": "07/07/2022",
-                    "Autor": "Câmara dos Deputados",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": null
-                },
-                {
-                    "Documento": "Avulso inicial da matéria",
-                    "Data": "10/08/2022",
-                    "Autor": "Senado Federal",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Encaminhado à publicação, em 10/08/2022.",
-                    "Descrição/Ementa": "pg\n5\n\npg 5\nEmenta: Avulso inicial da matéria\nAtividade Legislativa\nProjeto de Lei n° 2251, de 2022\nDOCUMENTOS\n-"
-                },
-                {
-                    "Documento": "Relatório Legislativo",
-                    "Data": "04/07/2023",
-                    "Autor": "Senador Fernando Dueire (MDB/PE)",
-                    "Local": "Comissão de Relações Exteriores e Defesa Nacional",
-                    "Ação Legislativa": "Recebido relatório do Senador Fernando Dueire, pela aprovação do projeto.",
-                    "Descrição/Ementa": "Relatório ao PL 2251 de 2022"
-                },
-                {
-                    "Documento": "Listagem ou relatório",
-                    "Data": "14/09/2023",
-                    "Autor": "Comissão de Relações Exteriores e Defesa Nacional",
-                    "Local": "Comissão de Relações Exteriores e Defesa Nacional",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Listagem ou relatório descritivo-Lista de Presença da reunião da 18ª Reunião CRE"
-                },
-                {
-                    "Documento": "P.S 63/2023 - CRE",
-                    "Data": "14/09/2023",
-                    "Autor": "Comissão de Relações Exteriores e Defesa Nacional",
-                    "Local": "Comissão de Relações Exteriores e Defesa Nacional",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Relatório ao PL 2251 de 2022"
-                },
-                {
-                    "Documento": "Relatório Legislativo",
-                    "Data": "15/10/2024",
-                    "Autor": "Senador Veneziano Vital do Rêgo (MDB/PB)",
-                    "Local": "Comissão de Constituição, Justiça e Cidadania",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Da COMISSÃO DE CONSTITUIÇÃO, JUSTIÇA E CIDADANIA, sobre o Projeto de Lei n° 2251, de 2022, que Autoriza o Poder Executivo\na doar área para a instalação da Embaixada da República de Cabo Verde."
-                },
-                {
-                    "Documento": "Listagem ou relatório",
-                    "Data": "30/10/2024",
-                    "Autor": "Comissão de Constituição, Justiça e Cidadania",
-                    "Local": "Comissão de Constituição, Justiça e Cidadania",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Listagem ou relatório descritivo-Lista de Presença da reunião da 35ª Reunião CCJ"
-                },
-                {
-                    "Documento": "P.S 89/2024 - CCJ",
-                    "Data": "30/10/2024",
-                    "Autor": "Comissão de Constituição, Justiça e Cidadania",
-                    "Local": "Comissão de Constituição, Justiça e Cidadania",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "pg\n6\n\npg 6\nEmenta: Relatório Legislativo\nAtividade Legislativa\nProjeto de Lei n° 2251, de 2022\nDOCUMENTOS\nA Comissão aprova o Relatório, que passa a constituir o Parecer da CCJ, favorável ao Projeto.\nDa COMISSÃO DE CONSTITUIÇÃO, JUSTIÇA E CIDADANIA, sobre o Projeto de Lei n° 2251, de 2022, que Autoriza o Poder Executivo\na doar área para a instalação da Embaixada da República de Cabo Verde."
-                },
-                {
-                    "Documento": "Minuta",
-                    "Data": "26/11/2024",
-                    "Autor": "Senado Federal",
-                    "Local": "Secretaria de Expediente",
-                    "Ação Legislativa": "Anexado o texto revisado.",
-                    "Descrição/Ementa": "OFSF 1307/2024"
-                },
-                {
-                    "Documento": "OFSF 1307/2024",
-                    "Data": "28/11/2024",
-                    "Autor": "Primeiro-Secretário do Senado Federal",
-                    "Local": "Comissão Diretora do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°\n2251/2022."
-                },
-                {
-                    "Documento": "MPSF 239/2024",
-                    "Data": "28/11/2024",
-                    "Autor": "Presidente do Senado Federal",
-                    "Local": "Comissão Diretora do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Encaminha à sanção o Projeto de Lei n° 2251/2022."
-                },
-                {
-                    "Documento": "OFSF 1308/2024",
-                    "Data": "28/11/2024",
-                    "Autor": "Primeiro-Secretário do Senado Federal",
-                    "Local": "Comissão Diretora do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 2251/2022."
-                },
-                {
-                    "Documento": "Autógrafo - PL 2251/2022",
-                    "Data": "28/11/2024",
-                    "Autor": "pg",
-                    "Local": "Secretaria de Expediente",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Autoriza o Poder Executivo a doar área para a instalação da Embaixada da República de Cabo Verde."
-                },
-                {
-                    "Documento": "MSG 1657/2024 - Presidência",
-                    "Data": "18/12/2024",
-                    "Autor": "Presidência da República",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Restitui o autógrafo do Projeto de Lei nº 2.251, de 2022, sancionado e convertido na Lei nº 15.043, de 16 de dezembro de 2024."
-                },
-                {
-                    "Documento": "Autógrafo restituído após",
-                    "Data": "18/12/2024",
-                    "Autor": "Presidência da República",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Autógrafo restituído pela Presidência da República ao Senado Federal após sanção."
-                },
-                {
-                    "Documento": "OF. 1849/2024 - Casa Civil",
-                    "Data": "18/12/2024",
-                    "Autor": "Casa Civil",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Comunica a restituição do autógrafo sancionado e a Lei nº 15.043, de 16 de dezembro de 2024."
-                },
-                {
-                    "Documento": "OFSF 1465/2024",
-                    "Data": "19/12/2024",
-                    "Autor": "Primeiro-Secretário do Senado Federal",
-                    "Local": "Comissão Diretora do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Comunica à Câmara dos Deputados o recebimento do autógrafo sancionado do Projeto de Lei n° 2.251, de 2022."
-                }
-            ]
+    "Atividade legislativa": "Projeto de Lei n° 2251, de 2022",
+    "Autoria": "Câmara dos Deputados",
+    "Iniciativa": "Presidência da República",
+    "Ementa": "Autoriza o Poder Executivo a doar área para a instalação da Embaixada da República de Cabo Verde.",
+    "Assunto": "Administração Pública  - Domínio e Bens Públicos",
+    "Despacho": "16/03/2023\nDecisão da Presidência\nAnálise - Tramitação sucessiva, Instrução da matéria\n(SF-CRE) Comissão de Relações Exteriores e Defesa Nacional\n(SF-CCJ) Comissão de Constituição, Justiça e Cidadania",
+    "Relatoria": "CCJ - (Comissão de Constituição, Justiça e Cidadania)\nRelator(es):\nSenador Veneziano Vital do Rêgo (encerrado em 30/10/2024 -\nSubstituído por \"ad hoc\")\nSenador Alessandro Vieira (Relator Ad hoc) (encerrado em\n30/10/2024 - Deliberação da matéria)\nCRE - (Comissão de Relações Exteriores e Defesa Nacional)\nRelator(es):\nSenador Fernando Dueire (encerrado em 14/09/2023 -\nDeliberação da matéria)",
+    "Tramitação encerrada": {
+        "Decisão": "Aprovada pelo Plenário",
+        "Destino": "À sanção",
+        "Último local": "18/12/2024 - Secretaria de Expediente",
+        "Último estado": "17/12/2024 - TRANSFORMADA EM\nNORMA JURÍDICA"
+    },
+    "Tramitação": {
+        "19/12/2024": {
+            "Órgão": "SF-SEXPE - Secretaria de Expediente",
+            "Situação": null,
+            "Ação": "Remetido Ofício SF nº 1465, de 19/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando, para os\ndevidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1657, de 2024, na origem,\nrestituindo autógrafos do Projeto de Lei n° 2251, de 2022, sancionado e transformado na Lei nº 15.043, de 16 de dezembro de\n2024.\nÀ COARQ.\nAção:"
+        },
+        "18/12/2024": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Encaminhada à publicação a Mensagem da Presidência da República nº 1.657, de 2024, na origem, que restitui autógrafo do\nProjeto de Lei nº 2.251, de 2022 (nº 4.256, de 2016, na Câmara dos Deputados), sancionado e convertido na Lei nº 15.043, de 16\nde dezembro de 2024. Será feita a devida comunicação à Câmara dos Deputados.\nAção:"
+        },
+        "17/12/2024": {
+            "Órgão": "SF-SEXPE - Secretaria de Expediente",
+            "Situação": "TRANSFORMADA EM NORMA JURÍDICA",
+            "Ação": "(PR) PRESIDÊNCIA DA REPÚBLICA.\nSANCIONADA. LEI 15043 DE 2024.\nDOU (Diário Oficial da União) - 17/12/2024 - Seção I - págs. 1 e 1.\nSancionada em 16/12/2024."
+        },
+        "28/11/2024": {
+            "Órgão": "SF-SEXPE - Secretaria de Expediente",
+            "Situação": "REMETIDA À SANÇÃO",
+            "Ação": "Remetido Ofício SF n.º 1307, de 27/11/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,\nencaminhando a Mensagem SF n.º 239/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção\npresidencial autógrafo do Projeto.\nRemetido Ofício SF n.º 1308, de 27/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto\nfoi encaminhado à sanção presidencial."
+        },
+        "26/11/2024": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": "APROVADA",
+            "Ação": "(Sessão Deliberativa Ordinária, realizada em 26/11/2024)\nDiscussão encerrada.\nAprovado o projeto, nos termos dos pareceres.\nA matéria vai à sanção.\nSerá feita a devida comunicação à Câmara dos Deputados."
+        },
+        "24/11/2024": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": "INCLUÍDA EM ORDEM DO DIA",
+            "Ação": "Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 26/11/2024.\nDiscussão, em turno único."
+        },
+        "18/11/2024": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "A Sessão Deliberativa Extraordinária de 19/11/2024 foi convertida em Sessão Não Deliberativa.\nMatéria retirada de pauta.\nAção:"
+        },
+        "16/11/2024": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": "INCLUÍDA EM ORDEM DO DIA",
+            "Ação": "Incluído em Ordem do Dia da Sessão Deliberativa Extraordinária Semipresencial de 19/11/2024.\nDiscussão, em turno único."
+        },
+        "14/11/2024": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+            "Ação": "Encerrou-se em 13 de novembro o prazo para apresentação de emendas ao Projeto de Lei nº 2.251, de 2022.\nNão foram apresentadas emendas perante a Mesa.\nA matéria será incluída em Ordem do Dia oportunamente."
+        },
+        "31/10/2024": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": "AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA",
+            "Ação": "Concluída a instrução da matéria, fica aberto o prazo de cinco dias úteis para recebimento de emendas, nos termos do art. 235,\nII, \"d\", do Regimento Interno."
+        },
+        "30/10/2024": {
+            "Órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
+            "Situação": "APROVADO PARECER NA COMISSÃO",
+            "Ação": "Na 35ª Reunião Ordinária, realizada nesta data, a Presidência designa Relator “ad hoc” o Senador Alessandro Vieira, em\nsubstituição ao Senador Veneziano Vital do Rêgo.\nA Comissão aprova o Relatório, que passa a constituir o Parecer da CCJ, favorável ao Projeto."
+        },
+        "19/10/2024": {
+            "Órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
+            "Situação": "INCLUÍDA NA PAUTA DA REUNIÃO",
+            "Ação": "Matéria constante da Pauta da 32ª Reunião da Comissão de Constituição, Justiça e Cidadania, agendada para o dia 23/10/2024."
+        },
+        "15/10/2024": {
+            "Órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
+            "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
+            "Ação": "Recebido o Relatório do Senador Veneziano Vital do Rêgo, com voto favorável ao Projeto.\nMatéria pronta para a Pauta na Comissão."
+        },
+        "08/02/2024": {
+            "Órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
+            "Situação": "MATÉRIA COM A RELATORIA",
+            "Ação": "pg\n3\nAtividade Legislativa\nProjeto de Lei n° 2251, de 2022\nTRAMITAÇÃO\nDistribuído ao Senador Veneziano Vital do Rêgo, para emitir relatório."
+        },
+        "14/09/2023": {
+            "Órgão": "CRE - Comissão de Relações Exteriores e Defesa Nacional",
+            "Situação": "APROVADO PARECER NA COMISSÃO",
+            "Ação": "Reunida a Comissão nesta data, é aprovado o relatório que passa a constituir parecer da comissão favorável à matéria.\nA matéria vai à Comissão de Constituição, Justiça e Cidadania, para prosseguimento da tramitação."
+        },
+        "12/09/2023": {
+            "Órgão": "CRE - Comissão de Relações Exteriores e Defesa Nacional",
+            "Situação": "INCLUÍDA NA PAUTA DA REUNIÃO",
+            "Ação": "Matéria constante da Pauta da 18ª Reunião da Comissão de Relações Exteriores e Defesa Nacional, agendada para o dia\n14/09/2023."
+        },
+        "31/08/2023": {
+            "Órgão": "CRE - Comissão de Relações Exteriores e Defesa Nacional",
+            "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
+            "Ação": "Matéria não apreciada, em razão da não realização da 18ª reunião da Comissão."
+        },
+        "29/08/2023": {
+            "Órgão": "CRE - Comissão de Relações Exteriores e Defesa Nacional",
+            "Situação": "INCLUÍDA NA PAUTA DA REUNIÃO",
+            "Ação": "Matéria constante da Pauta da 18ª Reunião da Comissão de Relações Exteriores e Defesa Nacional, agendada para o dia\n31/08/2023."
+        },
+        "23/08/2023": {
+            "Órgão": "CRE - Comissão de Relações Exteriores e Defesa Nacional",
+            "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
+            "Ação": "Matéria não apreciada, em razão do cancelamento da 18ª reunião da Comissão."
+        },
+        "17/08/2023": {
+            "Órgão": "CRE - Comissão de Relações Exteriores e Defesa Nacional",
+            "Situação": "INCLUÍDA NA PAUTA DA REUNIÃO",
+            "Ação": "Matéria constante da Pauta da 18ª Reunião da Comissão de Relações Exteriores e Defesa Nacional, agendada para o dia\n24/08/2023."
+        },
+        "04/07/2023": {
+            "Órgão": "CRE - Comissão de Relações Exteriores e Defesa Nacional",
+            "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
+            "Ação": "Recebido relatório do Senador Fernando Dueire, pela aprovação do projeto."
+        },
+        "23/03/2023": {
+            "Órgão": "CRE - Comissão de Relações Exteriores e Defesa Nacional",
+            "Situação": "MATÉRIA COM A RELATORIA",
+            "Ação": "Distribuído ao Senador Fernando Dueire, para emitir relatório."
+        },
+        "17/03/2023": {
+            "Órgão": "CRE - Comissão de Relações Exteriores e Defesa Nacional",
+            "Situação": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "Ação": "Recebido na Comissão nesta data."
+        },
+        "16/03/2023": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": "MATÉRIA DESPACHADA",
+            "Ação": "A matéria vai à CRE, seguindo posteriormente à CCJ."
+        },
+        "21/12/2022": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "A proposição continua a tramitar, nos termos do art. 332 do Regimento Interno.\nAção:"
+        },
+        "10/08/2022": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Encaminhado à publicação, em 10/08/2022.\nAção:\nPublicado no DSF Páginas 972-974 - DSF nº 123"
         }
-    ]
+    },
+    "Documentos": {
+        "PL 2251/2022": {
+            "Data": "07/07/2022",
+            "Autor": "Câmara dos Deputados",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": null
+        },
+        "Avulso inicial da matéria": {
+            "Data": "10/08/2022",
+            "Autor": "Senado Federal",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Encaminhado à publicação, em 10/08/2022.",
+            "Descrição/Ementa": "pg\n5\nAtividade Legislativa\nProjeto de Lei n° 2251, de 2022\nDOCUMENTOS\n-"
+        },
+        "Relatório Legislativo": {
+            "Data": "15/10/2024",
+            "Autor": "Senador Veneziano Vital do Rêgo (MDB/PB)",
+            "Local": "Comissão de Constituição, Justiça e Cidadania",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Da COMISSÃO DE CONSTITUIÇÃO, JUSTIÇA E CIDADANIA, sobre o Projeto de Lei n° 2251, de 2022, que Autoriza o Poder Executivo\na doar área para a instalação da Embaixada da República de Cabo Verde."
+        },
+        "Listagem ou relatório": {
+            "Data": "30/10/2024",
+            "Autor": "Comissão de Constituição, Justiça e Cidadania",
+            "Local": "Comissão de Constituição, Justiça e Cidadania",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Listagem ou relatório descritivo-Lista de Presença da reunião da 35ª Reunião CCJ"
+        },
+        "P.S 63/2023 - CRE": {
+            "Data": "14/09/2023",
+            "Autor": "Comissão de Relações Exteriores e Defesa Nacional",
+            "Local": "Comissão de Relações Exteriores e Defesa Nacional",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Relatório ao PL 2251 de 2022"
+        },
+        "P.S 89/2024 - CCJ": {
+            "Data": "30/10/2024",
+            "Autor": "Comissão de Constituição, Justiça e Cidadania",
+            "Local": "Comissão de Constituição, Justiça e Cidadania",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "pg\n6\nAtividade Legislativa\nProjeto de Lei n° 2251, de 2022\nDOCUMENTOS\nA Comissão aprova o Relatório, que passa a constituir o Parecer da CCJ, favorável ao Projeto.\nDa COMISSÃO DE CONSTITUIÇÃO, JUSTIÇA E CIDADANIA, sobre o Projeto de Lei n° 2251, de 2022, que Autoriza o Poder Executivo\na doar área para a instalação da Embaixada da República de Cabo Verde."
+        },
+        "Minuta": {
+            "Data": "26/11/2024",
+            "Autor": "Senado Federal",
+            "Local": "Secretaria de Expediente",
+            "Ação Legislativa": "Anexado o texto revisado.",
+            "Descrição/Ementa": "OFSF 1307/2024"
+        },
+        "OFSF 1307/2024": {
+            "Data": "28/11/2024",
+            "Autor": "Primeiro-Secretário do Senado Federal",
+            "Local": "Comissão Diretora do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°\n2251/2022."
+        },
+        "MPSF 239/2024": {
+            "Data": "28/11/2024",
+            "Autor": "Presidente do Senado Federal",
+            "Local": "Comissão Diretora do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Encaminha à sanção o Projeto de Lei n° 2251/2022."
+        },
+        "OFSF 1308/2024": {
+            "Data": "28/11/2024",
+            "Autor": "Primeiro-Secretário do Senado Federal",
+            "Local": "Comissão Diretora do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 2251/2022."
+        },
+        "Autógrafo - PL 2251/2022": {
+            "Data": "28/11/2024",
+            "Autor": "pg",
+            "Local": "Secretaria de Expediente",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Autoriza o Poder Executivo a doar área para a instalação da Embaixada da República de Cabo Verde."
+        },
+        "MSG 1657/2024 - Presidência": {
+            "Data": "18/12/2024",
+            "Autor": "Presidência da República",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Restitui o autógrafo do Projeto de Lei nº 2.251, de 2022, sancionado e convertido na Lei nº 15.043, de 16 de dezembro de 2024."
+        },
+        "Autógrafo restituído após": {
+            "Data": "18/12/2024",
+            "Autor": "Presidência da República",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Autógrafo restituído pela Presidência da República ao Senado Federal após sanção."
+        },
+        "OF. 1849/2024 - Casa Civil": {
+            "Data": "18/12/2024",
+            "Autor": "Casa Civil",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Comunica a restituição do autógrafo sancionado e a Lei nº 15.043, de 16 de dezembro de 2024."
+        },
+        "OFSF 1465/2024": {
+            "Data": "19/12/2024",
+            "Autor": "Primeiro-Secretário do Senado Federal",
+            "Local": "Comissão Diretora do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Comunica à Câmara dos Deputados o recebimento do autógrafo sancionado do Projeto de Lei n° 2.251, de 2022."
+        }
+    }
 }
