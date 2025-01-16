@@ -13,7 +13,7 @@ def extract_text_from_html(arquivo):
     
     soup = BeautifulSoup(content, 'html.parser')
     
-    titulo = soup.find('span', class_='Epigrafecaractere', string=lambda text: text and text.startswith("LEI N"))
+    titulo = soup.find('span', class_='Epigrafecaractere', string=lambda text: text and text.startswith("LEI"))
     descricao = soup.find('p', class_='Ementaparagrafo')
     lei_texto_aux1 = soup.find_all('p', class_='DefaultParagraph') #Encontra todos os paragrafos relevantes
     
@@ -22,8 +22,12 @@ def extract_text_from_html(arquivo):
         lei_texto = '\n'.join(lei_texto_aux2) #Transforma em string
     else:
         lei_texto = None
+        
+    if arquivo[1] == 'C':
+       link = f'https://www.planalto.gov.br/ccivil_03/leis/lcp/{arquivo[:-5]}.htm'
+    else:
+       link = f'https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/{arquivo[:-5]}.htm'
     
-    link = f'https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/{arquivo[:-5]}.htm'
     
     dados_extracao = {
         'titulo': titulo.get_text() if titulo else None,
