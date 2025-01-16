@@ -1,12 +1,23 @@
 {
     "veto": {
-        "numero": "42",
+        "número": "42",
         "ano": "2024"
     },
     "ementa": "veto parcial aposto ao projeto de lei n 3449 de 2024 que altera o decretolei n 1804 de 3 de setembro de 1980 que trata da tributação simplificada das remessas postais internacionais e a lei n 14902 de 27 de junho de 2024 que institui o programa mobilidade verde e inovação programa mover",
     "mensagem": {
-        "numero": "1693",
+        "número": "1693",
         "ano": "2024"
     },
-    "dispositivos_vetados": "veto parcial aposto ao projeto de lei n 3449 de 2024 que altera o decretolei n 1804 de 3 de setembro de 1980 que trata da tributação simplificada das remessas postais internacionais e a lei n 14902 de 27 de junho de 2024 que institui o programa mobilidade verde e inovação programa mover"
+    "dispositivos vetados": [
+        {
+            "dispositivo vetado": "art 1 do projeto de lei na parte em que acrescenta o inciso ii ao caput do art 2b do decretolei n 1804 de 3 de setembro de 1980",
+            "texto dispositivo": "ii  não houver a devolução do produto ao exterior situação em que a empresa de comércio eletrônico ficará como substituto tributário do contribuinte em relação ao imposto de importação",
+            "razao veto": "em que pese a boa intenção do legislador a proposta do inciso ii do caput do art 2b apresenta problemas tanto de técnica quanto de mérito na hipótese de não devolução do produto ao exterior que tenha sido objeto de importação pelo regime de tributação simplificada a indicação de que a empresa de comércio eletrônico passe a figurar como substituto tributário seria tecnicamente inadequada pois representaria a transferência da responsabilidade do contribuinte originário a terceiro ainda que não domiciliado no território nacional adicionalmente a proposta provocaria um desequilíbrio concorrencial devido à nacionalização de mercadorias em condições mais vantajosas quando comparadas com as importações ordinárias"
+        },
+        {
+            "dispositivo vetado": "art 3 do projeto de lei na parte em que altera o  4 do art 29 da lei n 14902 de 27 de junho de 2024",
+            "texto dispositivo": " 4 fica criado o conselho diretor do fndit órgão colegiado no âmbito do ministério do desenvolvimento indústria comércio e serviços que terá competências estabelecidas em ato do poder executivo federal e será formado pelos representantes dos seguintes órgãos e entidade i  ministério do desenvolvimento indústria comércio e serviços por meio da a secretaria de desenvolvimento industrial inovação comércio e serviços que o presidirá e b secretariaexecutiva do conselho nacional de desenvolvimento industrial da secretariaexecutiva ii  ministério da ciência tecnologia e inovação iii  ministério da fazenda e iv  associação nacional de pesquisa e desenvolvimento das empresas inovadoras",
+            "razao veto": "em que pese a boa intenção do legislador o dispositivo contraria o disposto no art 84 caput inciso vi alínea a"
+        }
+    ]
 }

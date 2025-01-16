@@ -1,16 +1,242 @@
 {
-    "Atividade legislativa": "projeto de lei n 2504 de 2022",
-    "Iniciativa": "senador flávio arns podemospr",
-    "Ementa": "institui o dia nacional do artista vidreiro",
-    "Assunto": "honorífico   data comemorativa",
-    "Despacho": "28042023\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfce comissão de educação e cultura",
-    "Relatoria": "ce  comissão de educação e cultura\nrelatores\nsenadora damares alves encerrado em 27062023 \nsubstituído por ad hoc\nsenador styvenson valentim relator ad hoc encerrado em\n27062023  deliberação da matéria",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada por comissão em decisão",
-        "Destino": "à câmara dos deputados",
-        "Último local": "22112024  secretaria de atas e\ndiários",
-        "Último estado": "05112024  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei n 2504 de 2022",
+    "iniciativa": "senador flávio arns podemospr",
+    "ementa": "institui o dia nacional do artista vidreiro",
+    "assunto": "honorífico   data comemorativa",
+    "despacho": "28042023\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfce comissão de educação e cultura",
+    "relatoria": "ce  comissão de educação e cultura\nrelatores\nsenadora damares alves encerrado em 27062023 \nsubstituído por ad hoc\nsenador styvenson valentim relator ad hoc encerrado em\n27062023  deliberação da matéria",
+    "tramitação encerrada": {
+        "decisão": "aprovada por comissão em decisão",
+        "destino": "à câmara dos deputados",
+        "último local": "22112024  secretaria de atas e\ndiários",
+        "último estado": "05112024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "ce  comissão de educação e cultura\nrelatores\nsenadora damares alves encerrado em 27062023 \nsubstituído por ad hoc\nsenador styvenson valentim relator ad hoc encerrado em\n27062023  deliberação da matéria",
-    "Documentos": "ce  comissão de educação e cultura\nrelatores\nsenadora damares alves encerrado em 27062023 \nsubstituído por ad hoc\nsenador styvenson valentim relator ad hoc encerrado em\n27062023  deliberação da matéria"
+    "tramitação": [
+        {
+            "data": "22112024",
+            "órgão": "sfseadi  secretaria de atas e diários",
+            "situação": null,
+            "ação": "a matéria vai ao arquivo\nação"
+        },
+        {
+            "data": "22112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o ofício da câmara dos deputados n 590 de 2024 na origem que comunica a restituição do\nautógrafo do projeto de lei n 2504 de 2022 sancionado e convertido na lei n 15013 de 4 de novembro de 2024\na matéria vai ao arquivo\nação"
+        },
+        {
+            "data": "05112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica",
+            "ação": "pr presidência da república\nsancionada lei 15013 de 2024\ndou diário oficial da união  05112024  seção i  págs 5 e 5\nsancionada em 04112024"
+        },
+        {
+            "data": "17102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o ofício da câmara dos deputados n 367 de 2024 na origem que comunica o envio à sanção do\nprojeto de lei n 2504 de 2022\na matéria vai à secretaria de expediente\nação\npublicado no dsf páginas 8384  dsf n 179\npg\n1\natividade legislativa\nprojeto de lei n 2504 de 2022\ntramitação"
+        },
+        {
+            "data": "12072023",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à câmara dos deputados",
+            "ação": "remetido ofício sf n 589 de 12072023 ao senhor primeirosecretário da câmara dos deputados encaminhando autógrafo\ndo projeto para revisão nos termos do art 65 da constituição federal"
+        },
+        {
+            "data": "06072023",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "06072023",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovada",
+            "ação": "encerrouse em 5 de julho o prazo para interposição de recurso para apreciação pelo plenário do presente projeto\nnão foi apresentado recurso\na matéria aprovada terminativamente pela ce vai à câmara dos deputados"
+        },
+        {
+            "data": "06072023",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "anexado o texto final revisado\nação"
+        },
+        {
+            "data": "27062023",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo interposição de recurso a decisão terminativa de comissão art 91  3 ao 5 do risf de 29062023 a 05072023\nperante a mesa\nação"
+        },
+        {
+            "data": "27062023",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando interposição de recurso",
+            "ação": "encaminhado à publicação o ofício n 204 de 2023 da ce comunicando a apreciação da matéria em caráter terminativo\nconcluída a instrução fica aberto o prazo de cinco dias úteis para interposição de recurso por um décimo dos membros da casa\npara que a matéria seja apreciada pelo plenário nos termos do art 91  3 a 5 do regimento interno"
+        },
+        {
+            "data": "27062023",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "apreciada em decisão terminativa pelas comissões",
+            "ação": "em reunião realizada em 27062023 foi aprovado terminativamente o projeto quórum 18 sim 17 não 0 abstenções 0\nà slsf"
+        },
+        {
+            "data": "27062023",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": null,
+            "ação": "em reunião realizada em 27062023 a presidência designa relator ad hoc o senador styvenson valentim em substituição à\nsenadora damares alves\nação\npg\n2\natividade legislativa\nprojeto de lei n 2504 de 2022\ntramitação"
+        },
+        {
+            "data": "22062023",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 41ª reunião da comissão de educação e cultura agendada para o dia 27062023"
+        },
+        {
+            "data": "16062023",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido relatório da senadora damares com voto pela aprovação do projeto"
+        },
+        {
+            "data": "22052023",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído à senadora damares alves para emitir relatório"
+        },
+        {
+            "data": "10052023",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "aguardando designação do relator",
+            "ação": "não foram oferecidas emendas no prazo regimental\nmatéria aguardando distribuição"
+        },
+        {
+            "data": "28042023",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": null,
+            "ação": "prazo apresentação de emendas a projeto terminativo em comissão art 122 ii c do risf de 03052023 a 09052023\nperante a ce\nação"
+        },
+        {
+            "data": "28042023",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando recebimento de emendas",
+            "ação": "a matéria nos termos do art 91 inciso i do regimento interno vai à ce em decisão terminativa podendo receber emendas\nperante a comissão do despacho pelo prazo de cinco dias úteis nos termos do art 122 ii c do regimento interno"
+        },
+        {
+            "data": "21122022",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "a proposição continua a tramitar nos termos do art 332 do regimento interno\nação"
+        },
+        {
+            "data": "21092022",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação em 21092022\nação\npublicado no dsf páginas 478481  dsf n 152\npg\n3\natividade legislativa\nprojeto de lei n 2504 de 2022"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "pl 25042022",
+            "data": "21092022",
+            "autor": "senador flávio arns podemospr",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "21092022",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": "encaminhado à publicação em 21092022",
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "16062023",
+            "autor": "senadora damares alves republicanosdf",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": "recebido relatório da senadora damares com voto pela aprovação do projeto",
+            "descrição/Ementa": "relatório pl25042022_dia nacional do artista vidreiro"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "27062023",
+            "autor": "comissão de educação e cultura",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 41ª reunião ce"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "27062023",
+            "autor": "comissão de educação e cultura",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de votação nominal da reunião da 41ª reunião ce"
+        },
+        {
+            "documento": "ps 812023  ce",
+            "data": "27062023",
+            "autor": "comissão de educação e cultura",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório pl25042022_dia nacional do artista vidreiro"
+        },
+        {
+            "documento": "ofício",
+            "data": "27062023",
+            "autor": "pg",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": null,
+            "descrição/Ementa": "deliberação do pl 25042022"
+        },
+        {
+            "documento": "texto final revisado  projeto",
+            "data": "06072023",
+            "autor": "núcleo de redação legislativa",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": "anexado o texto final revisado",
+            "descrição/Ementa": "institui o dia nacional do artista vidreiro"
+        },
+        {
+            "documento": "minuta",
+            "data": "06072023",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "ofsf 5892023"
+        },
+        {
+            "documento": "ofsf 5892023",
+            "data": "12072023",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à revisão da câmara dos deputados o projeto de lei n 2504  de 2022"
+        },
+        {
+            "documento": "autógrafo  pl 25042022",
+            "data": "12072023",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "institui o dia nacional do artista vidreiro"
+        },
+        {
+            "documento": "ofc 3672024  câmara dos",
+            "data": "17102024",
+            "autor": "primeirosecretário da câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica o envio à sanção do projeto de lei n 2504 de 2022"
+        },
+        {
+            "documento": "ofc 5902024  câmara dos",
+            "data": "22112024",
+            "autor": "pg",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica a restituição de autógrafo do projeto de lei n 2504 de 2022 sancionado e convertido na lei n 15013 de 4 de\nnovembro de 2024"
+        }
+    ]
 }

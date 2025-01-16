@@ -1,17 +1,243 @@
 {
-    "Atividade legislativa": "projeto de lei do congresso nacional n 39 de 2024",
-    "Autoria": "presidência da república",
-    "Ementa": "altera a lei n 14791 de 29 de dezembro de 2023 que dispõe sobre as diretrizes para a elaboração e a execução da lei\norçamentária de 2024",
-    "Explicação da Ementa": "o projeto propõe alteração da ldo 2024 com o objetivo de aprimorar a redação do dispositivo",
-    "Assunto": "orçamento público   diretrizes orçamentárias",
-    "Despacho": "05122024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\ncncmo comissão mista de planos orçamentos públicos e\nfiscalização",
-    "Relatoria": "cmo  comissão mista de planos orçamentos públicos e fiscalização\nrelatores\ndeputado federal dr victor linhalis encerrado em 17122024\n deliberação da matéria\ndeputado federal merlong solano relator ad hoc encerrado\nem 17122024  deliberação da matéria",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada pelo plenário",
-        "Destino": "à sanção",
-        "Último local": "03012025  plenário do senado\nfederal secretaria legislativa do\nsenado federal",
-        "Último estado": "23122024  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei do congresso nacional n 39 de 2024",
+    "autoria": "presidência da república",
+    "ementa": "altera a lei n 14791 de 29 de dezembro de 2023 que dispõe sobre as diretrizes para a elaboração e a execução da lei\norçamentária de 2024",
+    "explicação da ementa": "o projeto propõe alteração da ldo 2024 com o objetivo de aprimorar a redação do dispositivo",
+    "assunto": "orçamento público   diretrizes orçamentárias",
+    "despacho": "05122024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\ncncmo comissão mista de planos orçamentos públicos e\nfiscalização",
+    "relatoria": "cmo  comissão mista de planos orçamentos públicos e fiscalização\nrelatores\ndeputado federal dr victor linhalis encerrado em 17122024\n deliberação da matéria\ndeputado federal merlong solano relator ad hoc encerrado\nem 17122024  deliberação da matéria",
+    "tramitação encerrada": {
+        "decisão": "aprovada pelo plenário",
+        "destino": "à sanção",
+        "último local": "03012025  plenário do senado\nfederal secretaria legislativa do\nsenado federal",
+        "último estado": "23122024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "cmo  comissão mista de planos orçamentos públicos e fiscalização\nrelatores\ndeputado federal dr victor linhalis encerrado em 17122024\n deliberação da matéria\ndeputado federal merlong solano relator ad hoc encerrado\nem 17122024  deliberação da matéria",
-    "Documentos": "cmo  comissão mista de planos orçamentos públicos e fiscalização\nrelatores\ndeputado federal dr victor linhalis encerrado em 17122024\n deliberação da matéria\ndeputado federal merlong solano relator ad hoc encerrado\nem 17122024  deliberação da matéria"
+    "tramitação": [
+        {
+            "data": "23122024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica",
+            "ação": "pr presidência da república\nsancionada lei 15067 de 2024\ndoue diário oficial da união  edição extra  23122024  seção i  págs 37 e 37\nsancionada em 23122024"
+        },
+        {
+            "data": "23122024",
+            "órgão": "mesa  mesa diretora do congresso nacional",
+            "situação": null,
+            "ação": "anexado o quadro comparativo entre a lei n 14791 de 29 de dezembro de 2023 ldo 2024 o projeto de lei n 39 de 2024\ncn pln 392024 e o substitutivo aprovado elaborado pela secretaria legislativa do congresso nacional\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "pg\n1\natividade legislativa\nprojeto de lei do congresso nacional n 39 de 2024\ntramitação\nremetida à sanção",
+            "ação": "remetido ofício cn n 383 de 191224 ao ministro de estado chefe da casa civil da presidência da república encaminhando a\nmensagem cn n 13624 ao excelentíssimo senhor presidente da república submetendo à sanção presidencial autógrafos do\nprojeto"
+        },
+        {
+            "data": "18122024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "18122024",
+            "órgão": "plen  plenário do congresso nacional",
+            "situação": "aprovado o substitutivo",
+            "ação": "sessão conjunta do congresso nacional realizada em 18122024\nencaminhado à publicação e aprovado na câmara dos deputados e no senado federal o rqn n 282024 solicitando a votação\nem globo dos pln ns 14 a 20 27 28 30 32 a 34 e 36 a 392024 nos termos dos respectivos pareceres\ndiscussão encerrada\naprovado o substitutivo na câmara dos deputados e no senado federal ficando prejudicado o projeto\nà sanção"
+        },
+        {
+            "data": "18122024",
+            "órgão": "mesa  mesa diretora do congresso nacional",
+            "situação": "incluída em ordem do dia",
+            "ação": "incluído na ordem do dia da sessão conjunta  semipresencial convocada para 18122024 às 10 horas"
+        },
+        {
+            "data": "17122024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": "aprovado parecer na comissão",
+            "ação": "encerrada a relatoria do deputado dr victor linhalis por deliberação da matéria"
+        },
+        {
+            "data": "17122024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": null,
+            "ação": "a comissão mista de planos orçamentos públicos e fiscalização  cmo na continuação da nona reunião\nextraordinária realizada em 17 de dezembro de 2024 aprovou o relatório do deputado merlong solano relator ad hoc\nanteriormente designado o deputado dr victor linhalis favorável ao projeto de lei n 392024cn na forma do substitutivo\napresentado ao projeto não foram apresentadas emendas\nação\npublicado no dcn páginas 48 suplemento n b  dcn n 47"
+        },
+        {
+            "data": "11122024",
+            "órgão": "mesa  mesa diretora do congresso nacional",
+            "situação": null,
+            "ação": "anexado o quadro comparativo entre a lei n 14791 de 29 de dezembro de 2023 ldo 2024 e o projeto de lei n 39 de 2024\ncn pln 392024 elaborado pela secretaria legislativa do congresso nacional\nação"
+        },
+        {
+            "data": "09122024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido do relator deputado dr victor linhalis relatório com voto pela aprovação do projeto de lei na forma do\nsubstitutivo apresentado ao projeto não foram apresentadas emendas"
+        },
+        {
+            "data": "09122024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": null,
+            "ação": "encerrado o prazo regimental ao projeto não foram apresentadas emendas\nação"
+        },
+        {
+            "data": "06122024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao deputado dr victor linhalis para emitir relatório"
+        },
+        {
+            "data": "05122024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": "aguardando designação do relator",
+            "ação": "aguardando relatoria"
+        },
+        {
+            "data": "05122024",
+            "órgão": "mesa  mesa diretora do congresso nacional",
+            "situação": null,
+            "ação": "à cmo\nação"
+        },
+        {
+            "data": "05122024",
+            "órgão": "mesa  mesa diretora do congresso nacional",
+            "situação": null,
+            "ação": "a matéria será publicada no diário do congresso nacional\ncalendário de tramitação de projetos de lei de créditos adicionais  pln 392024 art 112 da res 12006cn\n data do despacho 05122024\n publicação em avulso eletrônico de 05122024 a 05122024\n apresentação de emendas de 06122024 a 09122024 12h\n publicação em avulso eletrônico das emendas de 09122024 12h a 09122024 14h\n votação do relatório e encaminhamento do parecer da cmo  à mesa do congresso nacional de 09122024 14h a\n10122024\na matéria vai à comissão mista de planos orçamentos públicos e fiscalização\n o prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado domingo ou feriado\nação"
+        },
+        {
+            "data": "05122024",
+            "órgão": "mesa  mesa diretora do congresso nacional",
+            "situação": null,
+            "ação": "recebida a matéria em 05122024 a matéria aguarda despacho do presidente do congresso nacional para envio à comissão\nmista de orçamento\nação\npublicado no dcn páginas 142145  dcn n 46"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "pln 392024",
+            "data": "05122024",
+            "autor": "presidência da república",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "05122024",
+            "autor": "senado federal",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "calendário",
+            "data": "05122024",
+            "autor": "congresso nacional",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": "ofício"
+        },
+        {
+            "documento": "ofício",
+            "data": "06122024",
+            "autor": "deputado federal julio arcoverde pppi",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": "distribuído ao deputado dr victor linhalis para emitir relatório",
+            "descrição/Ementa": "designa relator  pln 392024  da presidência da república"
+        },
+        {
+            "documento": "relatório sobre crédito",
+            "data": "09122024",
+            "autor": "deputado federal dr victor linhalis podemoses",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão mista de planos orçamentos públicos e fiscalização sobre o projeto de lei do congresso nacional n 39\nde 2024 que altera a lei n 14791 de 29 de dezembro de 2023 que dispõe sobre as diretrizes para a elaboração e a execução\nda lei orçamentária de 2024"
+        },
+        {
+            "documento": "quadro comparativo",
+            "data": "11122024",
+            "autor": "congresso nacional",
+            "local": "pg",
+            "ação legislativa": null,
+            "descrição/Ementa": "qc ldo 2024 x pln 392024"
+        },
+        {
+            "documento": "decisão de comissão",
+            "data": "17122024",
+            "autor": "deputado federal julio arcoverde pppi",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": null,
+            "descrição/Ementa": "aprova o relatório do deputado merlong solano relator ad hoc anteriormente designado o deputado dr victor linhalis\nfavorável ao projeto de lei n 392024cn na forma do substitutivo apresentado"
+        },
+        {
+            "documento": "par 602024  relatório",
+            "data": "17122024",
+            "autor": "comissão mista de planos orçamentos públicos e fiscalização",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão mista de planos orçamentos públicos e fiscalização sobre o projeto de lei do congresso nacional n 39\nde 2024 que altera a lei n 14791 de 29 de dezembro de 2023 que dispõe sobre as diretrizes para a elaboração e a execução\nda lei orçamentária de 2024"
+        },
+        {
+            "documento": "minuta",
+            "data": "18122024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "mpcn 1362024"
+        },
+        {
+            "documento": "mpcn 1362024",
+            "data": "19122024",
+            "autor": "presidente do congresso nacional",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à sanção o projeto de lei do congresso nacional n 39 de 2024"
+        },
+        {
+            "documento": "ofcn 3832024",
+            "data": "19122024",
+            "autor": "primeirosecretário do congresso nacional",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": "remetido ofício cn n 383 de 191224 ao ministro de estado chefe da casa civil da presidência da república encaminhando a",
+            "descrição/Ementa": "pg\n5\natividade legislativa\nprojeto de lei do congresso nacional n 39 de 2024\ndocumentos\nmensagem cn n 13624 ao excelentíssimo senhor presidente da república submetendo à sanção presidencial autógrafos do\nprojeto\nencaminha a mensagem da presidência da mesa do congresso nacional submetendo à sanção presidencial autógrafos do\nprojeto de lei do congresso nacional n 39 de 2024"
+        },
+        {
+            "documento": "autógrafo  pln 392024",
+            "data": "19122024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "altera a lei n 14791 de 29 de dezembro de 2023 que dispõe sobre as diretrizes para a elaboração e a execução da lei\norçamentária de 2024"
+        },
+        {
+            "documento": "quadro comparativo",
+            "data": "23122024",
+            "autor": "congresso nacional",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": "qc ldo 2024 x pln 392024 x substitutivo"
+        },
+        {
+            "documento": "msg 16862024  presidência",
+            "data": "03012025",
+            "autor": "presidência da república",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "restitui o autógrafo do projeto de lei do congresso nacional n 39 de 2024 sancionado e convertido na lei n 15067 de 23 de\ndezembro de 2024"
+        },
+        {
+            "documento": "of 19092024  casa civil",
+            "data": "03012025",
+            "autor": "casa civil",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica a restituição do autógrafo sancionado e a lei n 15067 de 23 de dezembro de 2024 promulgada"
+        },
+        {
+            "documento": "autógrafo restituído após",
+            "data": "03012025",
+            "autor": "presidência da república",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "autógrafo restituído pela presidência da república ao senado federal após sanção"
+        }
+    ]
 }

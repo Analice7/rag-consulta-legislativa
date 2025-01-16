@@ -1,311 +1,311 @@
 {
-    "Atividade legislativa": "Projeto de Lei n° 2230, de 2022",
-    "Autoria": "Câmara dos Deputados",
-    "Iniciativa": "Deputado Federal Carlos Gomes (REPUBLICANOS/RS)",
-    "Ementa": "Autoriza a criação do Cadastro Nacional de Animais Domésticos.",
-    "Assunto": "Meio Ambiente  - Proteção aos Animais",
-    "Despacho": "16/03/2023\nLeitura da Matéria\nAnálise - Tramitação sucessiva, Instrução da matéria\n(SF-CCJ) Comissão de Constituição, Justiça e Cidadania\n(SF-CMA) Comissão de Meio Ambiente",
-    "Relatoria": "CCJ - (Comissão de Constituição, Justiça e Cidadania)\nRelator(es):\nSenador Mecias de Jesus (encerrado em 22/05/2024 -\nDeliberação da matéria)\nCMA - (Comissão de Meio Ambiente)\nRelator(es):\nSenador Mecias de Jesus (encerrado em 31/10/2024 -\nDeliberação da matéria)",
-    "Tramitação encerrada": {
-        "Decisão": "Aprovada pelo Plenário",
-        "Destino": "À sanção",
-        "Último local": "26/11/2024 - Secretaria de Expediente",
-        "Último estado": "18/12/2024 - TRANSFORMADA EM\nNORMA JURÍDICA COM VETO PARCIAL"
+    "atividade legislativa": "Projeto de Lei n° 2230, de 2022",
+    "autoria": "Câmara dos Deputados",
+    "iniciativa": "Deputado Federal Carlos Gomes (REPUBLICANOS/RS)",
+    "ementa": "Autoriza a criação do Cadastro Nacional de Animais Domésticos.",
+    "assunto": "Meio Ambiente  - Proteção aos Animais",
+    "despacho": "16/03/2023\nLeitura da Matéria\nAnálise - Tramitação sucessiva, Instrução da matéria\n(SF-CCJ) Comissão de Constituição, Justiça e Cidadania\n(SF-CMA) Comissão de Meio Ambiente",
+    "relatoria": "CCJ - (Comissão de Constituição, Justiça e Cidadania)\nRelator(es):\nSenador Mecias de Jesus (encerrado em 22/05/2024 -\nDeliberação da matéria)\nCMA - (Comissão de Meio Ambiente)\nRelator(es):\nSenador Mecias de Jesus (encerrado em 31/10/2024 -\nDeliberação da matéria)",
+    "tramitação encerrada": {
+        "decisão": "Aprovada pelo Plenário",
+        "destino": "À sanção",
+        "último local": "26/11/2024 - Secretaria de Expediente",
+        "último estado": "18/12/2024 - TRANSFORMADA EM\nNORMA JURÍDICA COM VETO PARCIAL"
     },
-    "Tramitação": [
+    "tramitação": [
         {
-            "Data": "18/12/2024",
-            "Órgão": "SF-SEXPE - Secretaria de Expediente",
-            "Situação": "TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL",
-            "Ação": "(PR) PRESIDÊNCIA DA REPÚBLICA.\nSANCIONADA. LEI 15046 DE 2024. (vetada parcialmente: vide MSG 1665 de 2024).\nDOU (Diário Oficial da União) - 18/12/2024 - Seção I - págs. 1 e 1.\nSancionada em 17/12/2024.\nÀ COARQ."
+            "data": "18/12/2024",
+            "órgão": "SF-SEXPE - Secretaria de Expediente",
+            "situação": "TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL",
+            "ação": "(PR) PRESIDÊNCIA DA REPÚBLICA.\nSANCIONADA. LEI 15046 DE 2024. (vetada parcialmente: vide MSG 1665 de 2024).\nDOU (Diário Oficial da União) - 18/12/2024 - Seção I - págs. 1 e 1.\nSancionada em 17/12/2024.\nÀ COARQ."
         },
         {
-            "Data": "28/11/2024",
-            "Órgão": "SF-SEXPE - Secretaria de Expediente",
-            "Situação": "REMETIDA À SANÇÃO",
-            "Ação": "Remetido Ofício SF n.º 1309, de 27/11/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,\nencaminhando a Mensagem SF n.º 240/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção\npresidencial autógrafo do Projeto."
+            "data": "28/11/2024",
+            "órgão": "SF-SEXPE - Secretaria de Expediente",
+            "situação": "REMETIDA À SANÇÃO",
+            "ação": "Remetido Ofício SF n.º 1309, de 27/11/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,\nencaminhando a Mensagem SF n.º 240/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção\npresidencial autógrafo do Projeto."
         },
         {
-            "Data": "26/11/2024",
-            "Órgão": "SF-SEXPE - Secretaria de Expediente",
-            "Situação": null,
-            "Ação": "Anexado o texto revisado.\nAção:"
+            "data": "26/11/2024",
+            "órgão": "SF-SEXPE - Secretaria de Expediente",
+            "situação": null,
+            "ação": "Anexado o texto revisado.\nAção:"
         },
         {
-            "Data": "26/11/2024",
-            "Órgão": "PLEN - Plenário do Senado Federal",
-            "Situação": "APROVADA",
-            "Ação": "(Sessão Deliberativa Ordinária, realizada em 26/11/2024)\nDiscussão encerrada.\nAprovado o projeto, nos termos dos pareceres.\nA matéria vai à sanção.\nSerá feita a devida comunicação à Câmara dos Deputados."
+            "data": "26/11/2024",
+            "órgão": "PLEN - Plenário do Senado Federal",
+            "situação": "APROVADA",
+            "ação": "(Sessão Deliberativa Ordinária, realizada em 26/11/2024)\nDiscussão encerrada.\nAprovado o projeto, nos termos dos pareceres.\nA matéria vai à sanção.\nSerá feita a devida comunicação à Câmara dos Deputados."
         },
         {
-            "Data": "24/11/2024",
-            "Órgão": "PLEN - Plenário do Senado Federal",
-            "Situação": "INCLUÍDA EM ORDEM DO DIA",
-            "Ação": "Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 26/11/2024.\nDiscussão, em turno único."
+            "data": "24/11/2024",
+            "órgão": "PLEN - Plenário do Senado Federal",
+            "situação": "INCLUÍDA EM ORDEM DO DIA",
+            "ação": "Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 26/11/2024.\nDiscussão, em turno único."
         },
         {
-            "Data": "18/11/2024",
-            "Órgão": "PLEN - Plenário do Senado Federal",
-            "Situação": null,
-            "Ação": "Aguardando inclusão em Ordem do Dia.\nDiscussão, em turno único.\nAção:"
+            "data": "18/11/2024",
+            "órgão": "PLEN - Plenário do Senado Federal",
+            "situação": null,
+            "ação": "Aguardando inclusão em Ordem do Dia.\nDiscussão, em turno único.\nAção:"
         },
         {
-            "Data": "18/11/2024",
-            "Órgão": "PLEN - Plenário do Senado Federal",
-            "Situação": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
-            "Ação": "Encerrou-se em 14 de novembro o prazo para apresentação de emendas ao Projeto de Lei nº 2.230, de 2022.\nNão foram apresentadas emendas.\nA matéria será incluída em Ordem do Dia oportunamente."
+            "data": "18/11/2024",
+            "órgão": "PLEN - Plenário do Senado Federal",
+            "situação": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+            "ação": "Encerrou-se em 14 de novembro o prazo para apresentação de emendas ao Projeto de Lei nº 2.230, de 2022.\nNão foram apresentadas emendas.\nA matéria será incluída em Ordem do Dia oportunamente."
         },
         {
-            "Data": "01/11/2024",
-            "Órgão": "PLEN - Plenário do Senado Federal",
-            "Situação": null,
-            "Ação": "Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, \"d\", do RISF). De 05/11/2024\na 14/11/2024. Perante a Mesa.\nAção:"
+            "data": "01/11/2024",
+            "órgão": "PLEN - Plenário do Senado Federal",
+            "situação": null,
+            "ação": "Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, \"d\", do RISF). De 05/11/2024\na 14/11/2024. Perante a Mesa.\nAção:"
         },
         {
-            "Data": "01/11/2024",
-            "Órgão": "PLEN - Plenário do Senado Federal",
-            "Situação": "AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA",
-            "Ação": "Concluída a instrução da matéria, fica aberto o prazo de cinco dias úteis para recebimento de emendas, nos termos do art. 235,\nII, \"d\", do Regimento Interno."
+            "data": "01/11/2024",
+            "órgão": "PLEN - Plenário do Senado Federal",
+            "situação": "AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA",
+            "ação": "Concluída a instrução da matéria, fica aberto o prazo de cinco dias úteis para recebimento de emendas, nos termos do art. 235,\nII, \"d\", do Regimento Interno."
         },
         {
-            "Data": "31/10/2024",
-            "Órgão": "CMA - Comissão de Meio Ambiente",
-            "Situação": null,
-            "Ação": "Encerrada a relatoria do Senador Mecias de Jesus por deliberação da matéria.\nAção:\npg\n2\nAtividade Legislativa\nProjeto de Lei n° 2230, de 2022\nTRAMITAÇÃO"
+            "data": "31/10/2024",
+            "órgão": "CMA - Comissão de Meio Ambiente",
+            "situação": null,
+            "ação": "Encerrada a relatoria do Senador Mecias de Jesus por deliberação da matéria.\nAção:\npg\n2\nAtividade Legislativa\nProjeto de Lei n° 2230, de 2022\nTRAMITAÇÃO"
         },
         {
-            "Data": "30/10/2024",
-            "Órgão": "CMA - Comissão de Meio Ambiente",
-            "Situação": "APROVADO PARECER NA COMISSÃO",
-            "Ação": "Na 41ª reunião, realizada nesta data, a Comissão de Meio Ambiente aprovou o relatório do senador Mecias de Jesus, que passa a\nconstituir o parecer da comissão, favorável ao Projeto de Lei nº 2230, de 2022. A matéria seguirá para deliberação do Plenário.\nLink para a reunião: https://legis.senado.leg.br/atividade/comissoes/comissao/50/reuniao/13087"
+            "data": "30/10/2024",
+            "órgão": "CMA - Comissão de Meio Ambiente",
+            "situação": "APROVADO PARECER NA COMISSÃO",
+            "ação": "Na 41ª reunião, realizada nesta data, a Comissão de Meio Ambiente aprovou o relatório do senador Mecias de Jesus, que passa a\nconstituir o parecer da comissão, favorável ao Projeto de Lei nº 2230, de 2022. A matéria seguirá para deliberação do Plenário.\nLink para a reunião: https://legis.senado.leg.br/atividade/comissoes/comissao/50/reuniao/13087"
         },
         {
-            "Data": "28/10/2024",
-            "Órgão": "CMA - Comissão de Meio Ambiente",
-            "Situação": "INCLUÍDA NA PAUTA DA REUNIÃO",
-            "Ação": "Matéria constante da Pauta da 41ª Reunião da Comissão de Meio Ambiente, agendada para o dia 30/10/2024."
+            "data": "28/10/2024",
+            "órgão": "CMA - Comissão de Meio Ambiente",
+            "situação": "INCLUÍDA NA PAUTA DA REUNIÃO",
+            "ação": "Matéria constante da Pauta da 41ª Reunião da Comissão de Meio Ambiente, agendada para o dia 30/10/2024."
         },
         {
-            "Data": "11/09/2024",
-            "Órgão": "CMA - Comissão de Meio Ambiente",
-            "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
-            "Ação": "Em reunião realizada em 11/09/2024, a apreciação da matéria foi adiada."
+            "data": "11/09/2024",
+            "órgão": "CMA - Comissão de Meio Ambiente",
+            "situação": "PRONTA PARA A PAUTA NA COMISSÃO",
+            "ação": "Em reunião realizada em 11/09/2024, a apreciação da matéria foi adiada."
         },
         {
-            "Data": "09/09/2024",
-            "Órgão": "CMA - Comissão de Meio Ambiente",
-            "Situação": "INCLUÍDA NA PAUTA DA REUNIÃO",
-            "Ação": "Matéria constante da Pauta da 36ª Reunião da Comissão de Meio Ambiente, agendada para o dia 11/09/2024."
+            "data": "09/09/2024",
+            "órgão": "CMA - Comissão de Meio Ambiente",
+            "situação": "INCLUÍDA NA PAUTA DA REUNIÃO",
+            "ação": "Matéria constante da Pauta da 36ª Reunião da Comissão de Meio Ambiente, agendada para o dia 11/09/2024."
         },
         {
-            "Data": "21/08/2024",
-            "Órgão": "CMA - Comissão de Meio Ambiente",
-            "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
-            "Ação": "Em reunião realizada em 21/08/2024, a apreciação da matéria foi adiada."
+            "data": "21/08/2024",
+            "órgão": "CMA - Comissão de Meio Ambiente",
+            "situação": "PRONTA PARA A PAUTA NA COMISSÃO",
+            "ação": "Em reunião realizada em 21/08/2024, a apreciação da matéria foi adiada."
         },
         {
-            "Data": "19/08/2024",
-            "Órgão": "CMA - Comissão de Meio Ambiente",
-            "Situação": "INCLUÍDA NA PAUTA DA REUNIÃO",
-            "Ação": "Matéria constante da Pauta da 32ª Reunião da Comissão de Meio Ambiente, agendada para o dia 21/08/2024."
+            "data": "19/08/2024",
+            "órgão": "CMA - Comissão de Meio Ambiente",
+            "situação": "INCLUÍDA NA PAUTA DA REUNIÃO",
+            "ação": "Matéria constante da Pauta da 32ª Reunião da Comissão de Meio Ambiente, agendada para o dia 21/08/2024."
         },
         {
-            "Data": "09/08/2024",
-            "Órgão": "CMA - Comissão de Meio Ambiente",
-            "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
-            "Ação": "Recebido relatório do senador Mecias de Jesus pela aprovação da matéria."
+            "data": "09/08/2024",
+            "órgão": "CMA - Comissão de Meio Ambiente",
+            "situação": "PRONTA PARA A PAUTA NA COMISSÃO",
+            "ação": "Recebido relatório do senador Mecias de Jesus pela aprovação da matéria."
         },
         {
-            "Data": "16/07/2024",
-            "Órgão": "CMA - Comissão de Meio Ambiente",
-            "Situação": "MATÉRIA COM A RELATORIA",
-            "Ação": "Distribuído ao Senador Mecias de Jesus, para emitir relatório."
+            "data": "16/07/2024",
+            "órgão": "CMA - Comissão de Meio Ambiente",
+            "situação": "MATÉRIA COM A RELATORIA",
+            "ação": "Distribuído ao Senador Mecias de Jesus, para emitir relatório."
         },
         {
-            "Data": "22/05/2024",
-            "Órgão": "CMA - Comissão de Meio Ambiente",
-            "Situação": "pg\n3\nAtividade Legislativa\nProjeto de Lei n° 2230, de 2022\nTRAMITAÇÃO\nAGUARDANDO DESIGNAÇÃO DO RELATOR",
-            "Ação": "Matéria recebida na Comissão.\nAguarda designação para relatoria."
+            "data": "22/05/2024",
+            "órgão": "CMA - Comissão de Meio Ambiente",
+            "situação": "pg\n3\nAtividade Legislativa\nProjeto de Lei n° 2230, de 2022\nTRAMITAÇÃO\nAGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "ação": "Matéria recebida na Comissão.\nAguarda designação para relatoria."
         },
         {
-            "Data": "22/05/2024",
-            "Órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
-            "Situação": null,
-            "Ação": "Encerrada a relatoria do Senador Mecias de Jesus por deliberação da matéria.\nÀ CMA, para prosseguimento da tramitação.\nAção:"
+            "data": "22/05/2024",
+            "órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
+            "situação": null,
+            "ação": "Encerrada a relatoria do Senador Mecias de Jesus por deliberação da matéria.\nÀ CMA, para prosseguimento da tramitação.\nAção:"
         },
         {
-            "Data": "22/05/2024",
-            "Órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
-            "Situação": "APROVADO PARECER NA COMISSÃO",
-            "Ação": "Na 14ª Reunião Ordinária, realizada nesta data, durante a discussão da matéria, o Relator, Senador Mecias de Jesus, rejeita a\nEmenda n° 1 oralmente.\nA Comissão aprova o Relatório, que passa a constituir o Parecer da CCJ, favorável ao Projeto e contrário à Emenda nº 1."
+            "data": "22/05/2024",
+            "órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
+            "situação": "APROVADO PARECER NA COMISSÃO",
+            "ação": "Na 14ª Reunião Ordinária, realizada nesta data, durante a discussão da matéria, o Relator, Senador Mecias de Jesus, rejeita a\nEmenda n° 1 oralmente.\nA Comissão aprova o Relatório, que passa a constituir o Parecer da CCJ, favorável ao Projeto e contrário à Emenda nº 1."
         },
         {
-            "Data": "21/05/2024",
-            "Órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
-            "Situação": null,
-            "Ação": "Recebida a Emenda Substitutiva n°1 , de autoria do Senador Carlos Portinho.\nEncaminhada ao Relator, para análise.\nAção:"
+            "data": "21/05/2024",
+            "órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
+            "situação": null,
+            "ação": "Recebida a Emenda Substitutiva n°1 , de autoria do Senador Carlos Portinho.\nEncaminhada ao Relator, para análise.\nAção:"
         },
         {
-            "Data": "15/05/2024",
-            "Órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
-            "Situação": "PEDIDO DE VISTA CONCEDIDO",
-            "Ação": "Na 13ª Reunião Ordinária, realizada nesta data, a Presidência concede vista ao Senador Carlos Portinho, nos termos regimentais."
+            "data": "15/05/2024",
+            "órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
+            "situação": "PEDIDO DE VISTA CONCEDIDO",
+            "ação": "Na 13ª Reunião Ordinária, realizada nesta data, a Presidência concede vista ao Senador Carlos Portinho, nos termos regimentais."
         },
         {
-            "Data": "06/05/2024",
-            "Órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
-            "Situação": "INCLUÍDA NA PAUTA DA REUNIÃO",
-            "Ação": "Matéria incluída na Pauta da Comissão."
+            "data": "06/05/2024",
+            "órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
+            "situação": "INCLUÍDA NA PAUTA DA REUNIÃO",
+            "ação": "Matéria incluída na Pauta da Comissão."
         },
         {
-            "Data": "09/04/2024",
-            "Órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
-            "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
-            "Ação": "Recebido relatório do Senador Mecias de Jesus, com voto favorável ao Projeto.\nMatéria pronta para a Pauta na Comissão."
+            "data": "09/04/2024",
+            "órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
+            "situação": "PRONTA PARA A PAUTA NA COMISSÃO",
+            "ação": "Recebido relatório do Senador Mecias de Jesus, com voto favorável ao Projeto.\nMatéria pronta para a Pauta na Comissão."
         },
         {
-            "Data": "08/03/2024",
-            "Órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
-            "Situação": "MATÉRIA COM A RELATORIA",
-            "Ação": "Distribuído ao Senador Mecias de Jesus, para emitir relatório."
+            "data": "08/03/2024",
+            "órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
+            "situação": "MATÉRIA COM A RELATORIA",
+            "ação": "Distribuído ao Senador Mecias de Jesus, para emitir relatório."
         },
         {
-            "Data": "17/03/2023",
-            "Órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
-            "Situação": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
-            "Ação": "Matéria aguardando distribuição."
+            "data": "17/03/2023",
+            "órgão": "CCJ - Comissão de Constituição, Justiça e Cidadania",
+            "situação": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "ação": "Matéria aguardando distribuição."
         },
         {
-            "Data": "16/03/2023",
-            "Órgão": "PLEN - Plenário do Senado Federal",
-            "Situação": "MATÉRIA DESPACHADA",
-            "Ação": "A matéria vai à CCJ, seguindo posteriormente para a CMA."
+            "data": "16/03/2023",
+            "órgão": "PLEN - Plenário do Senado Federal",
+            "situação": "MATÉRIA DESPACHADA",
+            "ação": "A matéria vai à CCJ, seguindo posteriormente para a CMA."
         },
         {
-            "Data": "21/12/2022",
-            "Órgão": "PLEN - Plenário do Senado Federal",
-            "Situação": null,
-            "Ação": "A proposição continua a tramitar, nos termos do art. 332 do Regimento Interno.\nAção:"
+            "data": "21/12/2022",
+            "órgão": "PLEN - Plenário do Senado Federal",
+            "situação": null,
+            "ação": "A proposição continua a tramitar, nos termos do art. 332 do Regimento Interno.\nAção:"
         },
         {
-            "Data": "10/08/2022",
-            "Órgão": "PLEN - Plenário do Senado Federal",
-            "Situação": null,
-            "Ação": "Encaminhado à publicação, em 10/08/2022.\nAção:\nPublicado no DSF Páginas 767-770 - DSF nº 123"
+            "data": "10/08/2022",
+            "órgão": "PLEN - Plenário do Senado Federal",
+            "situação": null,
+            "ação": "Encaminhado à publicação, em 10/08/2022.\nAção:\nPublicado no DSF Páginas 767-770 - DSF nº 123"
         }
     ],
-    "Documentos": [
+    "documentos": [
         {
-            "Documento": "PL 2230/2022",
-            "Data": "17/05/2022",
-            "Autor": "Câmara dos Deputados",
-            "Local": "Plenário do Senado Federal",
-            "Ação Legislativa": null,
-            "Descrição/Ementa": null
+            "documento": "PL 2230/2022",
+            "data": "17/05/2022",
+            "autor": "Câmara dos Deputados",
+            "local": "Plenário do Senado Federal",
+            "ação legislativa": null,
+            "descrição/Ementa": null
         },
         {
-            "Documento": "Avulso inicial da matéria",
-            "Data": "10/08/2022",
-            "Autor": "Senado Federal",
-            "Local": "Plenário do Senado Federal",
-            "Ação Legislativa": "Encaminhado à publicação, em 10/08/2022.",
-            "Descrição/Ementa": "-"
+            "documento": "Avulso inicial da matéria",
+            "data": "10/08/2022",
+            "autor": "Senado Federal",
+            "local": "Plenário do Senado Federal",
+            "ação legislativa": "Encaminhado à publicação, em 10/08/2022.",
+            "descrição/Ementa": "-"
         },
         {
-            "Documento": "Relatório Legislativo",
-            "Data": "09/04/2024",
-            "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
-            "Local": "Comissão de Constituição, Justiça e Cidadania",
-            "Ação Legislativa": null,
-            "Descrição/Ementa": "Da COMISSÃO DE CONSTITUIÇÃO, JUSTIÇA E CIDADANIA, sobre o Projeto de Lei n° 2230, de 2022, que Autoriza a criação do\nCadastro Nacional de Animais Domésticos."
+            "documento": "Relatório Legislativo",
+            "data": "09/04/2024",
+            "autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
+            "local": "Comissão de Constituição, Justiça e Cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "Da COMISSÃO DE CONSTITUIÇÃO, JUSTIÇA E CIDADANIA, sobre o Projeto de Lei n° 2230, de 2022, que Autoriza a criação do\nCadastro Nacional de Animais Domésticos."
         },
         {
-            "Documento": "EMENDA 1 - PL 2230/2022",
-            "Data": "21/05/2024",
-            "Autor": "Senador Carlos Portinho (PL/RJ)",
-            "Local": "Comissão de Constituição, Justiça e Cidadania",
-            "Ação Legislativa": null,
-            "Descrição/Ementa": "Emenda PL 2230 - cadastro animais domésticos"
+            "documento": "EMENDA 1 - PL 2230/2022",
+            "data": "21/05/2024",
+            "autor": "Senador Carlos Portinho (PL/RJ)",
+            "local": "Comissão de Constituição, Justiça e Cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "Emenda PL 2230 - cadastro animais domésticos"
         },
         {
-            "Documento": "Listagem ou relatório",
-            "Data": "22/05/2024",
-            "Autor": "Comissão de Constituição, Justiça e Cidadania",
-            "Local": "Comissão de Constituição, Justiça e Cidadania",
-            "Ação Legislativa": null,
-            "Descrição/Ementa": "Listagem ou relatório descritivo-Lista de Presença da reunião da 14ª Reunião CCJ"
+            "documento": "Listagem ou relatório",
+            "data": "22/05/2024",
+            "autor": "Comissão de Constituição, Justiça e Cidadania",
+            "local": "Comissão de Constituição, Justiça e Cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "Listagem ou relatório descritivo-Lista de Presença da reunião da 14ª Reunião CCJ"
         },
         {
-            "Documento": "P.S 39/2024 - CCJ",
-            "Data": "22/05/2024",
-            "Autor": "Comissão de Constituição, Justiça e Cidadania",
-            "Local": "Comissão de Constituição, Justiça e Cidadania",
-            "Ação Legislativa": null,
-            "Descrição/Ementa": "Da COMISSÃO DE CONSTITUIÇÃO, JUSTIÇA E CIDADANIA, sobre o Projeto de Lei n° 2230, de 2022, que Autoriza a criação do\nCadastro Nacional de Animais Domésticos."
+            "documento": "P.S 39/2024 - CCJ",
+            "data": "22/05/2024",
+            "autor": "Comissão de Constituição, Justiça e Cidadania",
+            "local": "Comissão de Constituição, Justiça e Cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "Da COMISSÃO DE CONSTITUIÇÃO, JUSTIÇA E CIDADANIA, sobre o Projeto de Lei n° 2230, de 2022, que Autoriza a criação do\nCadastro Nacional de Animais Domésticos."
         },
         {
-            "Documento": "Relatório Legislativo",
-            "Data": "09/08/2024",
-            "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
-            "Local": "Comissão de Meio Ambiente",
-            "Ação Legislativa": "Recebido relatório do senador Mecias de Jesus pela aprovação da matéria.",
-            "Descrição/Ementa": "Da COMISSÃO DE MEIO AMBIENTE, sobre o Projeto de Lei n° 2230, de 2022, que Autoriza a criação do Cadastro Nacional de\nAnimais Domésticos."
+            "documento": "Relatório Legislativo",
+            "data": "09/08/2024",
+            "autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
+            "local": "Comissão de Meio Ambiente",
+            "ação legislativa": "Recebido relatório do senador Mecias de Jesus pela aprovação da matéria.",
+            "descrição/Ementa": "Da COMISSÃO DE MEIO AMBIENTE, sobre o Projeto de Lei n° 2230, de 2022, que Autoriza a criação do Cadastro Nacional de\nAnimais Domésticos."
         },
         {
-            "Documento": "Listagem ou relatório",
-            "Data": "30/10/2024",
-            "Autor": "Comissão de Meio Ambiente",
-            "Local": "Comissão de Meio Ambiente",
-            "Ação Legislativa": null,
-            "Descrição/Ementa": "Listagem ou relatório descritivo-Lista de Presença da reunião da 41ª Reunião CMA"
+            "documento": "Listagem ou relatório",
+            "data": "30/10/2024",
+            "autor": "Comissão de Meio Ambiente",
+            "local": "Comissão de Meio Ambiente",
+            "ação legislativa": null,
+            "descrição/Ementa": "Listagem ou relatório descritivo-Lista de Presença da reunião da 41ª Reunião CMA"
         },
         {
-            "Documento": "P.S 35/2024 - CMA",
-            "Data": "30/10/2024",
-            "Autor": "Comissão de Meio Ambiente",
-            "Local": "Comissão de Meio Ambiente",
-            "Ação Legislativa": null,
-            "Descrição/Ementa": "Da COMISSÃO DE MEIO AMBIENTE, sobre o Projeto de Lei n° 2230, de 2022, que Autoriza a criação do Cadastro Nacional de\nAnimais Domésticos."
+            "documento": "P.S 35/2024 - CMA",
+            "data": "30/10/2024",
+            "autor": "Comissão de Meio Ambiente",
+            "local": "Comissão de Meio Ambiente",
+            "ação legislativa": null,
+            "descrição/Ementa": "Da COMISSÃO DE MEIO AMBIENTE, sobre o Projeto de Lei n° 2230, de 2022, que Autoriza a criação do Cadastro Nacional de\nAnimais Domésticos."
         },
         {
-            "Documento": "Minuta\npg\n6\nAtividade Legislativa\nProjeto de Lei n° 2230, de 2022\nDOCUMENTOS",
-            "Data": "26/11/2024",
-            "Autor": "Senado Federal",
-            "Local": "Secretaria de Expediente",
-            "Ação Legislativa": "Anexado o texto revisado.",
-            "Descrição/Ementa": "MPSF 240/2024"
+            "documento": "Minuta\npg\n6\nAtividade Legislativa\nProjeto de Lei n° 2230, de 2022\nDOCUMENTOS",
+            "data": "26/11/2024",
+            "autor": "Senado Federal",
+            "local": "Secretaria de Expediente",
+            "ação legislativa": "Anexado o texto revisado.",
+            "descrição/Ementa": "MPSF 240/2024"
         },
         {
-            "Documento": "MPSF 240/2024",
-            "Data": "28/11/2024",
-            "Autor": "Presidente do Senado Federal",
-            "Local": "Comissão Diretora do Senado Federal",
-            "Ação Legislativa": null,
-            "Descrição/Ementa": "Encaminha à sanção o Projeto de Lei n° 2.230, de 2022."
+            "documento": "MPSF 240/2024",
+            "data": "28/11/2024",
+            "autor": "Presidente do Senado Federal",
+            "local": "Comissão Diretora do Senado Federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "Encaminha à sanção o Projeto de Lei n° 2.230, de 2022."
         },
         {
-            "Documento": "OFSF 1309/2024",
-            "Data": "28/11/2024",
-            "Autor": "Primeiro-Secretário do Senado Federal",
-            "Local": "Comissão Diretora do Senado Federal",
-            "Ação Legislativa": null,
-            "Descrição/Ementa": "Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°\n2.230, de 2022."
+            "documento": "OFSF 1309/2024",
+            "data": "28/11/2024",
+            "autor": "Primeiro-Secretário do Senado Federal",
+            "local": "Comissão Diretora do Senado Federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°\n2.230, de 2022."
         },
         {
-            "Documento": "OFSF 1310/2024",
-            "Data": "28/11/2024",
-            "Autor": "Primeiro-Secretário do Senado Federal",
-            "Local": "Comissão Diretora do Senado Federal",
-            "Ação Legislativa": null,
-            "Descrição/Ementa": "Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 2.230, de 2022."
+            "documento": "OFSF 1310/2024",
+            "data": "28/11/2024",
+            "autor": "Primeiro-Secretário do Senado Federal",
+            "local": "Comissão Diretora do Senado Federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 2.230, de 2022."
         },
         {
-            "Documento": "Autógrafo - PL 2230/2022",
-            "Data": "28/11/2024",
-            "Autor": "Senado Federal",
-            "Local": "Secretaria de Expediente",
-            "Ação Legislativa": null,
-            "Descrição/Ementa": "pg\n7\nAtividade Legislativa\nProjeto de Lei n° 2230, de 2022\nDOCUMENTOS\nfoi encaminhado à sanção presidencial.\nAutoriza a criação do Cadastro Nacional de Animais Domésticos."
+            "documento": "Autógrafo - PL 2230/2022",
+            "data": "28/11/2024",
+            "autor": "Senado Federal",
+            "local": "Secretaria de Expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n7\nAtividade Legislativa\nProjeto de Lei n° 2230, de 2022\nDOCUMENTOS\nfoi encaminhado à sanção presidencial.\nAutoriza a criação do Cadastro Nacional de Animais Domésticos."
         }
     ]
 }

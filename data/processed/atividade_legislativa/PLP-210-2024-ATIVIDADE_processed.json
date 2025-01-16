@@ -1,17 +1,579 @@
 {
-    "Atividade legislativa": "projeto de lei complementar n 210 de 2024",
-    "Autoria": "câmara dos deputados",
-    "Iniciativa": "deputado federal josé guimarães ptce",
-    "Ementa": "altera a lei complementar n 200 de 30 de agosto de 2023 que institui regime fiscal sustentável para garantir a\nestabilidade macroeconômica do país e criar as condições adequadas ao crescimento socioeconômico revoga a lei\ncomplementar n 207 de 16 de maio de 2024 e dá outras providências",
-    "Assunto": "economia e desenvolvimento   finanças públicas",
-    "Despacho": "19122024\nleitura da matéria\nao plenário\nsfplen plenário do senado federal",
-    "Relatoria": "plen  plenário do senado federal\nrelatores\nsenador jaques wagner encerrado em 19122024  matéria\ndeliberada no plenário",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada pelo plenário",
-        "Destino": "à sanção",
-        "Último local": "20122024  secretaria de expediente",
-        "Último estado": "31122024  transformada em\nnorma jurídica com veto parcial"
+    "atividade legislativa": "projeto de lei complementar n 210 de 2024",
+    "autoria": "câmara dos deputados",
+    "iniciativa": "deputado federal josé guimarães ptce",
+    "ementa": "altera a lei complementar n 200 de 30 de agosto de 2023 que institui regime fiscal sustentável para garantir a\nestabilidade macroeconômica do país e criar as condições adequadas ao crescimento socioeconômico revoga a lei\ncomplementar n 207 de 16 de maio de 2024 e dá outras providências",
+    "assunto": "economia e desenvolvimento   finanças públicas",
+    "despacho": "19122024\nleitura da matéria\nao plenário\nsfplen plenário do senado federal",
+    "relatoria": "plen  plenário do senado federal\nrelatores\nsenador jaques wagner encerrado em 19122024  matéria\ndeliberada no plenário",
+    "tramitação encerrada": {
+        "decisão": "aprovada pelo plenário",
+        "destino": "à sanção",
+        "último local": "20122024  secretaria de expediente",
+        "último estado": "31122024  transformada em\nnorma jurídica com veto parcial"
     },
-    "Tramitação": "plen  plenário do senado federal\nrelatores\nsenador jaques wagner encerrado em 19122024  matéria\ndeliberada no plenário",
-    "Documentos": "plen  plenário do senado federal\nrelatores\nsenador jaques wagner encerrado em 19122024  matéria\ndeliberada no plenário"
+    "tramitação": [
+        {
+            "data": "31122024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica com veto parcial",
+            "ação": "pr presidência da república\nsancionada lei complementar 211 de 2024 vetada parcialmente vide msg 1707 de 2024"
+        },
+        {
+            "data": "31122024",
+            "órgão": " seção i  págs 869 e 869",
+            "situação": "sancionada em 30122024\nà coarq\n20122024\nsfsexpe  secretaria de expediente\nremetida à sanção",
+            "ação": "remetido ofício sf n 1552 de 201224 ao senhor ministro de estado chefe da casa civil da presidência da república\nencaminhando a mensagem sf n 30024 ao excelentíssimo senhor presidente da república submetendo à sanção\npresidencial autógrafo do projeto\nremetido ofício sf n 1553 de 201224 ao senhor primeirosecretário da câmara dos deputados comunicando que o projeto\nfoi encaminhado à sanção presidencial"
+        },
+        {
+            "data": "20122024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovada",
+            "ação": "sessão deliberativa extraordinária realizada em 19122024\nencaminhadas à publicação as emendas ns 1 a 25 de plenário\nencaminhado à publicação e aprovado o requerimento n 972 de 2024 de autoria de líderes que solicita urgência para o\nprojeto\nsenador jaques wagner profere o parecer n 2592024  plensf favorável ao projeto e contrário às emendas 1 a 25 de plenário\naprovado o projeto nos termos do parecer de plenário ressalvadas as emendas ns 14 16 e 20 destacadas com o seguinte\nresultado sim  72 não  1 abstenção  0 presidente  1 total 74\nencaminhados à publicação os seguintes requerimentos\n n 968 de 2024 da liderança do pl de destaque para votação em separado da emenda n 14\n n 969 de 2024 da liderança do pl de destaque para votação em separado da emenda n 16\n n 970 de 2024 da liderança do pdt de destaque para votação em separado da emenda n 1\n n 971 de 2024 da liderança do psb de destaque para votação em separado da emenda n 3\n n 973 de 2024 da liderança do republicanos de destaque para votação em separado da emenda n 20 e\n n 974 de 2024 da liderança do republicanos de destaque para votação em separado da emenda n 21\nretirados pelos autores os requerimentos ns 970 971 e 974 todos de 2024\nrejeitada a emenda n 14 destacada com o seguinte resultado sim  22 não  43 abstenção  0 presidente  1 total 66\nrejeitada a emenda n 16 destacada com o seguinte resultado sim  24 não  46  abstenção  0 presidente  1 total 71\nrejeitada a emenda n 20 destacada com o seguinte resultado sim  27 não  42 abstenção  0 presidente  1 total 70 \na matéria vai à sanção\nserá feita a devida comunicação à câmara dos deputados"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o relatório do senador jaques wagner\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 25 da senadora professora dorinha\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 974 de 2024 da liderança do podemos de destaque para votação em separado da emenda n 21\nação\npg\n2\natividade legislativa\nprojeto de lei complementar n 210 de 2024\ntramitação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidas as emendas ns 23 e 24 do senador zequinha marinho\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 973 de 2024 da liderança do republicanos de destaque para votação em separado da emenda n\n20\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 972 de 2024 de líderes solicitando urgência para a matéria\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 22 do senador lucas barreto\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 21 do senador carlos viana\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 971 de 2024 da liderança do psb de destaque para votação em separado da emenda n 3\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 970 de 2024 da liderança do pdt de destaque para votação em separado da emenda n 1\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 20 do senador hamilton mourão\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidas as emendas ns 17 a 19 do senador mecias de jesus\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 969 de 2024 da liderança do partido liberal de destaque para votação em separado da emenda\nn 16\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 968 de 2024 da liderança do pl de destaque para votação em separado da emenda n 14\nação\npg\n3\natividade legislativa\nprojeto de lei complementar n 210 de 2024\ntramitação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 16 dos senadores rogerio marinho e carlos portinho\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 15 do senador plínio valério\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 14 dos senadores rogerio marinho e carlos portinho\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 13 do senador alessandro vieira\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidas as emendas ns 8 a 12 do senador ciro nogueira\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 7 do senador astronauta marcos pontes\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 6 da senadora tereza cristina\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 5 do senador plínio valério\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidas as emendas ns 3 e 4 do senador chico rodrigues\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 2 do senador zequinha marinho\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 1 da senadora leila barros\nação\npg\n4\natividade legislativa\nprojeto de lei complementar n 210 de 2024\ntramitação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "designado relator de plenário o senador jaques wagner\nação"
+        },
+        {
+            "data": "19122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "incluída em ordem do dia",
+            "ação": "incluído em ordem do dia da sessão deliberativa extraordinária semipresencial de 19122024\npendente de apresentação de requerimento de urgência"
+        },
+        {
+            "data": "18122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando despacho",
+            "ação": "autuado o projeto de lei n 2102024 proveniente da câmara dos deputados o projeto vai à publicação"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "plp 2102024",
+            "data": "18122024",
+            "autor": "câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 2102024 proveniente da câmara dos deputados o projeto vai à publicação",
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "18122024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 2102024 proveniente da câmara dos deputados o projeto vai à publicação",
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "emenda 1 plen  plp",
+            "data": "19122024",
+            "autor": "senadora leila barros pdtdf",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 1 da senadora leila barros",
+            "descrição/Ementa": "emenda  ao plp 2102024"
+        },
+        {
+            "documento": "emenda 2 plen  plp",
+            "data": "19122024",
+            "autor": "senador zequinha marinho podemospa",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda  ao plp 2102024 acrescentando  1 e 2 ao art 2 do projeto"
+        },
+        {
+            "documento": "emenda 3 plen  plp",
+            "data": "19122024",
+            "autor": "senador chico rodrigues psbrr",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 3 e 4 do senador chico rodrigues",
+            "descrição/Ementa": "emenda  ao plp 2102024 limita desvinculação de recursos do fundo aeronáutico a 25"
+        },
+        {
+            "documento": "emenda 4 plen  plp",
+            "data": "19122024",
+            "autor": "senador chico rodrigues psbrr",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 3 e 4 do senador chico rodrigues",
+            "descrição/Ementa": "emenda  ao plp 2102024  devolução de recursos fundo naval a partir de 2031"
+        },
+        {
+            "documento": "emenda 5 plen  plp",
+            "data": "19122024",
+            "autor": "senador plínio valério psdbam",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 5 do senador plínio valério",
+            "descrição/Ementa": "emenda  ao plp 2102024"
+        },
+        {
+            "documento": "emenda 6 plen  plp",
+            "data": "19122024",
+            "autor": "senadora tereza cristina ppms",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 6 da senadora tereza cristina",
+            "descrição/Ementa": "emenda  ao plp 2102024  pacote de gastos"
+        },
+        {
+            "documento": "emenda 7 plen  plp",
+            "data": "19122024",
+            "autor": "senador astronauta marcos pontes plsp",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 7 do senador astronauta marcos pontes",
+            "descrição/Ementa": "emenda  ao plp 2102024  fundo aeronáutico"
+        },
+        {
+            "documento": "emenda 8 plen  plp",
+            "data": "19122024",
+            "autor": "senador ciro nogueira pppi",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda  1 ao plp 2102024"
+        },
+        {
+            "documento": "emenda 9 plen  plp",
+            "data": "19122024",
+            "autor": "senador ciro nogueira pppi",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 8 a 12 do senador ciro nogueira",
+            "descrição/Ementa": "emenda 2  ao plp 2102024"
+        },
+        {
+            "documento": "emenda 10 plen  plp",
+            "data": "19122024",
+            "autor": "senador ciro nogueira pppi",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 8 a 12 do senador ciro nogueira",
+            "descrição/Ementa": "emenda 3 ao plp 2102024"
+        },
+        {
+            "documento": "emenda 11 plen  plp",
+            "data": "19122024",
+            "autor": "senador ciro nogueira pppi",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 8 a 12 do senador ciro nogueira",
+            "descrição/Ementa": "emenda 4 ao plp 2102024"
+        },
+        {
+            "documento": "emenda 12 plen  plp",
+            "data": "19122024",
+            "autor": "senador ciro nogueira pppi",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 8 a 12 do senador ciro nogueira",
+            "descrição/Ementa": "emenda 5 ao plp 2102024"
+        },
+        {
+            "documento": "emenda 13 plen  plp",
+            "data": "19122024",
+            "autor": "senador alessandro vieira mdbse",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 13 do senador alessandro vieira",
+            "descrição/Ementa": "emenda ao plp 2102024 supersalários"
+        },
+        {
+            "documento": "emenda 14 plen  plp",
+            "data": "19122024",
+            "autor": "senador rogerio marinho plrn senador carlos portinho plrj",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda  ao plp 2102024  evita manobras nos fundos"
+        },
+        {
+            "documento": "emenda 15 plen  plp",
+            "data": "19122024",
+            "autor": "senador plínio valério psdbam",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 15 do senador plínio valério",
+            "descrição/Ementa": "emenda  ao plp 2102024  exercícios financeiros de 2025 a 2030"
+        },
+        {
+            "documento": "emenda 16 plen  plp",
+            "data": "19122024",
+            "autor": "senador rogerio marinho plrn senador carlos portinho plrj",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 16 dos senadores rogerio marinho e carlos portinho",
+            "descrição/Ementa": "emenda  ao plp 2102024  aglutinado arcabouço"
+        },
+        {
+            "documento": "rqs 9682024",
+            "data": "19122024",
+            "autor": "líder do pl carlos portinho plrj",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o requerimento n 968 de 2024 da liderança do pl de destaque para votação em separado da emenda n 14",
+            "descrição/Ementa": "requer pela liderança do pl destaque para votação em separado da emenda n 14 ao projeto de lei complementar n\n2102024"
+        },
+        {
+            "documento": "rqs 9692024",
+            "data": "19122024",
+            "autor": "líder do pl carlos portinho plrj",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer pela liderança do partido liberal destaque para votação em separado da emenda n 16 ao projeto de lei\ncomplementar n 2102024"
+        },
+        {
+            "documento": "emenda 17 plen  plp",
+            "data": "19122024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 17 a 19 do senador mecias de jesus",
+            "descrição/Ementa": "emenda ao plp 2102024"
+        },
+        {
+            "documento": "emenda 18 plen  plp",
+            "data": "19122024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "pg",
+            "ação legislativa": "recebidas as emendas ns 17 a 19 do senador mecias de jesus",
+            "descrição/Ementa": "emenda 1 ao plp 2102024"
+        },
+        {
+            "documento": "emenda 19 plen  plp",
+            "data": "19122024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 17 a 19 do senador mecias de jesus",
+            "descrição/Ementa": "emenda 2 ao plp 2102024"
+        },
+        {
+            "documento": "emenda 20 plen  plp",
+            "data": "19122024",
+            "autor": "senador hamilton mourão republicanosrs",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 20 do senador hamilton mourão",
+            "descrição/Ementa": "emenda  ao plp 2102024"
+        },
+        {
+            "documento": "rqs 9702024",
+            "data": "19122024",
+            "autor": "líder do pdt ana paula lobato pdtma",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o requerimento n 970 de 2024 da liderança do pdt de destaque para votação em separado da emenda n 1",
+            "descrição/Ementa": "requer pela liderança do pdt destaque para votação em separado da emenda n 1 ao projeto de lei complementar n\n2102024"
+        },
+        {
+            "documento": "rqs 9712024",
+            "data": "19122024",
+            "autor": "líder do psb jorge kajuru psbgo",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o requerimento n 971 de 2024 da liderança do psb de destaque para votação em separado da emenda n 3",
+            "descrição/Ementa": "requer pela liderança do psb destaque para votação em separado da emenda n 3 ao projeto de lei complementar n\n2102024"
+        },
+        {
+            "documento": "emenda 21 plen  plp",
+            "data": "19122024",
+            "autor": "senador carlos viana podemosmg",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 21 do senador carlos viana",
+            "descrição/Ementa": "emenda  ao plp 2102024  lei de incentivo ao esporte"
+        },
+        {
+            "documento": "emenda 22 plen  plp",
+            "data": "19122024",
+            "autor": "pg",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 22 do senador lucas barreto",
+            "descrição/Ementa": "emenda  ao plp 2102024 fundo aeronáutico"
+        },
+        {
+            "documento": "rqs 9722024",
+            "data": "19122024",
+            "autor": "líder do governo jaques wagner ptba líder do bloco parlamentar da resistência democrática eliziane gama psdma líder",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o requerimento n 972 de 2024 de líderes solicitando urgência para a matéria",
+            "descrição/Ementa": "requer urgência para o projeto de lei complementar n 2102024 nos termos dos arts 336 iii e 338 iii do regimento interno\ndo senado federal"
+        },
+        {
+            "documento": "rqs 9732024",
+            "data": "19122024",
+            "autor": "líder do republicanos mecias de jesus republicanosrr",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer pela liderança do republicanos destaque para votação em separado da emenda n 20 ao projeto de lei complementar\nn 2102024"
+        },
+        {
+            "documento": "emenda 23 plen  plp",
+            "data": "19122024",
+            "autor": "senador zequinha marinho podemospa",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 23 e 24 do senador zequinha marinho",
+            "descrição/Ementa": "zmplp2102024emendaart2"
+        },
+        {
+            "documento": "emenda 24 plen  plp",
+            "data": "19122024",
+            "autor": "senador zequinha marinho podemospa",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 23 e 24 do senador zequinha marinho",
+            "descrição/Ementa": "emenda  ao plp 2102024  aeronáutica"
+        },
+        {
+            "documento": "rqs 9742024",
+            "data": "19122024",
+            "autor": "líder do podemos rodrigo cunha podemosal",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o requerimento n 974 de 2024 da liderança do podemos de destaque para votação em separado da emenda n 21",
+            "descrição/Ementa": "requer pela liderança do podemos destaque para votação em separado da emenda n 21 ao projeto de lei complementar n\n210 de 2024"
+        },
+        {
+            "documento": "pg\n10\natividade legislativa\nprojeto de lei complementar n 210 de 2024\ndocumentos\nemenda 25 plen  plp",
+            "data": "19122024",
+            "autor": "senadora professora dorinha seabra uniãoto",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 25 da senadora professora dorinha",
+            "descrição/Ementa": "emenda  ao plp 2102024  devolução de recursos aos fundos das forças armadas"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "19122024",
+            "autor": "senador jaques wagner ptba",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o relatório do senador jaques wagner",
+            "descrição/Ementa": "relatório ao plp 2102024"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "19122024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "votação nominal do projeto de lei complementar n 210 de 2024 nos termos do parecer ressalvados os destaques"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "19122024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "votação nominal da emenda n 14 ao projeto de lei n 210 de 2024 destacada"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "19122024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "votação nominal da emenda n 16 ao projeto de lei n 210 de 2024 destacada"
+        },
+        {
+            "documento": "ps 2592024  plen",
+            "data": "19122024",
+            "autor": "senador jaques wagner ptba",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n11\natividade legislativa\nprojeto de lei complementar n 210 de 2024\ndocumentos\n n 969 de 2024 da liderança do pl de destaque para votação em separado da emenda n 16\n n 970 de 2024 da liderança do pdt de destaque para votação em separado da emenda n 1\n n 971 de 2024 da liderança do psb de destaque para votação em separado da emenda n 3\n n 973 de 2024 da liderança do republicanos de destaque para votação em separado da emenda n 20 e\n n 974 de 2024 da liderança do republicanos de destaque para votação em separado da emenda n 21\nretirados pelos autores os requerimentos ns 970 971 e 974 todos de 2024\nrejeitada a emenda n 14 destacada com o seguinte resultado sim  22 não  43 abstenção  0 presidente  1 total 66\nrejeitada a emenda n 16 destacada com o seguinte resultado sim  24 não  46  abstenção  0 presidente  1 total 71\nrejeitada a emenda n 20 destacada com o seguinte resultado sim  27 não  42 abstenção  0 presidente  1 total 70 \na matéria vai à sanção\nserá feita a devida comunicação à câmara dos deputados\nparecer n 259 de 2024plensf"
+        },
+        {
+            "documento": "avulso de emendas",
+            "data": "19122024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 25 da senadora professora dorinha",
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "19122024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "votação nominal da emenda n 20 ao projeto de lei n 210 de 2024 destacada"
+        },
+        {
+            "documento": "mpsf 3002024",
+            "data": "20122024",
+            "autor": "presidente do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à sanção o projeto de lei complementar n 2102024"
+        },
+        {
+            "documento": "ofsf 15522024",
+            "data": "20122024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha a mensagem do excelentíssimo senhor presidente do senado federal submetendo à sanção presidencial autógrafos\ndo projeto de lei complementar n 2102024"
+        },
+        {
+            "documento": "pg\n12\natividade legislativa\nprojeto de lei complementar n 210 de 2024\ndocumentos\nofsf 15532024",
+            "data": "20122024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica à câmara dos deputados o encaminhamento à presidência da república do projeto de lei complementar n 2102024"
+        },
+        {
+            "documento": "minuta",
+            "data": "20122024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "autógrafo  plp 2102024"
+        },
+        {
+            "documento": "autógrafo  plp 2102024",
+            "data": "20122024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "altera a lei complementar n 200 de 30 de agosto de 2023 que institui regime fiscal sustentável para garantir a estabilidade\nmacroeconômica do país e criar as condições adequadas ao crescimento socioeconômico revoga a lei complementar n 207 de\n16 de maio de 2024 e dá outras providências"
+        }
+    ]
 }

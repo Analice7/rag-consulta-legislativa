@@ -1,17 +1,313 @@
 {
-    "Atividade legislativa": "medida provisória n 1243 de 2024",
-    "Autoria": "presidência da república",
-    "Ementa": "abre crédito extraordinário em favor da justiça do trabalho e do ministério público da união no valor de r\n2716324200 para os fins que especifica",
-    "Explicação da Ementa": "essa medida provisória destinase a prover recursos extraordinários para atender as medidas",
-    "Assunto": "orçamento público   crédito adicional",
-    "Despacho": "18072024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\ncncmo comissão mista de planos orçamentos públicos e\nfiscalização",
-    "Relatoria": "cmo  comissão mista de planos orçamentos públicos e fiscalização\nrelatores\nsenador rogério carvalho encerrado em 10092024 \ndeliberação da matéria\nsenador hamilton mourão relator ad hoc encerrado em\n10092024  deliberação da matéria\ndeputado federal idilvan alencar relator revisor encerrado\nem 10092024  deliberação da matéria",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada na íntegra",
-        "Destino": "à promulgação",
-        "Último local": "13112024  secretaria de expediente",
-        "Último estado": "14112024  transformada em\nnorma jurídica"
+    "atividade legislativa": "medida provisória n 1243 de 2024",
+    "autoria": "presidência da república",
+    "ementa": "abre crédito extraordinário em favor da justiça do trabalho e do ministério público da união no valor de r\n2716324200 para os fins que especifica",
+    "explicação da ementa": "essa medida provisória destinase a prover recursos extraordinários para atender as medidas",
+    "assunto": "orçamento público   crédito adicional",
+    "despacho": "18072024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\ncncmo comissão mista de planos orçamentos públicos e\nfiscalização",
+    "relatoria": "cmo  comissão mista de planos orçamentos públicos e fiscalização\nrelatores\nsenador rogério carvalho encerrado em 10092024 \ndeliberação da matéria\nsenador hamilton mourão relator ad hoc encerrado em\n10092024  deliberação da matéria\ndeputado federal idilvan alencar relator revisor encerrado\nem 10092024  deliberação da matéria",
+    "tramitação encerrada": {
+        "decisão": "aprovada na íntegra",
+        "destino": "à promulgação",
+        "último local": "13112024  secretaria de expediente",
+        "último estado": "14112024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "cmo  comissão mista de planos orçamentos públicos e fiscalização\nrelatores\nsenador rogério carvalho encerrado em 10092024 \ndeliberação da matéria\nsenador hamilton mourão relator ad hoc encerrado em\n10092024  deliberação da matéria\ndeputado federal idilvan alencar relator revisor encerrado\nem 10092024  deliberação da matéria",
-    "Documentos": "cmo  comissão mista de planos orçamentos públicos e fiscalização\nrelatores\nsenador rogério carvalho encerrado em 10092024 \ndeliberação da matéria\nsenador hamilton mourão relator ad hoc encerrado em\n10092024  deliberação da matéria\ndeputado federal idilvan alencar relator revisor encerrado\nem 10092024  deliberação da matéria"
+    "tramitação": [
+        {
+            "data": "18112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "a matéria vai ao arquivo\nação"
+        },
+        {
+            "data": "18112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "remetido ofício cn n 322 de 181124 ao ministro de estado chefe da casa civil da presidência da república encaminhando a\nmensagem cn n 10724 ao excelentíssimo senhor presidente da república comunicando a aprovação da medida provisória e\nsua publicação como lei n 15023 de 13 de novembro de 2024 no diário oficial da união\nremetido ofício cn n 323 de 181124 ao senhor presidente da câmara dos deputados participando a promulgação da\nmatéria bem como o envio do texto promulgado para o arquivo daquela casa\nação\npg\n1\natividade legislativa\nmedida provisória n 1243 de 2024\ntramitação"
+        },
+        {
+            "data": "14112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica",
+            "ação": "cn mesa\npromulgada lei n 15023 de 2024\ndou diário oficial da união  14112024  seção i  pág 6\npromulgada em 13112024"
+        },
+        {
+            "data": "13112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovada a medida provisória",
+            "ação": "sessão deliberativa ordinária  realizada em 12112024\nencaminhada à publicação a presente mpv recebida no senado federal\nencerrada a discussão\naprovados conjuntamente os pressupostos de pertinência temática relevância e urgência adequação financeira e\norçamentária e o mérito da medida provisória nos termos do parecer\na matéria vai à promulgação\nserá feita a devida comunicação à câmara dos deputados"
+        },
+        {
+            "data": "11112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando leitura",
+            "ação": "aguardando leitura no senado federal"
+        },
+        {
+            "data": "08112024",
+            "órgão": "mesa  mesa diretora da câmara dos deputados",
+            "situação": null,
+            "ação": "apresentação do autógrafo\nremessa ao senado federal por meio do of n 1532024sgmp\nação"
+        },
+        {
+            "data": "04112024",
+            "órgão": "mesa  mesa diretora da câmara dos deputados",
+            "situação": null,
+            "ação": "apresentação da rdf n 1 plen redação final pelo deputado idilvan alencar pdtce\nação"
+        },
+        {
+            "data": "04112024",
+            "órgão": "plen  plenário",
+            "situação": null,
+            "ação": "leitura do recebimento do ofício n 2622024 do congresso nacional cn que encaminha o processado da medida provisória\nn 12432024 sessão deliberativa extraordinária de 04112024  17h  187ª sessão\ndiscussão em turno único\ndiscutiram a matéria dep marcel van hattem novors e dep cabo gilberto silva plpb\nencerrada a discussão\nvotação preliminar em turno único\naprovado em apreciação preliminar o parecer da comissão mista de planos orçamentos públicos e fiscalização na parte em\nque manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua\nadequação financeira e orçamentária nos termos do artigo 8 da resolução n 01 de 2002cn\nvotação quanto ao mérito em turno único\naprovada a medida provisória n 1243 de 2024\nvotação da redação final\nação\npg\n2\natividade legislativa\nmedida provisória n 1243 de 2024\ntramitação\naprovada a redação final assinada pelo dep idilvan alencar  pdtce\na matéria vai ao senado federal mpv 1243a2024"
+        },
+        {
+            "data": "11092024",
+            "órgão": "ccp  coordenação de comissões permanentes",
+            "situação": null,
+            "ação": "encaminhada à publicação publicação inicial em avulso e no dcd de 12092024\nação"
+        },
+        {
+            "data": "11092024",
+            "órgão": "mesa  mesa diretora da câmara dos deputados",
+            "situação": null,
+            "ação": "recebido o ofício n 2622024 do senado federal que encaminha nos termos do  8 do art 62 da constituição federal com a\nredação dada pela emenda constitucional n 32 a medida provisória n 1243 de 2024 que abre crédito extraordinário em\nfavor da justiça do trabalho e do ministério público da união no valor de r 2716324200 para os fins que especifica a\nmedida não foram oferecidas emendas e a comissão mista de planos orçamentos públicos e fiscalização emitiu o parecer n 24\nde 2024cn que conclui pela aprovação da matéria a matéria está disponível no portai do congresso nacional juntamente com\nos demais documentos que a compõem no seguinte linkhttps wwwcongressonacionaiiegbrmateriasmedidas\nprovisoriasmpv164783\napresentação da msc n 6022024 mensagem pelo poder executivo que submete à apreciação do congresso nacional o\ntexto da medida provisória n 12432024 que abre crédito extraordinário em favor da justiça do trabalho e do ministério\npúblico da união no valor de r 2716324200 para os fins que especifica\nrecebido paarecer 242024  da comissão mista de planos orçamentos públicos e fiscalização sobre a medida\nprovisória n 1243 de 2024 que abre crédito extraordinário em favor da justiça do trabalho e do ministério público da união\nno valor de r 2716324200 para os fins que especifica\nação"
+        },
+        {
+            "data": "11092024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "medida provisória enviada à câmara dos deputados",
+            "ação": "remetido ofício cn n 262 de 110924 encaminhando a medida provisória n 1243 de 2024 ao senhor presidente da câmara\ndos deputados nos termos do  8 do art 62 da constituição federal com a redação dada pela emenda constitucional n 32 à\nmedida não foram oferecidas emendas e a comissão mista de planos orçamentos públicos e fiscalização emitiu o parecer n 24\nde 2024cn que conclui pelo aprovação da matéria\nà cd"
+        },
+        {
+            "data": "10092024",
+            "órgão": "mesa  mesa diretora do congresso nacional",
+            "situação": null,
+            "ação": "será feita a publicação no diário do congresso nacional de 12092024 do parecer n 24 de 2024 da comissão mista de\nplanos orçamentos públicos e fiscalização que concluiu pela aprovação da medida provisória n 1243 de 2024 sem alteração\nde mérito conforme o texto proposto pelo poder executivo\nà secretaria de expediente para envio à câmara dos deputados\nação"
+        },
+        {
+            "data": "10092024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": null,
+            "ação": "encerrada a relatoria do deputado idilvan alencar por deliberação da matéria\nação"
+        },
+        {
+            "data": "10092024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": null,
+            "ação": "encerrada a relatoria do senador rogério carvalho por deliberação da matéria\nação"
+        },
+        {
+            "data": "10092024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": "aprovado parecer na comissão",
+            "ação": "a comissão mista de planos orçamentos públicos e fiscalização  cmo na continuação da nona reunião\nextraordinária realizada em 10 de setembro de 2024 aprovou o relatório do senador hamilton mourão relator ad hoc"
+        },
+        {
+            "data": "06092024",
+            "órgão": "sfslcn  secretaria legislativa do congresso nacional",
+            "situação": null,
+            "ação": "prorrogação do prazo para deliberação da medida provisória por 60 dias data final após prorrogação 14112024 motivação\nato do presidente da mesa do congresso nacional n 73 de  2024\nação\npublicado no dcn páginas 118  dcn n 33"
+        },
+        {
+            "data": "14082024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido do relator senador rogério carvalho relatório com voto pela aprovação da medida provisória na forma proposta pelo\npoder executivo não foram apresentadas emendas à medida provisória"
+        },
+        {
+            "data": "13082024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": "matéria com a relatoria",
+            "ação": "designados relator e relator revisor o senador rogério carvalho e o deputado idilvan alencar respectivamente"
+        },
+        {
+            "data": "25072024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": "aguardando designação do relator",
+            "ação": "encerrado o prazo regimental à medida provisória não foram apresentadas emendas"
+        },
+        {
+            "data": "23072024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": null,
+            "ação": "anexada nota técnica n 412024 que contém subsídios para análise de adequação orçamentária e financeira da medida\nprovisória n 12432024 elaborada pela consultoria de orçamentos fiscalização e controle  do senado federal\nação"
+        },
+        {
+            "data": "19072024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": "aguardando recebimento de emendas",
+            "ação": "aguardando recebimento de  emendas"
+        },
+        {
+            "data": "18072024",
+            "órgão": "mesa  mesa diretora do congresso nacional",
+            "situação": "matéria despachada",
+            "ação": "a matéria será encaminhada nos termos do  6 do art 2 da resolução n 1 de 2002cn à comissão mista de planos\norçamentos públicos e fiscalização onde receberá emendas\na matéria está publicada em avulso eletrônico\nserá feita a comunicação à câmara dos deputados"
+        },
+        {
+            "data": "18072024",
+            "órgão": "mesa  mesa diretora do congresso nacional",
+            "situação": "aguardando despacho",
+            "ação": "calendário de tramitação da medida provisória"
+        },
+        {
+            "data": "18072024",
+            "órgão": "a 15092024",
+            "situação": null,
+            "ação": " apresentação de emendas à medida provisória de 18072024 a 24072024 res 12002cn\n prazo na comissão \n regime de urgência obstruindo a pauta a partir de 01092024  46 dia\n a comissão mista deve obrigatoriamente emitir parecer antes de a matéria ser submetida aos plenários da câmara dos\ndeputados e do senado federal art 62  9  cf  ação direta de inconstitucionalidade n 4029  dou de 16032012\n as emendas poderão ser enviadas pelo sistema até as 23h59 do dia 24072024\n o prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado domingo ou feriado\npublicado no dcn páginas 6  dcn n 26\n18072024\nmesa  mesa diretora do congresso nacional\npublicada no dou de 18072024 nas páginas 2 e 3 a medida provisória 12432024\nação\npublicado no dou páginas 23"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "mpv 12432024",
+            "data": "18072024",
+            "autor": "presidência da república",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "calendário",
+            "data": "18072024",
+            "autor": "congresso nacional",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": "avulso inicial da matéria"
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "18072024",
+            "autor": "senado federal",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": "publicada no dou de 18072024 nas páginas 2 e 3 a medida provisória 12432024",
+            "descrição/Ementa": "pg\n5\natividade legislativa\nmedida provisória n 1243 de 2024\ndocumentos\n"
+        },
+        {
+            "documento": "nota técnica",
+            "data": "23072024",
+            "autor": "senado federal",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": null,
+            "descrição/Ementa": "nota técnica 412024  da consultoria de orçamentos fiscalização e controle do senado federal"
+        },
+        {
+            "documento": "ofício",
+            "data": "13082024",
+            "autor": "deputado federal julio arcoverde pppi",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": "designados relator e relator revisor o senador rogério carvalho e o deputado idilvan alencar respectivamente",
+            "descrição/Ementa": "designo relator da seguinte proposição o senador rogério carvalho"
+        },
+        {
+            "documento": "ofício",
+            "data": "13082024",
+            "autor": "deputado federal julio arcoverde pppi",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": "designados relator e relator revisor o senador rogério carvalho e o deputado idilvan alencar respectivamente",
+            "descrição/Ementa": "designo relator revisor  o deputado idilvan alencar"
+        },
+        {
+            "documento": "relatório sobre crédito",
+            "data": "14082024",
+            "autor": "senador rogério carvalho ptse",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão mista de planos orçamentos públicos e fiscalização sobre a medida provisória n 1243 de 2024 que\nabre crédito extraordinário em favor da justiça do trabalho e do ministério público da união no valor de r 2716324200\npara os fins que especifica"
+        },
+        {
+            "documento": "atcn 732024",
+            "data": "05092024",
+            "autor": "presidente da mesa do congresso nacional",
+            "local": "null",
+            "ação legislativa": null,
+            "descrição/Ementa": "prorroga o prazo de vigência da medida provisória n 12432024 pelo período de sessenta dias"
+        },
+        {
+            "documento": "decisão de comissão",
+            "data": "10092024",
+            "autor": "deputado federal julio arcoverde pppi",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": null,
+            "descrição/Ementa": "conclusão"
+        },
+        {
+            "documento": "par 242024  relatório",
+            "data": "10092024",
+            "autor": "comissão mista de planos orçamentos públicos e fiscalização",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão mista de planos orçamentos públicos e fiscalização sobre a medida provisória n 1243 de 2024 que\nabre crédito extraordinário em favor da justiça do trabalho e do ministério público da união no valor de r 2716324200\npara os fins que especifica"
+        },
+        {
+            "documento": "ofcn 2622024",
+            "data": "11092024",
+            "autor": "presidente do congresso nacional",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à câmara dos deputados a medida provisória n 1243 de 2024"
+        },
+        {
+            "documento": "autógrafo aprovado na",
+            "data": "11112024",
+            "autor": "câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "abre crédito extraordinário em favor da justiça do trabalho e do ministério público da união no valor de r 2716324200\nvinte e sete milhões cento e sessenta e três mil duzentos e quarenta e dois reais para os fins que especifica"
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "12112024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "avulso mpv 12432024"
+        },
+        {
+            "documento": "minuta",
+            "data": "13112024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "pg\n7\natividade legislativa\nmedida provisória n 1243 de 2024\ndocumentos\nofcn 3232024"
+        },
+        {
+            "documento": "pg\n7\natividade legislativa\nmedida provisória n 1243 de 2024\ndocumentos\nofcn 3232024",
+            "data": "18112024",
+            "autor": "presidente do congresso nacional",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à câmara dos deputados cópia de autógrafo promulgado da medida provisória n 1243 de 2024"
+        },
+        {
+            "documento": "mpcn 1072024",
+            "data": "18112024",
+            "autor": "presidente do congresso nacional",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à presidência da república cópia de autógrafo promulgado da medida provisória n 1243 de 2024"
+        },
+        {
+            "documento": "ofcn 3222024",
+            "data": "18112024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha a mensagem da presidência da mesa do congresso nacional participando a promulgação da medida provisória n\n1243 de 2024"
+        },
+        {
+            "documento": "autógrafo  mpv 12432024",
+            "data": "18112024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "abre crédito extraordinário em favor da justiça do trabalho e do ministério público da união no valor de r 2716324200\npara os fins que especifica"
+        }
+    ]
 }

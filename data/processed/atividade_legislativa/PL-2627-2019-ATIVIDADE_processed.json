@@ -1,17 +1,267 @@
 {
-    "Atividade legislativa": "projeto de lei n 2627 de 2019",
-    "Autoria": "câmara dos deputados",
-    "Iniciativa": "deputado federal roberto de lucena podemossp",
-    "Ementa": "institui o dia nacional do metodismo wesleyano",
-    "Assunto": "honorífico   data comemorativa",
-    "Despacho": "22052024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfce comissão de educação e cultura",
-    "Relatoria": "ce  comissão de educação e cultura\nrelatores\nsenador styvenson valentim encerrado em 12112024 \ndeliberação da matéria",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada por comissão em decisão",
-        "Destino": "à sanção",
-        "Último local": "18122024  secretaria de expediente",
-        "Último estado": "17122024  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei n 2627 de 2019",
+    "autoria": "câmara dos deputados",
+    "iniciativa": "deputado federal roberto de lucena podemossp",
+    "ementa": "institui o dia nacional do metodismo wesleyano",
+    "assunto": "honorífico   data comemorativa",
+    "despacho": "22052024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfce comissão de educação e cultura",
+    "relatoria": "ce  comissão de educação e cultura\nrelatores\nsenador styvenson valentim encerrado em 12112024 \ndeliberação da matéria",
+    "tramitação encerrada": {
+        "decisão": "aprovada por comissão em decisão",
+        "destino": "à sanção",
+        "último local": "18122024  secretaria de expediente",
+        "último estado": "17122024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "ce  comissão de educação e cultura\nrelatores\nsenador styvenson valentim encerrado em 12112024 \ndeliberação da matéria",
-    "Documentos": "ce  comissão de educação e cultura\nrelatores\nsenador styvenson valentim encerrado em 12112024 \ndeliberação da matéria"
+    "tramitação": [
+        {
+            "data": "19122024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "remetido ofício sf n 1466 de 191224 ao senhor primeirosecretário da câmara dos deputados comunicando para os\ndevidos fins que a presidência da república encaminhou ao senado federal a mensagem n 1658 de 2024 na origem\nrestituindo autógrafos do projeto de lei n 2627 de 2019 sancionado e transformado na lei n 15044 de 16 de dezembro de\n2024\nà coarq\nação"
+        },
+        {
+            "data": "18122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhada à publicação a mensagem da presidência da república n 1658 de 2024 na origem que restitui autógrafo do\nprojeto de lei n 2627 de 2019 sancionado e convertido na lei n 15044 de 16 de dezembro de 2024 será feita a devida\ncomunicação à câmara dos deputados\nação"
+        },
+        {
+            "data": "17122024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica",
+            "ação": "pr presidência da república\nsancionada lei 15044 de 2024\ndou diário oficial da união  17122024  seção i  págs 1 e 1\nsancionada em 16122024"
+        },
+        {
+            "data": "28112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "pg\n1\natividade legislativa\nprojeto de lei n 2627 de 2019\ntramitação\nremetida à sanção",
+            "ação": "remetido ofício sf n 1305 de 271124 ao senhor ministro de estado chefe da casa civil da presidência da república\nencaminhando a mensagem sf n 23824 ao excelentíssimo senhor presidente da república submetendo à sanção\npresidencial autógrafo do projeto\nremetido ofício sf n 1306 de 271124 ao senhor primeirosecretário da câmara dos deputados comunicando que o projeto\nfoi encaminhado à sanção presidencial"
+        },
+        {
+            "data": "25112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "25112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovada",
+            "ação": "encerrouse em 22 de novembro o prazo para interposição de recurso para apreciação pelo plenário do presente projeto\nnão foi apresentado recurso\na matéria aprovada terminativamente pela comissão de educação e cultura vai à sanção será feita a devida comunicação à\ncâmara dos deputados"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo interposição de recurso a decisão terminativa de comissão art 91  3 ao 5 do risf de 14112024 a 22112024\nperante a mesa\nação\npublicado no dsf páginas 521  dsf n 194"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando interposição de recurso",
+            "ação": "encaminhado à publicação o ofício n 440  de 2024 da comissão de educação e cultura comunicando a apreciação da matéria\nem caráter terminativo concluída a instrução da matéria fica aberto o prazo de cinco dias úteis para interposição de recurso\npor um décimo dos membros da casa para que seja apreciada pelo plenário nos termos do art 91  3 a 5 do regimento\ninterno"
+        },
+        {
+            "data": "12112024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": null,
+            "ação": "encerrada a relatoria do senador styvenson valentim por deliberação da matéria\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "apreciada em decisão terminativa pelas comissões",
+            "ação": "em reunião realizada em 12112024 foi aprovado em decisão terminativa o projeto quórum 14 sim 13 não 0 abstenções\n0\nà slsf"
+        },
+        {
+            "data": "05112024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 66ª reunião da comissão de educação e cultura agendada para o dia 12112024"
+        },
+        {
+            "data": "02072024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "em reunião realizada em 02072024 a apreciação da matéria foi adiada"
+        },
+        {
+            "data": "28062024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 38ª reunião da comissão de educação e cultura agendada para o dia 02072024"
+        },
+        {
+            "data": "25062024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido o relatório do senador styvenson valentim com voto pela aprovação do projeto"
+        },
+        {
+            "data": "12062024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao senador styvenson valentim para emitir relatório"
+        },
+        {
+            "data": "04062024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "aguardando designação do relator",
+            "ação": "não foram oferecidas emendas no prazo regimental\nmatéria aguardando distribuição"
+        },
+        {
+            "data": "28052024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": null,
+            "ação": "prazo para apresentação de emendas a projeto terminativo em comissão art 122 ii c do risf prorrogado até o dia\n03062024 devido à decretação de ponto facultativo no dia 31052024 nos termos do ato do primeirosecretário n 8 de\n2024\nação"
+        },
+        {
+            "data": "22052024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": null,
+            "ação": "prazo apresentação de emendas a projeto terminativo em comissão art 122 ii c do risf de 24052024 a 31052024\nperante a ce\nação"
+        },
+        {
+            "data": "22052024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando recebimento de emendas",
+            "ação": "a presente matéria vai à ce em decisão terminativa nos termos do art 91  1 iv do regimento interno do senado podendo\nreceber emendas perante mencionada comissão pelo prazo de cinco dias úteis nos termos do art 122 ii c do mesmo\nregimento"
+        },
+        {
+            "data": "10052024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando despacho",
+            "ação": "autuado o projeto de lei n 26272019 proveniente da câmara dos deputados o projeto vai à publicação"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "pl 26272019",
+            "data": "10052024",
+            "autor": "câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 26272019 proveniente da câmara dos deputados o projeto vai à publicação",
+            "descrição/Ementa": "institui o dia nacional do metodismo wesleyano"
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "10052024",
+            "autor": "senado federal",
+            "local": "null",
+            "ação legislativa": null,
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "25062024",
+            "autor": "senador styvenson valentim podemosrn",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": "recebido o relatório do senador styvenson valentim com voto pela aprovação do projeto",
+            "descrição/Ementa": "da comissão de educação e cultura sobre o projeto de lei n 2627 de 2019 que institui o dia nacional do metodismo\nwesleyano"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "12112024",
+            "autor": "comissão de educação e cultura",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 66ª reunião ce"
+        },
+        {
+            "documento": "ps 1262024  ce",
+            "data": "12112024",
+            "autor": "comissão de educação e cultura",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": "em reunião realizada em 12112024 foi aprovado em decisão terminativa o projeto quórum 14 sim 13 não 0 abstenções",
+            "descrição/Ementa": "pg\n4\natividade legislativa\nprojeto de lei n 2627 de 2019\ndocumentos\n0\nà slsf\nda comissão de educação e cultura sobre o projeto de lei n 2627 de 2019 que institui o dia nacional do metodismo\nwesleyano"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "12112024",
+            "autor": "comissão de educação e cultura",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de votação nominal da reunião da 66ª reunião ce"
+        },
+        {
+            "documento": "ofício",
+            "data": "12112024",
+            "autor": "presidente de comissão",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunicação de deliberação de matéria"
+        },
+        {
+            "documento": "minuta",
+            "data": "25112024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "mpsf 2382024"
+        },
+        {
+            "documento": "mpsf 2382024",
+            "data": "28112024",
+            "autor": "presidente do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à sanção o projeto de lei n 26272019"
+        },
+        {
+            "documento": "ofsf 13052024",
+            "data": "28112024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n5\natividade legislativa\nprojeto de lei n 2627 de 2019\ndocumentos\nencaminha a mensagem da presidência do senado federal submetendo à sanção presidencial autógrafos do projeto de lei n\n26272019"
+        },
+        {
+            "documento": "ofsf 13062024",
+            "data": "28112024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica à câmara dos deputados o encaminhamento à presidência da república do projeto de lei n 26272019"
+        },
+        {
+            "documento": "autógrafo  pl 26272019",
+            "data": "28112024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "institui o dia nacional do metodismo wesleyano"
+        },
+        {
+            "documento": "msg 16582024  presidência",
+            "data": "18122024",
+            "autor": "presidência da república",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "restitui o autógrafo do projeto de lei n 2627 de 2019 sancionado e convertido na lei n 15044 de 16 de dezembro de 2024"
+        },
+        {
+            "documento": "of 18482024  casa civil",
+            "data": "18122024",
+            "autor": "casa civil",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica a restituição do autógrafo sancionado e a lei n 15044 de 16 de dezembro de 2024 promulgada"
+        },
+        {
+            "documento": "autógrafo restituído após",
+            "data": "18122024",
+            "autor": "presidência da república",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "autógrafo restituído pela presidência da república ao senado federal após sanção"
+        },
+        {
+            "documento": "ofsf 14662024\npg\n6\natividade legislativa\nprojeto de lei n 2627 de 2019\ndocumentos",
+            "data": "19122024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica à câmara dos deputados o recebimento do autógrafo sancionado do projeto de lei n 2627 de 2019"
+        }
+    ]
 }

@@ -1,17 +1,225 @@
 {
-    "Atividade legislativa": "projeto de lei n 3819 de 2024",
-    "Autoria": "câmara dos deputados",
-    "Iniciativa": "presidência da república",
-    "Ementa": "altera a lei n 13903 de 19 de novembro de 2019 que autoriza a criação da empresa pública nav brasil serviços de\nnavegação aérea sa nav brasil",
-    "Assunto": "administração pública   organização administrativa",
-    "Despacho": "06122024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfcre comissão de relações exteriores e defesa nacional",
-    "Relatoria": "cre  comissão de relações exteriores e defesa nacional\nrelatores\nsenador esperidião amin encerrado em 10122024 \ndeliberação da matéria",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada pelo plenário",
-        "Destino": "à sanção",
-        "Último local": "17122024  secretaria de expediente",
-        "Último estado": "03012025  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei n 3819 de 2024",
+    "autoria": "câmara dos deputados",
+    "iniciativa": "presidência da república",
+    "ementa": "altera a lei n 13903 de 19 de novembro de 2019 que autoriza a criação da empresa pública nav brasil serviços de\nnavegação aérea sa nav brasil",
+    "assunto": "administração pública   organização administrativa",
+    "despacho": "06122024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfcre comissão de relações exteriores e defesa nacional",
+    "relatoria": "cre  comissão de relações exteriores e defesa nacional\nrelatores\nsenador esperidião amin encerrado em 10122024 \ndeliberação da matéria",
+    "tramitação encerrada": {
+        "decisão": "aprovada pelo plenário",
+        "destino": "à sanção",
+        "último local": "17122024  secretaria de expediente",
+        "último estado": "03012025  transformada em\nnorma jurídica"
     },
-    "Tramitação": "cre  comissão de relações exteriores e defesa nacional\nrelatores\nsenador esperidião amin encerrado em 10122024 \ndeliberação da matéria",
-    "Documentos": "cre  comissão de relações exteriores e defesa nacional\nrelatores\nsenador esperidião amin encerrado em 10122024 \ndeliberação da matéria"
+    "tramitação": [
+        {
+            "data": "03012025",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica",
+            "ação": "pr presidência da república\nsancionada lei 15083 de 2025\ndou diário oficial da união  03012025  seção i  págs 1 e 1\nsancionada em 02012025"
+        },
+        {
+            "data": "19122024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à sanção",
+            "ação": "remetido ofício sf n 1456 de 191224 ao senhor ministro de estado chefe da casa civil da presidência da república\nencaminhando a mensagem sf n 28624 ao excelentíssimo senhor presidente da república submetendo à sanção\npresidencial autógrafo do projeto\nremetido ofício sf n 1457 de 191224 ao senhor primeirosecretário da câmara dos deputados comunicando que o projeto\nfoi encaminhado à sanção presidencial"
+        },
+        {
+            "data": "17122024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "12122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovada",
+            "ação": "sessão deliberativa extraordinária realizada em 12122024\naprovado o requerimento n 23 de 2024cre que solicita urgência para a matéria\nencerrada a discussão\naprovado o projeto nos termos do parecer n 532024cre com a emenda n 1 de redação\nencaminhado à publicação o parecer n 224 de 2024plensf da comissão diretora oferecendo a redação final\naprovada a redação final\na matéria vai à sanção\nserá feita a devida comunicação à câmara dos deputados"
+        },
+        {
+            "data": "11122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "sessão deliberativa ordinária de 11122024 encerrada sem abertura da ordem do dia\nincluído em ordem do dia da sessão deliberativa extraordinária de 12122024\npendente de deliberação do requerimento n 23 de 2024 da comissão de relações exteriores e defesa nacional que solicita\nurgência para a matéria\nação"
+        },
+        {
+            "data": "10122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "incluída em ordem do dia",
+            "ação": "incluído em ordem do dia da sessão deliberativa ordinária de 11122024\npendente de deliberação do requerimento n 23 de 2024 da comissão de relações exteriores e defesa nacional que solicita\nurgência para a matéria  nos termos dos arts 336 ii e 338 ii do regimento interno"
+        },
+        {
+            "data": "10122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo apresentação de emendas a projeto que obteve parecer favorável da comissão art 235 ii d do risf de 12122024\na 18122024 perante a mesa\nação"
+        },
+        {
+            "data": "10122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando recebimento de emendas perante a mesa",
+            "ação": "concluída a instrução da matéria fica aberto o prazo de cinco dias úteis para recebimento de emendas nos termos do art 235\nii d do regimento interno"
+        },
+        {
+            "data": "10122024",
+            "órgão": "cre  comissão de relações exteriores e defesa nacional",
+            "situação": null,
+            "ação": "encerrada a relatoria do senador esperidião amin por deliberação da matéria\nação"
+        },
+        {
+            "data": "10122024",
+            "órgão": "cre  comissão de relações exteriores e defesa nacional",
+            "situação": "aprovado parecer na comissão",
+            "ação": "reunida a comissão nesta data é aprovado o relatório que passa a constituir parecer da comissão favorável ao projeto e à\nemenda n 1cre de redação\naprovada a apresentação do requerimento 232024cre de urgência para a matéria"
+        },
+        {
+            "data": "09122024",
+            "órgão": "cre  comissão de relações exteriores e defesa nacional",
+            "situação": null,
+            "ação": "recebido relatório do senador esperidião amin pela aprovação do projeto com uma emenda de redação\nação"
+        },
+        {
+            "data": "07122024",
+            "órgão": "cre  comissão de relações exteriores e defesa nacional",
+            "situação": null,
+            "ação": "apresentado requerimento urgência para matéria na comissão nesta data às 0828\nação"
+        },
+        {
+            "data": "06122024",
+            "órgão": "cre  comissão de relações exteriores e defesa nacional",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 16ª reunião da comissão de relações exteriores e defesa nacional agendada para o dia\n10122024"
+        },
+        {
+            "data": "06122024",
+            "órgão": "cre  comissão de relações exteriores e defesa nacional",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao senador esperidião amin para emitir relatório"
+        },
+        {
+            "data": "06122024",
+            "órgão": "cre  comissão de relações exteriores e defesa nacional",
+            "situação": "aguardando designação do relator",
+            "ação": "recebido na comissão na presente data"
+        },
+        {
+            "data": "06122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "matéria despachada",
+            "ação": "a matéria vai à comissão de relações exteriores e defesa nacional"
+        },
+        {
+            "data": "06122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando despacho",
+            "ação": "autuado o projeto de lei n 38192024 proveniente da câmara dos deputados o projeto vai à publicação"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "pl 38192024",
+            "data": "06122024",
+            "autor": "câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 38192024 proveniente da câmara dos deputados o projeto vai à publicação",
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "ofc 1832024  câmara dos",
+            "data": "06122024",
+            "autor": "presidente da câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminhamento da matéria para apreciação do senado federal"
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "06122024",
+            "autor": "senado federal",
+            "local": "null",
+            "ação legislativa": null,
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "09122024",
+            "autor": "senador esperidião amin ppsc",
+            "local": "comissão de relações exteriores e defesa nacional",
+            "ação legislativa": "recebido relatório do senador esperidião amin pela aprovação do projeto com uma emenda de redação",
+            "descrição/Ementa": "da comissão de relações exteriores e defesa nacional sobre o projeto de lei n 3819 de 2024 que altera a lei n\n13903 de 19 de novembro de 2019 que autoriza a criação da empresa pública nav brasil serviços de navegação aérea sa\nnav brasil"
+        },
+        {
+            "documento": "req 232024  cre",
+            "data": "10122024",
+            "autor": "comissão de relações exteriores e defesa nacional",
+            "local": "comissão de relações exteriores e defesa nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer nos termos dos arts 336 ii e 338 ii do regimento interno do senado federal urgência para o pl 38192024"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "10122024",
+            "autor": "comissão de relações exteriores e defesa nacional",
+            "local": "comissão de relações exteriores e defesa nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 16ª reunião cre"
+        },
+        {
+            "documento": "pg\n4\natividade legislativa\nprojeto de lei n 3819 de 2024\ndocumentos\nps 532024  cre",
+            "data": "10122024",
+            "autor": "comissão de relações exteriores e defesa nacional senador esperidião amin ppsc senador chico rodrigues psbrr",
+            "local": "comissão de relações exteriores e defesa nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão de relações exteriores e defesa nacional sobre o projeto de lei n 3819 de 2024 que altera a lei n\n13903 de 19 de novembro de 2019 que autoriza a criação da empresa pública nav brasil serviços de navegação aérea sa\nnav brasil"
+        },
+        {
+            "documento": "ps 2242024  plen",
+            "data": "12122024",
+            "autor": "comissão diretora do senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "parecer n 224 de 2024plensf da comissão diretora"
+        },
+        {
+            "documento": "minuta",
+            "data": "17122024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "mpsf 2862024"
+        },
+        {
+            "documento": "mpsf 2862024",
+            "data": "19122024",
+            "autor": "presidente do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à sanção o projeto de lei n 3819 de 2024"
+        },
+        {
+            "documento": "ofsf 14562024",
+            "data": "19122024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha a mensagem da presidência do senado federal submetendo à sanção presidencial autógrafos do projeto de lei n\n3819 de 2024"
+        },
+        {
+            "documento": "pg\n5\natividade legislativa\nprojeto de lei n 3819 de 2024\ndocumentos\nofsf 14572024",
+            "data": "19122024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica à câmara dos deputados o encaminhamento à presidência da república do projeto de lei n 3819 de 2024"
+        },
+        {
+            "documento": "autógrafo  pl 38192024",
+            "data": "19122024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "altera a lei n 13903 de 19 de novembro de 2019 que autoriza a criação da empresa pública nav brasil serviços de navegação\naérea sa nav brasil"
+        }
+    ]
 }

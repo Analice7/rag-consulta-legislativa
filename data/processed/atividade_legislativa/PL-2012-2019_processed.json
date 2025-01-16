@@ -1,17 +1,293 @@
 {
-    "Atividade legislativa": "projeto de lei n 2012 de 2019",
-    "Iniciativa": "senador weverton pdtma",
-    "Ementa": "altera a lei n 11350 de 5 de outubro de 2006 quanto à direitos dos agentes comunitários de saúde e dos agentes de\ncombate às endemias",
-    "Explicação da Ementa": "altera a disciplina do fornecimento ou custeio da locomoção para o exercício das atividades do",
-    "Assunto": "administração pública   agentes públicos",
-    "Despacho": "03042019\nleitura da matéria\nanálise  tramitação sucessiva instrução da matéria\nsfcae comissão de assuntos econômicos",
-    "Relatoria": "cae  comissão de assuntos econômicos\nrelatores\nsenador confúcio moura encerrado em 05122019 \nredistribuição\nsenador vanderlan cardoso encerrado em 28092021 \ndeliberação da matéria",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada por comissão em decisão",
-        "Destino": "à câmara dos deputados",
-        "Último local": "22112024  secretaria de atas e\ndiários",
-        "Último estado": "07112024  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei n 2012 de 2019",
+    "iniciativa": "senador weverton pdtma",
+    "ementa": "altera a lei n 11350 de 5 de outubro de 2006 quanto à direitos dos agentes comunitários de saúde e dos agentes de\ncombate às endemias",
+    "explicação da ementa": "altera a disciplina do fornecimento ou custeio da locomoção para o exercício das atividades do",
+    "assunto": "administração pública   agentes públicos",
+    "despacho": "03042019\nleitura da matéria\nanálise  tramitação sucessiva instrução da matéria\nsfcae comissão de assuntos econômicos",
+    "relatoria": "cae  comissão de assuntos econômicos\nrelatores\nsenador confúcio moura encerrado em 05122019 \nredistribuição\nsenador vanderlan cardoso encerrado em 28092021 \ndeliberação da matéria",
+    "tramitação encerrada": {
+        "decisão": "aprovada por comissão em decisão",
+        "destino": "à câmara dos deputados",
+        "último local": "22112024  secretaria de atas e\ndiários",
+        "último estado": "07112024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "cae  comissão de assuntos econômicos\nrelatores\nsenador confúcio moura encerrado em 05122019 \nredistribuição\nsenador vanderlan cardoso encerrado em 28092021 \ndeliberação da matéria",
-    "Documentos": "cae  comissão de assuntos econômicos\nrelatores\nsenador confúcio moura encerrado em 05122019 \nredistribuição\nsenador vanderlan cardoso encerrado em 28092021 \ndeliberação da matéria"
+    "tramitação": [
+        {
+            "data": "22112024",
+            "órgão": "sfseadi  secretaria de atas e diários",
+            "situação": null,
+            "ação": "a matéria vai ao arquivo\nação"
+        },
+        {
+            "data": "22112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o ofício n 591 de 2024 na origem que comunica a restituição do autógrafo do projeto de lei n\n2012 de 2019 sancionado e convertido na lei n 15014 de 6 de novembro de 2024\na matéria vai ao arquivo\nação"
+        },
+        {
+            "data": "07112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica",
+            "ação": "pr presidência da república\nsancionada lei 15014 de 2024\ndou diário oficial da união  07112024  seção i  págs 2 e 2"
+        },
+        {
+            "data": "06112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o ofício n 454 de 2024 na origem do primeirosecretário da câmara dos deputados que comunica\no envio à sanção do projeto de lei n 2012 de 2019\na matéria vai à secretaria de expediente\nação\npublicado no dsf páginas 200201  dsf n 180"
+        },
+        {
+            "data": "15102021",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à câmara dos deputados",
+            "ação": "remetido ofício sf n  592 de 151021 ao primeirosecretário da câmara dos deputados encaminhando o projeto para\nrevisão nos termos do art 65 da constituição federal\nà coarq"
+        },
+        {
+            "data": "13102021",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "07102021",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovada a matéria decisão terminativa",
+            "ação": "comunicado o encerramento do prazo em 6 de outubro para interposição de recurso para apreciação pelo plenário do projeto\nde lei n 2012 de 2019\nnão houve interposição de recurso\ntendo sido aprovada terminativamente pela cae a matéria vai à câmara dos deputados"
+        },
+        {
+            "data": "07102021",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "disponibilizado texto final revisado\nação"
+        },
+        {
+            "data": "28092021",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo interposição de recurso a decisão terminativa de comissão art 91  3 ao 5 do risf de 30092021 a 06102021\nperante a mesa\nação"
+        },
+        {
+            "data": "28092021",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando interposição de recurso",
+            "ação": "encaminhado à publicação o ofício n 18 de 2021 da cae comunicando a apreciação da matéria em caráter terminativo\nconcluída a instrução da matéria fica aberto o prazo de cinco dias úteis para interposição de recurso por um décimo dos\nmembros da casa para que o projeto seja apreciado pelo plenário nos termos do art 91  3 a 5 do regimento interno"
+        },
+        {
+            "data": "28092021",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "pg\n2\natividade legislativa\nprojeto de lei n 2012 de 2019\ntramitação\naprovado parecer na comissão",
+            "ação": "encerrada a relatoria do senador vanderlan cardoso por deliberação da matéria"
+        },
+        {
+            "data": "28092021",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "apreciada em decisão terminativa pelas comissões",
+            "ação": "em reunião realizada nesta data a comissão aprova a emenda n 1cae substitutivo com treze votos favoráveis nenhum voto\ncontrário e  nenhuma abstenção ficando prejudicado o projeto\nanexados o parecer da comissão o texto final e o ofício n 182021cae comunicando ao presidente do senado federal a\naprovação do projeto\nà slsf em cumprimento ao art 91 do regimento interno do senado federal"
+        },
+        {
+            "data": "23092021",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 12ª reunião da comissão de assuntos econômicos agendada para o dia 28092021"
+        },
+        {
+            "data": "21092021",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "em reunião realizada nesta data o relatório é lido pelo senador vanderlan cardoso relator da matéria\nencerrada a discussão a votação da matéria é adiada"
+        },
+        {
+            "data": "16092021",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 11ª reunião da comissão de assuntos econômicos agendada para o dia 21092021"
+        },
+        {
+            "data": "14092021",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "reunida a comissão nesta data a matéria é retirada de pauta"
+        },
+        {
+            "data": "14092021",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "o relator senador vanderlan cardoso apresentou novo relatório pela aprovação do projeto nos termos do substitutivo de sua\nautoria\nação"
+        },
+        {
+            "data": "31082021",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 10ª reunião da comissão de assuntos econômicos agendada para o dia 1492021"
+        },
+        {
+            "data": "24092020",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "o relator senador vanderlan cardoso apresentou relatório pela aprovação do projeto com duas emendas de sua autoria"
+        },
+        {
+            "data": "19122019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "matéria com a relatoria",
+            "ação": "redistribuído ao senador vanderlan cardoso para emitir relatório"
+        },
+        {
+            "data": "05122019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "aguardando designação do relator",
+            "ação": "devolvido pelo senador confúcio moura para redistribuição"
+        },
+        {
+            "data": "15042019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao senador confúcio moura para emitir relatório"
+        },
+        {
+            "data": "12042019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "aguardando designação do relator",
+            "ação": "encerrado o prazo regimental não foram apresentadas emendas\nmatéria aguardando distribuição"
+        },
+        {
+            "data": "03042019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "prazo para apresentação de emendas art 122 ii c  1 do risf\nprimeiro dia 05042019\núltimo dia 11042019\nação"
+        },
+        {
+            "data": "03042019",
+            "órgão": "sfseadi  secretaria de atas e diários",
+            "situação": "aguardando recebimento de emendas",
+            "ação": "encaminhado à publicação\nà cae em decisão terminativa\neste processado contém 1 uma folhas numerada"
+        },
+        {
+            "data": "03042019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "prazo apresentação de emendas a projeto terminativo em comissão art 122 ii c do risf de 05042019 a 11042019\nperante a cae\nação"
+        },
+        {
+            "data": "03042019",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "leitura da matéria na sessão do sf n42 em 03042019\nação\npg\n4\natividade legislativa\nprojeto de lei n 2012 de 2019"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "pl 20122019",
+            "data": "03042019",
+            "autor": "senador weverton pdtma",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "03042019",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "24092020",
+            "autor": "senador vanderlan cardoso psdgo",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": "o relator senador vanderlan cardoso apresentou relatório pela aprovação do projeto com duas emendas de sua autoria",
+            "descrição/Ementa": "relatório legislativo"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "14092021",
+            "autor": "senador vanderlan cardoso psdgo",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório ao pl 2012 de 2019  cae"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "28092021",
+            "autor": "comissão de assuntos econômicos",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 12ª reunião cae"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "28092021",
+            "autor": "comissão de assuntos econômicos",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de votação nominal da reunião da 12ª reunião cae"
+        },
+        {
+            "documento": "ofício",
+            "data": "28092021",
+            "autor": "pg",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "ps 212021  cae"
+        },
+        {
+            "documento": "ps 212021  cae",
+            "data": "28092021",
+            "autor": "comissão de assuntos econômicos senador vanderlan cardoso psdgo",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório ao pl 2012 de 2019  cae"
+        },
+        {
+            "documento": "texto final da comissão ",
+            "data": "28092021",
+            "autor": "senador",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "altera a lei n 11350 de 5 de outubro de 2006 quanto à direitos dos agentes comunitários de saúde e dos agentes de\ncombate às endemias"
+        },
+        {
+            "documento": "texto final revisado  projeto",
+            "data": "07102021",
+            "autor": "coordenação de redação legislativa",
+            "local": "plenário do senado federal",
+            "ação legislativa": "disponibilizado texto final revisado",
+            "descrição/Ementa": "altera a lei n 11350 de 5 de outubro de 2006 quanto à direitos dos agentes comunitários de saúde e dos agentes de\ncombate às endemias"
+        },
+        {
+            "documento": "ofsf 5922021",
+            "data": "15102021",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à revisão da câmara dos deputados o projeto de lei n 2012 de 2019"
+        },
+        {
+            "documento": "autógrafo  pl 20122019",
+            "data": "15102021",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "altera a lei n 11350 de 5 de outubro de 2006 quanto à direitos dos agentes comunitários de saúde e dos agentes de\ncombate às endemias"
+        },
+        {
+            "documento": "ofc 4542024  câmara dos",
+            "data": "17102024",
+            "autor": "primeirosecretário da câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica o envio à sanção do projeto de lei n 2012 de 2019"
+        },
+        {
+            "documento": "ofc 5912024  câmara dos",
+            "data": "22112024",
+            "autor": "primeirosecretário da câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica a restituição de autógrafo do projeto de lei n 2012 de 2019 sancionado e convertido na lei n 15014 de 6 de\nnovembro de 2024"
+        }
+    ]
 }

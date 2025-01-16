@@ -1,17 +1,261 @@
 {
-    "Atividade legislativa": "projeto de lei n 2750 de 2024",
-    "Autoria": "câmara dos deputados",
-    "Iniciativa": "presidência da república",
-    "Ementa": "altera as leis ns 13999 de 18 de maio de 2020 e 12087 de 11 de novembro de 2009 para autorizar o aumento da\nparticipação da união no fundo garantidor de operações fgo com o objetivo de garantir as operações contratadas\nno âmbito do programa nacional de fortalecimento da agricultura familiar pronaf e dá outras providências",
-    "Assunto": "economia e desenvolvimento   finanças públicas",
-    "Despacho": "08102024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfcae comissão de assuntos econômicos",
-    "Relatoria": "cae  comissão de assuntos econômicos\nrelatores\nsenadora teresa leitão encerrado em 29102024 \ndeliberação da matéria",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada pelo plenário",
-        "Destino": "à sanção",
-        "Último local": "01112024  secretaria de expediente",
-        "Último estado": "28112024  transformada em\nnorma jurídica com veto parcial"
+    "atividade legislativa": "projeto de lei n 2750 de 2024",
+    "autoria": "câmara dos deputados",
+    "iniciativa": "presidência da república",
+    "ementa": "altera as leis ns 13999 de 18 de maio de 2020 e 12087 de 11 de novembro de 2009 para autorizar o aumento da\nparticipação da união no fundo garantidor de operações fgo com o objetivo de garantir as operações contratadas\nno âmbito do programa nacional de fortalecimento da agricultura familiar pronaf e dá outras providências",
+    "assunto": "economia e desenvolvimento   finanças públicas",
+    "despacho": "08102024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfcae comissão de assuntos econômicos",
+    "relatoria": "cae  comissão de assuntos econômicos\nrelatores\nsenadora teresa leitão encerrado em 29102024 \ndeliberação da matéria",
+    "tramitação encerrada": {
+        "decisão": "aprovada pelo plenário",
+        "destino": "à sanção",
+        "último local": "01112024  secretaria de expediente",
+        "último estado": "28112024  transformada em\nnorma jurídica com veto parcial"
     },
-    "Tramitação": "cae  comissão de assuntos econômicos\nrelatores\nsenadora teresa leitão encerrado em 29102024 \ndeliberação da matéria",
-    "Documentos": "cae  comissão de assuntos econômicos\nrelatores\nsenadora teresa leitão encerrado em 29102024 \ndeliberação da matéria"
+    "tramitação": [
+        {
+            "data": "28112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica com veto parcial",
+            "ação": "pr presidência da república\nsancionada lei 15034 de 2024 vetada parcialmente vide msg 1526 de 2024\ndou diário oficial da união  28112024  seção i  págs 1 e 2\nsancionada em 27112024"
+        },
+        {
+            "data": "05112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à sanção",
+            "ação": "remetido ofício sf n 1260 de 051124 ao senhor ministro de estado chefe da casa civil da presidência da república\nencaminhando a mensagem sf n 22924 ao excelentíssimo senhor presidente da república submetendo à sanção\npresidencial autógrafo do projeto\nremetido ofício sf n 1261 de 051124 ao senhor primeirosecretário da câmara dos deputados comunicando que o projeto\nfoi encaminhado à sanção presidencial"
+        },
+        {
+            "data": "01112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "30102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovada",
+            "ação": "sessão deliberativa ordinária realizada em 30102024\nencerrada a discussão da matéria\naprovado o projeto com as emendas ns 5 a 7 de redação\nencaminhado à publicação o parecer n 179 de 2024plensf da comissão diretora oferecendo a redação final\naprovada a redação final\na matéria vai à sanção\nserá feita a devida comunicação à câmara dos deputados"
+        },
+        {
+            "data": "29102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "incluída em ordem do dia",
+            "ação": "incluído em ordem do dia da sessão deliberativa ordinária de 30102024\ndiscussão em turno único"
+        },
+        {
+            "data": "29102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "pronto para deliberação do plenário",
+            "ação": "concluída a instrução da matéria o projeto de lei aguardará inclusão em ordem do dia oportunamente"
+        },
+        {
+            "data": "29102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "aguardando inclusão em ordem do dia\ndiscussão em turno único\nação"
+        },
+        {
+            "data": "29102024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "encerrada a relatoria da senadora teresa leitão por deliberação da matéria\nação"
+        },
+        {
+            "data": "29102024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "aprovado parecer na comissão",
+            "ação": "em reunião realizada nesta data a comissão aprova o relatório da senadora tereza leitão que passa a constituir o parecer da\ncae favorável ao projeto com as emendas ns 5 a 7cae e contrário às  emendas ns 1 a 4u\nanexado o parecer da comissão\nà slsf"
+        },
+        {
+            "data": "29102024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "incluída na pauta da reunião",
+            "ação": "a relatora senadora teresa leitão apresentou relatório favorável ao projeto com três emendas de sua autoria e contrário às\nemendas ns 1u a 4u"
+        },
+        {
+            "data": "24102024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 62ª reunião da comissão de assuntos econômicos agendada para o dia 29102024"
+        },
+        {
+            "data": "17102024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído à senadora teresa leitão para emitir relatório"
+        },
+        {
+            "data": "17102024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "aguardando designação do relator",
+            "ação": "encerrado o prazo regimental foram apresentadas as emendas ns 1u a 4u\nmatéria aguardando distribuição"
+        },
+        {
+            "data": "17102024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "em 16102024 foram apresentadas as emendas ns 1u a 4u de autoria do senador mecias de jesus\nação"
+        },
+        {
+            "data": "09102024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "matéria em prazo de recebimento de emendas art 122 ii b do risf\nação"
+        },
+        {
+            "data": "08102024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "prazo apresentação de emendas a projeto de iniciativa do presidente da república com tramitação urgente art 122 ii b\ncombinado com o art 375 i do risf e art 64  1 da cf de 10102024 a 16102024 perante a cae\nação"
+        },
+        {
+            "data": "08102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo apreciação de projeto de lei de iniciativa do presidente da república em rito ordinário início do regime de urgência art\n375 do risf combinado com o art 64  1 da cf de 10102024 a 23112024\nação"
+        },
+        {
+            "data": "08102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando recebimento de emendas",
+            "ação": "a matéria terá tramitação com prazo determinado de quarenta e cinco dias nos termos do art 64  1 da constituição\ncombinado com o art 375 do regimento interno e será apreciada pela comissão de assuntos econômicos podendo receber\nemendas perante a comissão pelo prazo único de cinco dias úteis nos termos do art 122 ii b do regimento interno"
+        },
+        {
+            "data": "08102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando despacho",
+            "ação": "autuado o projeto de lei n 27502024 proveniente da câmara dos deputados o projeto vai à publicação"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "pl 27502024",
+            "data": "08102024",
+            "autor": "câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 27502024 proveniente da câmara dos deputados o projeto vai à publicação",
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "08102024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 27502024 proveniente da câmara dos deputados o projeto vai à publicação",
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "ofício",
+            "data": "08102024",
+            "autor": "presidente da câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha ao senado federal o projeto de lei n 2750 de 2024 do poder executivo"
+        },
+        {
+            "documento": "emenda 1u  pl 27502024",
+            "data": "17102024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": "em 16102024 foram apresentadas as emendas ns 1u a 4u de autoria do senador mecias de jesus",
+            "descrição/Ementa": "emenda 1 ao pl 27502024"
+        },
+        {
+            "documento": "emenda 2u  pl 27502024",
+            "data": "17102024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": "em 16102024 foram apresentadas as emendas ns 1u a 4u de autoria do senador mecias de jesus",
+            "descrição/Ementa": "emenda 2 ao pl 27502024"
+        },
+        {
+            "documento": "pg\n4\natividade legislativa\nprojeto de lei n 2750 de 2024\ndocumentos\nemenda 3u  pl 27502024",
+            "data": "17102024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": "em 16102024 foram apresentadas as emendas ns 1u a 4u de autoria do senador mecias de jesus",
+            "descrição/Ementa": "emenda 3 ao pl 27502024"
+        },
+        {
+            "documento": "emenda 4u  pl 27502024",
+            "data": "17102024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": "em 16102024 foram apresentadas as emendas ns 1u a 4u de autoria do senador mecias de jesus",
+            "descrição/Ementa": "emenda 4 ao pl 27502024"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "29102024",
+            "autor": "senadora teresa leitão ptpe",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão de assuntos econômicos sobre o projeto de lei n 2750 de 2024 que altera as leis ns 13999 de 18 de\nmaio de 2020 e 12087 de 11 de novembro de 2009 para autorizar o aumento da participação da união no fundo garantidor\nde operações fgo com o objetivo de garantir as operações contratadas no âmbito do programa nacional de fortalecimento\nda agricultura familiar pronaf e dá outras providências"
+        },
+        {
+            "documento": "ps 1072024  cae",
+            "data": "29102024",
+            "autor": "comissão de assuntos econômicos senadora teresa leitão ptpe senador vanderlan cardoso psdgo senadora teresa",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão de assuntos econômicos sobre o projeto de lei n 2750 de 2024 que altera as leis ns 13999 de 18 de\nmaio de 2020 e 12087 de 11 de novembro de 2009 para autorizar o aumento da participação da união no fundo garantidor\nde operações fgo com o objetivo de garantir as operações contratadas no âmbito do programa nacional de fortalecimento\nda agricultura familiar pronaf e dá outras providências"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "29102024",
+            "autor": "comissão de assuntos econômicos",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 62ª reunião cae"
+        },
+        {
+            "documento": "pg\n5\natividade legislativa\nprojeto de lei n 2750 de 2024\ndocumentos\nps 1792024  plen",
+            "data": "30102024",
+            "autor": "comissão diretora do senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "parecer n 179 de 2024plensf redação final"
+        },
+        {
+            "documento": "minuta",
+            "data": "01112024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "ofsf 12612024"
+        },
+        {
+            "documento": "ofsf 12612024",
+            "data": "05112024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica à câmara dos deputados o encaminhamento à presidência da república do projeto de lei n 2750 de 2024"
+        },
+        {
+            "documento": "mpsf 2292024",
+            "data": "05112024",
+            "autor": "presidente do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à sanção o projeto de lei n 2750 de 2024"
+        },
+        {
+            "documento": "ofsf 12602024",
+            "data": "05112024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha a mensagem da presidência do senado federal submetendo à sanção presidencial autógrafos do projeto de lei n\n2750 de 2024"
+        },
+        {
+            "documento": "pg\n6\natividade legislativa\nprojeto de lei n 2750 de 2024\ndocumentos\nautógrafo  pl 27502024",
+            "data": "05112024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "altera as leis ns 13999 de 18 de maio de 2020 e 12087 de 11 de novembro de 2009 para autorizar o aumento da\nparticipação da união no fundo garantidor de operações fgo com o objetivo de garantir as operações contratadas no âmbito\ndo programa nacional de fortalecimento da agricultura familiar pronaf e dá outras providências"
+        }
+    ]
 }

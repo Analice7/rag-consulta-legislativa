@@ -1,17 +1,937 @@
 {
-    "Atividade legislativa": "projeto de lei n 528 de 2020",
-    "Autoria": "câmara dos deputados",
-    "Iniciativa": "deputado federal jerônimo goergen pprs",
-    "Ementa": "dispõe sobre a promoção da mobilidade sustentável de baixo carbono e a captura e a estocagem geológica de dióxido\nde carbono institui o programa nacional de combustível sustentável de aviação probioqav o programa nacional de\ndiesel verde pndv e o programa nacional de descarbonização do produtor e importador de gás natural e de\nincentivo ao biometano e altera as leis ns 9478 de 6 de agosto de 1997 9847 de 26 de outubro de 1999 8723 de\n28 de outubro de 1993 e 13033 de 24 de setembro de 2014",
-    "Assunto": "infraestrutura   minas e energia",
-    "Despacho": "19032024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfci comissão de serviços de infraestrutura\npg\n1\natividade legislativa\nprojeto de lei n 528 de 2020",
-    "Relatoria": "ci  comissão de serviços de infraestrutura\nrelatores\nsenador veneziano vital do rêgo encerrado em 03092024 \ndeliberação da matéria\nplen  plenário do senado federal\nrelatores\nsenador veneziano vital do rêgo encerrado em 04092024 \nmatéria deliberada no plenário",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada pelo plenário",
-        "Destino": "à câmara dos deputados",
-        "Último local": "20092024  secretaria de expediente",
-        "Último estado": "09102024  transformada em\nnorma jurídica com veto parcial"
+    "atividade legislativa": "projeto de lei n 528 de 2020",
+    "autoria": "câmara dos deputados",
+    "iniciativa": "deputado federal jerônimo goergen pprs",
+    "ementa": "dispõe sobre a promoção da mobilidade sustentável de baixo carbono e a captura e a estocagem geológica de dióxido\nde carbono institui o programa nacional de combustível sustentável de aviação probioqav o programa nacional de\ndiesel verde pndv e o programa nacional de descarbonização do produtor e importador de gás natural e de\nincentivo ao biometano e altera as leis ns 9478 de 6 de agosto de 1997 9847 de 26 de outubro de 1999 8723 de\n28 de outubro de 1993 e 13033 de 24 de setembro de 2014",
+    "assunto": "infraestrutura   minas e energia",
+    "despacho": "19032024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfci comissão de serviços de infraestrutura\npg\n1\natividade legislativa\nprojeto de lei n 528 de 2020",
+    "relatoria": "ci  comissão de serviços de infraestrutura\nrelatores\nsenador veneziano vital do rêgo encerrado em 03092024 \ndeliberação da matéria\nplen  plenário do senado federal\nrelatores\nsenador veneziano vital do rêgo encerrado em 04092024 \nmatéria deliberada no plenário",
+    "tramitação encerrada": {
+        "decisão": "aprovada pelo plenário",
+        "destino": "à câmara dos deputados",
+        "último local": "20092024  secretaria de expediente",
+        "último estado": "09102024  transformada em\nnorma jurídica com veto parcial"
     },
-    "Tramitação": "ci  comissão de serviços de infraestrutura\nrelatores\nsenador veneziano vital do rêgo encerrado em 03092024 \ndeliberação da matéria\nplen  plenário do senado federal\nrelatores\nsenador veneziano vital do rêgo encerrado em 04092024 \nmatéria deliberada no plenário",
-    "Documentos": "ci  comissão de serviços de infraestrutura\nrelatores\nsenador veneziano vital do rêgo encerrado em 03092024 \ndeliberação da matéria\nplen  plenário do senado federal\nrelatores\nsenador veneziano vital do rêgo encerrado em 04092024 \nmatéria deliberada no plenário"
+    "tramitação": [
+        {
+            "data": "09102024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica com veto parcial",
+            "ação": "pr presidência da república\nsancionada lei 14993 de 2024 vetada parcialmente vide msg 1244 de 2024\ndou diário oficial da união  09102024  seção i  págs 1 e 4\nsancionada em 08102024\nà coarq"
+        },
+        {
+            "data": "20092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o ofício n 504 de 2024 da câmara dos deputados que comunica o envio à sanção do projeto de lei\nn 528 de 2020\na matéria vai à secretaria de expediente\nação\npublicado no dsf páginas 9  dsf n 160\npublicado no dsf páginas 11  dsf n 160"
+        },
+        {
+            "data": "10092024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à câmara dos deputados",
+            "ação": "remetido ofício sf n 974 de 100924 ao senhor primeirosecretário da câmara dos deputados comunicando que o senado\nfederal aprovou o presente projeto em revisão e com emendas e encaminhando o autógrafo para apreciação"
+        },
+        {
+            "data": "06092024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "04092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovada",
+            "ação": "sessão deliberativa ordinária realizada em 04092024\nencaminhadas à publicação as emendas ns 45 a 47\naprovado o requerimento n 88 de 2024 da comissão de serviços de infraestrutura a qual solicita regime de urgência para a\nmatéria com votos contrários dos senadores irajá e eduardo girão\nprejudicado o requerimento n 203 de 2024  por meio do qual se requer a oitiva da comissão de assuntos econômicos\nencaminhado à publicação o parecer n 153 de 2024plensf proferido pelo senado veneziano vital do rêgo parcialmente\nfavorável à emenda n 46 na forma da emenda n 49 que apresenta pela apresentação da emenda n 48 pela prejudicialidade\ndas emendas ns 25 e 35 e contrário às demais emendas de plenário\nencerrada a discussão da matéria\ndeferidos  e encaminhados à publicação  os requerimentos ns 623 e 624 de 2024 de destaques para votações em separado\nrespectivamente das emendas ns 45 e 47\naprovado o projeto com as emendas ns 15 22 28 a 34 36 a 44 48 e 49 ressalvados os destaques com voto contrário do\nsenador eduardo girão\naprovada a emenda n 45 objeto de destaque em votação nominal concedida de ofício pela presidência com o seguinte\nresultado sim  44 não  25 presidente  1 total  70\naprovada a emenda n 47 na forma da subemenda apresentada pelo senador veneziano vital do rêgo em complemento ao\nparecer n 153 de 2024plensf\nencaminhado à publicação o parecer n 154 de 2024plensf da comissão diretora oferecendo a redação final\naprovada a redação final\na matéria retorna à câmara dos deputados"
+        },
+        {
+            "data": "04092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o relatório do senador veneziano vital do rêgo\nação"
+        },
+        {
+            "data": "04092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 624 de 2024 da liderança do pp de destaque para votação em separado da emenda n 47\nação"
+        },
+        {
+            "data": "04092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 47 da senadora tereza cristina\nação"
+        },
+        {
+            "data": "04092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 46 do senador esperidião amin\nação"
+        },
+        {
+            "data": "04092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 623 de 2024 da liderança do psd de destaque para votação em separado da emenda n 45\nação"
+        },
+        {
+            "data": "04092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "designado relator de plenário o senador veneziano vital do rêgo\nação"
+        },
+        {
+            "data": "04092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 45 do senador irajá\nação"
+        },
+        {
+            "data": "03092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "incluída em ordem do dia",
+            "ação": "incluído em ordem do dia da sessão deliberativa ordinária de 04092024\npendente de aprovação do requerimento n 88 de 2024 da comissão de serviços de infraestrutura que solicita urgência para\na matéria nos termos dos arts 336 ii e 338 iv do risf"
+        },
+        {
+            "data": "03092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo apresentação de emendas a projeto que obteve parecer favorável da comissão art 235 ii d do risf de 05092024\na 11092024 perante a mesa\nação"
+        },
+        {
+            "data": "03092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando recebimento de emendas perante a mesa",
+            "ação": "concluída a instrução da matéria fica aberto o prazo de cinco dias úteis para recebimento de emendas nos termos do art 235\nii d do regimento interno"
+        },
+        {
+            "data": "03092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido em 2532024 o requerimento n 203 de 2024 do senador vanderlan cardoso que requer a oitiva da comissão de\nassuntos econômicos\nação"
+        },
+        {
+            "data": "03092024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "encerrada a relatoria do senador veneziano vital do rêgo por deliberação da matéria\nação"
+        },
+        {
+            "data": "03092024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "aprovado parecer na comissão",
+            "ação": "reunida a comissão nessa data é lida a complementação de voto e acolhida pelo relator senador veneziano vital do rêgo a\nemenda n 22 do senador laércio oliveira o relatório é aprovado passando a constituir parecer da ci pela aprovação do\nprojeto e das emendas n 15 22 25 e das emendas do relator emendas n 28 a 44 com acolhimento das emendas n 5 20 23\n24 e 26 acolhimento parcial das emendas n 6 8 9 13 14 16 e 17 e rejeição das demais emendas\né aprovado requerimento de urgência para o pl 5282020 de autoria do senador beto faro requerimento n 882024ci\njuntados o parecer da ci e o requerimento de urgência\nà slsf"
+        },
+        {
+            "data": "03092024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "apresentado requerimento urgência para matéria na comissão nesta data às 1050\nação"
+        },
+        {
+            "data": "03092024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "o senador veneziano vital do rêgo apresenta nesta data complementação de voto ao relatório anteriormente submetido à\ncomissão\nação"
+        },
+        {
+            "data": "02092024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "incluída na pauta da reunião",
+            "ação": "nessa data o senador confúcio moura apresenta as emendas n 24 e 25 o senador weverton apresenta a emenda n 26 e o\nsenador esperidião amin apresenta a emenda n 27 ao pl 5282020\nao relator para manifestarse acerca das emendas apresentadas\na matéria está na pauta da reunião deliberativa agendada para o dia 03092024"
+        },
+        {
+            "data": "02092024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "nessa data o senador laércio oliveira apresenta a emenda n 22 e o senador jorge kajuru apresenta a emenda n 23 ao pl\n5282020\nao relator para manifestarse acerca das emendas apresentadas\na matéria está na pauta da reunião deliberativa agendada para o dia 03092024\nação"
+        },
+        {
+            "data": "30082024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "a senadora augusta brito apresenta a emenda n 21 ao pl 5282020\nação\npg\n4\natividade legislativa\nprojeto de lei n 528 de 2020\ntramitação"
+        },
+        {
+            "data": "29082024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "o senador  astronauta marcos pontes apresenta a emenda n 20 ao pl 5282020\nação"
+        },
+        {
+            "data": "27082024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "o senador esperidião amin apresenta as emendas n 18 e n 19 ao pl 5282020\nação"
+        },
+        {
+            "data": "21082024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "o senador esperidião amin apresenta a emenda n 17 ao pl 5282020\nação"
+        },
+        {
+            "data": "20082024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "recebida a emenda n 16 ao pl 5282020 de autoria do senador otto alencar para que suprima  7 do art 17 do projeto de lei\nn 5282020\nação"
+        },
+        {
+            "data": "20082024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "matéria com a relatoria",
+            "ação": "o senador zequinha marinho apresenta as emendas 14 e 15 ao pl 5282020\nna reunião da comissão realizada em 20082024 após a leitura do relatório foi concedida vista coletiva\no projeto é restituído ao relator senador veneziano vital do rêgo para manifestação acerca das novas emendas apresentadas"
+        },
+        {
+            "data": "20082024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "pedido de vista concedido",
+            "ação": "reunida a comissão nessa data é lido o relatório e concedida vista coletiva"
+        },
+        {
+            "data": "20082024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "incluída na pauta da reunião",
+            "ação": "o relator senador veneziano vital do rêgo submete à comissão um novo relatório com voto pela aprovação do pl n\n5282020 com as emendas que apresenta aprovação da emenda n 5 aprovação parcial das emendas n 6 8 9 11 e 13 e\nrejeição das demais emendas\no projeto está na pauta da reunião da comissão agendada para o dia 20082024"
+        },
+        {
+            "data": "14082024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido nesta data relatório do senador veneziano vital do rêgo com voto pela aprovação do pl n 5282020 com as\nemendas que apresenta aprovação da emenda n 5 aprovação parcial das emendas n 6 8 9 11 e 13 e rejeição das demais\nemendas"
+        },
+        {
+            "data": "14082024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "o senador beto faro ptpa apresenta a emenda n 13 ao pl 5282020\nação\npg\n5\natividade legislativa\nprojeto de lei n 528 de 2020\ntramitação"
+        },
+        {
+            "data": "03072024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "matéria com a relatoria",
+            "ação": "o senador irajá psdto apresenta a emenda n 12 ao pl 5282020"
+        },
+        {
+            "data": "18062024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "a senadora tereza cristina apresenta a emenda n 11 ao pl 5282020\nação"
+        },
+        {
+            "data": "18062024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "requerimento aprovado",
+            "ação": "a senadora tereza cristina apresenta o requerimento 532024ci para a retirada da emenda n 4 ao pl 5282020 de sua\nautoria\no presidente da comissão senador confúcio moura com base no artigo 256  2 i combinado com o artigo 215 ii  e do\nrisf defere o requerimento 532024ci e determina a retirada da emenda n 4 ao pl 5282020"
+        },
+        {
+            "data": "18062024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "apresentado requerimento retirada de emenda na comissão nesta data às 0933\nação"
+        },
+        {
+            "data": "12062024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "o  senador astronauta marcos pontes apresenta a emenda n 10 ao pl 5282020\nação"
+        },
+        {
+            "data": "11062024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "o senador fernando farias apresenta a emenda n 9 ao pl 5282020\nação"
+        },
+        {
+            "data": "10062024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "o senador laércio oliveira ppse apresentou a emenda n 8 ao pl 5282020\nação"
+        },
+        {
+            "data": "07062024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "o senador mecias de jesus apresenta a emenda n 7 ao pl 5282020\nação"
+        },
+        {
+            "data": "06062024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "o senador carlos viana apresenta a emenda n 6 ao pl 5282020\nação"
+        },
+        {
+            "data": "21052024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "matéria com a relatoria",
+            "ação": "reunida a comissão nessa data é realizada audiência pública interativa com a presença de fernando wandscheer de moura\nalves diretor técnico da anp agência nacional do petróleo gás natural e biocombustíveis marcela braga anselmi gerente de\nmeio ambiente e transição energética da superintendência de governança e meio ambiente da anac agência nacional de"
+        },
+        {
+            "data": "16052024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "o senador cid gomes apresenta a emenda n 5 ao pl 5282020\nação"
+        },
+        {
+            "data": "15052024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "aguardando audiência pública",
+            "ação": "audiência pública em atendimento aos req 322024 req 232024 req 242024 req 292024 req 312024 req 342024\nreq 222024 e req 362024 prevista para a 12ª reunião agendada para 21052024 às 09h"
+        },
+        {
+            "data": "09052024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "matéria com a relatoria",
+            "ação": "a senadora tereza cristina apresenta a emenda n 4 ao pl 5282020"
+        },
+        {
+            "data": "29042024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "recebida nesta data emenda n 3 do senador mecias de jesus\nação"
+        },
+        {
+            "data": "25042024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "reunida a comissão nessa data é realizada a segunda audiência pública de instrução do projeto em atendimento aos\nrequerimentos n 18 e 332024ci com a presença dos seguintes convidados josé nilton vieira diretor substituto do\ndepartamento de biocombustíveis do ministério de minas e energia thomas caldellas coordenador geral de regulamentos\ntécnicos e mobilidade sustentável do ministério do desenvolvimento indústria comércio e serviços cristiano levone de\noliveira gerente executivo de gestão integrada de transição energética da petrobras sylvie dapote diretoraexecutiva de gás\nnatural do ibp instituto brasileiro de petróleo e gás lucien belmonte presidente executivo da abividro associação brasileira\ndas indústrias de vidro davi bomtempo superintendente de meio ambiente e sustentabilidade da cni confederação nacional\nda indústria renata isfer presidente da abiogás associação brasileira do biogás marcelo mendonça diretor técnico e\ncomercial da abegás associação brasileira das empresas distribuidoras de gás canalizado andré passos cordeiro presidente\nda abiquim associação brasileira da indústria química\ndocumentos vídeos apresentações e informações da reunião disponíveis em\nhttpslegissenadolegbrcomissoesreuniao0reuniao12475codcol59\no projeto sob a relatoria do senador veneziano vital do rêgo continua sobrestado aguardando a realização de outra audiência\npública de instrução\nação"
+        },
+        {
+            "data": "24042024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "recebida nesta data emenda n 2 do senador astronauta marcos pontes\nação\npg\n7\natividade legislativa\nprojeto de lei n 528 de 2020\ntramitação"
+        },
+        {
+            "data": "16042024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "reunida a comissão nessa data é realizada audiência pública de instrução da matéria em atendimento aos requerimentos n\n19 21 26 28 e 302024ci com a presença dos seguintes expositores cristiano levone de oliveira gerenteexecutivo de\ngestão integrada de transição energética da petrobras jurema monteiro presidente da abear associação brasileira das\nempresas aéreas roberto furian ardenghy presidente do ibp instituto brasileiro de petróleo e gás henry daniel hadid\npresidente do sindicom sindicato nacional das empresas distribuidoras de combustível e de lubrificantes erica vieira marcos\ngerenteexecutiva ambiental da cnt confederação nacional do transporte gustavo henrique ferreira diretor de programa\nda secretaria de reformas econômicas do ministério da fazenda marlon arraes jardim leal diretor do departamento de\nbiocombustíveis da secretaria nacional de petróleo gás natural e biocombustíveis do ministério de minas e energia andré\nmeloni nassar presidenteexecutivo da abiove associação brasileira das indústrias de óleos vegetais sergio tadeu cabral\nbeltrão diretorexecutivo da ubrabio união brasileira do biodiesel e bioquerosene julio cesar minelli diretor\nsuperintendente da aprobio associação dos produtores de biocombustíveis do brasil evandro gussi presidente da unica\nunião da indústria de canadeaçúcar e bioenergia\ndocumentos vídeos e apresentações da reunião disponíveis em\nhttpslegissenadolegbrcomissoesreuniao0reuniao12293\no projeto sob a relatoria do senador veneziano vital do rêgo segue sobrestado aguardando a realização de audiências públicas\nde instrução em atendimento a outros requerimentos aprovados\nação"
+        },
+        {
+            "data": "15042024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "audiência pública em atendimento aos req 182024 e req 222024 prevista para a 9ª reunião agendada para 25042024 às\n09h\nação"
+        },
+        {
+            "data": "11042024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "audiência pública em atendimento aos req 192024 req 212024 e req 262024 prevista para a 7ª reunião agendada para\n16042024 às 09h\nação"
+        },
+        {
+            "data": "11042024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "recebido requerimento audiência pública na comissão de infraestrutura nesta data\nação"
+        },
+        {
+            "data": "11042024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "apresentado requerimento audiência pública na comissão nesta data às 1146\nação"
+        },
+        {
+            "data": "09042024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "o senador chico rodrigues apresenta a emenda n 1 ao pl 5282020\no projeto sob a relatoria do senador veneziano vital do rêgo segue sobrestado aguardando a realização de audiência pública\nde instrução\nação"
+        },
+        {
+            "data": "09042024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "aguardando audiência pública",
+            "ação": "reunida a comissão nessa data são lidos e aprovados o req 182024ci o req 192024ci o req 212024ci e o req 222024\nci para realização de audiência pública para instruir o pl 5282020 o pl sob a relatoria do senador veneziano vital do rêgo\nestá sobrestado aguardando a realização de audiência pública de instrução"
+        },
+        {
+            "data": "27032024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "apresentado requerimento audiência pública na comissão nesta data às 0930\nação\npg\n8\natividade legislativa\nprojeto de lei n 528 de 2020\ntramitação"
+        },
+        {
+            "data": "27032024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "apresentado requerimento audiência pública na comissão nesta data às 0927\nação"
+        },
+        {
+            "data": "20032024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao senador veneziano vital do rêgo para emitir relatório"
+        },
+        {
+            "data": "20032024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "aguardando designação do relator",
+            "ação": "recebido na ci matéria aguardando distribuição"
+        },
+        {
+            "data": "19032024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "matéria despachada",
+            "ação": "a matéria vai à comissão de serviços de infraestrutura"
+        },
+        {
+            "data": "19032024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando despacho",
+            "ação": "autuado o projeto de lei n 5282020 proveniente da câmara dos deputados o projeto vai à publicação"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "pl 5282020",
+            "data": "19032024",
+            "autor": "câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 5282020 proveniente da câmara dos deputados o projeto vai à publicação",
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "19032024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 5282020 proveniente da câmara dos deputados o projeto vai à publicação",
+            "descrição/Ementa": "pg\n9\natividade legislativa\nprojeto de lei n 528 de 2020\ndocumentos\n"
+        },
+        {
+            "documento": "ofc 352024  câmara dos",
+            "data": "19032024",
+            "autor": "presidente da câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminhamento da matéria para apreciação do senado federal"
+        },
+        {
+            "documento": "req 182024  ci",
+            "data": "27032024",
+            "autor": "senador veneziano vital do rêgo mdbpb",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer a realização de audiência pública com o objetivo de instruir o pl 5282020 que trata do combustíveis do futuro com\nenfoque nas disposições relativas ao biogás"
+        },
+        {
+            "documento": "req 192024  ci",
+            "data": "27032024",
+            "autor": "senador veneziano vital do rêgo mdbpb",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer a realização de audiência pública com o objetivo de instruir o pl 5282020 que trata do combustíveis do futuro com\nenfoque nas disposições relativas ao biogás"
+        },
+        {
+            "documento": "req 232024  ci",
+            "data": "09042024",
+            "autor": "senador weverton pdtma",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer que na audiência pública objeto do req 192024  ci seja incluído entre os convidados o senhor pedro maranhão\npresidente da associação brasileira de resíduos e meio ambiente abrema"
+        },
+        {
+            "documento": "req 242024  ci",
+            "data": "09042024",
+            "autor": "senador eduardo gomes plto",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer que na audiência pública objeto do req 192024  ci com o objetivo de instruir o pl 5282020 seja incluído entre os\nconvidados um representante da federação nacional das distribuidoras de combustíveis gás natural e biocombustíveis\nfederação brasilcom"
+        },
+        {
+            "documento": "emenda 1  pl 5282020",
+            "data": "09042024",
+            "autor": "senador chico rodrigues psbrr",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda pl 5282020 combustíveis do futuro realização de testes prévios e garantia ao direito do consumidor"
+        },
+        {
+            "documento": "pg\n10\natividade legislativa\nprojeto de lei n 528 de 2020\ndocumentos\nreq 262024  ci",
+            "data": "10042024",
+            "autor": "senador esperidião amin ppsc",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer a inclusão do nome de andré meloni nassar presidente executivo da associação brasileira das indústrias de óleos\nvegetais abiove na audiência pública objeto do req 212024ci de instrução do pl 5282020"
+        },
+        {
+            "documento": "req 282024  ci",
+            "data": "10042024",
+            "autor": "senador vanderlan cardoso psdgo",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer que na audiência pública objeto do req 192024  ci com o objetivo de instruir o pl 5282020 seja incluído entre os\nconvidados o senhor julio cesar minelli diretor superintendente da associação dos produtores de biocombustíveis do brasil \naprobio"
+        },
+        {
+            "documento": "req 292024  ci",
+            "data": "11042024",
+            "autor": "senador confúcio moura mdbro",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer que na audiência pública objeto do req 192024ci sejam incluídos entre os convidados um representante da unb\nuniversidade de brasília e um representante da ufrj universidade federal do rio de janeiro"
+        },
+        {
+            "documento": "req 302024  ci",
+            "data": "11042024",
+            "autor": "senadora tereza cristina ppms",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer que na audiência pública objeto do req 192024  ci seja incluído entre os convidados o senhor juan diego férres\npresidente do conselho superior da união brasileira do biodiesel e bioquerosene ubrabio"
+        },
+        {
+            "documento": "req 312024  ci",
+            "data": "11042024",
+            "autor": "senador zequinha marinho podemospa",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer que na audiência pública objeto do req 192024  ci seja incluído entre os convidados o senhor fábio da silva vinhado\nsuperintendente adjunto de biocombustíveis e qualidade da agência nacional do petróleo gás natural e biocombustíveis\nanp"
+        },
+        {
+            "documento": "req 322024  ci",
+            "data": "16042024",
+            "autor": "senador veneziano vital do rêgo mdbpb",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer a realização de audiência pública com o objetivo de instruir o pl 5282020 com a presença de representantes das\nseguintes instituições abrema  associação brasileira de resíduos e meio ambiente iata  associação internacional do\ntransporte aéreo atgas  associação de empresas de transporte de gás natural por gasoduto brasilcom  federação nacional\ndas distribuidoras de combustíveis gás natural e biocombustíveis anp  agência nacional do petróleo gás natural e\nbiocombustíveis e abicom  associação brasileira dos importadores de combustíveis"
+        },
+        {
+            "documento": "pg\n11\natividade legislativa\nprojeto de lei n 528 de 2020\ndocumentos\nreq 332024  ci",
+            "data": "16042024",
+            "autor": "senador veneziano vital do rêgo mdbpb",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer que na audiência pública objeto do req 182024  ci seja incluído como convidado representante do ibp"
+        },
+        {
+            "documento": "req 342024  ci",
+            "data": "17042024",
+            "autor": "senador weverton pdtma",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer que na audiência pública objeto do req 182024  ci seja incluído entre os convidados um\nrepresentante da associação brasileira de resíduos e meio ambiente abrema"
+        },
+        {
+            "documento": "req 362024  ci",
+            "data": "23042024",
+            "autor": "senador izalci lucas pldf",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer que na audiência pública objeto do req 192024ci com o objetivo de instruir o pl 5282020 seja incluído o seguinte\nconvidado sr thiago falda presidente executivo da associação brasileira de bioinovação abbi"
+        },
+        {
+            "documento": "emenda 2  pl 5282020",
+            "data": "24042024",
+            "autor": "senador astronauta marcos pontes plsp",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": "recebida nesta data emenda n 2 do senador astronauta marcos pontes",
+            "descrição/Ementa": "emenda ao pl 5282020"
+        },
+        {
+            "documento": "emenda 3  pl 5282020",
+            "data": "29042024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": "recebida nesta data emenda n 3 do senador mecias de jesus",
+            "descrição/Ementa": "emenda ao pl 5282020"
+        },
+        {
+            "documento": "req 392024  ci",
+            "data": "03052024",
+            "autor": "senador izalci lucas pldf",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer que na audiência pública objeto do req 182024ci e do req 332024ci com o objetivo de instruir o pl 5282020\nsejam incluídos entre os convidados os deputados federais arnaldo jardim e alceu moreira"
+        },
+        {
+            "documento": "emenda 5  pl 5282020",
+            "data": "16052024",
+            "autor": "pg",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": "o senador cid gomes apresenta a emenda n 5 ao pl 5282020",
+            "descrição/Ementa": "emenda ao pl 5282020"
+        },
+        {
+            "documento": "req 442024  ci",
+            "data": "20052024",
+            "autor": "senador veneziano vital do rêgo mdbpb",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer que na audiência pública objeto do req 322024  ci com o objetivo de instruir o pl 5282020 sejam incluídos\nrepresentantes da anac agência nacional de aviação civil e da abraget associação brasileira de geradoras termelétricas"
+        },
+        {
+            "documento": "emenda 6  pl 5282020",
+            "data": "06062024",
+            "autor": "senador carlos viana podemosmg",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": "o senador carlos viana apresenta a emenda n 6 ao pl 5282020",
+            "descrição/Ementa": "emenda ao pl 5282020"
+        },
+        {
+            "documento": "emenda 7  pl 5282020",
+            "data": "07062024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": "o senador mecias de jesus apresenta a emenda n 7 ao pl 5282020",
+            "descrição/Ementa": "emenda ao pl 5282020"
+        },
+        {
+            "documento": "emenda 8  pl 5282020",
+            "data": "10062024",
+            "autor": "senador laércio oliveira ppse",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": "o senador laércio oliveira ppse apresentou a emenda n 8 ao pl 5282020",
+            "descrição/Ementa": "em  emenda ao pl 5282020  ibp"
+        },
+        {
+            "documento": "emenda 9  pl 5282020",
+            "data": "11062024",
+            "autor": "senador fernando farias mdbal",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": "o senador fernando farias apresenta a emenda n 9 ao pl 5282020",
+            "descrição/Ementa": "emenda combustível do futuro agricultura familiar"
+        },
+        {
+            "documento": "emenda 10  pl 5282020",
+            "data": "12062024",
+            "autor": "senador astronauta marcos pontes plsp",
+            "local": "pg",
+            "ação legislativa": "o  senador astronauta marcos pontes apresenta a emenda n 10 ao pl 5282020",
+            "descrição/Ementa": "emenda ao pl 5282020 energias renováveis bioprodutos"
+        },
+        {
+            "documento": "req 532024  ci",
+            "data": "18062024",
+            "autor": "senadora tereza cristina ppms",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer a retirada da emenda 42024 apresentada ao pl 5282020"
+        },
+        {
+            "documento": "emenda 11  pl 5282020",
+            "data": "18062024",
+            "autor": "senadora tereza cristina ppms",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": "a senadora tereza cristina apresenta a emenda n 11 ao pl 5282020",
+            "descrição/Ementa": "emenda ao pl 5282020"
+        },
+        {
+            "documento": "emenda 12  pl 5282020",
+            "data": "03072024",
+            "autor": "senador irajá psdto",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": "o senador irajá psdto apresenta a emenda n 12 ao pl 5282020",
+            "descrição/Ementa": "iguala em 30 meses o prazo para injeção de energia elétrica para todos os minigeradores"
+        },
+        {
+            "documento": "emenda 13  pl 5282020",
+            "data": "14082024",
+            "autor": "senador beto faro ptpa",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": "o senador beto faro ptpa apresenta a emenda n 13 ao pl 5282020",
+            "descrição/Ementa": "emenda  ao pl 5282020  ci"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "14082024",
+            "autor": "senador veneziano vital do rêgo mdbpb",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório apresentado ao pl 5282020"
+        },
+        {
+            "documento": "pg\n14\natividade legislativa\nprojeto de lei n 528 de 2020\ndocumentos\nrelatório legislativo",
+            "data": "20082024",
+            "autor": "senador veneziano vital do rêgo mdbpb",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão de serviços de infraestrutura sobre o projeto de lei n 528 de 2020 que dispõe sobre a promoção da\nmobilidade sustentável de baixo carbono e a captura e a estocagem geológica de dióxido de carbono institui o programa\nnacional de combustível sustentável de aviação probioqav o programa nacional de diesel verde pndv e o programa\nnacional de descarbonização do produtor e importador de gás natural e de incentivo ao biometano e altera as leis ns 9478\nde 6 de agosto de 1997 9847 de 26 de outubro de 1999 8723 de 28 de outubro de 1993 e 13033 de 24 de setembro de\n2014"
+        },
+        {
+            "documento": "emenda 14  pl 5282020",
+            "data": "20082024",
+            "autor": "senador zequinha marinho podemospa",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda  ao pl 5282020   art 17"
+        },
+        {
+            "documento": "emenda 15  ci  pl",
+            "data": "20082024",
+            "autor": "senador zequinha marinho podemospa",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda  ao pl 5282020  art 19"
+        },
+        {
+            "documento": "emenda 16  pl 5282020",
+            "data": "20082024",
+            "autor": "senador otto alencar psdba",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda suprimase o  7 do art 17  ao pl 5282020"
+        },
+        {
+            "documento": "emenda 17  pl 5282020",
+            "data": "21082024",
+            "autor": "senador esperidião amin ppsc",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": "o senador esperidião amin apresenta a emenda n 17 ao pl 5282020",
+            "descrição/Ementa": "emenda ao pl 5282020 ci acrescentando gás natural veicular"
+        },
+        {
+            "documento": "pg\n15\natividade legislativa\nprojeto de lei n 528 de 2020\ndocumentos\nemenda 18  pl 5282020",
+            "data": "27082024",
+            "autor": "senador esperidião amin ppsc",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": "o senador esperidião amin apresenta as emendas n 18 e n 19 ao pl 5282020",
+            "descrição/Ementa": "emenda  ci ao pl 5282020 nova redação ao art 26 e supressão dos  1 e 2"
+        },
+        {
+            "documento": "emenda 19  pl 5282020",
+            "data": "27082024",
+            "autor": "senador esperidião amin ppsc",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": "o senador esperidião amin apresenta as emendas n 18 e n 19 ao pl 5282020",
+            "descrição/Ementa": "emenda  ci ao pl 5282020 cria novo  ao art 29"
+        },
+        {
+            "documento": "emenda 20  pl 5282020",
+            "data": "29082024",
+            "autor": "senador astronauta marcos pontes plsp",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": "o senador  astronauta marcos pontes apresenta a emenda n 20 ao pl 5282020",
+            "descrição/Ementa": "emenda  ao pl 5282020  altera o art 19  não exigência do cgob para produção para uso próprio"
+        },
+        {
+            "documento": "emenda 21  pl 5282020",
+            "data": "30082024",
+            "autor": "senadora augusta brito ptce",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": "a senadora augusta brito apresenta a emenda n 21 ao pl 5282020",
+            "descrição/Ementa": "emenda da senadora augusta brito ao pl 5282020  hidrogênio verde"
+        },
+        {
+            "documento": "emenda 22  ci  pl",
+            "data": "02092024",
+            "autor": "senador laércio oliveira ppse",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda  ao pl 5282020"
+        },
+        {
+            "documento": "emenda 23  pl 5282020",
+            "data": "02092024",
+            "autor": "senador jorge kajuru psbgo",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n16\natividade legislativa\nprojeto de lei n 528 de 2020\ndocumentos\nao relator para manifestarse acerca das emendas apresentadas\na matéria está na pauta da reunião deliberativa agendada para o dia 03092024\nemenda ao pl 5282020  garantir a qualidade do produto e evitar forte impacto econômico e ambiental"
+        },
+        {
+            "documento": "emenda 26  pl 5282020",
+            "data": "02092024",
+            "autor": "senador weverton pdtma",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda ao pl 5282020  rastreabilidade dos demais combustíveis"
+        },
+        {
+            "documento": "emenda 27  pl 5282020",
+            "data": "02092024",
+            "autor": "senador esperidião amin ppsc",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda  ci ao pl 5282020 coprocessado  combustível do futuro"
+        },
+        {
+            "documento": "emenda 24  pl 5282020",
+            "data": "02092024",
+            "autor": "senador confúcio moura mdbro",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda  1 ao pl 5282020"
+        },
+        {
+            "documento": "emenda 25  ci  pl",
+            "data": "02092024",
+            "autor": "senador confúcio moura mdbro",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda 2  ao pl 5282020"
+        },
+        {
+            "documento": "rqs 2032024",
+            "data": "03092024",
+            "autor": "senador vanderlan cardoso psdgo",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer a oitiva da comissão de assuntos econômicos sobre o projeto de lei n 5282020"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "03092024",
+            "autor": "senador veneziano vital do rêgo mdbpb",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "complementação de voto pl 52820"
+        },
+        {
+            "documento": "req 882024  ci",
+            "data": "03092024",
+            "autor": "senador beto faro ptpa  comissão de serviços de infraestrutura",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "requerimento de urgência ao pl 5282020"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "03092024",
+            "autor": "comissão de serviços de infraestrutura",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 24ª reunião ci"
+        },
+        {
+            "documento": "relatório legislativo ",
+            "data": "03092024",
+            "autor": "senador veneziano vital do rêgo mdbpb",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "complementação de voto revisada pl 52820"
+        },
+        {
+            "documento": "ps 382024  ci",
+            "data": "03092024",
+            "autor": "comissão de serviços de infraestrutura senador veneziano vital do rêgo mdbpb senador confúcio moura mdbro",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n18\natividade legislativa\nprojeto de lei n 528 de 2020\ndocumentos\nà slsf\nda comissão de serviços de infraestrutura sobre o projeto de lei n 528 de 2020 que dispõe sobre a promoção da\nmobilidade sustentável de baixo carbono e a captura e a estocagem geológica de dióxido de carbono institui o programa\nnacional de combustível sustentável de aviação probioqav o programa nacional de diesel verde pndv e o programa\nnacional de descarbonização do produtor e importador de gás natural e de incentivo ao biometano e altera as leis ns 9478\nde 6 de agosto de 1997 9847 de 26 de outubro de 1999 8723 de 28 de outubro de 1993 e 13033 de 24 de setembro de\n2014"
+        },
+        {
+            "documento": "emenda 45 plen  pl",
+            "data": "04092024",
+            "autor": "senador irajá psdto",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 45 do senador irajá",
+            "descrição/Ementa": "emenda  ao pl 5282020  prazo injeção na rede microgeradores energia solar"
+        },
+        {
+            "documento": "rqs 6232024",
+            "data": "04092024",
+            "autor": "líder do psd otto alencar psdba",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o requerimento n 623 de 2024 da liderança do psd de destaque para votação em separado da emenda n 45",
+            "descrição/Ementa": "requer pela liderança do psd destaque para votação em separado da emenda n 45 ao projeto de lei n 5282020"
+        },
+        {
+            "documento": "emenda 46 plen  pl",
+            "data": "04092024",
+            "autor": "senador esperidião amin ppsc",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 46 do senador esperidião amin",
+            "descrição/Ementa": "emenda plen ao pl 5282020  nova redação ao art 26"
+        },
+        {
+            "documento": "emenda 47 plen  pl",
+            "data": "04092024",
+            "autor": "senadora tereza cristina ppms",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 47 da senadora tereza cristina",
+            "descrição/Ementa": "emenda  ao pl 5282020"
+        },
+        {
+            "documento": "avulso de emendas",
+            "data": "04092024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "rqs 6242024",
+            "data": "04092024",
+            "autor": "pg",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o requerimento n 624 de 2024 da liderança do pp de destaque para votação em separado da emenda n 47",
+            "descrição/Ementa": "requer pela liderança do pp destaque para votação em separado da emenda n 47 ao projeto de lei n 5282020"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "04092024",
+            "autor": "senador veneziano vital do rêgo mdbpb",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o relatório do senador veneziano vital do rêgo",
+            "descrição/Ementa": "relatório emendas plenário pl 52820"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "04092024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "votação nominal da emenda n 45 ao projeto de lei n 528 de 2020 destacada"
+        },
+        {
+            "documento": "ps 1532024  plen",
+            "data": "04092024",
+            "autor": "senador veneziano vital do rêgo mdbpb",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "parecer n 153 de 2024plensf parecer de plenário com complementação por notas taquigráficas"
+        },
+        {
+            "documento": "ps 1542024  plen",
+            "data": "04092024",
+            "autor": "comissão diretora do senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n20\natividade legislativa\nprojeto de lei n 528 de 2020\ndocumentos\naprovado o requerimento n 88 de 2024 da comissão de serviços de infraestrutura a qual solicita regime de urgência para a\nmatéria com votos contrários dos senadores irajá e eduardo girão\nprejudicado o requerimento n 203 de 2024  por meio do qual se requer a oitiva da comissão de assuntos econômicos\nencaminhado à publicação o parecer n 153 de 2024plensf proferido pelo senado veneziano vital do rêgo parcialmente\nfavorável à emenda n 46 na forma da emenda n 49 que apresenta pela apresentação da emenda n 48 pela prejudicialidade\ndas emendas ns 25 e 35 e contrário às demais emendas de plenário\nencerrada a discussão da matéria\ndeferidos  e encaminhados à publicação  os requerimentos ns 623 e 624 de 2024 de destaques para votações em separado\nrespectivamente das emendas ns 45 e 47\naprovado o projeto com as emendas ns 15 22 28 a 34 36 a 44 48 e 49 ressalvados os destaques com voto contrário do\nsenador eduardo girão\naprovada a emenda n 45 objeto de destaque em votação nominal concedida de ofício pela presidência com o seguinte\nresultado sim  44 não  25 presidente  1 total  70\naprovada a emenda n 47 na forma da subemenda apresentada pelo senador veneziano vital do rêgo em complemento ao\nparecer n 153 de 2024plensf\nencaminhado à publicação o parecer n 154 de 2024plensf da comissão diretora oferecendo a redação final\naprovada a redação final\na matéria retorna à câmara dos deputados\nparecer n 154 de 2024plensf redação final"
+        },
+        {
+            "documento": "emenda 48 plen  pl",
+            "data": "04092024",
+            "autor": "senador veneziano vital do rêgo mdbpb",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda n 48plen do relator"
+        },
+        {
+            "documento": "emenda 49 plen  pl",
+            "data": "04092024",
+            "autor": "senador veneziano vital do rêgo mdbpb",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n21\natividade legislativa\nprojeto de lei n 528 de 2020\ndocumentos\nrespectivamente das emendas ns 45 e 47\naprovado o projeto com as emendas ns 15 22 28 a 34 36 a 44 48 e 49 ressalvados os destaques com voto contrário do\nsenador eduardo girão\naprovada a emenda n 45 objeto de destaque em votação nominal concedida de ofício pela presidência com o seguinte\nresultado sim  44 não  25 presidente  1 total  70\naprovada a emenda n 47 na forma da subemenda apresentada pelo senador veneziano vital do rêgo em complemento ao\nparecer n 153 de 2024plensf\nencaminhado à publicação o parecer n 154 de 2024plensf da comissão diretora oferecendo a redação final\naprovada a redação final\na matéria retorna à câmara dos deputados\nemenda n 49plen do relator"
+        },
+        {
+            "documento": "minuta",
+            "data": "06092024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "ofsf 9742024"
+        },
+        {
+            "documento": "ofsf 9742024",
+            "data": "10092024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à revisão da câmara dos deputados com emendas o projeto de lei n 528 de 2020"
+        },
+        {
+            "documento": "autógrafo  pl 5282020",
+            "data": "10092024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "dispõe sobre a promoção da mobilidade sustentável de baixo carbono e a captura e a estocagem geológica de dióxido de\ncarbono institui o programa nacional de combustível sustentável de aviação probioqav o programa nacional de diesel verde\npndv e o programa nacional de descarbonização do produtor e importador de gás natural e de incentivo ao biometano e\naltera as leis ns 9478 de 6 de agosto de 1997 9847 de 26 de outubro de 1999 8723 de 28 de outubro de 1993 e 13033 de\n24 de setembro de 2014"
+        },
+        {
+            "documento": "ofc 5042024  câmara dos",
+            "data": "20092024",
+            "autor": "primeirosecretário da câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica o envio à sanção do projeto de lei n 528 de 2020"
+        }
+    ]
 }

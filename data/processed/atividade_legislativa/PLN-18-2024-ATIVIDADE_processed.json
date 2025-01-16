@@ -1,17 +1,211 @@
 {
-    "Atividade legislativa": "projeto de lei do congresso nacional n 18 de 2024",
-    "Autoria": "presidência da república",
-    "Ementa": "abre ao orçamento fiscal da união em favor da justiça federal crédito especial no valor de r 50000000 para o fim\nque especifica",
-    "Explicação da Ementa": "propõe a abertura de crédito especial visando incluir nova categoria de programação no",
-    "Assunto": "orçamento público   crédito adicional",
-    "Despacho": "05082024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\ncncmo comissão mista de planos orçamentos públicos e\nfiscalização",
-    "Relatoria": "cmo  comissão mista de planos orçamentos públicos e fiscalização\nrelatores\ndeputado federal cobalchini encerrado em 10092024 \ndeliberação da matéria\ndeputado federal jonas donizette relator ad hoc encerrado\nem 10092024  deliberação da matéria",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada pelo plenário",
-        "Destino": "à sanção",
-        "Último local": "18122024  secretaria de expediente",
-        "Último estado": "23122024  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei do congresso nacional n 18 de 2024",
+    "autoria": "presidência da república",
+    "ementa": "abre ao orçamento fiscal da união em favor da justiça federal crédito especial no valor de r 50000000 para o fim\nque especifica",
+    "explicação da ementa": "propõe a abertura de crédito especial visando incluir nova categoria de programação no",
+    "assunto": "orçamento público   crédito adicional",
+    "despacho": "05082024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\ncncmo comissão mista de planos orçamentos públicos e\nfiscalização",
+    "relatoria": "cmo  comissão mista de planos orçamentos públicos e fiscalização\nrelatores\ndeputado federal cobalchini encerrado em 10092024 \ndeliberação da matéria\ndeputado federal jonas donizette relator ad hoc encerrado\nem 10092024  deliberação da matéria",
+    "tramitação encerrada": {
+        "decisão": "aprovada pelo plenário",
+        "destino": "à sanção",
+        "último local": "18122024  secretaria de expediente",
+        "último estado": "23122024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "cmo  comissão mista de planos orçamentos públicos e fiscalização\nrelatores\ndeputado federal cobalchini encerrado em 10092024 \ndeliberação da matéria\ndeputado federal jonas donizette relator ad hoc encerrado\nem 10092024  deliberação da matéria",
-    "Documentos": "cmo  comissão mista de planos orçamentos públicos e fiscalização\nrelatores\ndeputado federal cobalchini encerrado em 10092024 \ndeliberação da matéria\ndeputado federal jonas donizette relator ad hoc encerrado\nem 10092024  deliberação da matéria"
+    "tramitação": [
+        {
+            "data": "23122024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica",
+            "ação": "pr presidência da república\nsancionada lei 15057 de 2024\ndoue diário oficial da união  edição extra  23122024  seção i  págs 11 e 11\nsancionada em 23122024"
+        },
+        {
+            "data": "19122024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à sanção",
+            "ação": "remetido ofício cn n 384 de 191224 ao ministro de estado chefe da casa civil da presidência da república encaminhando a\nmensagem cn n 13724 ao excelentíssimo senhor presidente da república submetendo à sanção presidencial autógrafos do\nprojeto"
+        },
+        {
+            "data": "18122024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "18122024",
+            "órgão": "plen  plenário do congresso nacional",
+            "situação": "aprovada",
+            "ação": "sessão conjunta do congresso nacional realizada em 18122024\nencaminhado à publicação e aprovado na câmara dos deputados e no senado federal o rqn n 282024 solicitando a votação\nem globo dos pln ns 14 a 20 27 28 30 32 a 34 e 36 a 392024 nos termos dos respectivos pareceres\ndiscussão encerrada\naprovado o projeto na câmara dos deputados e no senado federal\nà sanção"
+        },
+        {
+            "data": "16122024",
+            "órgão": "mesa  mesa diretora do congresso nacional",
+            "situação": "incluída em ordem do dia",
+            "ação": "incluído na ordem do dia da sessão conjunta  semipresencial convocada para 18122024 às 10 horas"
+        },
+        {
+            "data": "10092024",
+            "órgão": "mesa  mesa diretora do congresso nacional",
+            "situação": "pronto para deliberação do plenário",
+            "ação": "matéria aguarda inclusão em pauta de sessão do congresso nacional"
+        },
+        {
+            "data": "10092024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": null,
+            "ação": "encerrada a relatoria do deputado cobalchini por deliberação da matéria\nação"
+        },
+        {
+            "data": "10092024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": "aprovado parecer na comissão",
+            "ação": "a comissão mista de planos orçamentos públicos e fiscalização  cmo na continuação da nona reunião\nextraordinária realizada em 10 de setembro de 2024 aprovou o relatório do deputado jonas donizette relator ad hoc\ndesignado relator anteriormente o deputado cobalchini favorável ao projeto de lei n 182024cn na forma proposta pelo\npoder executivo ao projeto não foram apresentadas emendas"
+        },
+        {
+            "data": "10092024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": null,
+            "ação": "na continuação da nona reunião extraordinária em 1092024 aprovada a inclusão da matéria na pauta\nação"
+        },
+        {
+            "data": "03092024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido do relator deputado cobalchini relatório com voto pela aprovação do projeto de lei na forma apresentada pelo\npoder executivo ao projeto não foram apresentadas emendas"
+        },
+        {
+            "data": "20082024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": "matéria com a relatoria",
+            "ação": "encerrado o prazo regimental ao projeto não foram apresentadas emendas"
+        },
+        {
+            "data": "06082024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao deputado cobalchini para emitir relatório"
+        },
+        {
+            "data": "05082024",
+            "órgão": "mesa  mesa diretora do congresso nacional",
+            "situação": "matéria despachada",
+            "ação": "à cmo"
+        },
+        {
+            "data": "05082024",
+            "órgão": "mesa  mesa diretora do congresso nacional",
+            "situação": null,
+            "ação": "a matéria será publicada no diário do congresso nacional\ncalendário de tramitação de projetos de lei de créditos adicionais  pln 182024 art 112 da res 12006cn\n data do despacho 05082024\n publicação em avulso eletrônico de 05082024 a 09082024\n apresentação de emendas de 10082024 a 19082024\n publicação em avulso eletrônico das emendas de 20082024 a 24082024\n votação do relatório e encaminhamento do parecer da cmo  à mesa do congresso nacional de 25082024 a 08092024\na matéria vai à comissão mista de planos orçamentos públicos e fiscalização\n o prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado domingo ou feriado\nação\npublicado no dcn páginas 560567  dcn n 28"
+        },
+        {
+            "data": "17072024",
+            "órgão": "mesa  mesa diretora do congresso nacional",
+            "situação": null,
+            "ação": "recebida em 17072024 nota informativa referente à presente matéria elaborada pela consultoria de orçamento do senado\nfederal\nação"
+        },
+        {
+            "data": "05072024",
+            "órgão": "mesa  mesa diretora do congresso nacional",
+            "situação": "aguardando despacho",
+            "ação": "recebida a matéria em 05072024 a matéria aguarda despacho do presidente do congresso nacional para envio à comissão\nmista de orçamento"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "pln 182024",
+            "data": "05072024",
+            "autor": "presidência da república",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "nota informativa",
+            "data": "17072024",
+            "autor": "senado federal",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": "calendário"
+        },
+        {
+            "documento": "calendário",
+            "data": "05082024",
+            "autor": "congresso nacional",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": "avulso inicial da matéria"
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "05082024",
+            "autor": "senado federal",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "ofício\npg\n4\natividade legislativa\nprojeto de lei do congresso nacional n 18 de 2024\ndocumentos",
+            "data": "06082024",
+            "autor": "deputado federal julio arcoverde pppi",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": "distribuído ao deputado cobalchini para emitir relatório",
+            "descrição/Ementa": "relator do pln 182024  da presidência da república  que abre ao orçamento fiscal da união em favor da justiça federal\ncrédito especial no valor de r 50000000 para o fim que especifica"
+        },
+        {
+            "documento": "relatório sobre crédito",
+            "data": "03092024",
+            "autor": "deputado federal cobalchini mdbsc",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão mista de planos orçamentos públicos e fiscalização sobre o projeto de lei do congresso nacional n 18\nde 2024 que abre ao orçamento fiscal da união em favor da justiça federal crédito especial no valor de r 50000000 para o\nfim que especifica"
+        },
+        {
+            "documento": "decisão de comissão",
+            "data": "10092024",
+            "autor": "deputado federal julio arcoverde pppi",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": null,
+            "descrição/Ementa": "conclusão"
+        },
+        {
+            "documento": "par 212024  relatório",
+            "data": "10092024",
+            "autor": "comissão mista de planos orçamentos públicos e fiscalização",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão mista de planos orçamentos públicos e fiscalização sobre o projeto de lei do congresso nacional n 18\nde 2024 que abre ao orçamento fiscal da união em favor da justiça federal crédito especial no valor de r 50000000 para o\nfim que especifica"
+        },
+        {
+            "documento": "minuta",
+            "data": "18122024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "mpcn 1372024"
+        },
+        {
+            "documento": "mpcn 1372024",
+            "data": "19122024",
+            "autor": "presidente do congresso nacional",
+            "local": "pg",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à sanção o projeto de lei do congresso nacional n 18 de 2024"
+        },
+        {
+            "documento": "ofcn 3842024",
+            "data": "19122024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha a mensagem da presidência da mesa do congresso nacional submetendo à sanção presidencial autógrafos do\nprojeto de lei do congresso nacional n 18 de 2024"
+        },
+        {
+            "documento": "autógrafo  pln 182024",
+            "data": "19122024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "abre ao orçamento fiscal da união em favor da justiça federal crédito especial no valor de r 50000000 para o fim que\nespecifica"
+        }
+    ]
 }

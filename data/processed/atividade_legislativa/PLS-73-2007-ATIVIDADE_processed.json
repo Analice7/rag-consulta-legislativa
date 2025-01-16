@@ -1,16 +1,652 @@
 {
-    "Atividade legislativa": "projeto de lei do senado n 73 de 2007",
-    "Autoria": "senadora kátia abreu pflto",
-    "Ementa": "regulamenta as atividades de pesquisa produção importação liberação no ambiente e comercialização de clones de\nmamíferos exceto humanos peixes anfíbios répteis e aves",
-    "Assunto": "meio ambiente ",
-    "Despacho": "06112008 despacho inicial\nnull\nanálise  tramitação sucessiva\nsfcct comissão de ciência tecnologia inovação e informática\nsfcra comissão de agricultura e reforma agrária\nsfccj comissão de constituição justiça e cidadania\nsfcma comissão de meio ambiente\npg\n1\natividade legislativa\nprojeto de lei do senado n 73 de 2007",
-    "Relatoria": "ccj  comissão de constituição justiça e cidadania\nrelatores\nsenador acir gurgacz encerrado em 23052012  deliberação\nda matéria\ncct  comissão de ciência tecnologia inovação e informática\nrelatores\nsenador joão tenório encerrado em 18022009 \nredistribuição\nsenador josé agripino encerrado em 10032009 \nredistribuição\nsenador gilberto goellner encerrado em 28042010 \nsubstituído por ad hoc\nsenador gilberto goellner encerrado em 08122010 \ndeliberação da matéria\nsenador sérgio zambiasi relator ad hoc encerrado em\n06102010  redistribuição\ncma  comissão de meio ambiente\nrelatores\nsenador acir gurgacz encerrado em 27112012  deliberação\nda matéria\ncra  comissão de agricultura e reforma agrária\nrelatores",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada por comissão em decisão",
-        "Destino": "à câmara dos deputados",
-        "Último local": "25102024  secretaria de expediente",
-        "Último estado": "13112024  transformada em\nnorma jurídica com veto parcial"
+    "atividade legislativa": "projeto de lei do senado n 73 de 2007",
+    "autoria": "senadora kátia abreu pflto",
+    "ementa": "regulamenta as atividades de pesquisa produção importação liberação no ambiente e comercialização de clones de\nmamíferos exceto humanos peixes anfíbios répteis e aves",
+    "assunto": "meio ambiente ",
+    "despacho": "06112008 despacho inicial\nnull\nanálise  tramitação sucessiva\nsfcct comissão de ciência tecnologia inovação e informática\nsfcra comissão de agricultura e reforma agrária\nsfccj comissão de constituição justiça e cidadania\nsfcma comissão de meio ambiente\npg\n1\natividade legislativa\nprojeto de lei do senado n 73 de 2007",
+    "relatoria": "ccj  comissão de constituição justiça e cidadania\nrelatores\nsenador acir gurgacz encerrado em 23052012  deliberação\nda matéria\ncct  comissão de ciência tecnologia inovação e informática\nrelatores\nsenador joão tenório encerrado em 18022009 \nredistribuição\nsenador josé agripino encerrado em 10032009 \nredistribuição\nsenador gilberto goellner encerrado em 28042010 \nsubstituído por ad hoc\nsenador gilberto goellner encerrado em 08122010 \ndeliberação da matéria\nsenador sérgio zambiasi relator ad hoc encerrado em\n06102010  redistribuição\ncma  comissão de meio ambiente\nrelatores\nsenador acir gurgacz encerrado em 27112012  deliberação\nda matéria\ncra  comissão de agricultura e reforma agrária\nrelatores",
+    "tramitação encerrada": {
+        "decisão": "aprovada por comissão em decisão",
+        "destino": "à câmara dos deputados",
+        "último local": "25102024  secretaria de expediente",
+        "último estado": "13112024  transformada em\nnorma jurídica com veto parcial"
     },
-    "Tramitação": "ccj  comissão de constituição justiça e cidadania\nrelatores\nsenador acir gurgacz encerrado em 23052012  deliberação\nda matéria\ncct  comissão de ciência tecnologia inovação e informática\nrelatores\nsenador joão tenório encerrado em 18022009 \nredistribuição\nsenador josé agripino encerrado em 10032009 \nredistribuição\nsenador gilberto goellner encerrado em 28042010 \nsubstituído por ad hoc\nsenador gilberto goellner encerrado em 08122010 \ndeliberação da matéria\nsenador sérgio zambiasi relator ad hoc encerrado em\n06102010  redistribuição\ncma  comissão de meio ambiente\nrelatores\nsenador acir gurgacz encerrado em 27112012  deliberação\nda matéria\ncra  comissão de agricultura e reforma agrária\nrelatores",
-    "Documentos": "ccj  comissão de constituição justiça e cidadania\nrelatores\nsenador acir gurgacz encerrado em 23052012  deliberação\nda matéria\ncct  comissão de ciência tecnologia inovação e informática\nrelatores\nsenador joão tenório encerrado em 18022009 \nredistribuição\nsenador josé agripino encerrado em 10032009 \nredistribuição\nsenador gilberto goellner encerrado em 28042010 \nsubstituído por ad hoc\nsenador gilberto goellner encerrado em 08122010 \ndeliberação da matéria\nsenador sérgio zambiasi relator ad hoc encerrado em\n06102010  redistribuição\ncma  comissão de meio ambiente\nrelatores\nsenador acir gurgacz encerrado em 27112012  deliberação\nda matéria\ncra  comissão de agricultura e reforma agrária\nrelatores"
+    "tramitação": [
+        {
+            "data": "13112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica com veto parcial",
+            "ação": "pr presidência da república\nsancionada lei 15021 de 2024 vetada parcialmente vide msg 1440 de 2024\ndou diário oficial da união  13112024  seção i  págs 9 e 9\nsancionada em 12112024\nà coarq"
+        },
+        {
+            "data": "25102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o ofício n 530 de 2024 na origem comunicando o envio à sanção do projeto de lei do senado n\n73 de 2007 n 50102013 na câmara dos deputados\nação\npublicado no dsf páginas 3839  dsf n 185"
+        },
+        {
+            "data": "10102018",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "à coarq\nação"
+        },
+        {
+            "data": "01082014",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "a partir de 1 de agosto de 2014 os boletins de ação legislativa não mais serão impressos nos termos da instrução normativa n\n1 de 2014 do secretáriogeral da mesa as consultas sobre a tramitação da matéria devem ser realizadas diretamente no\nsistema eletrônico próprio\nação"
+        },
+        {
+            "data": "20022013",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à câmara dos deputados",
+            "ação": "remessa ofício sf n 280 de 200213 ao primeirosecretário da câmara dos deputados encaminhando o projeto para revisão\nnos termos do art 65 da constituição federal fls 157 a 161"
+        },
+        {
+            "data": "14022013",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado fls153 a 156\nação"
+        },
+        {
+            "data": "13022013",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "recebido neste órgão às 17h10\nação"
+        },
+        {
+            "data": "13022013",
+            "órgão": "sfataplen  subsecretaria de ata  plenário",
+            "situação": "aprovada",
+            "ação": "a presidência comunica que se esgotou no dia 08 de fevereiro o prazo previsto no art 91  3 ao 5 risf sem que tenha sido\ninterposto o recurso para apreciação da matéria pelo plenário"
+        },
+        {
+            "data": "13022013",
+            "órgão": "sfssclsf  subsec coordenação legislativa do senado",
+            "situação": null,
+            "ação": "encaminhado ao plenário para comunicação do término do prazo para interposição de recurso\nação"
+        },
+        {
+            "data": "08022013",
+            "órgão": "sfssclsf  subsec coordenação legislativa do senado",
+            "situação": null,
+            "ação": "juntados quadro comparativo fls 134 a 145 e texto final revisado fls 146 a 149\nação"
+        },
+        {
+            "data": "28122012",
+            "órgão": "sfssclsf  subsec coordenação legislativa do senado",
+            "situação": null,
+            "ação": "prazo para interposição de recurso 04022013 a 08022013\nação"
+        },
+        {
+            "data": "20122012",
+            "órgão": "sfataplen  subsecretaria de ata  plenário",
+            "situação": "aguardando interposição de recurso",
+            "ação": "leitura dos seguintes pareceres\nparecer n 1750 de 2012cct relator senador gilberto goellner favorável nos termos da emenda n 1cctsubstitutivo\nparecer n 1751 de 2012cra relator senador acir gurgacz favorável nos termos da emenda n 2cra substitutivo\nparecer n 1752 de 2012ccj relator senador acir gurgacz favorável nos termos da emenda n 2craccj substitutivo\nparecer n 1753 de 2012cma relator senador acir gurgacz favorável nos termos da emenda n 2craccjcma\nsubstitutivo\na presidência informa ao plenário o recebimento do ofício n 3532012cma do presidente da comissão  comunicando a\naprovação da matéria em caráter terminativo nos termos de substitutivo  emenda n 2craccjcma\nfica aberto o prazo de cinco dias úteis para interposição de recurso por um décimo da composição da casa para que a matéria\nseja apreciada pelo plenário nos termos do art 91  3 a 5 do risf"
+        },
+        {
+            "data": "20122012",
+            "órgão": "sfssclsf  subsec coordenação legislativa do senado",
+            "situação": "aguardando leitura parecer es",
+            "ação": "aguardando leitura de pareceres da cct cra ccj e cma\njuntada às fls 131132 legislação citada nos pareceres"
+        },
+        {
+            "data": "19122012",
+            "órgão": "sfssclsf  subsec coordenação legislativa do senado",
+            "situação": null,
+            "ação": "recebido neste órgão às 18h22\nação"
+        },
+        {
+            "data": "19122012",
+            "órgão": "sfcma  comissão de meio ambiente",
+            "situação": null,
+            "ação": "à sclsf\nação"
+        },
+        {
+            "data": "19122012",
+            "órgão": "sfssclsf  subsec coordenação legislativa do senado",
+            "situação": null,
+            "ação": "pg\n3\natividade legislativa\nprojeto de lei do senado n 73 de 2007\ntramitação\ndevolvido à cma para ajustes na lista de votação\nação"
+        },
+        {
+            "data": "18122012",
+            "órgão": "sfssclsf  subsec coordenação legislativa do senado",
+            "situação": null,
+            "ação": "recebido neste órgão às 1112h\nação"
+        },
+        {
+            "data": "11122012",
+            "órgão": "sfcma  comissão de meio ambiente",
+            "situação": "apreciada em decisão terminativa pelas comissões",
+            "ação": "reunida a comissão na 52ª reunião ordinária nesta data o substitutivo aprovado em 271112 foi colocado em turno\nsuplementar de discussão encerrada a discussão e não tendo sido apresentadas emendas ao substitutivo o mesmo é\ndefinitivamente adotado pela cma sem votação nos termos do artigo 284 do regimento interno do senado federal\njuntados o texto final fl 116 a 121 o ofício n 3532012cma fl 122 e a ata da reunião com as respectivas notas\ntaquigráficas fls 123 a 130\nà ssclsf"
+        },
+        {
+            "data": "07122012",
+            "órgão": "sfcma  comissão de meio ambiente",
+            "situação": null,
+            "ação": "substitutivo à matéria constante da pauta da 52ª reunião da comissão de meio ambiente defesa do consumidor e fiscalização\ne controle agendada para o dia 11122012\nação"
+        },
+        {
+            "data": "05122012",
+            "órgão": "sfcma  comissão de meio ambiente",
+            "situação": null,
+            "ação": "a 50ª reunião ordinária do dia 04122012 foi cancelada a matéria segue em pauta\nação"
+        },
+        {
+            "data": "30112012",
+            "órgão": "sfcma  comissão de meio ambiente",
+            "situação": "incluída na pauta da reunião",
+            "ação": "substitutivo à matéria constante da pauta da 50ª reunião da comissão de meio ambiente defesa do consumidor e fiscalização\ne controle agendada para o dia 04122012"
+        },
+        {
+            "data": "29112012",
+            "órgão": "sfataplen  subsecretaria de ata  plenário",
+            "situação": null,
+            "ação": "a presidência comunica ao plenário que recebeu o ofício n 335 de 2012 da comissão de meio ambiente defesa do\nconsumidor e fiscalização e controle comunicando a aprovação de substitutivo ao presente projeto e ainda que poderão ser\noferecidas emendas até o encerramento da discussão no turno suplementar perante a comissão de meio ambiente defesa do\nconsumidor e fiscalização e controle\nação\npublicado no dsf páginas 64843"
+        },
+        {
+            "data": "29112012",
+            "órgão": "sfssclsf  subsec coordenação legislativa do senado",
+            "situação": null,
+            "ação": "encaminhado ao plenário\nação"
+        },
+        {
+            "data": "27112012",
+            "órgão": "sfcma  comissão de meio ambiente",
+            "situação": "aguardando turno suplementar em apreciação terminativa",
+            "ação": "reunida a comissão nesta data encerrada a discussão e colocado em votação foi aprovado o projeto com a emenda n 2\ncraccjcma substitutivo por unanimidade a matéria vai a turno suplementar de discussão e votação nos termos do artigo"
+        },
+        {
+            "data": "23112012",
+            "órgão": "sfcma  comissão de meio ambiente",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 49ª reunião da comissão de meio ambiente defesa do consumidor e fiscalização e controle\nagendada para o dia 27112012"
+        },
+        {
+            "data": "20112012",
+            "órgão": "sfcma  comissão de meio ambiente",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "matéria devolvida pelo relator senador acir gurgacz com relatório favorável nos termos da emenda n 2  craccj\nsubstitutivo"
+        },
+        {
+            "data": "31102012",
+            "órgão": "sfcma  comissão de meio ambiente",
+            "situação": "matéria com a relatoria",
+            "ação": "matéria distribuída ao senador acir gurgacz para relatar"
+        },
+        {
+            "data": "23052012",
+            "órgão": "sfcma  comissão de meio ambiente",
+            "situação": "aguardando designação do relator",
+            "ação": "recebido na cma nesta data aguarda designação de relatoria"
+        },
+        {
+            "data": "23052012",
+            "órgão": "sfccj  comissão de constituição justiça e cidadania",
+            "situação": "aprovado parecer na comissão",
+            "ação": "na 21ª reunião ordinária a comissão aprova o relatório do senador acir gurgacz que passa a constituir parecer da ccj\nfavorável ao projeto com a emenda n 2craccj substitutivo\nà comissão de meio ambiente defesa do consumidor e fiscalização e controle para prosseguimento da tramitação"
+        },
+        {
+            "data": "16052012",
+            "órgão": "sfccj  comissão de constituição justiça e cidadania",
+            "situação": "pedido de vista concedido",
+            "ação": "na 20ª reunião ordinária realizada nesta data a presidência concede vista aos senadores pedro simon e rodrigo rollemberg\nnos termos regimentais\nencaminhada cópia do relatório do senador acir gurgacz e do avulso da matéria aos senadores pedro simon e rodrigo\nrollemberg"
+        },
+        {
+            "data": "14052012",
+            "órgão": "sfccj  comissão de constituição justiça e cidadania",
+            "situação": "incluída na pauta da reunião",
+            "ação": "pg\n5\natividade legislativa\nprojeto de lei do senado n 73 de 2007\ntramitação\nmatéria incluída na pauta da comissão"
+        },
+        {
+            "data": "21032012",
+            "órgão": "sfccj  comissão de constituição justiça e cidadania",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido nesta comissão às 16 horas e 16 minutos o relatório do senador acir gurgacz com voto favorável ao projeto nos\ntermos da emenda n 2cra\nmatéria pronta para a pauta na comissão"
+        },
+        {
+            "data": "15032012",
+            "órgão": "sfccj  comissão de constituição justiça e cidadania",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao senador acir gurgacz para emitir relatório"
+        },
+        {
+            "data": "16122011",
+            "órgão": "sfccj  comissão de constituição justiça e cidadania",
+            "situação": "aguardando designação do relator",
+            "ação": "recebido nesta comissão matéria aguardando distribuição"
+        },
+        {
+            "data": "15122011",
+            "órgão": "sfcra  comissão de agricultura e reforma agrária",
+            "situação": "aprovado parecer na comissão",
+            "ação": "na 53ª reunião extraordinária da cra realizada nesta data a comissão como medida preliminar aprova o requerimento n 74\nde 2011cra que solicita a retirada nos termos do art 256 i do risf do requerimento n 47 de 2011cra aprovado em\n18082011 que determinava o estudo em conjunto do pls n 732007 pelas comissões de agricultura e reforma agrária  cra\nde constituição justiça e cidadania  ccj e de meio ambiente defesa do consumidor e fiscalização e controle  cma fl 98\ncolocado em discussão e votação o pls n 732007 a comissão aprova o relatório do senador acir gurgacz que passa a\nconstituir parecer da cra favorável ao projeto nos termos da emenda n 1cra substitutivo fls 8596\njuntada a folha de assinatura do parecer da cra sobre o pls n 732007 fl 97\nà ccj para prosseguimento da tramitação\n retificado em 20122011\nna 53ª reunião extraordinária da cra realizada nesta data a comissão como medida preliminar aprova o requerimento n 74\nde 2011cra que solicita a retirada nos termos do art 256 i do risf do requerimento n 47 de 2011cra aprovado em\n18082011 que determinava o estudo em conjunto do pls n 732007 pelas comissões de agricultura e reforma agrária  cra\nde constituição justiça e cidadania  ccj e de meio ambiente defesa do consumidor e fiscalização e controle  cma fl 98\ncolocado em discussão e votação o pls n 732007 a comissão aprova o relatório do senador acir gurgacz que passa a\nconstituir parecer da cra favorável ao projeto nos termos da emenda n 2cra substitutivo fls 8596\njuntada a folha de assinatura do parecer da cra sobre o pls n 732007 fl 97\nà ccj para prosseguimento da tramitação"
+        },
+        {
+            "data": "14122011",
+            "órgão": "sfcra  comissão de agricultura e reforma agrária",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria incluída na pauta da reunião da comissão"
+        },
+        {
+            "data": "06122011",
+            "órgão": "sfcra  comissão de agricultura e reforma agrária",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido nesta data do senador acir gurgacz o relatório pela aprovação do projeto nos termos da emenda n 1 substitutiva\nfls 8596\nmatéria pronta para a pauta na comissão"
+        },
+        {
+            "data": "18082011",
+            "órgão": "sfcra  comissão de agricultura e reforma agrária",
+            "situação": null,
+            "ação": "na 28ª reunião extraordinária da cra realizada nesta data a comissão aprova o requerimento n 47 de 2011cra de autoria\ndo senador acir gurgacz que solicita nos termos do art 113 do regimento interno do senado federal que o estudo do pls\n732007 seja feito em reunião conjunta das comissões de agricultura e reforma agrária  cra de constituição justiça e\ncidadania  ccj e de meio ambiente defesa do consumidor e fiscalização e controle  cma fl 83\nencaminhado ao relator senador acir gurgacz para prosseguimento da tramitação\n retificado em 07122011\nna 28ª reunião extraordinária da cra realizada nesta data a comissão aprova o requerimento n 47 de 2011cra de autoria\ndo senador acir gurgacz que solicita nos termos do art 113 do regimento interno do senado federal que o estudo do pls\n732007 seja feito em reunião conjunta das comissões de agricultura e reforma agrária  cra de constituição justiça e\ncidadania  ccj e de meio ambiente defesa do consumidor e fiscalização e controle  cma fl 84\nencaminhado ao relator senador acir gurgacz para prosseguimento da tramitação\nação"
+        },
+        {
+            "data": "23022011",
+            "órgão": "sfcra  comissão de agricultura e reforma agrária",
+            "situação": "matéria com a relatoria",
+            "ação": "avocado pelo presidente da cra senador acir gurgacz para relatar art 129 do risf\nencaminhado ao gabinete do senador acir gurgacz"
+        },
+        {
+            "data": "06012011",
+            "órgão": "sfcra  comissão de agricultura e reforma agrária",
+            "situação": null,
+            "ação": "recebido na cra nesta data\nmatéria aguardando designação de relator\nação"
+        },
+        {
+            "data": "05012011",
+            "órgão": "sfssclsf  subsec coordenação legislativa do senado",
+            "situação": null,
+            "ação": "a presente proposição continua a tramitar nos termos dos incisos do art 332 do regimento interno e do ato n 4 de 2010 da\nmesa do senado federal\na matéria volta à comissão de\n retificado em 06012011\na presente proposição continua a tramitar nos termos dos incisos do art 332 do regimento interno e do ato n 4 de 2010 da\nmesa do senado federal\na matéria volta à comissão de reforma agrária\nação"
+        },
+        {
+            "data": "15122010",
+            "órgão": "sfcra  comissão de agricultura e reforma agrária",
+            "situação": null,
+            "ação": "à ssclsf em cumprimento ao disposto no art 332 do regimento interno do senado federal\nação"
+        },
+        {
+            "data": "10122010",
+            "órgão": "sfcra  comissão de agricultura e reforma agrária",
+            "situação": "pg\n7\natividade legislativa\nprojeto de lei do senado n 73 de 2007\ntramitação\naguardando designação do relator",
+            "ação": "recebido nesta data na cra\n aguardando designação de relator"
+        },
+        {
+            "data": "08122010",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": null,
+            "ação": "à cra para prosseguimento de sua tramitação\nação"
+        },
+        {
+            "data": "08122010",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "aprovado parecer na comissão",
+            "ação": "a comissão reunida nesta data aprova o parecer favorável de autoria do senador gilberto goellner na forma da emenda n\n01cct substitutiva"
+        },
+        {
+            "data": "03122010",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria incluída na pauta da comissão na reunião do dia 08122010"
+        },
+        {
+            "data": "18112010",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "devolvido pelo relator senador gilberto goellner com relatório favorável na forma do substitutivo oferecido estando em\ncondições de ser incluído em pauta"
+        },
+        {
+            "data": "06102010",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "matéria com a relatoria",
+            "ação": "redistribuído ao senador gilberto goellener para relatar\nanexado às fls 59 a 71 parecer oferecido pelo relator ad hoc senador sérgio zambiasi"
+        },
+        {
+            "data": "06102010",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "aguardando designação do relator",
+            "ação": "devolvido pelo senador sérgio zambiasi para redistribuição"
+        },
+        {
+            "data": "05052010",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "matéria com a relatoria",
+            "ação": "ao gabinete do relator atendendo a solicitação de sua excelência"
+        },
+        {
+            "data": "05052010",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "na reunião realizada nesta data o relator ad hoc senador sérgio zambiasi solicita a retirada do projeto de pauta para reexame"
+        },
+        {
+            "data": "30042010",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria incluída na pauta da comissão na reunião do dia 05052010"
+        },
+        {
+            "data": "28042010",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "pedido de vista concedido",
+            "ação": "o presidente da comissão senador flexa ribeiro em reunião realizada nesta data designa relator ad hoc o senador sérgio\nzambiasi e concede vista ao senador roberto cavalcanti pelo prazo regimental de cinco dias"
+        },
+        {
+            "data": "23042010",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria incluída na pauta da comissão na reunião do dia 28042010"
+        },
+        {
+            "data": "16042010",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "devolvido pelo relator senador gilberto goellner com relatório favorável acatando a emenda oferecida pelo senador sérgio\nzambiasi com as emendas apresentadas estando em condições de ser incluído em pauta\nanexado às fls 48 a  58 o primeiro parecer oferecido"
+        },
+        {
+            "data": "22092009",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "matéria com a relatoria",
+            "ação": "ao gabinete do relator senador gilberto goellner para prosseguimento de sua tramitação"
+        },
+        {
+            "data": "22092009",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": null,
+            "ação": "a comissão reunida no dia 220909 realizou audiência pública atendendo ao requerimento n 172009cct e aditamento n\n01 de autoria dos senadores gilberto goellner e cícero lucena ao requerimento n 24 e  372009cra de autoria dos\nsenadores gilberto goellner e kátia abreu ao requerimento n 492009cma e aditamento n 01 de autoria dos senadores\ngilberto goellner e renato casagrande ao requerimento n 722009ccj de autoria dos senadores jayme campos e antonio\ncarlos júnior para instruir o projeto de lei do senado n 73 de 2007 com os seguintes convidados dr flávio vieira meirelles\ndoutor em genética professor da usp e membro da comissão técnica nacional de biossegurança  ctnbio dr rodolfo rumpf\ndoutor em veterinária pesquisador da embrapa e membro da ctnbio beronete barros de freitas araujo chefe da divisão de\nfiscalização de material genético animal da secretaria de defesa agropecuária do ministério da agricultura pecuária e\nabastecimento  mapa carlos cristo secretário interino de tecnologia industrial do ministério do desenvolvimento indústria e\ncomércio exterior  mdic e cosette barrabas xavier da silva diretora substituta da diretoria de biodiversidade e florestas do\ninstituto brasileiro de meio ambiente e recursos naturais renováveis  ibama\nação"
+        },
+        {
+            "data": "09092009",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": null,
+            "ação": "a comissão reunida no dia de hoje aprova o aditamento n 01 ao requerimento n 17 de 2009cct anexado à fl 47 de autoria\ndos senadores gilberto goellner e cícero lucena propondo a inclusão de nome na audiência pública para instruir o presente\nprojeto\na matéria fica sobrestada na comissão aguardando realização da audiência pública\nação"
+        },
+        {
+            "data": "27052009",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": null,
+            "ação": "pg\n9\natividade legislativa\nprojeto de lei do senado n 73 de 2007\ntramitação\na comissão reunida no dia de hoje aprova requerimento n 17 de 2009cct anexado à fl 46 de autoria do senador gilberto\ngoellner propondo a realização de audiência pública para instruir o presente projeto\na matéria fica sobrestada na comissão aguardando realização da audiência pública\nação"
+        },
+        {
+            "data": "22052009",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria incluida na pauta da comissão na reunião do dia 270509"
+        },
+        {
+            "data": "20052009",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "devolvido pelo relator senador gilberto goellner com relatório favorável acatando a emenda oferecida pelo senador sérgio\nzambiasi com as emendas apresentadas estando em condições de ser incluído em pauta"
+        },
+        {
+            "data": "11032009",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "matéria com a relatoria",
+            "ação": "redistribuído ao senador gilberto goellner para relatar"
+        },
+        {
+            "data": "10032009",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "aguardando designação do relator",
+            "ação": "devolvido pelo senador josé agripino para redistribuição"
+        },
+        {
+            "data": "05032009",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao senador josé agripino para relatar"
+        },
+        {
+            "data": "18022009",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "aguardando designação do relator",
+            "ação": "a matéria será redistribuída em razão do relator senador joão tenório não mais pertencer aos quadros desta comissão\nanexada às fls 34 a 44 parecer oferecido"
+        },
+        {
+            "data": "16122008",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria incluida na pauta da comissão na reunião do dia 171208"
+        },
+        {
+            "data": "16122008",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "devolvido pelo relator senador joão tenório com relatório favorável acatando a emenda oferecida pelo senador sérgio\nzambiasi com as emendas apresentadas estando em condições de ser incluído em pauta"
+        },
+        {
+            "data": "10122008",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "matéria com a relatoria",
+            "ação": "ao gabinete do relator senador joão tenório para prosseguimento de sua tramitação"
+        },
+        {
+            "data": "10122008",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": null,
+            "ação": "a comissão reunida nesta data aprova requerimento n 23 de 2008cct de autoria dos senadores joão tenório e eduardo\nazeredo anexado à fl 33 propondo que seja dispensada a realização da 2ª audiência pública\nação"
+        },
+        {
+            "data": "08122008",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": null,
+            "ação": "a comissão reunida no dia 270308 realizou audiência pública atendendo ao requerimento n 35  cct de 2007 de autoria\ndo senador joão tenório para instruir o projeto de lei do senado n 73 de 2007 com os seguintes convidados rodolfo rumpf\npesquisador de recursos genéticos e biotecnologia da embrapa cenargen flávio vieira meirelles professor veterinário da\nuniversidade de são paulo  usp luiz antônio josahkian superintendente técnico da associação brasileira dos criadores de\nzebu  abcz e joselito araújo barbosa veterinário especialista em clonagem de ovinos da associação brasileira de santa inês de\nalagoas  absial\nação"
+        },
+        {
+            "data": "17112008",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": null,
+            "ação": " ação de saneamento  nesta data foi realizada a verificação de dados nos sistemas informatizados em atendimento aos\nobjetivos definidos no ato n 24 de 2008 do presidente do senado federal este registro não representa um novo andamento\nna tramitação desta matéria\nação"
+        },
+        {
+            "data": "10042008",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": null,
+            "ação": "anexada à fl 32 emenda n 01 de autoria do senador sérgio zambiasi\na matéria está sobrestada na comissão aguardando realização de audiência pública\nação"
+        },
+        {
+            "data": "28112007",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "audiência pública",
+            "ação": "a comissao reunida nesta data aprova requerimento n 35 de 2007cct de autoria do senador joão tenório anexado às fls\n30 e 31 propondo a realização de audiências públicas para instruir o presente projeto\na matéria fica sobrestada na comissão aguardando realização de audiência pública"
+        },
+        {
+            "data": "14092007",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": null,
+            "ação": "devolvido pelo relator senador joão tenório que apresenta requerimento para realização de audiências públicas destinado a\ninstruir o presente projeto\nação"
+        },
+        {
+            "data": "23032007",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao senador joão tenório  para relatar"
+        },
+        {
+            "data": "15032007",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "aguardando designação do relator",
+            "ação": "pg\n11\natividade legislativa\nprojeto de lei do senado n 73 de 2007\ntramitação\nnão foram oferecidas emendas no prazo regimental\naguardando distribuição"
+        },
+        {
+            "data": "08032007",
+            "órgão": "sfcct  comissão de ciência tecnologia inovação comunicação e informática",
+            "situação": "aguardando recebimento de emendas",
+            "ação": "recebido nesta comissão em 08032007\naguardando recebimento de emendas"
+        },
+        {
+            "data": "07032007",
+            "órgão": "sfataplen  subsecretaria de ata  plenário",
+            "situação": null,
+            "ação": "leitura\n       às comissões de ciência tecnologia inovação comunicação e informática de agricultura e reforma agrária de\nconstituição justiça e cidadania  e de meio ambiente defesa do consumidor e fiscalização e controle onde poderá receber\nemendas no prazo de cinco dias úteis perante a primeira comissão após sua publicação e distribuição em avulsos cabendo à\núltima decisão terminativa\n     ao pleg com destino à cct cra ccj  e posteriormente à cma para decisão terminativa\nação\npublicado no dsf páginas 44304443"
+        },
+        {
+            "data": "07032007",
+            "órgão": "sfpleg  protocolo legislativo",
+            "situação": null,
+            "ação": "este processo contém 29 vinte e nove  folhas numeradas e rubricadas\nação"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "texto inicial  pls 732007",
+            "data": "07032007",
+            "autor": "senadora kátia abreu pflto",
+            "local": "subsecretaria de ata  plenário",
+            "ação legislativa": null,
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "legislação citada",
+            "data": "07032007",
+            "autor": "",
+            "local": "subsecretaria de ata  plenário",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n12\natividade legislativa\nprojeto de lei do senado n 73 de 2007\ndocumentos\núltima decisão terminativa\n     ao pleg com destino à cct cra ccj  e posteriormente à cma para decisão terminativa\navulso inicial da matéria"
+        },
+        {
+            "documento": "pg\n12\natividade legislativa\nprojeto de lei do senado n 73 de 2007\ndocumentos\núltima decisão terminativa\n     ao pleg com destino à cct cra ccj  e posteriormente à cma para decisão terminativa\navulso inicial da matéria",
+            "data": "07032007",
+            "autor": "",
+            "local": "null",
+            "ação legislativa": "relatório legislativo",
+            "descrição/Ementa": "relatório legislativo"
+        },
+        {
+            "documento": null,
+            "data": "16122008",
+            "autor": "senador joão tenório psdbal",
+            "local": "comissão de ciência tecnologia inovação e informática",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório legislativo"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "16122008",
+            "autor": "senador joão tenório psdbal",
+            "local": "comissão de ciência tecnologia inovação e informática",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório legislativo"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "16042010",
+            "autor": "senador gilberto goellner demmt",
+            "local": "comissão de ciência tecnologia inovação e informática",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório legislativo"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "18112010",
+            "autor": "senador gilberto goellner demmt",
+            "local": "comissão de ciência tecnologia inovação e informática",
+            "ação legislativa": null,
+            "descrição/Ementa": "parecer"
+        },
+        {
+            "documento": "parecer",
+            "data": "08122010",
+            "autor": "",
+            "local": "comissão de ciência tecnologia inovação e informática",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n13\natividade legislativa\nprojeto de lei do senado n 73 de 2007\ndocumentos\nrelatório legislativo"
+        },
+        {
+            "documento": "pg\n13\natividade legislativa\nprojeto de lei do senado n 73 de 2007\ndocumentos\nrelatório legislativo",
+            "data": "06122011",
+            "autor": "senador acir gurgacz pdtro",
+            "local": "comissão de agricultura e reforma agrária",
+            "ação legislativa": null,
+            "descrição/Ementa": "parecer"
+        },
+        {
+            "documento": "parecer",
+            "data": "15122011",
+            "autor": "",
+            "local": "comissão de agricultura e reforma agrária",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório legislativo"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "21032012",
+            "autor": "senador acir gurgacz pdtro",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "parecer"
+        },
+        {
+            "documento": "parecer",
+            "data": "23052012",
+            "autor": "",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n14\natividade legislativa\nprojeto de lei do senado n 73 de 2007\ndocumentos\nrelatório legislativo"
+        },
+        {
+            "documento": "pg\n14\natividade legislativa\nprojeto de lei do senado n 73 de 2007\ndocumentos\nrelatório legislativo",
+            "data": "20112012",
+            "autor": "senador acir gurgacz pdtro",
+            "local": "comissão de meio ambiente",
+            "ação legislativa": null,
+            "descrição/Ementa": "parecer"
+        },
+        {
+            "documento": "parecer",
+            "data": "27112012",
+            "autor": "",
+            "local": "comissão de meio ambiente",
+            "ação legislativa": null,
+            "descrição/Ementa": "ps 17502012"
+        },
+        {
+            "documento": "ps 17502012",
+            "data": "20122012",
+            "autor": "",
+            "local": "subsecretaria de ata  plenário",
+            "ação legislativa": null,
+            "descrição/Ementa": "quadro comparativo"
+        },
+        {
+            "documento": "quadro comparativo",
+            "data": "08022013",
+            "autor": "",
+            "local": "subsec coordenação legislativa do senado",
+            "ação legislativa": "juntados quadro comparativo fls 134 a 145 e texto final revisado fls 146 a 149",
+            "descrição/Ementa": "pls x emenda n 2  craccjcma substitutivo"
+        },
+        {
+            "documento": "texto final revisado  projeto",
+            "data": "08022013",
+            "autor": "",
+            "local": "subsec coordenação legislativa do senado",
+            "ação legislativa": "juntados quadro comparativo fls 134 a 145 e texto final revisado fls 146 a 149",
+            "descrição/Ementa": "pg\n15\natividade legislativa\nprojeto de lei do senado n 73 de 2007\ndocumentos\nautógrafo  pls 732007"
+        },
+        {
+            "documento": "pg\n15\natividade legislativa\nprojeto de lei do senado n 73 de 2007\ndocumentos\nautógrafo  pls 732007",
+            "data": "20022013",
+            "autor": "",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "autógrafo  pls 732007"
+        },
+        {
+            "documento": "autógrafo  pls 732007",
+            "data": "20022013",
+            "autor": "",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "ofc 5302024  câmara dos"
+        },
+        {
+            "documento": "ofc 5302024  câmara dos",
+            "data": "25102024",
+            "autor": "câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica o envio à sanção do projeto de lei do senado n 73 de 2007 n 5010 de 2013 na câmara dos deputados"
+        }
+    ]
 }

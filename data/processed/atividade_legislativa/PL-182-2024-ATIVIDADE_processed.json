@@ -1,17 +1,1267 @@
 {
-    "Atividade legislativa": "projeto de lei n 182 de 2024",
-    "Autoria": "câmara dos deputados",
-    "Iniciativa": "deputado federal jaime martins psdmg",
-    "Ementa": "institui o sistema brasileiro de comércio de emissões de gases de efeito estufa sbce e altera as leis ns 12187 de 29\nde dezembro de 2009 12651 de 25 de maio de 2012 código florestal 6385 de 7 de dezembro de 1976 11033 de\n21 de dezembro de 2004 e 6015 de 31 de dezembro de 1973 lei de registros públicos",
-    "Assunto": "economia e desenvolvimento   sistema financeiro nacional",
-    "Despacho": "04112024\ndecisão da presidência\nao plenário\nsfplen plenário do senado federal",
-    "Relatoria": "plen  plenário do senado federal\nrelatores\nsenadora leila barros encerrado em 13112024  matéria\ndeliberada no plenário",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada pelo plenário",
-        "Destino": "à câmara dos deputados",
-        "Último local": "26112024  secretaria de expediente",
-        "Último estado": "12122024  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei n 182 de 2024",
+    "autoria": "câmara dos deputados",
+    "iniciativa": "deputado federal jaime martins psdmg",
+    "ementa": "institui o sistema brasileiro de comércio de emissões de gases de efeito estufa sbce e altera as leis ns 12187 de 29\nde dezembro de 2009 12651 de 25 de maio de 2012 código florestal 6385 de 7 de dezembro de 1976 11033 de\n21 de dezembro de 2004 e 6015 de 31 de dezembro de 1973 lei de registros públicos",
+    "assunto": "economia e desenvolvimento   sistema financeiro nacional",
+    "despacho": "04112024\ndecisão da presidência\nao plenário\nsfplen plenário do senado federal",
+    "relatoria": "plen  plenário do senado federal\nrelatores\nsenadora leila barros encerrado em 13112024  matéria\ndeliberada no plenário",
+    "tramitação encerrada": {
+        "decisão": "aprovada pelo plenário",
+        "destino": "à câmara dos deputados",
+        "último local": "26112024  secretaria de expediente",
+        "último estado": "12122024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "plen  plenário do senado federal\nrelatores\nsenadora leila barros encerrado em 13112024  matéria\ndeliberada no plenário",
-    "Documentos": "plen  plenário do senado federal\nrelatores\nsenadora leila barros encerrado em 13112024  matéria\ndeliberada no plenário"
+    "tramitação": [
+        {
+            "data": "12122024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica",
+            "ação": "pr presidência da república\nsancionada lei 15042 de 2024\ndou diário oficial da união  12122024  seção i  págs 4 e 8\nsancionada em 11122024"
+        },
+        {
+            "data": "26112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o ofício da câmara dos deputados n 603 de 2024 na origem que comunica o envio à sanção do\nprojeto de lei n 182 de 2024 a matéria vai à secretaria de expediente\nação"
+        },
+        {
+            "data": "19112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à câmara dos deputados",
+            "ação": "remetido ofício sf n 1291 de 181124 ao senhor primeirosecretário da câmara dos deputados comunicando que o senado\nfederal aprovou em revisão nos termos do substitutivo o projeto"
+        },
+        {
+            "data": "19112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovado o substitutivo",
+            "ação": "continuação da sessão deliberativa ordinária iniciada em 12112024\nencaminhadas à publicação as emendas ns 52 a 58\nencaminhado à publicação o parecer n 186 de 2024plensf proferido pela senadora leila barros o qual é favorável ao\nprojeto e pelo acolhimento total ou parcial das emendas ns 2 8 11 13 14 15 20 24 27 35 36 38 39 40 41 42 45 47 49\n52 54 55 56 57 e 58 na forma da emenda n 59 substitutivo que apresenta complementada com os acolhimentos de\nplenário e pela rejeição das demais emendas\nprejudicados os requerimentos ns 745 e 765 de 2024 tendo em vista  respectivamente  os acolhimentos parciais das\nemendas ns 8 e 42\nencaminhado à publicação  e prejudicado  o requerimento n 781 de 2024 tendo em vista o acolhimento da emenda n 57\nretirado o requerimento n 768 de 2024\nencaminhado à publicação  e retirado  o requerimento n 779 de 2024\ndeferido o requerimento n 772 de 2024 de destaque para votação em separado da emenda n 25\nencaminhado à publicação  e deferido  o requerimento n 782 de 2024 de destaque para votação em separado da emenda\nn 58\nencerrada a discussão da matéria"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 782 de 2024 da liderança do união de destaque para votação em separado da emenda n 58\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 58 do senador alan rick\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidos da liderança do pl os requerimentos\n n 7802024 de retirada do requerimento n 767\n n 7812024 de destaque para votação em separado da emenda n 57\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 779 de 2024 da liderança do republicanos de destaque para votação em separado da emenda\nn 26\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o relatório da senadora leila barros\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 57 do marcos rogério\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 56 do luis carlos heinze\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 55 do senador carlos portinho\nação\npg\n3\natividade legislativa\nprojeto de lei n 182 de 2024\ntramitação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 54 do senador alan rick\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 53 do senador izalci lucas\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 52 do senador efraim filho\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "incluído em ordem do dia da continuação da sessão deliberativa ordinária de 12112024 a ser realizada em 13112024 às\n14h\nação\npublicado no dsf páginas 12  dsf n 192"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "sessão deliberativa ordinária  realizada em 12112024\nencaminhadas à publicação as emendas ns 25 a 51\nretirado pelo primeiro signatário senador carlos portinho o rqs n 76924 que solicita a extinção de urgência da matéria\napreciação adiada\nencaminhados à publicação os requerimento ns 76924 76524 76624 76724 76824 77024 e 77224\nação\npublicado no dsf páginas 134197  dsf n 194\npublicado no dsf páginas 51  dsf n 194"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 772 de 2024 da liderança do pp de destaque para votação em separado da emenda n 25\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o relatório da senadora leila barros\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 770 de 2024 da liderança do pp de destaque para votação em separado da emenda n 25\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 769 de 2024 de líderes solicitando a extinção da urgência para a matéria\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 768 de 2024 da liderança do podemos de destaque para votação em separado da emenda n 50\nação\npg\n4\natividade legislativa\nprojeto de lei n 182 de 2024\ntramitação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 51 do senador carlos portinho\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidos da liderança do pl os requerimentos\n n 7652024 de destaque para votação em separado da emenda n 42\n n 7662024 de retirada dos requerimentos ns 747 e 748 de 2024 e\n n 7672024 de destaque para votação em separado da emenda n 43\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 50 da senadora soraya thronicke\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 49 do senador dr hiran\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidas as emendas ns 47e 48 do senador mecias de jesus\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidas as emendas ns 44 45 e 46 do senador carlos portinho\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 43 do senador marcos rogério\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 42 do senador rogério marinho\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 41 do senador alan rick\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 40 do senador jayme campos\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidas as emendas n  38 e 39 do senador nelsinho trad\nação\npg\n5\natividade legislativa\nprojeto de lei n 182 de 2024\ntramitação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 37 do senador zequinha marinho\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 36 do senador efraim filho\nação"
+        },
+        {
+            "data": "11112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido novo relatório da senadora leila barros\nação"
+        },
+        {
+            "data": "11112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 35 do senador laércio oliveira\nação"
+        },
+        {
+            "data": "11112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidas as emendas ns 33 e 34 da senadora soraya thronicke\nação"
+        },
+        {
+            "data": "11112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidas as emendas ns 30 a 32 do senador zequinha marinho\nação"
+        },
+        {
+            "data": "11112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 29 do senador jaime bagattoli\nação"
+        },
+        {
+            "data": "11112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 28 do senador esperidião amin\nação"
+        },
+        {
+            "data": "11112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 27 do senador efraim filho\nação"
+        },
+        {
+            "data": "11112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 26 do senador veneziano vital do rêgo\nação"
+        },
+        {
+            "data": "10112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "incluído em ordem do dia da sessão deliberativa ordinária de 12112024\ndiscussão em turno único\nmatéria tramita em regime de urgência nos termos do requerimento n 743 de 2024\nação\npg\n6\natividade legislativa\nprojeto de lei n 182 de 2024\ntramitação"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o rqs n 750 de 2024 do senador esperidião amin de retirada em caráter definitivo da emenda n\n22 apresentada ao presente projeto\na presidência defere o requerimento\nação\npublicado no dsf páginas 162164  dsf n 191"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 25 do senador esperidião amin\nação"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 750 de 2024 do senador esperidião amin solicitando a retirada definitiva da emenda n 22\nação\npublicado no dsf páginas 162163  dsf n 191"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "sessão deliberativa extraordinária  semipresencial  realizada em 05112024\nencaminhadas à publicação as emendas ns 1 a 24\naprovado o requerimento n 743 de 2024 por meio do qual se solicita urgência para a matéria\nadiada a apreciação da matéria\nencaminhados a publicações os requerimentos ns 745 747 e 748 de 2024 de destaques\nação\npublicado no dsf páginas 30100  dsf n 191\npublicado no dsf páginas 2023  dsf n 191"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 24 da senadora professora dorinha seabra\nação"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 23 do senador rogerio marinho\nação"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 22 do senador esperidião amin\nação"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 21 do senador mecias de jesus\nação"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 20 da senadora tereza cristina\nação\npg\n7\natividade legislativa\nprojeto de lei n 182 de 2024\ntramitação"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 748 de 2024 da liderança do pl de destaque para votação em separado dos 2 e 3 do art 28\ndo substitutivo da relatora\nação\npublicado no dsf páginas 98100  dsf n 191"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 19 do senador luis carlos heinze\nação"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 747 de 2024 da liderança do pl de destaque para votação em separado do art 56 do substitutivo\nda relatora\nação\npublicado no dsf páginas 9297  dsf n 191"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 18 do senador luis carlos heinze\nação"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 17 do senador esperidião amin\nação"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 16 do senador castellar neto\nação"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidas as emendas ns 13 a 15 do senador zequinha marinho\nação"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidas as emendas ns 11 e 12 do senador luis carlos heinze\nação"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 745 de 2024 da liderança do mdb de destaque para votação em separado da emenda n 8\nação\npublicado no dsf páginas 9091  dsf n 191"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidas as emendas ns 9 e 10 do senador mecias de jesus\nação\npg\n8\natividade legislativa\nprojeto de lei n 182 de 2024\ntramitação"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 8 do senador eduardo braga\nação"
+        },
+        {
+            "data": "05112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 7 do senador eduardo gomes\nação"
+        },
+        {
+            "data": "04112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 743 de 2024 de líderes solicitando urgência para a matéria\nação\npublicado no dsf páginas 7071  dsf n 190"
+        },
+        {
+            "data": "04112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 6 do senador sérgio petecão\nação"
+        },
+        {
+            "data": "04112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidas as emendas ns 4 e 5 do senador alan rick\nação"
+        },
+        {
+            "data": "04112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 3 da senadora soraya thronicke\nação"
+        },
+        {
+            "data": "04112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o relatório da senadora leila barros\nação"
+        },
+        {
+            "data": "04112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 2 do senador laércio oliveira\nação"
+        },
+        {
+            "data": "04112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "designada relatora de plenário a senadora leila barros\npendente de apresentação de requerimento de urgência\nação"
+        },
+        {
+            "data": "04112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 1 da senadora margareth buzetti\nação"
+        },
+        {
+            "data": "02112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "incluída em ordem do dia",
+            "ação": "incluído em ordem do dia da sessão deliberativa extraordinária semipresencial de 05112024"
+        },
+        {
+            "data": "07022024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando despacho",
+            "ação": "autuado o projeto de lei n 1822024 proveniente da câmara dos deputados o projeto vai à publicação"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "pl 1822024",
+            "data": "07022024",
+            "autor": "câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 1822024 proveniente da câmara dos deputados o projeto vai à publicação",
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "07022024",
+            "autor": "senado federal",
+            "local": "null",
+            "ação legislativa": null,
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "ofício",
+            "data": "27032024",
+            "autor": "cidadão alexandre victor borges scavardoni",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "solicita apoio e  celeridade na tramitação do pl 1822024 que versa sobre a regulamentação do mercado de mitigação de\ncarbono e emissões de gases poluentes bem como a possibilidade de atribuir a relatoria do referido projeto à senadora tereza\ncristina encaminha nota técnica a favor do pl"
+        },
+        {
+            "documento": "correspondência eletrônica",
+            "data": "24042024",
+            "autor": "cidadão alexandre victor borges scavardoni",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "solicitação de aprovação urgente do pl 1822024 com emissão de nota técnica do referido projeto"
+        },
+        {
+            "documento": "ofício",
+            "data": "12082024",
+            "autor": "indústria brasileira de árvores  ibá",
+            "local": "null",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n10\natividade legislativa\nprojeto de lei n 182 de 2024\ndocumentos\nnecessidade de correção do texto referente à pl de carbono n 1822024"
+        },
+        {
+            "documento": "ofício",
+            "data": "12082024",
+            "autor": "fórum do meio ambiente e sustentabilidade do setor elétrico  fmase",
+            "local": "null",
+            "ação legislativa": null,
+            "descrição/Ementa": "projeto de lei n 1822024 que institui o sistema brasileiro de comércio de emissões de gases de efeito estufa sbce e altera as\nleis ns 12187 de 29 de dezembro de 2009 12651 de 25 de maio de 2012 código florestal 6385 de 7 de dezembro de\n1976 11033 de 21 de dezembro de 2004 e 6015 de 31 de dezembro de 1973 lei de registros públicos"
+        },
+        {
+            "documento": "ofício",
+            "data": "17092024",
+            "autor": "fiesp",
+            "local": "null",
+            "ação legislativa": null,
+            "descrição/Ementa": "alerta sobre proposições que podem acarretar significativo aumento de custos para a indústria brasileira"
+        },
+        {
+            "documento": "emenda 1 plen  pl",
+            "data": "04112024",
+            "autor": "senadora margareth buzetti psdmt",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 1 da senadora margareth buzetti",
+            "descrição/Ementa": "emenda  ao pl 1822024  crédito de carbono"
+        },
+        {
+            "documento": "emenda 2 plen  pl",
+            "data": "04112024",
+            "autor": "senador laércio oliveira ppse",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 2 do senador laércio oliveira",
+            "descrição/Ementa": "emenda  ao pl 1822024"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "04112024",
+            "autor": "senadora leila barros pdtdf",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o relatório da senadora leila barros",
+            "descrição/Ementa": "pela aprovação do pl 1822024 na forma de substitutivo"
+        },
+        {
+            "documento": "emenda 4 plen  pl",
+            "data": "04112024",
+            "autor": "senador alan rick uniãoac",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 4 e 5 do senador alan rick",
+            "descrição/Ementa": "emenda  ao pl 1822024  setores estratégicos"
+        },
+        {
+            "documento": "pg\n11\natividade legislativa\nprojeto de lei n 182 de 2024\ndocumentos\nemenda 3 plen  pl",
+            "data": "04112024",
+            "autor": "senadora soraya thronicke podemosms",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 3 da senadora soraya thronicke",
+            "descrição/Ementa": "emenda  ao pl 1822024 crve"
+        },
+        {
+            "documento": "emenda 5 plen  pl",
+            "data": "04112024",
+            "autor": "senador alan rick uniãoac",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 4 e 5 do senador alan rick",
+            "descrição/Ementa": "emenda  ao pl 1822024  ganhos de intensidade"
+        },
+        {
+            "documento": "emenda 6 plen  pl",
+            "data": "04112024",
+            "autor": "senador sérgio petecão psdac",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 6 do senador sérgio petecão",
+            "descrição/Ementa": "emenda  ao pl 1822024  responsável técnico"
+        },
+        {
+            "documento": "rqs 7432024",
+            "data": "04112024",
+            "autor": "líder do bloco parlamentar da resistência democrática otto alencar psdba líder do bloco parlamentar aliança laércio",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o requerimento n 743 de 2024 de líderes solicitando urgência para a matéria",
+            "descrição/Ementa": "requer urgência para o projeto de lei n 1822024 nos termos dos arts 336 iii e 338 iii do regimento interno do senado\nfederal"
+        },
+        {
+            "documento": "emenda 8 plen  pl",
+            "data": "05112024",
+            "autor": "senador eduardo braga mdbam",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 8 do senador eduardo braga",
+            "descrição/Ementa": "emenda  ao pl 1822024  6 art 43"
+        },
+        {
+            "documento": "emenda 7 plen  pl",
+            "data": "05112024",
+            "autor": "senador eduardo gomes plto",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 7 do senador eduardo gomes",
+            "descrição/Ementa": "pg\n12\natividade legislativa\nprojeto de lei n 182 de 2024\ndocumentos\nemenda  ao substitutivo do pl 1822024"
+        },
+        {
+            "documento": "emenda 13 plen  pl",
+            "data": "05112024",
+            "autor": "senador zequinha marinho podemospa",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 13 a 15 do senador zequinha marinho",
+            "descrição/Ementa": "emenda  ao pl 1822024  fpa 3"
+        },
+        {
+            "documento": "emenda 14 plen  pl",
+            "data": "05112024",
+            "autor": "senador zequinha marinho podemospa",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 13 a 15 do senador zequinha marinho",
+            "descrição/Ementa": "emenda  ao pl 1822024  4"
+        },
+        {
+            "documento": "emenda 15 plen  pl",
+            "data": "05112024",
+            "autor": "senador zequinha marinho podemospa",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 13 a 15 do senador zequinha marinho",
+            "descrição/Ementa": "emenda  ao pl 1822024  fpa"
+        },
+        {
+            "documento": "emenda 9 plen  pl",
+            "data": "05112024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 9 e 10 do senador mecias de jesus",
+            "descrição/Ementa": "emenda  ao pl 1822024"
+        },
+        {
+            "documento": "emenda 10 plen  pl",
+            "data": "05112024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 9 e 10 do senador mecias de jesus",
+            "descrição/Ementa": "emenda  ao pl 1822024"
+        },
+        {
+            "documento": "rqs 7452024",
+            "data": "05112024",
+            "autor": "líder do mdb eduardo braga mdbam",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o requerimento n 745 de 2024 da liderança do mdb de destaque para votação em separado da emenda n 8",
+            "descrição/Ementa": "pg\n13\natividade legislativa\nprojeto de lei n 182 de 2024\ndocumentos\nrequer pela liderança do movimento democrático brasileiro mdb destaque para votação em separado da emenda n 8 ao\nprojeto de lei n 1822024"
+        },
+        {
+            "documento": "emenda 11 plen  pl",
+            "data": "05112024",
+            "autor": "senador luis carlos heinze pprs",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 11 e 12 do senador luis carlos heinze",
+            "descrição/Ementa": "emenda  01 pl 1822024"
+        },
+        {
+            "documento": "emenda 12 plen  pl",
+            "data": "05112024",
+            "autor": "senador luis carlos heinze pprs",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 11 e 12 do senador luis carlos heinze",
+            "descrição/Ementa": "emenda  02  pl 1822024"
+        },
+        {
+            "documento": "emenda 16 plen  pl",
+            "data": "05112024",
+            "autor": "senador castellar neto ppmg",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 16 do senador castellar neto",
+            "descrição/Ementa": "emenda  ao pl 1822024  aplicação de 1 das reservas técnicas de seguradoras"
+        },
+        {
+            "documento": "emenda 17 plen  pl",
+            "data": "05112024",
+            "autor": "senador esperidião amin ppsc",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 17 do senador esperidião amin",
+            "descrição/Ementa": "emenda  ao pl 1822024 multas"
+        },
+        {
+            "documento": "rqs 7472024",
+            "data": "05112024",
+            "autor": "líder do pl izalci lucas pldf",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer pela liderança do partido liberal pl destaque para votação em separado do art 56 do substitutivo ao projeto de lei\nn 1822024"
+        },
+        {
+            "documento": "emenda 20 plen  pl",
+            "data": "05112024",
+            "autor": "senadora tereza cristina ppms",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda  ao pl 1822024"
+        },
+        {
+            "documento": "emenda 21 plen  pl",
+            "data": "05112024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 21 do senador mecias de jesus",
+            "descrição/Ementa": "emenda  ao pl 1822024"
+        },
+        {
+            "documento": "emenda 18 plen  pl",
+            "data": "05112024",
+            "autor": "senador luis carlos heinze pprs",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 18 do senador luis carlos heinze",
+            "descrição/Ementa": "emenda  03  pl 1822024"
+        },
+        {
+            "documento": "emenda 19 plen  pl",
+            "data": "05112024",
+            "autor": "senador luis carlos heinze pprs",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 19 do senador luis carlos heinze",
+            "descrição/Ementa": "emenda 04  pl 1822024"
+        },
+        {
+            "documento": "of 1972024  gabinete do",
+            "data": "05112024",
+            "autor": "senador eduardo girão novoce",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "declaração de voto contrário ao pl 1822024"
+        },
+        {
+            "documento": "rqs 7482024",
+            "data": "05112024",
+            "autor": "líder do pl izalci lucas pldf",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer pela liderança do partido liberal pl destaque para votação em separado dos 2 e 3 do art 28 do substitutivo ao\nprojeto de lei n 1822024"
+        },
+        {
+            "documento": "emenda 22 plen  pl",
+            "data": "05112024",
+            "autor": "senador esperidião amin ppsc",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda  ao pl 1822024 carvão"
+        },
+        {
+            "documento": "emenda 23 plen  pl",
+            "data": "05112024",
+            "autor": "senador rogerio marinho plrn",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 23 do senador rogerio marinho",
+            "descrição/Ementa": "metodologias internacionais consagradas"
+        },
+        {
+            "documento": "emenda 24 plen  pl",
+            "data": "05112024",
+            "autor": "senadora professora dorinha seabra uniãoto",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 24 da senadora professora dorinha seabra",
+            "descrição/Ementa": "emenda ao pl 182_2024"
+        },
+        {
+            "documento": "avulso de emendas",
+            "data": "05112024",
+            "autor": "senado federal",
+            "local": "null",
+            "ação legislativa": null,
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "ofício",
+            "data": "05112024",
+            "autor": "ouvidsf  ouvidoria do senado federal",
+            "local": "null",
+            "ação legislativa": null,
+            "descrição/Ementa": "manifestação recebida na ouvidoria do senado  autuação 2814870"
+        },
+        {
+            "documento": "rqs 7502024",
+            "data": "05112024",
+            "autor": "senador esperidião amin ppsc",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o requerimento n 750 de 2024 do senador esperidião amin solicitando a retirada definitiva da emenda n 22",
+            "descrição/Ementa": "requer a retirada definitiva da emenda n 22 ao projeto de lei n 1822024"
+        },
+        {
+            "documento": "emenda 25 plen  pl",
+            "data": "05112024",
+            "autor": "senador esperidião amin ppsc",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 25 do senador esperidião amin",
+            "descrição/Ementa": "emenda  ao pl 1822024 carbono sustentável  ajustada"
+        },
+        {
+            "documento": "pg\n16\natividade legislativa\nprojeto de lei n 182 de 2024\ndocumentos\nemenda 26 plen  pl",
+            "data": "11112024",
+            "autor": "senador veneziano vital do rêgo mdbpb",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 26 do senador veneziano vital do rêgo",
+            "descrição/Ementa": "emenda  pl 1822024 mecanismos de precificação"
+        },
+        {
+            "documento": "emenda 27 plen  pl",
+            "data": "11112024",
+            "autor": "senador efraim filho uniãopb",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 27 do senador efraim filho",
+            "descrição/Ementa": "emenda ao substitutivo do pl 1822024  conceito de crédito de carbono"
+        },
+        {
+            "documento": "emenda 28 plen  pl",
+            "data": "11112024",
+            "autor": "senador esperidião amin ppsc",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 28 do senador esperidião amin",
+            "descrição/Ementa": "emenda  ao pl 1822024 transferência de crédito internacional"
+        },
+        {
+            "documento": "emenda 30 plen  pl",
+            "data": "11112024",
+            "autor": "senador zequinha marinho podemospa",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 30 a 32 do senador zequinha marinho",
+            "descrição/Ementa": "emenda  ao pl 1822024"
+        },
+        {
+            "documento": "emenda 31 plen  pl",
+            "data": "11112024",
+            "autor": "senador zequinha marinho podemospa",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 30 a 32 do senador zequinha marinho",
+            "descrição/Ementa": "emenda  ao pl 1822024"
+        },
+        {
+            "documento": "emenda 32 plen  pl",
+            "data": "11112024",
+            "autor": "senador zequinha marinho podemospa",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 30 a 32 do senador zequinha marinho",
+            "descrição/Ementa": "emenda  ao pl 1822024 "
+        },
+        {
+            "documento": "pg\n17\natividade legislativa\nprojeto de lei n 182 de 2024\ndocumentos\nemenda 29 plen  pl",
+            "data": "11112024",
+            "autor": "senador jaime bagattoli plro",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 29 do senador jaime bagattoli",
+            "descrição/Ementa": "emenda  ao pl 1822024"
+        },
+        {
+            "documento": "emenda 33 plen  pl",
+            "data": "11112024",
+            "autor": "senadora soraya thronicke podemosms",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 33 e 34 da senadora soraya thronicke",
+            "descrição/Ementa": "emenda 2 ao pl 1822024 abbi"
+        },
+        {
+            "documento": "emenda 34 plen  pl",
+            "data": "11112024",
+            "autor": "senadora soraya thronicke podemosms",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 33 e 34 da senadora soraya thronicke",
+            "descrição/Ementa": "emenda  ao pl 1822024 supressão 3 e 4 do art 28"
+        },
+        {
+            "documento": "emenda 35 plen  pl",
+            "data": "11112024",
+            "autor": "senador laércio oliveira ppse",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 35 do senador laércio oliveira",
+            "descrição/Ementa": "em  emenda  ao pl 1822024_art 30 3"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "11112024",
+            "autor": "senadora leila barros pdtdf",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido novo relatório da senadora leila barros",
+            "descrição/Ementa": "pela aprovação do pl 182 de 2024 ne forma de substitutivo"
+        },
+        {
+            "documento": "emenda 36 plen  pl",
+            "data": "12112024",
+            "autor": "senador efraim filho uniãopb",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 36 do senador efraim filho",
+            "descrição/Ementa": "emenda  ao pl 1822024  art 43  5  obrigatoriedade da escrituração do contrato"
+        },
+        {
+            "documento": "pg\n18\natividade legislativa\nprojeto de lei n 182 de 2024\ndocumentos\nemenda 37 plen  pl",
+            "data": "12112024",
+            "autor": "senador zequinha marinho podemospa",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 37 do senador zequinha marinho",
+            "descrição/Ementa": "emenda  ao pl 1822024"
+        },
+        {
+            "documento": "emenda 38 plen  pl",
+            "data": "12112024",
+            "autor": "senador nelsinho trad psdms",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas n  38 e 39 do senador nelsinho trad",
+            "descrição/Ementa": "emenda  ao pl 1822024  credito de carbono"
+        },
+        {
+            "documento": "emenda 39 plen  pl",
+            "data": "12112024",
+            "autor": "senador nelsinho trad psdms",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas n  38 e 39 do senador nelsinho trad",
+            "descrição/Ementa": "emenda  ao pl 1822024  credito de carbono"
+        },
+        {
+            "documento": "emenda 40 plen  pl",
+            "data": "12112024",
+            "autor": "senador jayme campos uniãomt",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 40 do senador jayme campos",
+            "descrição/Ementa": "emenda  ao pl 1822024"
+        },
+        {
+            "documento": "emenda 41 plen  pl",
+            "data": "12112024",
+            "autor": "senador alan rick uniãoac",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 41 do senador alan rick",
+            "descrição/Ementa": "emenda  ao pl 1822024  tratamento de resíduos"
+        },
+        {
+            "documento": "emenda 42 plen  pl",
+            "data": "12112024",
+            "autor": "senador rogerio marinho plrn",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 42 do senador rogério marinho",
+            "descrição/Ementa": "emenda  ao pl 1822024  oitiva dos setores regulados"
+        },
+        {
+            "documento": "pg\n19\natividade legislativa\nprojeto de lei n 182 de 2024\ndocumentos\nemenda 43 plen  pl",
+            "data": "12112024",
+            "autor": "senador marcos rogério plro",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 43 do senador marcos rogério",
+            "descrição/Ementa": "emenda ao substitutivo apresentado ao pl n 1822024 recebimento de receitas sobre vegetação existente"
+        },
+        {
+            "documento": "emenda 44 plen  pl",
+            "data": "12112024",
+            "autor": "senador carlos portinho plrj",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 44 45 e 46 do senador carlos portinho",
+            "descrição/Ementa": "emenda  ao pl 1822024 art 1 incluir  6"
+        },
+        {
+            "documento": "emenda 45 plen  pl",
+            "data": "12112024",
+            "autor": "senador carlos portinho plrj",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 44 45 e 46 do senador carlos portinho",
+            "descrição/Ementa": "emenda parag 1 do art 21   ao pl 1822024"
+        },
+        {
+            "documento": "emenda 46 plen  pl",
+            "data": "12112024",
+            "autor": "senador carlos portinho plrj",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 44 45 e 46 do senador carlos portinho",
+            "descrição/Ementa": "emenda  ao 2 do pl 1822024"
+        },
+        {
+            "documento": "emenda 50 plen  pl",
+            "data": "12112024",
+            "autor": "senadora soraya thronicke podemosms",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 50 da senadora soraya thronicke",
+            "descrição/Ementa": "emenda art 56 do pl 1822024"
+        },
+        {
+            "documento": "emenda 47 plen  pl",
+            "data": "12112024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 47e 48 do senador mecias de jesus",
+            "descrição/Ementa": "emenda limites ao pl 1822024"
+        },
+        {
+            "documento": "pg\n20\natividade legislativa\nprojeto de lei n 182 de 2024\ndocumentos\nemenda 48 plen  pl",
+            "data": "12112024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 47e 48 do senador mecias de jesus",
+            "descrição/Ementa": "emenda limites v3 ao pl 1822024"
+        },
+        {
+            "documento": "emenda 49 plen  pl",
+            "data": "12112024",
+            "autor": "senador dr hiran pprr",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 49 do senador dr hiran",
+            "descrição/Ementa": "emenda  ao pl 1822024  isonomia para tratamento de carbono produtos nacionais e importados"
+        },
+        {
+            "documento": "rqs 7652024",
+            "data": "12112024",
+            "autor": "líder do pl carlos portinho plrj",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer pela liderança do pl destaque para votação em separado do emenda n 42 ao projeto de lei n 1822024"
+        },
+        {
+            "documento": "rqs 7662024",
+            "data": "12112024",
+            "autor": "líder do pl carlos portinho plrj",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer a retirada definitiva dos requerimentos ns 747 e 748 de 2024"
+        },
+        {
+            "documento": "rqs 7672024",
+            "data": "12112024",
+            "autor": "líder do pl carlos portinho plrj",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer pela liderança do partido liberal destaque para votação em separado da emenda n 43 ao projeto de lei n 1822024"
+        },
+        {
+            "documento": "emenda 51 plen  pl",
+            "data": "12112024",
+            "autor": "pg",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 51 do senador carlos portinho",
+            "descrição/Ementa": "emenda supressiva questão dos seguros ao pl 1822024"
+        },
+        {
+            "documento": "rqs 7682024",
+            "data": "12112024",
+            "autor": "líder do podemos rodrigo cunha podemosal",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o requerimento n 768 de 2024 da liderança do podemos de destaque para votação em separado da emenda n 50",
+            "descrição/Ementa": "requer pela liderança do podemos destaque para votação em separado da emenda n 50 ao projeto de lei n 1822024"
+        },
+        {
+            "documento": "rqs 7692024",
+            "data": "12112024",
+            "autor": "líder do pl carlos portinho plrj líder do bloco parlamentar independência styvenson valentim podemosrn líder do",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o requerimento n 769 de 2024 de líderes solicitando a extinção da urgência para a matéria",
+            "descrição/Ementa": "requer a extinção de urgência para o projeto de lei n 1822024 nos termos do art 352 ii e parágrafo único ii do regimento\ninterno do senado federal"
+        },
+        {
+            "documento": "rqs 7702024",
+            "data": "12112024",
+            "autor": "senador laércio oliveira ppse",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o requerimento n 770 de 2024 da liderança do pp de destaque para votação em separado da emenda n 25",
+            "descrição/Ementa": "requer pela liderança do pp destaque para votação em separado da emenda n 25 ao projeto de lei n 1822024"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "12112024",
+            "autor": "senadora leila barros pdtdf",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o relatório da senadora leila barros",
+            "descrição/Ementa": "parecer favorável ao pl 18224 na forma de substitutivo"
+        },
+        {
+            "documento": "rqs 7722024",
+            "data": "12112024",
+            "autor": "líder do bloco parlamentar aliança laércio oliveira ppse",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o requerimento n 772 de 2024 da liderança do pp de destaque para votação em separado da emenda n 25",
+            "descrição/Ementa": "requer pela liderança do pp destaque para votação em separado da emenda n 25 ao projeto de lei n 1822024"
+        },
+        {
+            "documento": "avulso de emendas\npg\n22\natividade legislativa\nprojeto de lei n 182 de 2024\ndocumentos",
+            "data": "12112024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "emenda 52 plen  pl",
+            "data": "13112024",
+            "autor": "senador efraim filho uniãopb",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 52 do senador efraim filho",
+            "descrição/Ementa": "emenda ao art 26 do substitutivo"
+        },
+        {
+            "documento": "emenda 53 plen  pl",
+            "data": "13112024",
+            "autor": "senador izalci lucas pldf",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 53 do senador izalci lucas",
+            "descrição/Ementa": "emenda 1 ao pl 1822024"
+        },
+        {
+            "documento": "emenda 54 plen  pl",
+            "data": "13112024",
+            "autor": "senador alan rick uniãoac",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 54 do senador alan rick",
+            "descrição/Ementa": "emenda  ao pl 1822024"
+        },
+        {
+            "documento": "emenda 55 plen  pl",
+            "data": "13112024",
+            "autor": "senador carlos portinho plrj",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 55 do senador carlos portinho",
+            "descrição/Ementa": "emenda ao art 56 do subs ao pl 1822024  autorizativa investimento seguro"
+        },
+        {
+            "documento": "emenda 56 plen  pl",
+            "data": "13112024",
+            "autor": "senador luis carlos heinze pprs",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 56 do luis carlos heinze",
+            "descrição/Ementa": "emenda  ao pl 1822024 resíduos"
+        },
+        {
+            "documento": "emenda 57 plen  pl",
+            "data": "13112024",
+            "autor": "pg",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 57 do marcos rogério",
+            "descrição/Ementa": "emenda  ao pl 1822024 art 43 acrescentando o 17"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "13112024",
+            "autor": "senadora leila barros pdtdf",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o relatório da senadora leila barros",
+            "descrição/Ementa": "pela aprovação do pl 1822024"
+        },
+        {
+            "documento": "rqs 7792024",
+            "data": "13112024",
+            "autor": "líder do republicanos mecias de jesus republicanosrr",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer pela liderança do republicanos destaque para votação em separado da emenda n 26 ao pl 1822024"
+        },
+        {
+            "documento": "rqs 7802024",
+            "data": "13112024",
+            "autor": "líder do pl carlos portinho plrj",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer a retirada definitiva do requerimento n 767 de 2024"
+        },
+        {
+            "documento": "rqs 7812024",
+            "data": "13112024",
+            "autor": "líder do pl carlos portinho plrj",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer pela liderança do pl destaque para votação em separado da emenda n 57 ao projeto de lei n 1822024"
+        },
+        {
+            "documento": "emenda 58 plen  pl",
+            "data": "13112024",
+            "autor": "senador alan rick uniãoac",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 58 do senador alan rick",
+            "descrição/Ementa": "emenda  ao pl 1822024"
+        },
+        {
+            "documento": "pg\n24\natividade legislativa\nprojeto de lei n 182 de 2024\ndocumentos\nrqs 7822024",
+            "data": "13112024",
+            "autor": "líder do união efraim filho uniãopb",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o requerimento n 782 de 2024 da liderança do união de destaque para votação em separado da emenda n 58",
+            "descrição/Ementa": "requer pela liderança do união destaque para votação em separado da emenda n 58 ao projeto de lei n 1822024"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "13112024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "votação nominal da emenda n 58 ao substitutivo da relatora ao projeto de lei n 182 de 2024 destacada"
+        },
+        {
+            "documento": "emenda 59 plen  pl",
+            "data": "13112024",
+            "autor": "senadora leila barros pdtdf",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda n 59 substitutivo da relatora  parecer n 186 de 2024plensf"
+        },
+        {
+            "documento": "ps 1862024  plen",
+            "data": "13112024",
+            "autor": "senadora leila barros pdtdf",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "parecer n 186 de 2024plensf com complemento por notas taquigráficas"
+        },
+        {
+            "documento": "ps 1872024  plen",
+            "data": "13112024",
+            "autor": "comissão diretora do senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n25\natividade legislativa\nprojeto de lei n 182 de 2024\ndocumentos\n69\nencaminhado à publicação o parecer n 187 de 2024plensf da comissão diretora oferecendo a redação para o turno\nsuplementar\nencerrada a discussão em turno suplementar sem emendas o substitutivo é dado como definitivamente adotado sem votação\na matéria retorna à câmara dos deputados\nparecer n 1872024cdir"
+        },
+        {
+            "documento": "avulso de emendas",
+            "data": "13112024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "ofsf 12912024",
+            "data": "19112024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à revisão da câmara dos deputados o substitutivo do projeto de lei n 182 de 2024"
+        },
+        {
+            "documento": "minuta",
+            "data": "19112024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "autógrafo  pl 1822024"
+        },
+        {
+            "documento": "autógrafo  pl 1822024",
+            "data": "19112024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "institui o sistema brasileiro de comércio de emissões de gases de efeito estufa sbce e altera as leis ns 12187 de 29 de\ndezembro de 2009 12651 de 25 de maio de 2012 código florestal 6385 de 7 de dezembro de 1976 11033 de 21 de\ndezembro de 2004 e 6015 de 31 de dezembro de 1973 lei de registros públicos"
+        },
+        {
+            "documento": "of 6032024  câmara dos",
+            "data": "26112024",
+            "autor": "primeirosecretário da câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica o envio à sanção do projeto de lei n 182 de 2024"
+        },
+        {
+            "documento": "quadro comparativo",
+            "data": "26112024",
+            "autor": "congresso nacional",
+            "local": "pg",
+            "ação legislativa": null,
+            "descrição/Ementa": "comparação entre a legislação vigente o texto aprovado na câmara dos deputados e o substitutivo aprovado pelo senado\nfederal"
+        }
+    ]
 }

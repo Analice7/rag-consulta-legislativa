@@ -1,17 +1,283 @@
 {
-    "Atividade legislativa": "projeto de lei n 2082 de 2019",
-    "Autoria": "câmara dos deputados",
-    "Iniciativa": "deputado federal wladimir garotinho psdrj",
-    "Ementa": "denomina rodovia alberto dauaire o trecho da rodovia br356 entre as cidades de são joão da barra e campos dos\ngoytacazes no estado do rio de janeiro",
-    "Assunto": "honorífico   homenagem",
-    "Despacho": "07022024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfci comissão de serviços de infraestrutura",
-    "Relatoria": "ci  comissão de serviços de infraestrutura\nrelatores\nsenador alan rick encerrado em 13082024  substituído por\nad hoc\nsenador jayme campos relator ad hoc encerrado em\n13082024  deliberação da matéria",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada por comissão em decisão",
-        "Destino": "à sanção",
-        "Último local": "23102024  secretaria de expediente",
-        "Último estado": "17102024  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei n 2082 de 2019",
+    "autoria": "câmara dos deputados",
+    "iniciativa": "deputado federal wladimir garotinho psdrj",
+    "ementa": "denomina rodovia alberto dauaire o trecho da rodovia br356 entre as cidades de são joão da barra e campos dos\ngoytacazes no estado do rio de janeiro",
+    "assunto": "honorífico   homenagem",
+    "despacho": "07022024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfci comissão de serviços de infraestrutura",
+    "relatoria": "ci  comissão de serviços de infraestrutura\nrelatores\nsenador alan rick encerrado em 13082024  substituído por\nad hoc\nsenador jayme campos relator ad hoc encerrado em\n13082024  deliberação da matéria",
+    "tramitação encerrada": {
+        "decisão": "aprovada por comissão em decisão",
+        "destino": "à sanção",
+        "último local": "23102024  secretaria de expediente",
+        "último estado": "17102024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "ci  comissão de serviços de infraestrutura\nrelatores\nsenador alan rick encerrado em 13082024  substituído por\nad hoc\nsenador jayme campos relator ad hoc encerrado em\n13082024  deliberação da matéria",
-    "Documentos": "ci  comissão de serviços de infraestrutura\nrelatores\nsenador alan rick encerrado em 13082024  substituído por\nad hoc\nsenador jayme campos relator ad hoc encerrado em\n13082024  deliberação da matéria"
+    "tramitação": [
+        {
+            "data": "24102024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "remetido ofício sf n 1205 de 241024 ao senhor primeirosecretário da câmara dos deputados comunicando para os\ndevidos fins que a presidência da república encaminhou ao senado federal a mensagem n 1302 de 2024 na origem\nrestituindo autógrafos do projeto de lei n 2082 de 2019 sancionado e transformado na lei n 15002 de 16 de outubro de\n2024\ncoarq\nação"
+        },
+        {
+            "data": "23102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhada à publicação a mensagem da presidência da república n 1302 de 2024 na origem que restitui autógrafo do\nprojeto de lei n 2082 de 2019 sancionado e convertido na lei n 15002 de 16 de outubro de 2024\nserá feita a devida comunicação à câmara dos deputados\nação\npublicado no dsf páginas 45  dsf n 183"
+        },
+        {
+            "data": "17102024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica",
+            "ação": "pr presidência da república\nsancionada lei 15002 de 2024\ndou diário oficial da união  17102024  seção i  págs 4 e 4\nsancionada em 16102024"
+        },
+        {
+            "data": "30092024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à sanção",
+            "ação": "remetido ofício sf n 1156 de 300924 ao senhor ministro de estado chefe da casa civil da presidência da república\nencaminhando a mensagem sf n 20024 ao excelentíssimo senhor presidente da república submetendo à sanção\npresidencial autógrafo do projeto\nremetido ofício sf n 1157 de 300924 ao senhor primeirosecretário da câmara dos deputados comunicando que o projeto\nfoi encaminhado à sanção presidencial"
+        },
+        {
+            "data": "12092024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "12092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovada",
+            "ação": "encerrouse em 11 de setembro o prazo para interposição de recurso para apreciação pelo plenário do presente projeto\nnão foi apresentado recurso\no projeto aprovado terminativamente pela ci vai à sanção\nserá feita a devida comunicação à câmara dos deputados"
+        },
+        {
+            "data": "12092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "anexado o texto final revisado\nação"
+        },
+        {
+            "data": "03092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo interposição de recurso a decisão terminativa de comissão art 91  3 ao 5 do risf de 05092024 a 11092024\nperante a mesa\nação"
+        },
+        {
+            "data": "03092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando interposição de recurso",
+            "ação": "encaminhado à publicação o ofício n 151 de 2024 da comissão de serviços de infraestrutura comunicando a apreciação da\nmatéria em caráter terminativo\nconcluída a instrução da matéria fica aberto o prazo de cinco dias úteis para interposição de recurso por um décimo dos\nmembros da casa para que seja apreciada pelo plenário nos termos do art 91  3 a 5 do regimento interno"
+        },
+        {
+            "data": "13082024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "reunida a comissão nessa data e tendo sido designado relator ad hoc o senador jayme campos em substituição ao senador\nalan rick é aprovado terminativamente o projeto com a emenda n 1ci\njuntado o parecer da comissão o texto final e o ofício que comunica ao plenário a aprovação terminativa da matéria\nà slsf\nação\npublicado no dsf páginas 347354  dsf n 147\npublicado no dsf páginas 391  dsf n 147\npg\n2\natividade legislativa\nprojeto de lei n 2082 de 2019\ntramitação"
+        },
+        {
+            "data": "09082024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 22ª reunião da comissão de serviços de infraestrutura agendada para o dia 13082024"
+        },
+        {
+            "data": "06082024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "em reunião realizada em 06082024 a apreciação da matéria foi adiada"
+        },
+        {
+            "data": "02082024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 21ª reunião da comissão de serviços de infraestrutura agendada para o dia 06082024"
+        },
+        {
+            "data": "15072024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido o relatório do senador alan rick com voto pela aprovação do projeto com a emenda de redação que apresenta"
+        },
+        {
+            "data": "02052024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao senador alan rick para emitir relatório"
+        },
+        {
+            "data": "21022024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "aguardando designação do relator",
+            "ação": "decorrido o prazo regimental não foram apresentadas emendas ao projeto"
+        },
+        {
+            "data": "08022024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "prazo para apresentação de emendas a projeto terminativo em comissão art 122 ii c do risf primeiro dia  09022024\núltimo dia  20022024\nação"
+        },
+        {
+            "data": "07022024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "prazo apresentação de emendas a projeto terminativo em comissão art 122 ii c do risf de 09022024 a 20022024\nperante a ci\nação"
+        },
+        {
+            "data": "07022024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando recebimento de emendas",
+            "ação": "a matéria vai à ci em decisão terminativa nos termos do art 91  1 inciso iv do regimento interno podendo receber\nemendas perante a comissão pelo prazo de cinco dias úteis nos termos do art 122 ii c do regimento interno"
+        },
+        {
+            "data": "22122023",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando despacho",
+            "ação": "autuado o projeto de lei n 20822019 proveniente da câmara dos deputados o projeto vai à publicação"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "pl 20822019",
+            "data": "22122023",
+            "autor": "câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 20822019 proveniente da câmara dos deputados o projeto vai à publicação",
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "22122023",
+            "autor": "senado federal",
+            "local": "null",
+            "ação legislativa": null,
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "15072024",
+            "autor": "senador alan rick uniãoac",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": "recebido o relatório do senador alan rick com voto pela aprovação do projeto com a emenda de redação que apresenta",
+            "descrição/Ementa": "da comissão de serviços de infraestrutura sobre o projeto de lei n 2082 de 2019 que denomina rodovia alberto\ndauaire o trecho da rodovia br356 entre as cidades de são joão da barra e campos dos goytacazes no estado do rio de\njaneiro"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "13082024",
+            "autor": "comissão de serviços de infraestrutura",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 22ª reunião ci"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "13082024",
+            "autor": "comissão de serviços de infraestrutura",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de votação nominal da reunião da 22ª reunião ci"
+        },
+        {
+            "documento": "pg\n4\natividade legislativa\nprojeto de lei n 2082 de 2019\ndocumentos\nps 322024  ci",
+            "data": "13082024",
+            "autor": "comissão de serviços de infraestrutura senador alan rick uniãoac senador confúcio moura mdbro",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão de serviços de infraestrutura sobre o projeto de lei n 2082 de 2019 que denomina rodovia alberto\ndauaire o trecho da rodovia br356 entre as cidades de são joão da barra e campos dos goytacazes no estado do rio de\njaneiro"
+        },
+        {
+            "documento": "texto final da comissão ",
+            "data": "13082024",
+            "autor": "câmara dos deputados",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "denomina rodovia alberto dauaire o trecho da rodovia br356 entre as cidades de são joão da barra e campos dos goytacazes\nno estado do rio de janeiro"
+        },
+        {
+            "documento": "ofício",
+            "data": "13082024",
+            "autor": "presidente de comissão",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica aprovação terminativa do pl 20822019"
+        },
+        {
+            "documento": "texto final revisado  projeto",
+            "data": "12092024",
+            "autor": "núcleo de redação legislativa",
+            "local": "plenário do senado federal",
+            "ação legislativa": "anexado o texto final revisado",
+            "descrição/Ementa": "denomina rodovia alberto dauaire o trecho da rodovia br356 entre as cidades de são joão da barra e campos dos goytacazes\nno estado do rio de janeiro"
+        },
+        {
+            "documento": "minuta",
+            "data": "12092024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "pg\n5\natividade legislativa\nprojeto de lei n 2082 de 2019\ndocumentos\nofsf 11562024"
+        },
+        {
+            "documento": "pg\n5\natividade legislativa\nprojeto de lei n 2082 de 2019\ndocumentos\nofsf 11562024",
+            "data": "30092024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha a mensagem da presidência do senado federal submetendo à sanção presidencial autógrafos do projeto de lei n\n2082 de 2019"
+        },
+        {
+            "documento": "mpsf 2002024",
+            "data": "30092024",
+            "autor": "presidente do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à sanção o projeto de lei n2082 de 2019"
+        },
+        {
+            "documento": "ofsf 11572024",
+            "data": "30092024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica à câmara dos deputados o encaminhamento à presidência da república do projeto de lei n 2082 de 2019"
+        },
+        {
+            "documento": "autógrafo  pl 20822019",
+            "data": "30092024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "denomina rodovia alberto dauaire o trecho da rodovia br356 entre as cidades de são joão da barra e campos dos goytacazes\nno estado do rio de janeiro"
+        },
+        {
+            "documento": "msg 13022024  presidência\npg\n6\natividade legislativa\nprojeto de lei n 2082 de 2019\ndocumentos",
+            "data": "22102024",
+            "autor": "presidência da república",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "restitui o autógrafo do projeto de lei n 2082 de 2019 sancionado e convertido na lei n 15002 de 16 de outubro de 2024"
+        },
+        {
+            "documento": "of 14252024  casa civil",
+            "data": "22102024",
+            "autor": "casa civil",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica a restituição do autógrafo sancionado e a lei n 15002 de 16 de outubro de 2024 promulgada"
+        },
+        {
+            "documento": "autógrafo restituído após",
+            "data": "22102024",
+            "autor": "presidência da república",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "autógrafo restituído pela presidência da república ao senado federal após sanção"
+        },
+        {
+            "documento": "ofsf 12052024",
+            "data": "24102024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica à câmara dos deputados o recebimento do autógrafo sancionado do projeto de lei n 2082 de 2019"
+        }
+    ]
 }

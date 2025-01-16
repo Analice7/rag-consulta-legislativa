@@ -1,17 +1,267 @@
 {
-    "Atividade legislativa": "projeto de lei n 24 de 2020",
-    "Autoria": "câmara dos deputados",
-    "Iniciativa": "deputada federal benedita da silva ptrj",
-    "Ementa": "reconhece as expressões artísticas charge caricatura cartum e grafite como manifestações da cultura brasileira",
-    "Assunto": "política social   cultura",
-    "Despacho": "22052024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfce comissão de educação e cultura",
-    "Relatoria": "ce  comissão de educação e cultura\nrelatores\nsenadora janaína farias encerrado em 01082024  alteração\nna composição da comissão\nsenadora augusta brito encerrado em 17092024 \nsubstituído por ad hoc\nsenadora teresa leitão relator ad hoc encerrado em\n17092024  deliberação da matéria",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada por comissão em decisão",
-        "Destino": "à sanção",
-        "Último local": "23102024  secretaria de expediente",
-        "Último estado": "16102024  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei n 24 de 2020",
+    "autoria": "câmara dos deputados",
+    "iniciativa": "deputada federal benedita da silva ptrj",
+    "ementa": "reconhece as expressões artísticas charge caricatura cartum e grafite como manifestações da cultura brasileira",
+    "assunto": "política social   cultura",
+    "despacho": "22052024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfce comissão de educação e cultura",
+    "relatoria": "ce  comissão de educação e cultura\nrelatores\nsenadora janaína farias encerrado em 01082024  alteração\nna composição da comissão\nsenadora augusta brito encerrado em 17092024 \nsubstituído por ad hoc\nsenadora teresa leitão relator ad hoc encerrado em\n17092024  deliberação da matéria",
+    "tramitação encerrada": {
+        "decisão": "aprovada por comissão em decisão",
+        "destino": "à sanção",
+        "último local": "23102024  secretaria de expediente",
+        "último estado": "16102024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "ce  comissão de educação e cultura\nrelatores\nsenadora janaína farias encerrado em 01082024  alteração\nna composição da comissão\nsenadora augusta brito encerrado em 17092024 \nsubstituído por ad hoc\nsenadora teresa leitão relator ad hoc encerrado em\n17092024  deliberação da matéria",
-    "Documentos": "ce  comissão de educação e cultura\nrelatores\nsenadora janaína farias encerrado em 01082024  alteração\nna composição da comissão\nsenadora augusta brito encerrado em 17092024 \nsubstituído por ad hoc\nsenadora teresa leitão relator ad hoc encerrado em\n17092024  deliberação da matéria"
+    "tramitação": [
+        {
+            "data": "24102024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "remetido ofício sf n 1203 de 241024 ao senhor primeirosecretário da câmara dos deputados comunicando para os\ndevidos fins que a presidência da república encaminhou ao senado federal a mensagem n 1297 de 2024 na origem\nrestituindo autógrafos do projeto de lei n 24 de 2020 sancionado e transformado na lei n 14996 de 15 de outubro de 2024\ncoarq\nação"
+        },
+        {
+            "data": "23102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhada à publicação a mensagem da presidência da república n 1297 de 2024 na origem que restitui autógrafo do\nprojeto de lei n 24 de 2020 sancionado e convertido na lei n 14996 de 15 de outubro de 2024\nserá feita a devida comunicação à câmara dos deputados\nação\npublicado no dsf páginas 41  dsf n 183"
+        },
+        {
+            "data": "16102024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica",
+            "ação": "pr presidência da república\nsancionada lei 14996 de 2024\ndou diário oficial da união  16102024  seção i  págs 2 e 2\nsancionada em 15102024"
+        },
+        {
+            "data": "30092024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à sanção",
+            "ação": "remetido ofício sf n 1162 de 300924 ao senhor ministro de estado chefe da casa civil da presidência da república\nencaminhando a mensagem sf n 20324 ao excelentíssimo senhor presidente da república submetendo à sanção\npresidencial autógrafo do projeto\nremetido ofício sf n 1163 de 300924 ao senhor primeirosecretário da câmara dos deputados comunicando que o projeto\nfoi encaminhado à sanção presidencial"
+        },
+        {
+            "data": "26092024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "26092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovada",
+            "ação": "encerrouse  em 25 de setembro  o prazo para interposição de recurso para apreciação pelo plenário do presente projeto\nnão foi apresentado recurso\no projeto aprovado terminativamente pela comissão de educação e cultura vai à sanção\nserá feita a devida comunicação à câmara dos deputados"
+        },
+        {
+            "data": "17092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo interposição de recurso a decisão terminativa de comissão art 91  3 ao 5 do risf de 19092024 a 25092024\nperante a mesa\nação\npublicado no dsf páginas 186  dsf n 157"
+        },
+        {
+            "data": "17092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando interposição de recurso",
+            "ação": "encaminhado à publicação o ofício n 362 de 2024 da comissão de educação e cultura comunicando a apreciação da matéria\nem caráter terminativo\nconcluída a instrução da matéria fica aberto o prazo de cinco dias úteis para interposição de recurso por um décimo dos\nmembros da casa para que seja apreciada pelo plenário nos termos do art 91  3 a 5 do regimento interno"
+        },
+        {
+            "data": "17092024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "apreciada em decisão terminativa pelas comissões",
+            "ação": "em reunião realizada em 17092024 foi aprovado em decisão terminativa o projeto quórum 15 sim 14 não 0 abstenções\n0\nà slsf"
+        },
+        {
+            "data": "17092024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": null,
+            "ação": "em reunião realizada em 17092024 a presidência designa relator ad hoc a senadora teresa leitão em substituição à\nsenadora augusta brito\nação\npg\n2\natividade legislativa\nprojeto de lei n 24 de 2020\ntramitação"
+        },
+        {
+            "data": "13092024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 53ª reunião da comissão de educação e cultura agendada para o dia 17092024"
+        },
+        {
+            "data": "29082024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido o relatório da senadora augusta brito com voto pela aprovação do projeto"
+        },
+        {
+            "data": "06082024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "matéria com a relatoria",
+            "ação": "redistribuído à senadora augusta brito para emitir relatório"
+        },
+        {
+            "data": "01082024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "aguardando designação do relator",
+            "ação": "devolvido pela relatora senadora janaína farias em virtude de não mais pertencer aos quadros desta comissão a matéria será\nredistribuída"
+        },
+        {
+            "data": "12062024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído à senadora janaína farias para emitir relatório"
+        },
+        {
+            "data": "04062024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "aguardando designação do relator",
+            "ação": "não foram oferecidas emendas no prazo regimental\nmatéria aguardando distribuição"
+        },
+        {
+            "data": "28052024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": null,
+            "ação": "prazo para apresentação de emendas a projeto terminativo em comissão art 122 ii c do risf prorrogado até o dia\n03062024 devido à decretação de ponto facultativo no dia 31052024 nos termos do ato do primeirosecretário n 8 de\n2024\nação"
+        },
+        {
+            "data": "22052024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": null,
+            "ação": "prazo apresentação de emendas a projeto terminativo em comissão art 122 ii c do risf de 24052024 a 31052024\nperante a ce\nação"
+        },
+        {
+            "data": "22052024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando recebimento de emendas",
+            "ação": "a presente matéria vai à ce em decisão terminativa nos termos do art 91  1 iv do regimento interno do senado podendo\nreceber emendas perante mencionada comissão pelo prazo de cinco dias úteis nos termos do art 122 ii c do mesmo"
+        },
+        {
+            "data": "10052024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando despacho",
+            "ação": "autuado o projeto de lei n 242020 proveniente da câmara dos deputados o projeto vai à publicação"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "pl 242020",
+            "data": "10052024",
+            "autor": "câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 242020 proveniente da câmara dos deputados o projeto vai à publicação",
+            "descrição/Ementa": "reconhece as expressões artísticas charge caricatura cartum e grafite como manifestações da cultura brasileira"
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "10052024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 242020 proveniente da câmara dos deputados o projeto vai à publicação",
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "29082024",
+            "autor": "senadora augusta brito ptce",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": "recebido o relatório da senadora augusta brito com voto pela aprovação do projeto",
+            "descrição/Ementa": "da comissão de educação e cultura sobre o projeto de lei n 24 de 2020 que reconhece as expressões artísticas charge\ncaricatura cartum e grafite como manifestações da cultura brasileira"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "17092024",
+            "autor": "comissão de educação e cultura",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 53ª reunião ce"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "17092024",
+            "autor": "comissão de educação e cultura",
+            "local": "pg",
+            "ação legislativa": null,
+            "descrição/Ementa": "lista de votação"
+        },
+        {
+            "documento": "ps 1092024  ce",
+            "data": "17092024",
+            "autor": "comissão de educação e cultura",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão de educação e cultura sobre o projeto de lei n 24 de 2020 que reconhece as expressões artísticas charge\ncaricatura cartum e grafite como manifestações da cultura brasileira"
+        },
+        {
+            "documento": "ofício",
+            "data": "17092024",
+            "autor": "presidente de comissão",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunicação de deliberação de matéria"
+        },
+        {
+            "documento": "minuta",
+            "data": "26092024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "mpsf 2032024"
+        },
+        {
+            "documento": "mpsf 2032024",
+            "data": "30092024",
+            "autor": "presidente do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à sanção o projeto de lei n 24 de 2020"
+        },
+        {
+            "documento": "ofsf 11622024",
+            "data": "30092024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n5\natividade legislativa\nprojeto de lei n 24 de 2020\ndocumentos\nremetido ofício sf n 1163 de 300924 ao senhor primeirosecretário da câmara dos deputados comunicando que o projeto\nfoi encaminhado à sanção presidencial\nencaminha a mensagem da presidência do senado federal submetendo à sanção presidencial autógrafos do projeto de lei n 24\nde 2020"
+        },
+        {
+            "documento": "ofsf 11632024",
+            "data": "30092024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica à câmara dos deputados o encaminhamento à presidência da república do projeto de lei n24 de 2020"
+        },
+        {
+            "documento": "autógrafo  pl 242020",
+            "data": "30092024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "reconhece as expressões artísticas charge caricatura cartum e grafite como manifestações da cultura brasileira"
+        },
+        {
+            "documento": "msg 12972024  presidência",
+            "data": "22102024",
+            "autor": "presidência da república",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "restitui o autógrafo do projeto de lei n 24 de 2020 sancionado e convertido na lei n 14996 de 15 de outubro de 2024"
+        },
+        {
+            "documento": "of 14192024  casa civil",
+            "data": "22102024",
+            "autor": "casa civil",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica a restituição do autógrafo sancionado e a lei n 14996 de 15 de outubro de 2024 promulgada"
+        },
+        {
+            "documento": "autógrafo restituído após",
+            "data": "22102024",
+            "autor": "presidência da república",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "autógrafo restituído pela presidência da república ao senado federal após sanção"
+        },
+        {
+            "documento": "pg\n6\natividade legislativa\nprojeto de lei n 24 de 2020\ndocumentos\nofsf 12032024",
+            "data": "24102024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica à câmara dos deputados o recebimento do autógrafo sancionado do projeto de lei n 24 de 2020"
+        }
+    ]
 }

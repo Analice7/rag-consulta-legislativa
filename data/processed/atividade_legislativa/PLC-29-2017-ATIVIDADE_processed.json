@@ -1,18 +1,886 @@
 {
-    "Atividade legislativa": "projeto de lei da câmara n 29 de 2017",
-    "Autoria": "câmara dos deputados",
-    "Iniciativa": "deputado federal josé eduardo cardozo ptsp",
-    "Ementa": "dispõe sobre normas de seguro privado revoga dispositivos da lei n 10406 de 10 de janeiro de 2002 código civil e\ndá outras providências",
-    "Explicação da Ementa": "dispõe que a atividade seguradora será exercida de modo que se viabilizem os objetivos da",
-    "Assunto": "jurídico   direito civil",
-    "Despacho": "19042017 despacho inicial\nnull\nanálise  tramitação sucessiva\nsfccj comissão de constituição justiça e cidadania\nsfcae comissão de assuntos econômicos\n21032023\ndecisão da presidência\npg\n1\natividade legislativa\nprojeto de lei da câmara n 29 de 2017",
-    "Relatoria": "cae  comissão de assuntos econômicos\nrelatores\nsenador otto alencar encerrado em 18062024  deliberação\nda matéria\nccj  comissão de constituição justiça e cidadania\nrelatores\nsenador armando monteiro encerrado em 25012019 \nencerramento de mandato\nsenador rodrigo pacheco encerrado em 18022021 \nalteração na composição da comissão",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada pelo plenário",
-        "Destino": "à câmara dos deputados",
-        "Último local": "11122024  secretaria de expediente",
-        "Último estado": "10122024  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei da câmara n 29 de 2017",
+    "autoria": "câmara dos deputados",
+    "iniciativa": "deputado federal josé eduardo cardozo ptsp",
+    "ementa": "dispõe sobre normas de seguro privado revoga dispositivos da lei n 10406 de 10 de janeiro de 2002 código civil e\ndá outras providências",
+    "explicação da ementa": "dispõe que a atividade seguradora será exercida de modo que se viabilizem os objetivos da",
+    "assunto": "jurídico   direito civil",
+    "despacho": "19042017 despacho inicial\nnull\nanálise  tramitação sucessiva\nsfccj comissão de constituição justiça e cidadania\nsfcae comissão de assuntos econômicos\n21032023\ndecisão da presidência\npg\n1\natividade legislativa\nprojeto de lei da câmara n 29 de 2017",
+    "relatoria": "cae  comissão de assuntos econômicos\nrelatores\nsenador otto alencar encerrado em 18062024  deliberação\nda matéria\nccj  comissão de constituição justiça e cidadania\nrelatores\nsenador armando monteiro encerrado em 25012019 \nencerramento de mandato\nsenador rodrigo pacheco encerrado em 18022021 \nalteração na composição da comissão",
+    "tramitação encerrada": {
+        "decisão": "aprovada pelo plenário",
+        "destino": "à câmara dos deputados",
+        "último local": "11122024  secretaria de expediente",
+        "último estado": "10122024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "cae  comissão de assuntos econômicos\nrelatores\nsenador otto alencar encerrado em 18062024  deliberação\nda matéria\nccj  comissão de constituição justiça e cidadania\nrelatores\nsenador armando monteiro encerrado em 25012019 \nencerramento de mandato\nsenador rodrigo pacheco encerrado em 18022021 \nalteração na composição da comissão",
-    "Documentos": "cae  comissão de assuntos econômicos\nrelatores\nsenador otto alencar encerrado em 18062024  deliberação\nda matéria\nccj  comissão de constituição justiça e cidadania\nrelatores\nsenador armando monteiro encerrado em 25012019 \nencerramento de mandato\nsenador rodrigo pacheco encerrado em 18022021 \nalteração na composição da comissão"
+    "tramitação": [
+        {
+            "data": "10122024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica",
+            "ação": "pr presidência da república\nsancionada lei 15040 de 2024\ndou diário oficial da união  10122024  seção i  págs 3 e 7\nsancionada em 09122024"
+        },
+        {
+            "data": "19112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o ofício da câmara dos deputados n 588 de 2024 na origem que comunica o envio à sanção do\nprojeto de lei da câmara n 29 de 2017 n 2597 de 2024 na câmara dos deputados\na matéria vai à secretaria de expediente\nação\npublicado no dsf páginas 98  dsf n 198\npublicado no dsf páginas 96  dsf n 198"
+        },
+        {
+            "data": "26062024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à câmara dos deputados",
+            "ação": "remetido ofício sf n 593 de 260624 ao senhor primeirosecretário da câmara dos deputados comunicando que o senado\nfederal aprovou o presente projeto em revisão nos termos do substitutivo em anexo e encaminhando o autógrafo para\napreciação"
+        },
+        {
+            "data": "21062024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "18062024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovado o substitutivo",
+            "ação": "sessão deliberativa ordinária realizada em 18 de junho de 2024\nencaminhadas à publicação as emendas ns 22 e 23 de plenário\nencaminhado à publicação e aprovado o requerimento n 73 de 2024 da cae solicitando urgência para a presente matéria\nsenador otto alencar profere o parecer n 85 de 2024  plensf favorável à emenda n 22 e contrário à emenda n 23 de\nplenário\ndiscussão encerrada\nencaminhados à publicação os requerimentos 449 450 e 456 de 2024 de destaque para votação em separado de trecho do\nsubstitutivo e de emendas\naprovada a emenda n 14cae substitutivo com subemendas nos termos dos pareceres ressalvados os destaques\nretirado o requerimento n 450 de 2024 de destaque para votação em separado da emenda n 23\nmantido o capítulo xi do título i do substitutivo destacado pelo requerimento n 449 de 2024 com o seguinte resultado sim "
+        },
+        {
+            "data": "18062024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 456 de 2024 da liderança do podemos de destaque para votação em separado da emenda n 22\nação"
+        },
+        {
+            "data": "18062024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o relatório do senador otto alencar\nação"
+        },
+        {
+            "data": "18062024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidos os requerimento ns\n 449 de 2024 da liderança do pl de destaque para supressão do capítulo xi do título i na forma do substitutivo e\n 450 de 2024 da liderança do pl de destaque para votação em separado da emenda n 23\nação"
+        },
+        {
+            "data": "18062024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 23 do senador carlos portinho ao substitutivo da comissão de constituição justiça e cidadania emenda\nn 14\npendente de aprovação da emenda n 14 em turno único\nação"
+        },
+        {
+            "data": "18062024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 22 do senador carlos viana\nação"
+        },
+        {
+            "data": "18062024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "incluído em ordem do dia da sessão deliberativa ordinária de 18062024\ndiscussão em turno único\ndesignado relator de plenário o senador otto alencar\npendente de aprovação do requerimento n 73 de 2024 da comissão de assuntos econômicos que solicita urgência para a\nmatéria\nação"
+        },
+        {
+            "data": "18062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "encerrada a relatoria do senador otto alencar por deliberação da matéria\nação"
+        },
+        {
+            "data": "18062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "pg\n3\natividade legislativa\nprojeto de lei da câmara n 29 de 2017\ntramitação\naprovado parecer na comissão",
+            "ação": "em reunião realizada nesta data a comissão aprova o relatório do senador otto alencar que passa a constituir o parecer da cae\nfavorável ao projeto nos termos da emenda n 14ccjcaesubstitutivo com as subemendas ns 1 a 3cae e contrário as\nemendas ns 15 a 21\naprovada também a apresentação de requerimento de urgência para a matéria\nanexado o parecer da comissão e o requerimento de urgência\nà slsf"
+        },
+        {
+            "data": "18062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "o relator senador otto alencar apresentou novo relatório favorável à matéria nos termos da emenda n 14  ccj substitutivo\ncom três emendas que apresenta e contrário às emendas n 15 a 21  cae\nação"
+        },
+        {
+            "data": "18062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "em 18062024 foi apresentada a emenda n 21 de autoria da senadora tereza cristina\nação"
+        },
+        {
+            "data": "13062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 24ª reunião da comissão de assuntos econômicos agendada para o dia 18062024"
+        },
+        {
+            "data": "11062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "pedido de vista concedido",
+            "ação": "reunida a comissão nesta data foi concedida vista coletiva nos termos regimentais art 132"
+        },
+        {
+            "data": "11062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "o relator senador otto alencar apresentou novo relatório favorável à  emenda n 14  ccj substitutivo com três emendas que\napresenta e contrário às emendas ns 15 a 20\nação"
+        },
+        {
+            "data": "11062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "o relator senador otto alencar apresentou relatório favorável ao projeto nos termos da emenda n 14  ccj substitutivo e\ncontrário às emendas n 15 a 18\nação"
+        },
+        {
+            "data": "11062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "em 11062024 foram apresentadas as emendas ns 19 e 20 de autoria do senador rogério marinho e do senador mecias de\njesus respectivamente\nação"
+        },
+        {
+            "data": "10062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "em 10062024 foi apresentada a emenda n 18 de autoria do senador rogério marinho\nação\npg\n4\natividade legislativa\nprojeto de lei da câmara n 29 de 2017\ntramitação"
+        },
+        {
+            "data": "05062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 23ª reunião da comissão de assuntos econômicos agendada para o dia 11062024"
+        },
+        {
+            "data": "05062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "em reunião realizada em 04062024 a matéria foi retirada de pauta\nação"
+        },
+        {
+            "data": "04062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "o relator senador otto alencar apresentou relatório favorável ao projeto nos termos da emenda n 14  ccj substitutivo"
+        },
+        {
+            "data": "04062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "em 04062024 foram apresentadas as emendas ns 15 a 17 de autoria do senador mecias de jesus\nação"
+        },
+        {
+            "data": "28052024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 22ª reunião da comissão de assuntos econômicos agendada para o dia 04062024"
+        },
+        {
+            "data": "16042024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao senador otto alencar para emitir relatório"
+        },
+        {
+            "data": "11042024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "aguardando designação do relator",
+            "ação": "matéria aguardando distribuição"
+        },
+        {
+            "data": "10042024",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": null,
+            "ação": "à comissão de assuntos econômicos para prosseguimento da tramitação\nação"
+        },
+        {
+            "data": "10042024",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "aprovado parecer na comissão",
+            "ação": "na 6ª reunião ordinária realizada nesta data o senador marcelo castro é designado relator ad hoc em substituição ao\nsenador jader barbalho\ndurante a discussão foi apresentado requerimento de destaque da liderança do pl para votação em separado da emenda n\n13\na comissão aprova o relatório que passa a constituir o parecer da ccj favorável ao projeto e à emenda n 11 nos termos da\nemenda n 14ccj substitutivo e contrário às emendas ns 1 a 10 e 12 a comissão rejeita a emenda n 13 destacada em"
+        },
+        {
+            "data": "10042024",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": null,
+            "ação": "recebida a complementação de voto do senador jader barbalho contrário à emenda n 13\nação"
+        },
+        {
+            "data": "09042024",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": null,
+            "ação": "recebida a emenda n 13 de autoria do senador rogério marinho\nencaminhada ao relator para análise\nação"
+        },
+        {
+            "data": "01042024",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": null,
+            "ação": "recebida a complementação de voto do senador jader barbalho contrário à emenda n 12\nação"
+        },
+        {
+            "data": "20032024",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": null,
+            "ação": "recebida a emenda n 12 de autoria do senador marcio bittar\nencaminhada ao relator para análise\nação"
+        },
+        {
+            "data": "19032024",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "incluída na pauta da reunião",
+            "ação": "recebido relatório do senador jader barbalho com voto favorável ao projeto e à emenda n 11 nos termos do substitutivo que\napresenta e contrário às emendas ns 1 a 10"
+        },
+        {
+            "data": "19032024",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": null,
+            "ação": "recebida a emenda n 11 de autoria do senador jaques wagner\nencaminhada ao relator para análise\nação"
+        },
+        {
+            "data": "13032024",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": null,
+            "ação": "recebidas as emendas ns 8 9 e 10 de autoria do senador izalci lucas\nencaminhadas ao relator para análise\nação"
+        },
+        {
+            "data": "13032024",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "pedido de vista concedido",
+            "ação": "na 4ª reunião ordinária realizada nesta data a presidência designa relator ad hoc o senador marcelo castro em substituição\nao senador jader barbalho\no relator faz a leitura do relatório e a presidência concede vista coletiva aos senadores nos termos regimentais"
+        },
+        {
+            "data": "13032024",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": null,
+            "ação": "recebida a complementação de voto do senador jader barbalho contrário às emendas ns 5 a 7\nação"
+        },
+        {
+            "data": "12032024",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": null,
+            "ação": "recebidas as emendas ns 5 6 e 7 de autoria do senador mecias de jesus\nencaminhadas ao relator para análise\nação"
+        },
+        {
+            "data": "11032024",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria incluída na pauta da comissão"
+        },
+        {
+            "data": "11032024",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": null,
+            "ação": "recebido o relatório do senador jader barbalho com voto favorável ao projeto nos termos da emenda substitutiva que\napresenta e contrário às emendas ns 1 a 4\nação"
+        },
+        {
+            "data": "14122023",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": null,
+            "ação": "recebida a emenda n 4 de autoria do senador carlos portinho\nencaminhada ao relator para análise\nação"
+        },
+        {
+            "data": "05122023",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": null,
+            "ação": "recebidas as emendas n 2 e 3 de autoria do senador sergio moro\nencaminhadas ao relator para análise\nação"
+        },
+        {
+            "data": "28112023",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": null,
+            "ação": "recebida a emenda n 1 de autoria do senador sergio moro\nencaminhada ao relator para análise\nação"
+        },
+        {
+            "data": "21112023",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido relatório do senador jader barbalho com voto favorável ao projeto nos termos da emenda substitutiva que apresenta"
+        },
+        {
+            "data": "12042023",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "matéria com a relatoria",
+            "ação": "redistribuído ao senador jader barbalho para emitir relatório"
+        },
+        {
+            "data": "22032023",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "aguardando designação do relator",
+            "ação": "matéria aguardando distribuição"
+        },
+        {
+            "data": "21032023",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "desarquivada  risf art 332  1",
+            "ação": "na sessão deliberativa de 21 de março foi aprovado o requerimento n 136 de 2023 do senador rodrigo pacheco solicitando\no desarquivamento de proposição\no projeto de lei da câmara n 29 de 2017 retorna ao exame da ccj seguindo posteriormente à cae"
+        },
+        {
+            "data": "09032023",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando inclusão ordem do dia de requerimento",
+            "ação": "aguardando inclusão em ordem do dia do requerimento n 136 de 2023 do senador rodrigo pacheco e outros solicitando o\ndesarquivamento da matéria"
+        },
+        {
+            "data": "08032023",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o requerimento n 136 de 2023 de desarquivamento da presente matéria\nação\npublicado no dsf páginas 304305  dsf n 29"
+        },
+        {
+            "data": "22122022",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "arquivada ao final da legislatura",
+            "ação": "a proposição é arquivada ao final da legislatura nos termos do  1 do art 332  do regimento interno"
+        },
+        {
+            "data": "22122022",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": null,
+            "ação": "encaminhada à sgm para providências relativas ao final de legislatura\nação"
+        },
+        {
+            "data": "18022021",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "aguardando designação do relator",
+            "ação": "devolvido pelo relator senador rodrigo pacheco em virtude de não mais pertencer aos quadros desta comissão a matéria será\nredistribuída"
+        },
+        {
+            "data": "16102019",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "matéria com a relatoria",
+            "ação": "na 62ª reunião ordinária realizada nesta data a matéria é retirada de pauta e devolvida ao relator senador rodrigo pacheco\npara reexame do relatório"
+        },
+        {
+            "data": "30092019",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "pg\n8\natividade legislativa\nprojeto de lei da câmara n 29 de 2017\ntramitação\nincluída na pauta da reunião",
+            "ação": "matéria incluída na pauta da comissão"
+        },
+        {
+            "data": "27082019",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido às 18h52min o relatório do senador rodrigo pacheco com voto favorável ao projeto\nmatéria pronta para a pauta na comissão"
+        },
+        {
+            "data": "19022019",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao senador rodrigo pacheco para emitir relatório"
+        },
+        {
+            "data": "05022019",
+            "órgão": "sfsaccj  secretaria de apoio à comissão de constituição justiça e cidadania",
+            "situação": "aguardando designação do relator",
+            "ação": "relatoria encerrada por fim de mandato"
+        },
+        {
+            "data": "21122018",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": null,
+            "ação": "a proposição continua a tramitar nos termos do art 332 do regimento interno\nação"
+        },
+        {
+            "data": "07122017",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "matéria com a relatoria",
+            "ação": "na 55ª reunião extraordinária realizada nesta data é realizada audiência pública destinada à instrução da matéria conforme\nrequerimento n 85 de 2017ccj de iniciativa do senador armando monteiro com a presença dos seguintes convidados carlos\nantônio harten filho ernesto tzirulnik carlos roberto de zoppa representante de paulo eduardo de freitas botti joão marcelo\nmáximo ricardo dos santos representante de paulo pereira e bruno miragem representante de marilena lazzarini usam da\npalavra os senhores gustavo de medeiros melo moreira mendes ex deputado federal e a senhora selma maria ferreira\nlemes"
+        },
+        {
+            "data": "08112017",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "audiência pública",
+            "ação": "na 49ª reunião ordinária realizada nesta data a comissão aprova o requerimento n 85 de 2017ccj de iniciativa do senador\narmando monteiro para a realização de audiência pública em data oportuna para instruir a matéria fl98"
+        },
+        {
+            "data": "31082017",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "matéria com a relatoria",
+            "ação": "o presidente da comissão de constituição justiça e cidadania senador edison lobão designa relator da matéria o senador\narmando monteiro"
+        },
+        {
+            "data": "19042017",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "aguardando designação do relator",
+            "ação": "pg\n9\natividade legislativa\nprojeto de lei da câmara n 29 de 2017\ntramitação\nmatéria aguardando distribuição"
+        },
+        {
+            "data": "19042017",
+            "órgão": "sfseadi  secretaria de atas e diários",
+            "situação": "matéria lida em plenário",
+            "ação": "encaminhado à publicação\nàs comissões de constituição justiça e cidadania e de assuntos econômicos"
+        },
+        {
+            "data": "18042017",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando leitura",
+            "ação": "este processado contém 97 noventa e sete folhas numeradas e rubricadas\naguardando leitura"
+        },
+        {
+            "data": "12042017",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "apresentado em 12042017 1038\nação"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "plc 292017",
+            "data": "12042017",
+            "autor": "câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "19042017",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requerimento"
+        },
+        {
+            "documento": "requerimento",
+            "data": "08112017",
+            "autor": "senador armando monteiro ptbpe",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "requeiro nos termos do artigo 93 inciso i do regimento interno do senado federal que seja realizada audiência pública\nperante esta comissão a fim de instruir o projeto de lei da câmara n 292017 que dispõe sobre normas de seguro privado\nrevoga dispositivos da lei n 10406 de 10 de janeiro de 2002 código civil e dá outras providências"
+        },
+        {
+            "documento": "relatório legislativo\npg\n10\natividade legislativa\nprojeto de lei da câmara n 29 de 2017\ndocumentos",
+            "data": "27082019",
+            "autor": "senador rodrigo pacheco demmg",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "rqs 1362023"
+        },
+        {
+            "documento": "rqs 1362023",
+            "data": "21032023",
+            "autor": "senador rodrigo pacheco psdmg senador vanderlan cardoso psdgo senador davi alcolumbre uniãoap senador",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requeiro nos termos do art 332  1 do regimento interno do senado federal o desarquivamento do plc 292017 que\ndispõe sobre normas de seguro privado revoga dispositivos da lei n 10406 de 10 de janeiro de 2002 código civile dá outras\nprovidências"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "21112023",
+            "autor": "senador jader barbalho mdbpa",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": "recebido relatório do senador jader barbalho com voto favorável ao projeto nos termos da emenda substitutiva que apresenta",
+            "descrição/Ementa": "relatório parecer ao plc 292017"
+        },
+        {
+            "documento": "emenda 1  plc 292017",
+            "data": "28112023",
+            "autor": "senador sergio moro uniãopr",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "plc 292017  seguro privado  emenda modificativa art 9"
+        },
+        {
+            "documento": "emenda 2  plc 292017",
+            "data": "05122023",
+            "autor": "senador sergio moro uniãopr",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "plc 292017  seguro privado  emenda supressiva capítulo xi  resseguro"
+        },
+        {
+            "documento": "pg\n11\natividade legislativa\nprojeto de lei da câmara n 29 de 2017\ndocumentos\nemenda 3  plc 292017",
+            "data": "05122023",
+            "autor": "senador sergio moro uniãopr",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "plc 292017  seguro privado  emenda modificativa art 64"
+        },
+        {
+            "documento": "emenda 4  plc 292017",
+            "data": "14122023",
+            "autor": "senador carlos portinho plrj",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda 01 ao plc 292017"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "11032024",
+            "autor": "senador jader barbalho mdbpa",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório ao plc 292017 com análise das emendas apresentadas"
+        },
+        {
+            "documento": "emenda 5  plc 292017",
+            "data": "12032024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda 1 ao plc 292017"
+        },
+        {
+            "documento": "emenda 6  plc 292017",
+            "data": "12032024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda 2 ao plc 292017"
+        },
+        {
+            "documento": "emenda 7  plc 292017",
+            "data": "12032024",
+            "autor": "pg",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda 3 ao plc 292017"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "13032024",
+            "autor": "senador jader barbalho mdbpa",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "complementação de voto ao plc 292017 emendas de ns 5 a 7"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "13032024",
+            "autor": "senador jader barbalho mdbpa",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": "recebida a complementação de voto do senador jader barbalho contrário às emendas ns 5 a 7",
+            "descrição/Ementa": "correção complementação de voto ao plc 292017 emendas de 5 a 7"
+        },
+        {
+            "documento": "emenda 8  plc 292017",
+            "data": "13032024",
+            "autor": "senador izalci lucas psdbdf",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda 3 ao plc 29 de 2017"
+        },
+        {
+            "documento": "emenda 9  plc 292017",
+            "data": "13032024",
+            "autor": "senador izalci lucas psdbdf",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda 2 ao plc 29 de 2017"
+        },
+        {
+            "documento": "emenda 10  plc 292017",
+            "data": "13032024",
+            "autor": "senador izalci lucas psdbdf",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda 1 ao plc 29 de 2017"
+        },
+        {
+            "documento": "pg\n13\natividade legislativa\nprojeto de lei da câmara n 29 de 2017\ndocumentos\nemenda 11  plc 292017",
+            "data": "19032024",
+            "autor": "senador jaques wagner ptba",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda ao plc 292017"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "19032024",
+            "autor": "senador jader barbalho mdbpa",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão de constituição justiça e cidadania sobre o projeto de lei da câmara n 29 de 2017 que dispõe sobre\nnormas de seguro privado revoga dispositivos da lei n 10406 de 10 de janeiro de 2002 código civil e dá outras providências"
+        },
+        {
+            "documento": "emenda 12  plc 292017",
+            "data": "20032024",
+            "autor": "senador marcio bittar uniãoac",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda stc 202402123 tt 298951"
+        },
+        {
+            "documento": "ofício presi0422024 ",
+            "data": "27032024",
+            "autor": "confederação nacional das seguradoras  cnseg",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha sugestões visando contribuir com a elaboração do novo código civil"
+        },
+        {
+            "documento": "relatório legislativo ",
+            "data": "01042024",
+            "autor": "senador jader barbalho mdbpa",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": "recebida a complementação de voto do senador jader barbalho contrário à emenda n 12",
+            "descrição/Ementa": "complementação de voto ao plc 292017 emenda n 12"
+        },
+        {
+            "documento": "emenda 13  plc 292017",
+            "data": "09042024",
+            "autor": "senador rogerio marinho plrn senador dr hiran pprr senador flávio bolsonaro plrj senador carlos viana",
+            "local": "pg",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda ao plc 292017  autonomia susep"
+        },
+        {
+            "documento": "relatório legislativo ",
+            "data": "10042024",
+            "autor": "senador jader barbalho mdbpa",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": "recebida a complementação de voto do senador jader barbalho contrário à emenda n 13",
+            "descrição/Ementa": "complementação de voto ao plc 292017 emenda n 13"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "10042024",
+            "autor": "comissão de constituição justiça e cidadania",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 6ª reunião ccj"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "10042024",
+            "autor": "comissão de constituição justiça e cidadania",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de votação nominal da reunião da 6ª reunião ccj"
+        },
+        {
+            "documento": "ps 112024  ccj",
+            "data": "10042024",
+            "autor": "comissão de constituição justiça e cidadania senador jader barbalho mdbpa senador davi alcolumbre uniãoap",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão de constituição justiça e cidadania sobre o projeto de lei da câmara n 29 de 2017 que dispõe sobre\nnormas de seguro privado revoga dispositivos da lei n 10406 de 10 de janeiro de 2002 código civil e dá outras providências"
+        },
+        {
+            "documento": "emenda 15  plc 292017",
+            "data": "04062024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": "em 04062024 foram apresentadas as emendas ns 15 a 17 de autoria do senador mecias de jesus",
+            "descrição/Ementa": "emenda 1 ao plc 292017"
+        },
+        {
+            "documento": "pg\n15\natividade legislativa\nprojeto de lei da câmara n 29 de 2017\ndocumentos\nemenda 16  plc 292017",
+            "data": "04062024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": "em 04062024 foram apresentadas as emendas ns 15 a 17 de autoria do senador mecias de jesus",
+            "descrição/Ementa": "emenda 2 ao plc 292017"
+        },
+        {
+            "documento": "emenda 17  plc 292017",
+            "data": "04062024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": "em 04062024 foram apresentadas as emendas ns 15 a 17 de autoria do senador mecias de jesus",
+            "descrição/Ementa": "emenda 3 ao plc 292017"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "04062024",
+            "autor": "senador otto alencar psdba",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": "o relator senador otto alencar apresentou relatório favorável ao projeto nos termos da emenda n 14  ccj substitutivo",
+            "descrição/Ementa": "parecer ao plc 29 de 2017"
+        },
+        {
+            "documento": "emenda 18  plc 292017",
+            "data": "10062024",
+            "autor": "senador rogerio marinho plrn",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": "em 10062024 foi apresentada a emenda n 18 de autoria do senador rogério marinho",
+            "descrição/Ementa": "emenda ao plc 292017"
+        },
+        {
+            "documento": "emenda 19  plc 292017",
+            "data": "11062024",
+            "autor": "senador rogerio marinho plrn",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda ao plc 292017  autonomia susep"
+        },
+        {
+            "documento": "emenda 20  plc 292017",
+            "data": "11062024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda ao plc 292017"
+        },
+        {
+            "documento": "pg\n16\natividade legislativa\nprojeto de lei da câmara n 29 de 2017\ndocumentos\nrelatório legislativo",
+            "data": "11062024",
+            "autor": "senador otto alencar psdba",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "parecer ao plc n 29 de 2017"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "11062024",
+            "autor": "senador otto alencar psdba",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "parecer plc 29 de 2017"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "11062024",
+            "autor": "comissão de assuntos econômicos",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 23ª reunião cae"
+        },
+        {
+            "documento": "emenda 21  plc 292017",
+            "data": "18062024",
+            "autor": "senadora tereza cristina ppms",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": "em 18062024 foi apresentada a emenda n 21 de autoria da senadora tereza cristina",
+            "descrição/Ementa": "emenda ao plc 292017   seguro rural"
+        },
+        {
+            "documento": "req 732024  cae",
+            "data": "18062024",
+            "autor": "senador otto alencar psdba",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer nos termos dos arts 336 ii e 338 iv do regimento interno do senado federal urgência para o plc 292017"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "18062024",
+            "autor": "comissão de assuntos econômicos",
+            "local": "pg",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 24ª reunião cae"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "18062024",
+            "autor": "senador otto alencar psdba",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão de assuntos econômicos sobre o projeto de lei da câmara n 29 de 2017 que dispõe sobre normas de\nseguro privado revoga dispositivos da lei n 10406 de 10 de janeiro de 2002 código civil e dá outras providências"
+        },
+        {
+            "documento": "ps 542024  cae",
+            "data": "18062024",
+            "autor": "comissão de assuntos econômicos senador otto alencar psdba senador vanderlan cardoso psdgo senador otto",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão de assuntos econômicos sobre o projeto de lei da câmara n 29 de 2017 que dispõe sobre normas de\nseguro privado revoga dispositivos da lei n 10406 de 10 de janeiro de 2002 código civil e dá outras providências"
+        },
+        {
+            "documento": "emenda 22 plen  plc",
+            "data": "18062024",
+            "autor": "senador carlos viana podemosmg",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 22 do senador carlos viana",
+            "descrição/Ementa": "emenda ao plc 292017"
+        },
+        {
+            "documento": "emenda 23 plen  plc",
+            "data": "18062024",
+            "autor": "senador carlos portinho plrj",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda de plenário ao substitutivo plc 292017"
+        },
+        {
+            "documento": "rqs 4492024",
+            "data": "18062024",
+            "autor": "líder do pl carlos portinho pl",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidos os requerimento ns",
+            "descrição/Ementa": "pg\n18\natividade legislativa\nprojeto de lei da câmara n 29 de 2017\ndocumentos\n 449 de 2024 da liderança do pl de destaque para supressão do capítulo xi do título i na forma do substitutivo e\n 450 de 2024 da liderança do pl de destaque para votação em separado da emenda n 23\nrequer pela liderança do pl destaque para supressão do capítulo xi do título i na forma do substitutivo do projeto de lei da\ncâmara n 292017"
+        },
+        {
+            "documento": "rqs 4502024",
+            "data": "18062024",
+            "autor": "líder do pl carlos portinho pl",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer pela liderança do pl destaque para votação em separado da emenda n 23 ao projeto de lei da câmara n 292017"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "18062024",
+            "autor": "senador otto alencar psdba",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o relatório do senador otto alencar",
+            "descrição/Ementa": "parecer ao plc 29 de 2017"
+        },
+        {
+            "documento": "rqs 4562024",
+            "data": "18062024",
+            "autor": "líder do podemos rodrigo cunha podemosal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer pela liderança do podemos destaque para votação em separado da emenda n 22 ao projeto de lei da câmara n\n292017"
+        },
+        {
+            "documento": "ps 852024  plen",
+            "data": "18062024",
+            "autor": "senador otto alencar psdba",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "parecer n 85 de 2024plensf"
+        },
+        {
+            "documento": "pg\n19\natividade legislativa\nprojeto de lei da câmara n 29 de 2017\ndocumentos\navulso de emendas",
+            "data": "18062024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "18062024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "votação nominal do capítulo xi do tìtulo i do substitutivo ao projeto de lei da câmara n 29 de 2017 destacado"
+        },
+        {
+            "documento": "ps 862024  plen",
+            "data": "18062024",
+            "autor": "comissão diretora do senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "parecer n 862024plensf da comissão diretora"
+        },
+        {
+            "documento": "minuta",
+            "data": "21062024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "ofsf 5932024"
+        },
+        {
+            "documento": "ofsf 5932024",
+            "data": "26062024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n20\natividade legislativa\nprojeto de lei da câmara n 29 de 2017\ndocumentos\nencaminha à revisão da câmara dos deputados o substitutivo do projeto de lei da câmara n 292017"
+        },
+        {
+            "documento": "autógrafo  plc 292017",
+            "data": "26062024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "dispõe sobre normas de seguro privado revoga dispositivos da lei n 10406 de 10 de janeiro de 2002 código civil e dá outras\nprovidências"
+        },
+        {
+            "documento": "ofc 5882024  câmara dos",
+            "data": "19112024",
+            "autor": "deputado federal luciano bivar uniãope",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica o envio à sanção do projeto de lei da câmara n 29 de 2017 n 2597 de 2024 na câmara dos deputados"
+        }
+    ]
 }

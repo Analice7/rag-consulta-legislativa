@@ -1,17 +1,277 @@
 {
-    "Atividade legislativa": "projeto de lei n 6201 de 2023",
-    "Autoria": "câmara dos deputados",
-    "Iniciativa": "deputado federal eduardo barbosa psdbmg",
-    "Ementa": "denomina rodovia governador benedito valadares o trecho da rodovia br262 entre o km 3525 e o km 426 no estado\nde minas gerais",
-    "Assunto": "honorífico   homenagem",
-    "Despacho": "07022024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfci comissão de serviços de infraestrutura",
-    "Relatoria": "ci  comissão de serviços de infraestrutura\nrelatores\nsenador alessandro vieira encerrado em 08102024 \nsubstituído por ad hoc\nsenador castellar neto relator ad hoc encerrado em\n08102024  deliberação da matéria",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada por comissão em decisão",
-        "Destino": "à sanção",
-        "Último local": "21112024  secretaria de expediente",
-        "Último estado": "19112024  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei n 6201 de 2023",
+    "autoria": "câmara dos deputados",
+    "iniciativa": "deputado federal eduardo barbosa psdbmg",
+    "ementa": "denomina rodovia governador benedito valadares o trecho da rodovia br262 entre o km 3525 e o km 426 no estado\nde minas gerais",
+    "assunto": "honorífico   homenagem",
+    "despacho": "07022024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfci comissão de serviços de infraestrutura",
+    "relatoria": "ci  comissão de serviços de infraestrutura\nrelatores\nsenador alessandro vieira encerrado em 08102024 \nsubstituído por ad hoc\nsenador castellar neto relator ad hoc encerrado em\n08102024  deliberação da matéria",
+    "tramitação encerrada": {
+        "decisão": "aprovada por comissão em decisão",
+        "destino": "à sanção",
+        "último local": "21112024  secretaria de expediente",
+        "último estado": "19112024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "ci  comissão de serviços de infraestrutura\nrelatores\nsenador alessandro vieira encerrado em 08102024 \nsubstituído por ad hoc\nsenador castellar neto relator ad hoc encerrado em\n08102024  deliberação da matéria",
-    "Documentos": "ci  comissão de serviços de infraestrutura\nrelatores\nsenador alessandro vieira encerrado em 08102024 \nsubstituído por ad hoc\nsenador castellar neto relator ad hoc encerrado em\n08102024  deliberação da matéria"
+    "tramitação": [
+        {
+            "data": "22112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "remetido ofício sf n 1300 de 221124 ao senhor primeirosecretário da câmara dos deputados comunicando para os\ndevidos fins que a presidência da república encaminhou ao senado federal a mensagem n 1479 de 2024 na origem\nrestituindo autógrafos do projeto de lei n 6201 de 2023 sancionado e transformado na lei n 15028 de 18 de novembro de\n2024\nà coarq\nação"
+        },
+        {
+            "data": "21112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhada à publicação a mensagem n 1479 de 2024 na origem da presidência da república que restitui autógrafo do\nprojeto de lei n 6201 de 2023 n 66422009 na câmara dos deputados sancionado e convertido na 15028 de 18 de\nnovembro de 2024\nserá feita a devida comunicação à câmara dos deputados\nação\npublicado no dsf páginas 11  dsf n 199"
+        },
+        {
+            "data": "19112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica",
+            "ação": "pr presidência da república\nsancionada lei 15028 de 2024\ndou diário oficial da união  19112024  seção i  págs 2 e 2\nsancionada em 18112024"
+        },
+        {
+            "data": "29102024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à sanção",
+            "ação": "remetido ofício sf n 1221 de 291024 ao senhor ministro de estado chefe da casa civil da presidência da república\nencaminhando a mensagem sf n 21724 ao excelentíssimo senhor presidente da república submetendo à sanção\npresidencial autógrafo do projeto\nremetido ofício sf n 1222 de 291024 ao senhor primeirosecretário da câmara dos deputados comunicando que o projeto\nfoi encaminhado à sanção presidencial"
+        },
+        {
+            "data": "24102024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "24102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovada",
+            "ação": "encerrouse em 23 de outubro o prazo para interposição de recurso para apreciação pelo plenário do presente projeto\nnão foi apresentado recurso\no projeto aprovado terminativamente pela comissão de serviços de infraestrutura com emenda de redação vai à sanção\nserá feita a devida comunicação à câmara dos deputados"
+        },
+        {
+            "data": "24102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "anexado o texto final revisado\nação"
+        },
+        {
+            "data": "15102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo interposição de recurso a decisão terminativa de comissão art 91  3 ao 5 do risf de 17102024 a 23102024\nperante a mesa\nação\npublicado no dsf páginas 90  dsf n 177"
+        },
+        {
+            "data": "15102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando interposição de recurso",
+            "ação": "encaminhado à publicação o ofício n 217 de 2024 da comissão de serviços de infraestrutura comunicando a apreciação da\nmatéria em caráter terminativo  concluída a instrução da matéria fica aberto o prazo de cinco dias úteis para interposição de\nrecurso por um décimo dos membros da casa para que seja apreciada pelo plenário nos termos do art 91  3 a 5 do\nregimento interno"
+        },
+        {
+            "data": "08102024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "reunida a comissão nesta data tendo sido designado relator ad hoc o senador castellar neto em substituição ao senador\nalessandro vieira é lido o relatório e aprovado terminativamente o projeto com a emenda n 1ci\njuntados o parecer da ci o ofício que comunica ao plenário a aprovação terminativa da matéria e o texto final\nà slsf\nação\npublicado no dsf páginas 333342  dsf n 172\npublicado no dsf páginas 92  dsf n 177\npg\n2\natividade legislativa\nprojeto de lei n 6201 de 2023\ntramitação"
+        },
+        {
+            "data": "01102024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 27ª reunião da comissão de serviços de infraestrutura agendada para o dia 08102024"
+        },
+        {
+            "data": "03092024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "reunida a comissão nessa data a apreciação da matéria foi adiada\nação"
+        },
+        {
+            "data": "27082024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "devolvido pelo relator senador alessandro vieira com relatório pela aprovação da matéria com emenda que apresenta"
+        },
+        {
+            "data": "02052024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao senador alessandro vieira para emitir relatório"
+        },
+        {
+            "data": "21022024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "aguardando designação do relator",
+            "ação": "decorrido o prazo regimental não foram apresentadas emendas ao projeto"
+        },
+        {
+            "data": "08022024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "prazo para apresentação de emendas a projeto terminativo em comissão art 122 ii c do risf primeiro dia  09022024\núltimo dia  20022024\nação"
+        },
+        {
+            "data": "07022024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "prazo apresentação de emendas a projeto terminativo em comissão art 122 ii c do risf de 09022024 a 20022024\nperante a ci\nação"
+        },
+        {
+            "data": "07022024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando recebimento de emendas",
+            "ação": "a matéria vai à ci em decisão terminativa nos termos do art 91  1 inciso iv do regimento interno podendo receber\nemendas perante a comissão pelo prazo de cinco dias úteis nos termos do art 122 ii c do regimento interno"
+        },
+        {
+            "data": "22122023",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando despacho",
+            "ação": "autuado o projeto de lei n 62012023 proveniente da câmara dos deputados o projeto vai à publicação"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "pl 62012023",
+            "data": "22122023",
+            "autor": "câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 62012023 proveniente da câmara dos deputados o projeto vai à publicação",
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "22122023",
+            "autor": "senado federal",
+            "local": "null",
+            "ação legislativa": null,
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "27082024",
+            "autor": "senador alessandro vieira mdbse",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": "devolvido pelo relator senador alessandro vieira com relatório pela aprovação da matéria com emenda que apresenta",
+            "descrição/Ementa": "da comissão de serviços de infraestrutura sobre o projeto de lei n 6201 de 2023 que denomina rodovia governador\nbenedito valadares o trecho da rodovia br262 entre o km 3525 e o km 426 no estado de minas gerais"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "08102024",
+            "autor": "comissão de serviços de infraestrutura",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 27ª reunião ci"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "08102024",
+            "autor": "comissão de serviços de infraestrutura",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de votação nominal da reunião da 27ª reunião ci"
+        },
+        {
+            "documento": "ps 442024  ci",
+            "data": "08102024",
+            "autor": "comissão de serviços de infraestrutura senador alessandro vieira mdbse senador confúcio moura mdbro",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão de serviços de infraestrutura sobre o projeto de lei n 6201 de 2023 que denomina rodovia governador\nbenedito valadares o trecho da rodovia br262 entre o km 3525 e o km 426 no estado de minas gerais"
+        },
+        {
+            "documento": "texto final da comissão ",
+            "data": "08102024",
+            "autor": "câmara dos deputados",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "denomina rodovia governador benedito valadares o trecho da rodovia br262 entre o km 3525 e o km 426 no estado de\nminas gerais"
+        },
+        {
+            "documento": "ofício",
+            "data": "08102024",
+            "autor": "presidente de comissão",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "ofício n 2172024cipres"
+        },
+        {
+            "documento": "texto final revisado  projeto",
+            "data": "24102024",
+            "autor": "núcleo de redação legislativa",
+            "local": "plenário do senado federal",
+            "ação legislativa": "anexado o texto final revisado",
+            "descrição/Ementa": "denomina rodovia governador benedito valadares o trecho da rodovia br262 entre o km 3525 e o km 426 no estado de\nminas gerais"
+        },
+        {
+            "documento": "minuta",
+            "data": "24102024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "mpsf 2172024"
+        },
+        {
+            "documento": "mpsf 2172024",
+            "data": "29102024",
+            "autor": "presidente do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n5\natividade legislativa\nprojeto de lei n 6201 de 2023\ndocumentos\npresidencial autógrafo do projeto\nremetido ofício sf n 1222 de 291024 ao senhor primeirosecretário da câmara dos deputados comunicando que o projeto\nfoi encaminhado à sanção presidencial\nencaminha à sanção o projeto de lei n 6201 de 2023"
+        },
+        {
+            "documento": "ofsf 12212024",
+            "data": "29102024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha a mensagem da presidência do senado federal submetendo à sanção presidencial autógrafos do projeto de lei n\n6201 de 2023"
+        },
+        {
+            "documento": "ofsf 12222024",
+            "data": "29102024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica à câmara dos deputados o encaminhamento à presidência da república do projeto de lei n 6201 de 2023"
+        },
+        {
+            "documento": "autógrafo  pl 62012023",
+            "data": "29102024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "denomina rodovia governador benedito valadares o trecho da rodovia br262 entre o km 3525 e o km 426 no estado de\nminas gerais"
+        },
+        {
+            "documento": "of 16702024  casa civil",
+            "data": "21112024",
+            "autor": "casa civil",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica a restituição do autógrafo sancionado e a lei n 15028 de 18 de novembro de 2024 promulgada"
+        },
+        {
+            "documento": "pg\n6\natividade legislativa\nprojeto de lei n 6201 de 2023\ndocumentos\nautógrafo restituído após",
+            "data": "21112024",
+            "autor": "presidência da república",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "autógrafo restituído pela presidência da república ao senado federal após sanção"
+        },
+        {
+            "documento": "msg 14792024  presidência",
+            "data": "21112024",
+            "autor": "presidência da república",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "restitui o autógrafo do projeto de lei n 6201 de 2023 sancionado e convertido na lei n 15028 de 18 de novembro de 2024"
+        },
+        {
+            "documento": "ofsf 13002024",
+            "data": "22112024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica à câmara dos deputados o recebimento do autógrafo sancionado do projeto de lei n 6201 de 2023"
+        }
+    ]
 }

@@ -1,17 +1,283 @@
 {
-    "Atividade legislativa": "projeto de lei n 6495 de 2019",
-    "Autoria": "câmara dos deputados",
-    "Iniciativa": "deputado federal geninho zuliani demsp",
-    "Ementa": "denomina rodovia doutor luciano heitor beiguelman o trecho da rodovia br153 entre os municípios de icém e nova\ngranada no estado de são paulo",
-    "Assunto": "honorífico   homenagem",
-    "Despacho": "07022024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfci comissão de serviços de infraestrutura",
-    "Relatoria": "ci  comissão de serviços de infraestrutura\nrelatores\nsenador jorge kajuru encerrado em 15052024 \nredistribuição\nsenador marcos rogério encerrado em 08102024 \nsubstituído por ad hoc\nsenador castellar neto relator ad hoc encerrado em\n08102024  deliberação da matéria",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada por comissão em decisão",
-        "Destino": "à sanção",
-        "Último local": "26112024  secretaria de expediente",
-        "Último estado": "22112024  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei n 6495 de 2019",
+    "autoria": "câmara dos deputados",
+    "iniciativa": "deputado federal geninho zuliani demsp",
+    "ementa": "denomina rodovia doutor luciano heitor beiguelman o trecho da rodovia br153 entre os municípios de icém e nova\ngranada no estado de são paulo",
+    "assunto": "honorífico   homenagem",
+    "despacho": "07022024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfci comissão de serviços de infraestrutura",
+    "relatoria": "ci  comissão de serviços de infraestrutura\nrelatores\nsenador jorge kajuru encerrado em 15052024 \nredistribuição\nsenador marcos rogério encerrado em 08102024 \nsubstituído por ad hoc\nsenador castellar neto relator ad hoc encerrado em\n08102024  deliberação da matéria",
+    "tramitação encerrada": {
+        "decisão": "aprovada por comissão em decisão",
+        "destino": "à sanção",
+        "último local": "26112024  secretaria de expediente",
+        "último estado": "22112024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "ci  comissão de serviços de infraestrutura\nrelatores\nsenador jorge kajuru encerrado em 15052024 \nredistribuição\nsenador marcos rogério encerrado em 08102024 \nsubstituído por ad hoc\nsenador castellar neto relator ad hoc encerrado em\n08102024  deliberação da matéria",
-    "Documentos": "ci  comissão de serviços de infraestrutura\nrelatores\nsenador jorge kajuru encerrado em 15052024 \nredistribuição\nsenador marcos rogério encerrado em 08102024 \nsubstituído por ad hoc\nsenador castellar neto relator ad hoc encerrado em\n08102024  deliberação da matéria"
+    "tramitação": [
+        {
+            "data": "28112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "remetido ofício sf n 1326 de 271124 ao senhor primeirosecretário da câmara dos deputados comunicando para os\ndevidos fins que a presidência da república encaminhou ao senado federal a mensagem n 1483 de 2024 na origem\nrestituindo autógrafos do projeto de lei n 6495 de 2019 sancionado e transformado na lei n 15031 de 21 de novembro de\n2024\nà coarq\nação"
+        },
+        {
+            "data": "26112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhada à publicação a mensagem n 1483 de 2024 na origem que restitui autógrafo do projeto de lei n 6495 de 2019\nsancionado e convertido na lei n 15031 de 21 de novembro de 2024\nserá feita a devida comunicação à câmara dos deputados\nação"
+        },
+        {
+            "data": "22112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica",
+            "ação": "pr presidência da república\nsancionada lei 15031 de 2024\ndou diário oficial da união  22112024  seção i  págs 1 e 1\nsancionada em 21112024"
+        },
+        {
+            "data": "30102024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à sanção",
+            "ação": "remetido ofício sf n 1250 de 301024 ao senhor ministro de estado chefe da casa civil da presidência da república\nencaminhando a mensagem sf n 22424 ao excelentíssimo senhor presidente da república submetendo à sanção\npresidencial autógrafo do projeto\nremetido ofício sf n 1251 de 301024 ao senhor primeirosecretário da câmara dos deputados comunicando que o projeto\nfoi encaminhado à sanção presidencial"
+        },
+        {
+            "data": "24102024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "24102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovada",
+            "ação": "encerrouse em 23 de outubro o prazo para interposição de recurso para apreciação pelo plenário do presente projeto\nnão foi apresentado recurso\no projeto aprovado terminativamente pela comissão de serviços de infraestrutura com emenda de redação vai à sanção\nserá feita a devida comunicação à câmara dos deputados"
+        },
+        {
+            "data": "24102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "anexado o texto final revisado\nação"
+        },
+        {
+            "data": "15102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo interposição de recurso a decisão terminativa de comissão art 91  3 ao 5 do risf de 17102024 a 23102024\nperante a mesa\nação\npublicado no dsf páginas 90  dsf n 177"
+        },
+        {
+            "data": "15102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando interposição de recurso",
+            "ação": "encaminhado à publicação o ofício n 215 de 2024 da comissão de serviços de infraestrutura comunicando a apreciação da\nmatéria em caráter terminativo  concluída a instrução da matéria fica aberto o prazo de cinco dias úteis para interposição de\nrecurso por um décimo dos membros da casa para que seja apreciada pelo plenário nos termos do art 91  3 a 5 do\nregimento interno"
+        },
+        {
+            "data": "08102024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "reunida a comissão nesta data tendo sido designado relator ad hoc o senador castellar neto em substituição ao senador\nmarcos rogério é lido o relatório e aprovado o projeto com a emenda n 1ci\njuntados o parecer da ci o ofício que comunica ao plenário a aprovação da matéria e o texto final\nà slsf\nação\npublicado no dsf páginas 300308  dsf n 172\npublicado no dsf páginas 91  dsf n 177\npg\n2\natividade legislativa\nprojeto de lei n 6495 de 2019\ntramitação"
+        },
+        {
+            "data": "01102024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 27ª reunião da comissão de serviços de infraestrutura agendada para o dia 08102024"
+        },
+        {
+            "data": "30082024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "o relator da matéria senador marcos rogério submete à comissão relatório pela aprovação do projeto com a emenda de\nredação que apresenta"
+        },
+        {
+            "data": "08082024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "matéria com a relatoria",
+            "ação": "redistribuído ao senador marcos rogério para emitir relatório"
+        },
+        {
+            "data": "15052024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "aguardando designação do relator",
+            "ação": "devolvido pelo senador jorge kajuru para redistribuição"
+        },
+        {
+            "data": "02052024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao senador jorge kajuru para emitir relatório"
+        },
+        {
+            "data": "21022024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": "aguardando designação do relator",
+            "ação": "decorrido o prazo regimental não foram apresentadas emendas ao projeto"
+        },
+        {
+            "data": "08022024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "prazo para apresentação de emendas a projeto terminativo em comissão art 122 ii c do risf primeiro dia  09022024\núltimo dia  20022024\nação"
+        },
+        {
+            "data": "07022024",
+            "órgão": "ci  comissão de serviços de infraestrutura",
+            "situação": null,
+            "ação": "prazo apresentação de emendas a projeto terminativo em comissão art 122 ii c do risf de 09022024 a 20022024\nperante a ci\nação"
+        },
+        {
+            "data": "07022024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando recebimento de emendas",
+            "ação": "a matéria vai à ci em decisão terminativa nos termos do art 91  1 inciso iv do regimento interno podendo receber\nemendas perante a comissão pelo prazo de cinco dias úteis nos termos do art 122 ii c do regimento interno"
+        },
+        {
+            "data": "22122023",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando despacho",
+            "ação": "autuado o projeto de lei n 64952019 proveniente da câmara dos deputados o projeto vai à publicação"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "pl 64952019",
+            "data": "22122023",
+            "autor": "câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 64952019 proveniente da câmara dos deputados o projeto vai à publicação",
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "22122023",
+            "autor": "senado federal",
+            "local": "null",
+            "ação legislativa": null,
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "30082024",
+            "autor": "senador marcos rogério plro",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão de serviços de infraestrutura sobre o projeto de lei n 6495 de 2019 que denomina rodovia doutor\nluciano heitor beiguelman o trecho da rodovia br153 entre os municípios de icém e nova granada no estado de são paulo"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "08102024",
+            "autor": "comissão de serviços de infraestrutura",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 27ª reunião ci"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "08102024",
+            "autor": "comissão de serviços de infraestrutura",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de votação nominal da reunião da 27ª reunião ci"
+        },
+        {
+            "documento": "pg\n4\natividade legislativa\nprojeto de lei n 6495 de 2019\ndocumentos\nps 402024  ci",
+            "data": "08102024",
+            "autor": "comissão de serviços de infraestrutura senador marcos rogério plro senador confúcio moura mdbro",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão de serviços de infraestrutura sobre o projeto de lei n 6495 de 2019 que denomina rodovia doutor\nluciano heitor beiguelman o trecho da rodovia br153 entre os municípios de icém e nova granada no estado de são paulo"
+        },
+        {
+            "documento": "ofício",
+            "data": "08102024",
+            "autor": "presidente de comissão",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "ofício n 2152024cipres"
+        },
+        {
+            "documento": "texto final da comissão ",
+            "data": "08102024",
+            "autor": "câmara dos deputados",
+            "local": "comissão de serviços de infraestrutura",
+            "ação legislativa": null,
+            "descrição/Ementa": "denomina rodovia doutor luciano heitor beiguelman o trecho da rodovia br153 entre os municípios de icém e nova granada\nno estado de são paulo"
+        },
+        {
+            "documento": "texto final revisado  projeto",
+            "data": "24102024",
+            "autor": "núcleo de redação legislativa",
+            "local": "plenário do senado federal",
+            "ação legislativa": "anexado o texto final revisado",
+            "descrição/Ementa": "denomina rodovia doutor luciano heitor beiguelman o trecho da rodovia br153 entre os municípios de icém e nova granada\nno estado de são paulo"
+        },
+        {
+            "documento": "minuta",
+            "data": "24102024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "ofsf 12512024\npg\n5\natividade legislativa\nprojeto de lei n 6495 de 2019\ndocumentos"
+        },
+        {
+            "documento": "ofsf 12512024\npg\n5\natividade legislativa\nprojeto de lei n 6495 de 2019\ndocumentos",
+            "data": "30102024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica à câmara dos deputados o encaminhamento à presidência da república do projeto de lei n 6495 de 2019"
+        },
+        {
+            "documento": "mpsf 2242024",
+            "data": "30102024",
+            "autor": "presidente do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à sanção o projeto de lei n 6495 de 2019"
+        },
+        {
+            "documento": "ofsf 12502024",
+            "data": "30102024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha a mensagem da presidência do senado federal submetendo à sanção presidencial autógrafos do projeto de lei n\n6495 de 2019"
+        },
+        {
+            "documento": "autógrafo  pl 64952019",
+            "data": "30102024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "denomina rodovia doutor luciano heitor beiguelman o trecho da rodovia br153 entre os municípios de icém e nova granada\nno estado de são paulo"
+        },
+        {
+            "documento": "msg 14832024  presidência",
+            "data": "26112024",
+            "autor": "presidência da república",
+            "local": "pg",
+            "ação legislativa": null,
+            "descrição/Ementa": "restitui o autógrafo do projeto de lei n 6495 de 2019 sancionado e convertido na lei n 15031 de 21 de novembro de 2024"
+        },
+        {
+            "documento": "ofc 16822024  casa civil",
+            "data": "26112024",
+            "autor": "casa civil",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica a restituição do autógrafo sancionado e a lei n 15031 de 21 de novembro de 2024 promulgada"
+        },
+        {
+            "documento": "autógrafo restituído após",
+            "data": "26112024",
+            "autor": "presidência da república",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "autógrafo restituído pela presidência da república ao senado federal após sanção"
+        },
+        {
+            "documento": "ofsf 13262024",
+            "data": "28112024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica à câmara dos deputados o recebimento do autógrafo sancionado do projeto de lei n 6495 de 2019"
+        }
+    ]
 }

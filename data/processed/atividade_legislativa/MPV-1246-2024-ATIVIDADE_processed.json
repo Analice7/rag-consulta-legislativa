@@ -1,17 +1,329 @@
 {
-    "Atividade legislativa": "medida provisória n 1246 de 2024",
-    "Autoria": "presidência da república",
-    "Ementa": "abre crédito extraordinário em favor do ministério da agricultura e pecuária no valor de r 23089100500 para os\nfins que especifica",
-    "Explicação da Ementa": "essa medida provisória destinase a prover recursos extraordinários para as medidas",
-    "Assunto": "orçamento público   crédito adicional",
-    "Despacho": "19072024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\ncncmo comissão mista de planos orçamentos públicos e\nfiscalização\npg\n1\natividade legislativa\nmedida provisória n 1246 de 2024",
-    "Relatoria": "cmo  comissão mista de planos orçamentos públicos e fiscalização\nrelatores\nsenador jorge kajuru encerrado em 10092024  deliberação\nda matéria\nsenador hamilton mourão relator ad hoc encerrado em\n10092024  deliberação da matéria\ndeputado federal hercílio coelho diniz relator revisor\nencerrado em 10092024  deliberação da matéria",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada na íntegra",
-        "Destino": "à promulgação",
-        "Último local": "13112024  secretaria de expediente",
-        "Último estado": "14112024  transformada em\nnorma jurídica"
+    "atividade legislativa": "medida provisória n 1246 de 2024",
+    "autoria": "presidência da república",
+    "ementa": "abre crédito extraordinário em favor do ministério da agricultura e pecuária no valor de r 23089100500 para os\nfins que especifica",
+    "explicação da ementa": "essa medida provisória destinase a prover recursos extraordinários para as medidas",
+    "assunto": "orçamento público   crédito adicional",
+    "despacho": "19072024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\ncncmo comissão mista de planos orçamentos públicos e\nfiscalização\npg\n1\natividade legislativa\nmedida provisória n 1246 de 2024",
+    "relatoria": "cmo  comissão mista de planos orçamentos públicos e fiscalização\nrelatores\nsenador jorge kajuru encerrado em 10092024  deliberação\nda matéria\nsenador hamilton mourão relator ad hoc encerrado em\n10092024  deliberação da matéria\ndeputado federal hercílio coelho diniz relator revisor\nencerrado em 10092024  deliberação da matéria",
+    "tramitação encerrada": {
+        "decisão": "aprovada na íntegra",
+        "destino": "à promulgação",
+        "último local": "13112024  secretaria de expediente",
+        "último estado": "14112024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "cmo  comissão mista de planos orçamentos públicos e fiscalização\nrelatores\nsenador jorge kajuru encerrado em 10092024  deliberação\nda matéria\nsenador hamilton mourão relator ad hoc encerrado em\n10092024  deliberação da matéria\ndeputado federal hercílio coelho diniz relator revisor\nencerrado em 10092024  deliberação da matéria",
-    "Documentos": "cmo  comissão mista de planos orçamentos públicos e fiscalização\nrelatores\nsenador jorge kajuru encerrado em 10092024  deliberação\nda matéria\nsenador hamilton mourão relator ad hoc encerrado em\n10092024  deliberação da matéria\ndeputado federal hercílio coelho diniz relator revisor\nencerrado em 10092024  deliberação da matéria"
+    "tramitação": [
+        {
+            "data": "18112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "a matéria vai ao arquivo\nação"
+        },
+        {
+            "data": "18112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "remetido ofício cn n 324 de 181124 ao ministro de estado chefe da casa civil da presidência da república encaminhando a\nmensagem cn n 10824 ao excelentíssimo senhor presidente da república comunicando a aprovação da medida provisória e\nsua publicação como lei n 15024 de 13 de novembro de 2024 no diário oficial da união\nremetido ofício cn n 325 de 181124 ao senhor presidente da câmara dos deputados participando a promulgação da\nmatéria bem como o envio do texto promulgado para o arquivo daquela casa\nação"
+        },
+        {
+            "data": "14112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica",
+            "ação": "cn mesa\npromulgada lei n 15024 de 2024\ndou diário oficial da união  14112024  seção i  pág 6\npromulgada em 13112024"
+        },
+        {
+            "data": "13112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovada a medida provisória",
+            "ação": "sessão deliberativa ordinária  realizada em 12112024\nencaminhada à publicação a presente mpv recebida no senado federal\nencerrada a discussão\naprovados conjuntamente os pressupostos de pertinência temática relevância e urgência adequação financeira e\norçamentária e o mérito da medida provisória e da emenda nos termos do parecer\na matéria vai à promulgação\nserá feita a devida comunicação à câmara dos deputados"
+        },
+        {
+            "data": "11112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando leitura",
+            "ação": "aguardando leitura no senado federal"
+        },
+        {
+            "data": "08112024",
+            "órgão": "mesa  mesa diretora da câmara dos deputados",
+            "situação": null,
+            "ação": "apresentação do autógrafo\nremessa ao senado federal por meio do of n 1542024sgmp\nação"
+        },
+        {
+            "data": "04112024",
+            "órgão": "mesa  mesa diretora da câmara dos deputados",
+            "situação": null,
+            "ação": "apresentação da rdf n 1 plen redação final pelo deputado hercílio coelho diniz mdbmg\nação\npg\n2\natividade legislativa\nmedida provisória n 1246 de 2024\ntramitação"
+        },
+        {
+            "data": "04112024",
+            "órgão": "plen  plenário",
+            "situação": null,
+            "ação": "leitura do recebimento do ofício n 2612024 do congresso nacional cn que encaminha o processado da medida provisória\nn 12462024 sessão deliberativa extraordinária de 04112024  17h  187ª sessão\ndiscussão em turno único\ndiscutiram a matéria dep marcel van hattem novors dep cabo gilberto silva plpb e dep erika kokay ptdf\nencerrada a discussão\nvotação preliminar em turno único\naprovado em apreciação preliminar o parecer da comissão mista de planos orçamentos públicos e fiscalização na parte em\nque manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua\nadequação financeira e orçamentária nos termos do artigo 8 da resolução n 01 de 2002cn\nencaminhou a votação do parecer preliminar o dep marcel van hattem novors\naprovado em apreciação preliminar o parecer da comissão mista de planos orçamentos públicos e fiscalização na parte em\nque manifesta opinião pelo não atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação\nfinanceira e orçamentária nos termos do artigo 8 da resolução n 01 de 2002cn\naprovada a medida provisória n 1246 de 2024\nvotação da redação final\naprovada a redação final assinada pelo dep hercílio coelho diniz mdbmg\na matéria vai ao senado federal mpv 1246a2024\naprovado em apreciação preliminar o parecer da comissão mista de planos orçamentos públicos e fiscalização na parte em\nque manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua\nadequação financeira e orçamentária nos termos do artigo 8 da resolução n 01 de 2002cn\nação"
+        },
+        {
+            "data": "11092024",
+            "órgão": "ccp  coordenação de comissões permanentes",
+            "situação": null,
+            "ação": "encaminhada à publicação publicação inicial em avulso e no dcd de 12092024\nação"
+        },
+        {
+            "data": "11092024",
+            "órgão": "mesa  mesa diretora da câmara dos deputados",
+            "situação": null,
+            "ação": "recebido ofício n 2612024cn que encaminha ao congresso nacional a mpv n 1246 de 2024 que abre crédito\nextraordinário em favor do ministério da agricultura e pecuária no valor de r 23089100500 para os fins que especifica\napresentação da msc n 6102024 mensagem pelo poder executivo que submete à apreciação do congresso nacional o\ntexto da medida provisória n 1246 de 2024 que abre crédito extraordinário em favor do ministério da agricultura e pecuária\nno valor de r 23089100500 para os fins que especifica\nrecebido parecer n 26 de 2024 da comissão mista de orçamento sobre a medida provisória n 1246 de 2024 que abre\ncrédito extraordinário em favor do ministério da agricultura e pecuária no valor de r 23089100500 para os fins que\nespecifica\nação"
+        },
+        {
+            "data": "11092024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "medida provisória enviada à câmara dos deputados",
+            "ação": "remetido ofício cn n 261 de 110924 encaminhando a medida provisória n 1246 de 2024 ao senhor presidente da câmara\ndos deputados nos termos do  8 do art 62 da constituição federal com a redação dada pela emenda constitucional n 32 à\nmedida foi oferecida 1  uma  emenda sendo esta declarada inadmitida e a comissão mista de planos orçamento público e\nfiscalização emitiu o parecer n 26 de 2024 cn que conclui pelo aprovação da matéria\nà cd"
+        },
+        {
+            "data": "10092024",
+            "órgão": "mesa  mesa diretora do congresso nacional",
+            "situação": null,
+            "ação": "será feita a publicação no diário do congresso nacional de 12092024 do parecer n 26 de 2024 da comissão mista de\nplanos orçamentos públicos e fiscalização que concluiu pela aprovação da medida provisória n 1246 de 2024 sem alteração\nde mérito conforme o texto proposto pelo poder executivo\nà secretaria de expediente para envio à câmara dos deputados\nação"
+        },
+        {
+            "data": "10092024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": null,
+            "ação": "pg\n3\natividade legislativa\nmedida provisória n 1246 de 2024\ntramitação\nencerrada a relatoria do deputado hercílio coelho diniz por deliberação da matéria\nação"
+        },
+        {
+            "data": "10092024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": null,
+            "ação": "encerrada a relatoria do senador jorge kajuru por deliberação da matéria\nação"
+        },
+        {
+            "data": "10092024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": "aprovado parecer na comissão",
+            "ação": "a comissão mista de planos orçamentos públicos e fiscalização  cmo na continuação da nona reunião\nextraordinária realizada em 10 de setembro de 2024 aprovou o relatório do senador hamilton mourão relator ad hoc\ndesignado relator anteriormente o senador jorge kajuru pela aprovação da medida provisória n 12462024 quanto à\nemenda apresentada declarada inadmitida"
+        },
+        {
+            "data": "06092024",
+            "órgão": "sfslcn  secretaria legislativa do congresso nacional",
+            "situação": null,
+            "ação": "prorrogação do prazo para deliberação da medida provisória por 60 dias data final após prorrogação 15112024 motivação\nato do presidente da mesa do congresso nacional n 76 de 2024\nação\npublicado no dcn páginas 121  dcn n 33"
+        },
+        {
+            "data": "03092024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido do relator senador jorge kajuru relatório com voto pela aprovação da medida provisória na forma proposta pelo\npoder executivo quanto à emenda apresentada o relator ofereceu voto pela inadmissibilidade"
+        },
+        {
+            "data": "13082024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": "matéria com a relatoria",
+            "ação": "designados relator e relator revisor o senador jorge kajuru e o deputado hercílio coelho respectivamente"
+        },
+        {
+            "data": "29072024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": null,
+            "ação": "anexada nota técnica n 442024 que contém subsídios para análise de adequação orçamentária e financeira da medida\nprovisória n 12462024 elaborada pela consultoria de orçamentos fiscalização e controle do senado federal\nação"
+        },
+        {
+            "data": "26072024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": "aguardando designação do relator",
+            "ação": "encerrado o prazo regimental à medida provisória foi apresentada 1 uma emenda o avulso será publicado no diário do\ncongresso nacional do dia 182024"
+        },
+        {
+            "data": "19072024",
+            "órgão": "cmo  comissão mista de planos orçamentos públicos e fiscalização",
+            "situação": "aguardando recebimento de emendas",
+            "ação": "aguardando recebimento de  emendas"
+        },
+        {
+            "data": "19072024",
+            "órgão": "mesa  mesa diretora do congresso nacional",
+            "situação": "matéria despachada",
+            "ação": "a matéria será encaminhada nos termos do  6 do art 2 da resolução n 1 de 2002cn à comissão mista de planos\norçamentos públicos e fiscalização onde receberá emendas\na matéria está publicada em avulso eletrônico\nserá feita a comunicação à câmara dos deputados"
+        },
+        {
+            "data": "19072024",
+            "órgão": "mesa  mesa diretora do congresso nacional",
+            "situação": "aguardando despacho",
+            "ação": "calendário de tramitação da medida provisória\n deliberação da medida provisória de 19072024 a 16092024\n apresentação de emendas à medida provisória de 19072024 a 25072024 res 12002cn\n prazo na comissão \n regime de urgência obstruindo a pauta a partir de 02092024  46 dia\n a comissão mista deve obrigatoriamente emitir parecer antes de a matéria ser submetida aos plenários da câmara dos\ndeputados e do senado federal art 62  9  cf  ação direta de inconstitucionalidade n 4029  dou de 16032012\n as emendas poderão ser enviadas pelo sistema até as 23h59 do dia 25072024\n o prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado domingo ou feriado"
+        },
+        {
+            "data": "19072024",
+            "órgão": "mesa  mesa diretora do congresso nacional",
+            "situação": null,
+            "ação": "publicada no dou de 19072024 nas páginas 1 e 2 a medida provisória 12462024\nação\npublicado no dou páginas 12"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "mpv 12462024",
+            "data": "19072024",
+            "autor": "presidência da república",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "calendário",
+            "data": "19072024",
+            "autor": "congresso nacional",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n5\natividade legislativa\nmedida provisória n 1246 de 2024\ndocumentos\n a comissão mista deve obrigatoriamente emitir parecer antes de a matéria ser submetida aos plenários da câmara dos\ndeputados e do senado federal art 62  9  cf  ação direta de inconstitucionalidade n 4029  dou de 16032012\n as emendas poderão ser enviadas pelo sistema até as 23h59 do dia 25072024\n o prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado domingo ou feriado\navulso inicial da matéria"
+        },
+        {
+            "documento": "pg\n5\natividade legislativa\nmedida provisória n 1246 de 2024\ndocumentos\n a comissão mista deve obrigatoriamente emitir parecer antes de a matéria ser submetida aos plenários da câmara dos\ndeputados e do senado federal art 62  9  cf  ação direta de inconstitucionalidade n 4029  dou de 16032012\n as emendas poderão ser enviadas pelo sistema até as 23h59 do dia 25072024\n o prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado domingo ou feriado\navulso inicial da matéria",
+            "data": "19072024",
+            "autor": "senado federal",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": "publicada no dou de 19072024 nas páginas 1 e 2 a medida provisória 12462024",
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "emenda 1  mpv 12462024",
+            "data": "25072024",
+            "autor": "deputado federal pedro westphalen pprs",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": null,
+            "descrição/Ementa": "abre crédito extraordinário em favor do ministério da agricultura e pecuária no valor de r 23089100500 para os fins que\nespecifica"
+        },
+        {
+            "documento": "avulso de emendas",
+            "data": "26072024",
+            "autor": "senado federal",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": null,
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "nota técnica",
+            "data": "29072024",
+            "autor": "senado federal",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": null,
+            "descrição/Ementa": "nota técnica"
+        },
+        {
+            "documento": "ofício",
+            "data": "13082024",
+            "autor": "deputado federal julio arcoverde pppi",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": "designados relator e relator revisor o senador jorge kajuru e o deputado hercílio coelho respectivamente",
+            "descrição/Ementa": "designo relator revisor da seguinte proposição o senhor deputado hercílio coelho"
+        },
+        {
+            "documento": "ofício",
+            "data": "13082024",
+            "autor": "pg",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": "designados relator e relator revisor o senador jorge kajuru e o deputado hercílio coelho respectivamente",
+            "descrição/Ementa": "designo relator da seguinte proposição o senhor senador jorge kajuru"
+        },
+        {
+            "documento": "relatório sobre crédito",
+            "data": "03092024",
+            "autor": "senador jorge kajuru psbgo",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão mista de planos orçamentos públicos e fiscalização sobre a medida provisória n 1246 de 2024 que\nabre crédito extraordinário em favor do ministério da agricultura e pecuária no valor de r 23089100500 para os fins que\nespecifica"
+        },
+        {
+            "documento": "atcn 762024",
+            "data": "05092024",
+            "autor": "presidente da mesa do congresso nacional",
+            "local": "null",
+            "ação legislativa": null,
+            "descrição/Ementa": "prorroga o prazo de vigência da medida provisória n  12462024 pelo período de sessenta dias"
+        },
+        {
+            "documento": "decisão de comissão",
+            "data": "10092024",
+            "autor": "deputado federal julio arcoverde pppi",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": null,
+            "descrição/Ementa": "conclusão"
+        },
+        {
+            "documento": "par 262024  relatório",
+            "data": "10092024",
+            "autor": "comissão mista de planos orçamentos públicos e fiscalização",
+            "local": "comissão mista de planos orçamentos públicos e fiscalização",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão mista de planos orçamentos públicos e fiscalização sobre a medida provisória n 1246 de 2024 que\nabre crédito extraordinário em favor do ministério da agricultura e pecuária no valor de r 23089100500 para os fins que\nespecifica"
+        },
+        {
+            "documento": "ofcn 2612024",
+            "data": "11092024",
+            "autor": "presidente do congresso nacional",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à câmara dos deputados a medida provisória n 12462024"
+        },
+        {
+            "documento": "autógrafo aprovado na",
+            "data": "11112024",
+            "autor": "câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "abre crédito extraordinário em favor do ministério da agricultura e pecuária no valor de r 23089100500 duzentos e trinta\nmilhões oitocentos e noventa e um mil e cinco reais para os fins que especifica"
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "12112024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "avulso mpv 12462024"
+        },
+        {
+            "documento": "minuta",
+            "data": "13112024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "mpcn 1082024"
+        },
+        {
+            "documento": "mpcn 1082024",
+            "data": "18112024",
+            "autor": "presidente do congresso nacional",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à presidência da república cópia do autógrafo promulgado da medida provisória n 1246 de 2024"
+        },
+        {
+            "documento": "ofcn 3242024",
+            "data": "18112024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n8\natividade legislativa\nmedida provisória n 1246 de 2024\ndocumentos\nencaminha a mensagem da presidência da mesa do congresso nacional participando a promulgação da medida provisória n\n1246 de 2024"
+        },
+        {
+            "documento": "ofcn 3252024",
+            "data": "18112024",
+            "autor": "presidente do congresso nacional",
+            "local": "mesa diretora do congresso nacional",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à câmara dos deputados cópia do autógrafo promulgado da medida provisória n 1246 de 2024"
+        },
+        {
+            "documento": "autógrafo  mpv 12462024",
+            "data": "18112024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "abre crédito extraordinário em favor do ministério da agricultura e pecuária no valor de r 23089100500 para os fins que\nespecifica"
+        }
+    ]
 }

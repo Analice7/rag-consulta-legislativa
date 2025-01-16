@@ -1,17 +1,321 @@
 {
-    "Atividade legislativa": "projeto de lei n 1039 de 2020",
-    "Iniciativa": "senador esperidião amin ppsc",
-    "Ementa": "concede ao município de irineópolis no estado de santa catarina o título de capital nacional do trator",
-    "Explicação da Ementa": "declara o município de irineópolissc como capital nacional do trator",
-    "Assunto": "honorífico   homenagem",
-    "Despacho": "04032022\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfce comissão de educação e cultura",
-    "Relatoria": "ce  comissão de educação e cultura\nrelatores\nsenador dário berger encerrado em 10012023  fim de\nlegislatura\nsenadora ivete da silveira encerrado em 25042023 \nsubstituído por ad hoc\nsenadora damares alves relator ad hoc encerrado em\n25042023  deliberação da matéria",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada por comissão em decisão",
-        "Destino": "à câmara dos deputados",
-        "Último local": "12112024  secretaria de expediente",
-        "Último estado": "13112024  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei n 1039 de 2020",
+    "iniciativa": "senador esperidião amin ppsc",
+    "ementa": "concede ao município de irineópolis no estado de santa catarina o título de capital nacional do trator",
+    "explicação da ementa": "declara o município de irineópolissc como capital nacional do trator",
+    "assunto": "honorífico   homenagem",
+    "despacho": "04032022\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfce comissão de educação e cultura",
+    "relatoria": "ce  comissão de educação e cultura\nrelatores\nsenador dário berger encerrado em 10012023  fim de\nlegislatura\nsenadora ivete da silveira encerrado em 25042023 \nsubstituído por ad hoc\nsenadora damares alves relator ad hoc encerrado em\n25042023  deliberação da matéria",
+    "tramitação encerrada": {
+        "decisão": "aprovada por comissão em decisão",
+        "destino": "à câmara dos deputados",
+        "último local": "12112024  secretaria de expediente",
+        "último estado": "13112024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "ce  comissão de educação e cultura\nrelatores\nsenador dário berger encerrado em 10012023  fim de\nlegislatura\nsenadora ivete da silveira encerrado em 25042023 \nsubstituído por ad hoc\nsenadora damares alves relator ad hoc encerrado em\n25042023  deliberação da matéria",
-    "Documentos": "ce  comissão de educação e cultura\nrelatores\nsenador dário berger encerrado em 10012023  fim de\nlegislatura\nsenadora ivete da silveira encerrado em 25042023 \nsubstituído por ad hoc\nsenadora damares alves relator ad hoc encerrado em\n25042023  deliberação da matéria"
+    "tramitação": [
+        {
+            "data": "13112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "remetido ofício sf n 1274 de 131124 ao senhor ministro de estado chefe da casa civil da presidência da república\nencaminhando a mensagem sf n 23324 ao excelentíssimo senhor presidente da república participando a promulgação da\nlei n 15015 de 12 de novembro de 2024 nos termos do  7 do art 66 da constituição federal\nremetido ofício sf n 1275 de 131124 ao senhor primeirosecretário da câmara dos deputados comunicando que foi\npromulgada pelo senhor presidente do senado federal nos termos do  7 do art 66 da constituição federal a lei n 15015\nde 12 de novembro de 2024\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "cn mesa\npromulgada lei n 15015 de 2024\ndou diário oficial da união  13112024  seção i  pág 9\npromulgada em 12112024\nação"
+        },
+        {
+            "data": "11112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o ofício n 1556 de 2024 na origem do ministro de estado chefe da casa civil da presidência da\nação\npg\n1\natividade legislativa\nprojeto de lei n 1039 de 2020\ntramitação\nrepública que restitui o autógrafo do presente projeto não sancionado expressamente\na matéria vai à promulgação nos termos do  7 do art 66 da constituição federal\npublicado no dsf páginas 7475  dsf n 193"
+        },
+        {
+            "data": "17102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o ofício da câmara dos deputados n 365 de 2024 na origem que comunica o envio à sanção do\nprojeto de lei n 1039 de 2020\na matéria vai à secretaria de expediente\nação\npublicado no dsf páginas 82  dsf n 179\npublicado no dsf páginas 84  dsf n 179"
+        },
+        {
+            "data": "18052023",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à câmara dos deputados",
+            "ação": "remetido ofício sf n 320 de 170523 ao senhor primeirosecretário da câmara dos deputados encaminhando autógrafos do\nprojeto para revisão nos termos do art 65 da constituição federal"
+        },
+        {
+            "data": "12052023",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "12052023",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovada",
+            "ação": "encerrouse em 11 de maio o prazo para interposição de recurso para apreciação do projeto pelo plenário\nnão foi apresentado recurso\na matéria aprovada terminativamente pela ce vai à câmara dos deputados"
+        },
+        {
+            "data": "12052023",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "anexado o texto final revisado\nação"
+        },
+        {
+            "data": "03052023",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo interposição de recurso a decisão terminativa de comissão art 91  3 ao 5 do risf de 05052023 a 11052023\nperante a mesa\nação"
+        },
+        {
+            "data": "03052023",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando interposição de recurso",
+            "ação": "encaminhado á publicação o  ofício n 66 de 2023 da ce comunicando a apreciação da matéria em caráter terminativo\nconcluída a instrução da matéria fica aberto o prazo de cinco dias úteis para interposição de recurso por um décimo dos\nmembros da casa para que a matéria seja apreciada pelo plenário nos termos do art 91  3 a 5 do regimento interno"
+        },
+        {
+            "data": "25042023",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "apreciada em decisão terminativa pelas comissões",
+            "ação": "em reunião realizada em 2542023 foi aprovado terminativamente o projeto quórum 14 sim 13 não 0 abstenções 0"
+        },
+        {
+            "data": "24042023",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 12ª reunião da comissão de educação cultura e esporte agendada para o dia 25042023"
+        },
+        {
+            "data": "03042023",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido relatório da senadora ivete da silveira pela aprovação do projeto"
+        },
+        {
+            "data": "22032023",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído à senadora ivete da silveira para emitir relatório"
+        },
+        {
+            "data": "02022023",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "aguardando designação do relator",
+            "ação": "matéria aguardando distribuição"
+        },
+        {
+            "data": "21122022",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": null,
+            "ação": "a proposição continua a tramitar nos termos do art 332 do regimento interno\nação"
+        },
+        {
+            "data": "20122022",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "em reunião realizada em 20122022 a apreciação da matéria foi adiada"
+        },
+        {
+            "data": "12122022",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 32ª reunião da comissão de educação cultura e esporte agendada para o dia 15122022"
+        },
+        {
+            "data": "13072022",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido relatório do senador dário berger com voto pela aprovação do projeto"
+        },
+        {
+            "data": "31032022",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao senador dário berger para emitir relatório"
+        },
+        {
+            "data": "15032022",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "aguardando designação do relator",
+            "ação": "não foram oferecidas emendas no prazo regimental\nmatéria aguardando distribuição"
+        },
+        {
+            "data": "04032022",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": null,
+            "ação": "prazo apresentação de emendas a projeto terminativo em comissão art 122 ii c do risf de 08032022 a 14032022\nperante a ce\nação"
+        },
+        {
+            "data": "04032022",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando recebimento de emendas",
+            "ação": "a matéria vai à ce em decisão terminativa cabendo apresentação de emendas perante a comissão pelo prazo de cinco dias\núteis nos termos do art 122 ii c do regimento interno"
+        },
+        {
+            "data": "27032020",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação no dsf de 02042020\nação\npublicado no dsf páginas 775778  dsf n 28"
+        },
+        {
+            "data": "27032020",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "leitura da matéria na sessão do sf n1 em 27032020\nação"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "pl 10392020",
+            "data": "12032020",
+            "autor": "senador esperidião amin ppsc",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "27032020",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "13072022",
+            "autor": "senador dário berger psbsc",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": "recebido relatório do senador dário berger com voto pela aprovação do projeto",
+            "descrição/Ementa": "relatório do senador dário berger"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "03042023",
+            "autor": "senadora ivete da silveira mdbsc",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": "recebido relatório da senadora ivete da silveira pela aprovação do projeto",
+            "descrição/Ementa": "concede ao município de irineópolis no estado de santa catarina o título de capital nacional do trator"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "25042023",
+            "autor": "comissão de educação e cultura",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 12ª reunião ce"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "25042023",
+            "autor": "comissão de educação e cultura",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de votação nominal da reunião da 12ª reunião ce"
+        },
+        {
+            "documento": "ps 302023  ce",
+            "data": "25042023",
+            "autor": "comissão de educação e cultura",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": "em reunião realizada em 2542023 foi aprovado terminativamente o projeto quórum 14 sim 13 não 0 abstenções 0",
+            "descrição/Ementa": "concede ao município de irineópolis no estado de santa catarina o título de capital nacional do trator"
+        },
+        {
+            "documento": "ofício",
+            "data": "03052023",
+            "autor": "presidente de comissão",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n5\natividade legislativa\nprojeto de lei n 1039 de 2020\ndocumentos\nofício n 662023ce"
+        },
+        {
+            "documento": "texto final revisado  projeto",
+            "data": "12052023",
+            "autor": "núcleo de redação legislativa",
+            "local": "plenário do senado federal",
+            "ação legislativa": "anexado o texto final revisado",
+            "descrição/Ementa": "concede ao município de irineópolis no estado de santa catarina o título de capital nacional do trator"
+        },
+        {
+            "documento": "minuta",
+            "data": "12052023",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "ofsf 3202023"
+        },
+        {
+            "documento": "ofsf 3202023",
+            "data": "18052023",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à revisão da câmara dos deputados o projeto de lei n 1039  de 2020"
+        },
+        {
+            "documento": "autógrafo  pl 10392020",
+            "data": "18052023",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "concede ao município de irineópolis no estado de santa catarina o título de capital nacional do trator"
+        },
+        {
+            "documento": "ofc 3652024  câmara dos",
+            "data": "17102024",
+            "autor": "primeirosecretário da câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica o envio à sanção do projeto de lei n 1039 de 2020"
+        },
+        {
+            "documento": "of 15562024  casa civil",
+            "data": "11112024",
+            "autor": "casa civil",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica a restituição de autógrafo para promulgação pelo presidente do senado federal sanção tácita"
+        },
+        {
+            "documento": "pg\n6\natividade legislativa\nprojeto de lei n 1039 de 2020\ndocumentos\nautógrafo  pl 10392020",
+            "data": "12112024",
+            "autor": "senado federal",
+            "local": "null",
+            "ação legislativa": null,
+            "descrição/Ementa": "concede ao município de irineópolis no estado de santa catarina o título de capital nacional do trator"
+        },
+        {
+            "documento": "mpsf 2332024",
+            "data": "13112024",
+            "autor": "presidente do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à presidência da república o autógrafo promulgado do projeto de lei n 1039 de 2020 nos termos dos  3 e 7 do\nart 66 da constituição federal"
+        },
+        {
+            "documento": "ofsf 12742024",
+            "data": "13112024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha a mensagem da presidência do senado federal participando a promulgação do projeto de lei n 1039 de 2020 nos\ntermos dos  3 e 7 do art 66 da constituição federal"
+        },
+        {
+            "documento": "ofsf 12752024",
+            "data": "13112024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à câmara dos deputados cópia de autógrafo promulgado do projeto de lei n 1039 de 2020 nos termos dos  3 e\n7 do art 66 da constituição federal"
+        },
+        {
+            "documento": "autógrafo  pl 10392020",
+            "data": "13112024",
+            "autor": "senado federal",
+            "local": "pg",
+            "ação legislativa": null,
+            "descrição/Ementa": "concede ao município de irineópolis no estado de santa catarina o título de capital nacional do trator"
+        }
+    ]
 }

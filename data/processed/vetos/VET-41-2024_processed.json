@@ -1,12 +1,38 @@
 {
     "veto": {
-        "numero": "41",
+        "número": "41",
         "ano": "2024"
     },
     "ementa": "veto parcial aposto ao projeto de lei n 1734 de 2024 n 19522007 na câmara dos deputados que institui o regime disciplinar da polícia federal e da polícia civil do distrito federal e revoga dispositivos da lei n 4878 de 3 de dezembro de 1965",
     "mensagem": {
-        "numero": "1666",
+        "número": "1666",
         "ano": "2024"
     },
-    "dispositivos_vetados": "veto parcial aposto ao projeto de lei n 1734 de 2024 n 19522007 na câmara dos deputados que institui o regime disciplinar da polícia federal e da polícia civil do distrito federal e revoga dispositivos da lei n 4878 de 3 de dezembro de 1965"
+    "dispositivos vetados": [
+        {
+            "dispositivo vetado": "inciso v do caput do art 12 do projeto de lei",
+            "texto dispositivo": "v  praticar incitar ou induzir no exercício da função ato que importe discriminação com base em raça cor etnia religião procedência nacional ou deficiência  inciso iv do caput do art 15 do projeto de lei iv  praticar no exercício da função atos reiterados que importem discriminação com base em raça cor etnia religião procedência nacional ou deficiência",
+            "razao veto": "em que pese a boa intenção do legislador a proposição legislativa é inconstitucional pois violaria o disposto no art 3 caput inciso iv e no art 5 caput incisos xli e xlii da constituição na medida em que os dispositivos propostos confeririam proteção desproporcional ao status constitucional conferido ao direito à não discriminação ademais os dispositivos contrariariam o interesse público por falta de razoabilidade diante do estabelecimento da penalidade de suspensão para a prática de conduta discriminatória e da exigência de reiteração da conduta para incidência da penalidade de demissão"
+        },
+        {
+            "dispositivo vetado": "inciso vi do caput do art 12 do projeto de lei",
+            "texto dispositivo": "vi  praticar ato de incontinência pública no ambiente de trabalho",
+            "razao veto": "em que pese a boa intenção do legislador a proposição legislativa contrariaria o interesse público pois a cominação da penalidade de suspensão para a prática de ato que configure incontinência pública no ambiente de trabalho se revela insuficiente para assegurar a moral administrativa"
+        },
+        {
+            "dispositivo vetado": "inciso v do caput do art 14 do projeto de lei",
+            "texto dispositivo": "v  maltratar ou tolerar que subordinado ou colega de serviço maltrate física ou psicologicamente pessoa presa ou sob investigação policial se o fato não constituir infração mais grave  inciso viii do caput do art 15 do projeto de lei viii  maltratar preso sob sua custódia ou usar de violência desnecessária contra alguém no exercício da função policial se dos fatos resultar lesão corporal de natureza grave gravíssima ou morte",
+            "razao veto": "em que pese a boa intenção do legislador a proposição legislativa é inconstitucional pois violaria o disposto no art 1 caput inciso iii e no art 5 caput incisos iii e xlix da constituição na medida em que permitiria a gradação da gravidade da infração ao impor a penalidade demissória apenas nas hipóteses em que a conduta resultar em lesão corporal de natureza grave gravíssima ou morte nesse sentido a proposta permitiria a flexibilização de ato atentatório aos direitos e às liberdades fundamentais o que demonstra incompatibilidade com o texto constitucional contrariaria ainda o interesse público pelo fato de que conduta de natureza grave configurada como crime poderia ser sancionada com penalidade desproporcional no âmbito disciplinar"
+        },
+        {
+            "dispositivo vetado": "art 27 do projeto de lei",
+            "texto dispositivo": "art 27 nos casos previstos nos incisos iv vi vii ix xi e xiii do caput do art 15 desta lei a demissão do servidor acarretará a incompatibilidade para nova investidura em cargo público federal de provimento efetivo ou em comissão parágrafo único a incompatibilidade de que trata o caput terá a duração de 2 dois anos",
+            "razao veto": "em que pese a boa intenção do legislador a proposição legislativa contrariaria o interesse público pois resta pacificado o entendimento de que qualquer caso de demissão do serviço público em decorrência de processo administrativo disciplinar incompatibiliza o exservidor para nova investidura em cargo público federal pelo prazo de 8 oito anos nos termos do disposto no art 1 caput inciso i alínea o"
+        },
+        {
+            "dispositivo vetado": "e no art 5 caput inciso ii da lei n 8112 de 11 de dezembro de 1990    art 90 do projeto de lei",
+            "texto dispositivo": "art 90 a competência para imposição de sanção disciplinar a servidores da polícia civil do distrito federal será do corregedorgeral",
+            "razao veto": "em que pese a boa intenção do legislador a proposição legislativa incorreria em vício de constitucionalidade pois violaria o princípio da autonomia federativa e o princípio da simetria nos termos do disposto no art 18 e no art 84 caput incisos ii e xxv da constituição respectivamente nesse sentido a proposição retiraria do governador do distrito federal a competência para aplicar as sanções de demissão e de cassação de aposentadoria dos servidores da polícia civil do distrito federal"
+        }
+    ]
 }

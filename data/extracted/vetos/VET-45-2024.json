@@ -1,23 +1,23 @@
 {
     "veto": {
-        "numero": "45",
+        "número": "45",
         "ano": "2024"
     },
     "ementa": "Veto parcial aposto ao Projeto de Lei nº 7.686, de 2017 (Projeto de Lei nº 487, de 2015, no Senado Federal), que \"Regula o exercício da profissão de geofísico.\"",
     "mensagem": {
-        "numero": "1696",
+        "número": "1696",
         "ano": "2024"
     },
-    "dispositivos_vetados": [
+    "dispositivos vetados": [
         {
-            "dispositivo_vetado": "Incisos II e III do caput do art. 2º do Projeto de Lei",
-            "texto_dispositivo": "II - ao graduado em Geofísica, com diploma expedido por estabelecimento estrangeiro de ensino superior revalidado de acordo com a legislação em vigor; III - ao graduado em ciências exatas com titulação de mestrado ou doutorado em Geofísica, com diploma expedido por estabelecimento estrangeiro de ensino superior revalidado de acordo com a legislação em vigor, que requeira o respectivo registro no prazo de 1 (um) ano, a contar da data de publicação desta Lei;",
-            "razao_veto": "Em que pese a boa intenção do legislador, a proposição legislativa é inconstitucional uma vez que contraria o direito à igualdade e ao livre exercício de qualquer trabalho, ofício ou profissão, ao violar o art. 5º, caput e inciso XIII, da Constituição, e dar tratamento diferenciado para a possibilidade de exercício da profissão, restringindo, de maneira injustificada, a situação para os que realizaram a formação no exterior, ainda que revalidada no Brasil."
+            "dispositivo vetado": "Incisos II e III do caput do art. 2º do Projeto de Lei",
+            "texto dispositivo": "II - ao graduado em Geofísica, com diploma expedido por estabelecimento estrangeiro de ensino superior revalidado de acordo com a legislação em vigor; III - ao graduado em ciências exatas com titulação de mestrado ou doutorado em Geofísica, com diploma expedido por estabelecimento estrangeiro de ensino superior revalidado de acordo com a legislação em vigor, que requeira o respectivo registro no prazo de 1 (um) ano, a contar da data de publicação desta Lei;",
+            "razao veto": "Em que pese a boa intenção do legislador, a proposição legislativa é inconstitucional uma vez que contraria o direito à igualdade e ao livre exercício de qualquer trabalho, ofício ou profissão, ao violar o art. 5º, caput e inciso XIII, da Constituição, e dar tratamento diferenciado para a possibilidade de exercício da profissão, restringindo, de maneira injustificada, a situação para os que realizaram a formação no exterior, ainda que revalidada no Brasil."
         },
         {
-            "dispositivo_vetado": "Art. 3º do Projeto de Lei",
-            "texto_dispositivo": "Art. 3º Aplicam-se aos geofísicos, aos físicos, aos geólogos e aos engenheiros geólogos que, nos termos do inciso I do art. 2º, exerçam a função de geofísico a Lei nº 4.950-A, de 22 de abril de 1966, a Lei nº 5.194, de 24 de dezembro de 1966, e a Lei nº 7.410, de 27 de novembro de 1985.",
-            "razao_veto": "Em que pese a boa intenção do legislador, a proposição legislativa é inconstitucional uma vez que contraria o princípio da isonomia, previsto no art. 5º, caput, da Constituição, ao vincular os direitos trabalhistas previstos apenas para os profissionais a que se refere o art. 2º, caput, inciso I, do Projeto de Lei, criando diferenciação com base no local e na época de formação, ainda que exerçam reconhecidamente a mesma profissão Ademais, a proposição legislativa contraria o interesse público ao estender a aplicação de direitos e obrigações previstos na legislação a geofísicos que possuem determinada formação acadêmica, de forma não isonômica em relação a outros profissionais geofísicos, e ao desconsiderar os acordos e as convenções coletivas de trabalho como os instrumentos mais adequados, eficientes e oportunos para a fixação de pisos salariais para as categorias, em observância à realidade local."
+            "dispositivo vetado": "Art. 3º do Projeto de Lei",
+            "texto dispositivo": "Art. 3º Aplicam-se aos geofísicos, aos físicos, aos geólogos e aos engenheiros geólogos que, nos termos do inciso I do art. 2º, exerçam a função de geofísico a Lei nº 4.950-A, de 22 de abril de 1966, a Lei nº 5.194, de 24 de dezembro de 1966, e a Lei nº 7.410, de 27 de novembro de 1985.",
+            "razao veto": "Em que pese a boa intenção do legislador, a proposição legislativa é inconstitucional uma vez que contraria o princípio da isonomia, previsto no art. 5º, caput, da Constituição, ao vincular os direitos trabalhistas previstos apenas para os profissionais a que se refere o art. 2º, caput, inciso I, do Projeto de Lei, criando diferenciação com base no local e na época de formação, ainda que exerçam reconhecidamente a mesma profissão Ademais, a proposição legislativa contraria o interesse público ao estender a aplicação de direitos e obrigações previstos na legislação a geofísicos que possuem determinada formação acadêmica, de forma não isonômica em relação a outros profissionais geofísicos, e ao desconsiderar os acordos e as convenções coletivas de trabalho como os instrumentos mais adequados, eficientes e oportunos para a fixação de pisos salariais para as categorias, em observância à realidade local."
         }
     ]
 }

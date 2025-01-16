@@ -1,17 +1,851 @@
 {
-    "Atividade legislativa": "projeto de lei complementar n 175 de 2024",
-    "Autoria": "câmara dos deputados",
-    "Iniciativa": "deputado federal rubens pereira júnior ptma",
-    "Ementa": "dispõe sobre a proposição e a execução de emendas parlamentares na lei orçamentária anual e dá outras providências",
-    "Assunto": "jurídico   processo",
-    "Despacho": "12112024\ndecisão da presidência\nao plenário\nsfplen plenário do senado federal\npg\n1\natividade legislativa\nprojeto de lei complementar n 175 de 2024",
-    "Relatoria": "plen  plenário do senado federal\nrelatores\nsenador angelo coronel relator geral encerrado em\n18112024  matéria deliberada no plenário",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada pelo plenário",
-        "Destino": "à câmara dos deputados",
-        "Último local": "22112024  secretaria de expediente",
-        "Último estado": "21112024  remetida à sanção"
+    "atividade legislativa": "projeto de lei complementar n 175 de 2024",
+    "autoria": "câmara dos deputados",
+    "iniciativa": "deputado federal rubens pereira júnior ptma",
+    "ementa": "dispõe sobre a proposição e a execução de emendas parlamentares na lei orçamentária anual e dá outras providências",
+    "assunto": "jurídico   processo",
+    "despacho": "12112024\ndecisão da presidência\nao plenário\nsfplen plenário do senado federal\npg\n1\natividade legislativa\nprojeto de lei complementar n 175 de 2024",
+    "relatoria": "plen  plenário do senado federal\nrelatores\nsenador angelo coronel relator geral encerrado em\n18112024  matéria deliberada no plenário",
+    "tramitação encerrada": {
+        "decisão": "aprovada pelo plenário",
+        "destino": "à câmara dos deputados",
+        "último local": "22112024  secretaria de expediente",
+        "último estado": "21112024  remetida à sanção"
     },
-    "Tramitação": "plen  plenário do senado federal\nrelatores\nsenador angelo coronel relator geral encerrado em\n18112024  matéria deliberada no plenário",
-    "Documentos": "plen  plenário do senado federal\nrelatores\nsenador angelo coronel relator geral encerrado em\n18112024  matéria deliberada no plenário"
+    "tramitação": [
+        {
+            "data": "26112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "pr presidência da república\nsancionada lei complementar n 210 de 2024\ndou diário oficial da união  26112024  seção i  págs 1 a 3\nsancionada em 25112024\nação"
+        },
+        {
+            "data": "22112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o ofício da câmara dos deputados n 601 de 2024 na origem que comunica o envio à sanção do\nprojeto de lei complementar n 175 de 2024\na matéria vai à secretaria de expediente\nação"
+        },
+        {
+            "data": "21112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à câmara dos deputados",
+            "ação": "remetido ofício sf n 1296 de 181124 ao senhor primeirosecretário da câmara dos deputados comunicando que o senado\nfederal aprovou em revisão nos termos do substitutivo o projeto"
+        },
+        {
+            "data": "21112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "18112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovado o substitutivo",
+            "ação": "sessão deliberativa extraordinária realizada em 18112024\nretirado o rqs 7772024 do senador jorge kajuru líder do psb a matéria destacada retorna ao grupo ao qual pertence sendo\nconsiderada aprovada na votação do textobase nos termos do inciso v do art 314 do regimento interno\napós acordo de plenário para votação posterior de subemenda ao substitutivo do relator é anunciada a retirada do rqs\n7892024 do senador beto faro líder do pt\nrejeitada a expressão e o bloqueio do caput e do 3 e os  1 2 4 e 5 do art 12 do substitutivo do relator objeto de\ndestaque do rqs 7872024 do senador carlos portinho líder do pl com o seguinte resultado sim  14 não  47 abstenção  1\npresidente  1 total  63 a expressão e os dispositivos ficam suprimidos\nrejeitado o  4 do art 4 do substitutivo do relator objeto de destaque do rqs 7882024 do senador efraim filho líder do\nunião brasil com o seguinte resultado sim  25 não  39 abstenção  0 presidente  1 total  65 o dispositivo fica suprimido\naprovada a subemenda ao substitutivo do relator nos termos do acordo de plenário que reestabelece o art 11 do projeto\noriginal apresentado na câmara dos deputados com o seguinte resultado sim  64 não  0 abstenção  0 presidente  1 total \n65\nencaminhado à publicação na forma regimental o parecer n 1892024plensf da comissão diretora oferecendo a redação\npara o turno suplementar\nencerrada a discussão em turno suplementar sem emendas o substitutivo é dado como definitivamente adotado sem votação\na matéria retorna à câmara dos deputados\nencaminhado à publicação o requerimento n 794 de 2024"
+        },
+        {
+            "data": "18112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 794 de 2024 da liderança do psb de retirada do requerimento n 777 de 2024\nação"
+        },
+        {
+            "data": "16112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "incluído em ordem do dia da sessão deliberativa extraordinária semipresencial de 18112024\nação\npg\n2\natividade legislativa\nprojeto de lei complementar n 175 de 2024\ntramitação\ncontinuação da votação em turno único"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "continuação da sessão deliberativa ordinária iniciada em 12112024\nencaminhadas à publicação as emendas ns 1 a 44 46 e 47\nretirada pelo autor a emenda n 21 à luz do requerimento n 776 de 2024 encaminhado à publicação\nretirada pelo autor a emenda n 29 à luz do requerimento n 785 de 2024\nencaminhado à publicação  e aprovado  o requerimento n 774 de 2024 por meio do qual se solicita urgência para a matéria\nencaminhado à publicação o parecer n 188 de 2024plensf proferido pelo senador angelo coronel o qual é favorável ao\nprojeto e pelo acolhimento parcial das emendas ns 6 10 12 21 24 25 30 34 35 39 40 e 44 na forma da emenda n 45\nsubstitutivo que apresenta e pela rejeição das demais emendas\nencaminhado à publicação  e retirado  o requerimento n 783 de 2024 de destaque para votação em separado da emenda\nn 20\nencaminhado à publicação  e retirado  o requerimento n 784 de 2024 de destaque para votação em separado da emenda\nn 6\nencerrada a discussão da matéria\naprovada a emenda n 45 substitutivo nos termos do parecer em votação nominal ressalvados os destaques após o seguinte\nresultado sim  46 não  18 presidente  1 abstenção  1 total  66 ficam prejudicados o projeto e as demais emendas\nsuspensa a apreciação da matéria\nencaminhados a publicações os requerimentos ns 777 787 788 e 789 de 2024\nação\npublicado no dsf páginas 72102  dsf n 195\npublicado no dsf páginas 281414  dsf n 195"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 47 do senador randolfe rodrigues\nação\npublicado no dsf páginas 281367  dsf n 195"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 46 do senador randolfe rodrigues\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 789 de 2024 da liderança do pt de destaque para votação em separado do parágrafo primeiro do\nart 11 inserido pelo substitutivo do relator\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 788 de 2024 da liderança do união de destaque para votação em separado do 4 do art 4\ninserido pelo substitutivo do relator\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 787 de 2024 da liderança do pl de destaque da expressão e o bloqueio do caput e do 3 bem\ncomo a supressão integral dos  1 2 4 e 5 do art 12 inseridos pelo substitutivo do relator\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 44 do senador rogério carvalho\nação\npg\n3\natividade legislativa\nprojeto de lei complementar n 175 de 2024\ntramitação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 43 da senadora damares alves\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 42 do senador rodrigo cunha\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 41 do senador flávio arns e outros\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o relatório do senador angelo coronel\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 785 de 2024 do senador alessandro vieira solicitando a retirada definitiva da emenda n 29\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 784 de 2024 da liderança do podemos de destaque para votação em separado da emenda n 6\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 783 de 2024 da liderança do pp de destaque para votação em separado da emenda n 20\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 40 do senador hamilton mourão\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 39 do senador flávio arns\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 38 do senador randolfe rodrigues\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 37 da senadora professora dorinha seabra\nação\npg\n4\natividade legislativa\nprojeto de lei complementar n 175 de 2024\ntramitação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 36 do senador sérgio moro\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 777 de 2024 da liderança do psb de destaque para votação em separado do inciso i do art 5 do\nplp 1752024\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidas as emendas ns 34 e 35 do senador mecias de jesus\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidas as emendas ns 27 a 33 do senador alessandro vieira\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 26 do senador lucas barreto\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido em 13112024 o requerimento n 776 de 2024 do senador rogerio marinho solicitando a retirada definitiva da\nemenda n 21\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 25 do senador confúcio moura\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 24 da senadora professora dorinha seabra\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidas as emendas ns 21 a 23 do senador rogerio marinho\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 20 da senadora tereza cristina\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidas as emendas ns 14 a 19 da senadora professora dorinha seabra\nação\npg\n5\natividade legislativa\nprojeto de lei complementar n 175 de 2024\ntramitação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidas as emendas ns 11 a 13 do senador alan rick\nação"
+        },
+        {
+            "data": "13112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 774 de 2024 de líderes solicitando urgência para a matéria\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 10 do senador lucas barreto\npendente de apresentação de requerimento de urgência\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "designado relator de plenário o senador angelo coronel\nação"
+        },
+        {
+            "data": "12112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 9 do senador mecias de jesus\npendente de apresentação de requerimento de urgência\nação"
+        },
+        {
+            "data": "11112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebidas as emendas ns 1 a 8 da senadora soraya thronicke\npendente de apresentação de requerimento de urgência\nação"
+        },
+        {
+            "data": "10112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "incluída em ordem do dia",
+            "ação": "incluído em ordem do dia da sessão deliberativa ordinária de 13112024\npendente de apresentação de requerimento de urgência"
+        },
+        {
+            "data": "09112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando despacho",
+            "ação": "autuado o projeto de lei n 1752024 proveniente da câmara dos deputados o projeto vai à publicação"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "plp 1752024",
+            "data": "09112024",
+            "autor": "câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 1752024 proveniente da câmara dos deputados o projeto vai à publicação",
+            "descrição/Ementa": "dispõe sobre a proposição e a execução de emendas parlamentares na lei orçamentária anual e dá outras providências"
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "09112024",
+            "autor": "senado federal",
+            "local": "null",
+            "ação legislativa": null,
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "emenda 1 plen  plp",
+            "data": "11112024",
+            "autor": "senadora soraya thronicke podemosms",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda  ao plp 1752024  emendas de bancada enviado por 61987417100 em 11112024 1106"
+        },
+        {
+            "documento": "emenda 2 plen  plp",
+            "data": "11112024",
+            "autor": "senadora soraya thronicke podemosms",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda  ao plp 1752024  em banc siop enviado por 61987417100 em 11112024 1133"
+        },
+        {
+            "documento": "emenda 3 plen  plp",
+            "data": "11112024",
+            "autor": "senadora soraya thronicke podemosms",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda  ao plp 1752024  emendas de comissão 1 enviado por 61987417100 em 11112024 1106"
+        },
+        {
+            "documento": "emenda 4 plen  plp",
+            "data": "11112024",
+            "autor": "senadora soraya thronicke podemosms",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 1 a 8 da senadora soraya thronicke",
+            "descrição/Ementa": "pg\n7\natividade legislativa\nprojeto de lei complementar n 175 de 2024\ndocumentos\npendente de apresentação de requerimento de urgência\nemenda  ao plp 1752024  emendas de comissão 2 enviado por 61987417100 em 11112024 1106"
+        },
+        {
+            "documento": "emenda 5 plen  plp",
+            "data": "11112024",
+            "autor": "senadora soraya thronicke podemosms",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda  ao plp 1752024  projetos prioritários enviado por 61987417100 em 11112024 1106"
+        },
+        {
+            "documento": "emenda 6 plen  plp",
+            "data": "11112024",
+            "autor": "senadora soraya thronicke podemosms",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda  ao plp 1752024  emendas te enviado por 61987417100 em 11112024 1105"
+        },
+        {
+            "documento": "emenda 7 plen  plp",
+            "data": "11112024",
+            "autor": "senadora soraya thronicke podemosms",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda  ao plp 1752024  limite despesa capital tes enviado por 61987417100 em 11112024 1105"
+        },
+        {
+            "documento": "emenda 8 plen  plp",
+            "data": "11112024",
+            "autor": "senadora soraya thronicke podemosms",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda  ao plp 1752024  identificação emendas comissões enviado por 61987417100 em 11112024 1105"
+        },
+        {
+            "documento": "emenda 9 plen  plp",
+            "data": "12112024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n8\natividade legislativa\nprojeto de lei complementar n 175 de 2024\ndocumentos\nemenda  ao plp 1752024"
+        },
+        {
+            "documento": "emenda 10 plen  plp",
+            "data": "12112024",
+            "autor": "senador lucas barreto psdap",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda  ao plp 1752024  alteração art 3  número de emendas"
+        },
+        {
+            "documento": "rqs 7742024",
+            "data": "13112024",
+            "autor": "líder do bloco parlamentar da resistência democrática eliziane gama psdma líder do bloco parlamentar aliança laércio",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o requerimento n 774 de 2024 de líderes solicitando urgência para a matéria",
+            "descrição/Ementa": "requer urgência para o projeto de lei complementar n 1752024 nos termos dos arts 336 ii e 338 ii do regimento interno\ndo senado federal"
+        },
+        {
+            "documento": "emenda 11 plen  plp",
+            "data": "13112024",
+            "autor": "senador alan rick uniãoac",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 11 a 13 do senador alan rick",
+            "descrição/Ementa": "emenda supressiva à alínea d do inciso ii do art 2 do plp 1752024"
+        },
+        {
+            "documento": "emenda 20 plen  plp",
+            "data": "13112024",
+            "autor": "senadora tereza cristina ppms",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 20 da senadora tereza cristina",
+            "descrição/Ementa": "emenda  ao plp 1752024"
+        },
+        {
+            "documento": "emenda 21 plen  plp",
+            "data": "13112024",
+            "autor": "senador rogerio marinho plrn",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 21 a 23 do senador rogerio marinho",
+            "descrição/Ementa": "emenda  ao plp 1752024  elevação quantidade de emendas de bancada"
+        },
+        {
+            "documento": "emenda 22 plen  plp",
+            "data": "13112024",
+            "autor": "senador rogerio marinho plrn",
+            "local": "pg",
+            "ação legislativa": "recebidas as emendas ns 21 a 23 do senador rogerio marinho",
+            "descrição/Ementa": "emenda  ao plp 1752024  impedimentos técnicos"
+        },
+        {
+            "documento": "emenda 23 plen  plp",
+            "data": "13112024",
+            "autor": "senador rogerio marinho plrn",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 21 a 23 do senador rogerio marinho",
+            "descrição/Ementa": "emenda  ao plp 1752024  proporcionalidade das emendas de comissão"
+        },
+        {
+            "documento": "emenda 12 plen  plp",
+            "data": "13112024",
+            "autor": "senador alan rick uniãoac",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 11 a 13 do senador alan rick",
+            "descrição/Ementa": "emenda ao art 3 do plp 1752024"
+        },
+        {
+            "documento": "emenda 13 plen  plp",
+            "data": "13112024",
+            "autor": "senador alan rick uniãoac",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 11 a 13 do senador alan rick",
+            "descrição/Ementa": "emenda supressiva ao  4 do art 4 do plp 1752024"
+        },
+        {
+            "documento": "emenda 14 plen  plp",
+            "data": "13112024",
+            "autor": "senadora professora dorinha seabra uniãoto",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 14 a 19 da senadora professora dorinha seabra",
+            "descrição/Ementa": "emenda  ao plp 1752024  fundos estaduais de saúde"
+        },
+        {
+            "documento": "emenda 15 plen  plp",
+            "data": "13112024",
+            "autor": "senadora professora dorinha seabra uniãoto",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 14 a 19 da senadora professora dorinha seabra",
+            "descrição/Ementa": "emenda  ao plp 1752024  divisão de emenda de bancada"
+        },
+        {
+            "documento": "emenda 16 plen  plp",
+            "data": "13112024",
+            "autor": "senadora professora dorinha seabra uniãoto",
+            "local": "pg",
+            "ação legislativa": "recebidas as emendas ns 14 a 19 da senadora professora dorinha seabra",
+            "descrição/Ementa": "emenda  ao plp 1752024  restricao a valor de transferencia especial"
+        },
+        {
+            "documento": "emenda 17 plen  plp",
+            "data": "13112024",
+            "autor": "senadora professora dorinha seabra uniãoto",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 14 a 19 da senadora professora dorinha seabra",
+            "descrição/Ementa": "emenda  ao plp 1752024  informacoes de custo e geograficas  bancada"
+        },
+        {
+            "documento": "emenda 18 plen  plp",
+            "data": "13112024",
+            "autor": "senadora professora dorinha seabra uniãoto",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 14 a 19 da senadora professora dorinha seabra",
+            "descrição/Ementa": "emenda  ao plp 1752024  supressão art 3"
+        },
+        {
+            "documento": "emenda 19 plen  plp",
+            "data": "13112024",
+            "autor": "senadora professora dorinha seabra uniãoto",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 14 a 19 da senadora professora dorinha seabra",
+            "descrição/Ementa": "emenda  ao plp 1752024  supressão parágrafo 4 do art 4"
+        },
+        {
+            "documento": "emenda 24 plen  plp",
+            "data": "13112024",
+            "autor": "senadora professora dorinha seabra uniãoto",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 24 da senadora professora dorinha seabra",
+            "descrição/Ementa": "emenda  ao plp 1752024  apresentação de 12 emendas por bancada federal"
+        },
+        {
+            "documento": "emenda 25 plen  plp",
+            "data": "13112024",
+            "autor": "senador confúcio moura mdbro",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 25 do senador confúcio moura",
+            "descrição/Ementa": "emenda  ao plp 1752024  orçamento"
+        },
+        {
+            "documento": "emenda 26 plen  plp",
+            "data": "13112024",
+            "autor": "senador lucas barreto psdap",
+            "local": "pg",
+            "ação legislativa": "recebida a emenda n 26 do senador lucas barreto",
+            "descrição/Ementa": "emenda  ao plp 1752024  insere  4  art 3"
+        },
+        {
+            "documento": "rqs 7762024",
+            "data": "13112024",
+            "autor": "senador rogerio marinho plrn",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer a retirada definitiva da emenda n 21 ao projeto de lei complementar n 1752024"
+        },
+        {
+            "documento": "emenda 27 plen  plp",
+            "data": "13112024",
+            "autor": "senador alessandro vieira mdbse",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 27 a 33 do senador alessandro vieira",
+            "descrição/Ementa": "emenda  ao plp 1752024  art 11  limites"
+        },
+        {
+            "documento": "emenda 28 plen  plp",
+            "data": "13112024",
+            "autor": "senador alessandro vieira mdbse",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 27 a 33 do senador alessandro vieira",
+            "descrição/Ementa": "emenda  ao plp 1752024   art 1 sem emendas de comissão"
+        },
+        {
+            "documento": "emenda 29 plen  plp",
+            "data": "13112024",
+            "autor": "senador alessandro vieira mdbse",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 27 a 33 do senador alessandro vieira",
+            "descrição/Ementa": "emenda  ao plp 1752024  contingenciamento e bloqueio"
+        },
+        {
+            "documento": "emenda 30 plen  plp",
+            "data": "13112024",
+            "autor": "senador alessandro vieira mdbse",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 27 a 33 do senador alessandro vieira",
+            "descrição/Ementa": "emenda  ao plp 1752024  11 emendas por bancada estadual"
+        },
+        {
+            "documento": "emenda 31 plen  plp",
+            "data": "13112024",
+            "autor": "senador alessandro vieira mdbse",
+            "local": "pg",
+            "ação legislativa": "recebidas as emendas ns 27 a 33 do senador alessandro vieira",
+            "descrição/Ementa": "emenda  ao plp 1752024  proporção comissão bancada partidária"
+        },
+        {
+            "documento": "emenda 32 plen  plp",
+            "data": "13112024",
+            "autor": "senador alessandro vieira mdbse",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 27 a 33 do senador alessandro vieira",
+            "descrição/Ementa": "emenda  ao plp 1752024  proporção comissões"
+        },
+        {
+            "documento": "emenda 33 plen  plp",
+            "data": "13112024",
+            "autor": "senador alessandro vieira mdbse",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 27 a 33 do senador alessandro vieira",
+            "descrição/Ementa": "emenda  ao plp 1752024  assistência social"
+        },
+        {
+            "documento": "emenda 34 plen  plp",
+            "data": "13112024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 34 e 35 do senador mecias de jesus",
+            "descrição/Ementa": "emenda 2 ao plp 1752024"
+        },
+        {
+            "documento": "emenda 35 plen  plp",
+            "data": "13112024",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebidas as emendas ns 34 e 35 do senador mecias de jesus",
+            "descrição/Ementa": "emenda 4 ao plp 1752024"
+        },
+        {
+            "documento": "rqs 7772024",
+            "data": "13112024",
+            "autor": "líder do psb jorge kajuru psbgo",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer pela liderança do psb destaque para votação em separado do inciso i do art 5 do plp 1752024"
+        },
+        {
+            "documento": "emenda 36 plen  plp",
+            "data": "13112024",
+            "autor": "senador sergio moro uniãopr",
+            "local": "pg",
+            "ação legislativa": "recebida a emenda n 36 do senador sérgio moro",
+            "descrição/Ementa": "emenda ao plp 1752024  supressão parágrafo único do art 12"
+        },
+        {
+            "documento": "emenda 37 plen  plp",
+            "data": "13112024",
+            "autor": "senadora professora dorinha seabra uniãoto",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 37 da senadora professora dorinha seabra",
+            "descrição/Ementa": "emenda  ao plp 1752024  inclusão de órgãos da administração pública"
+        },
+        {
+            "documento": "emenda 38 plen  plp",
+            "data": "13112024",
+            "autor": "senador randolfe rodrigues ptap",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 38 do senador randolfe rodrigues",
+            "descrição/Ementa": "emenda  ao plp 1752024"
+        },
+        {
+            "documento": "emenda 39 plen  plp",
+            "data": "13112024",
+            "autor": "senador flávio arns psbpr",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 39 do senador flávio arns",
+            "descrição/Ementa": "emenda  ao art 5 do plp 1752024_emendas de comissão"
+        },
+        {
+            "documento": "emenda 40 plen  plp",
+            "data": "13112024",
+            "autor": "senador hamilton mourão republicanosrs",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 40 do senador hamilton mourão",
+            "descrição/Ementa": "emenda 1  ao plp 1752024"
+        },
+        {
+            "documento": "rqs 7832024",
+            "data": "13112024",
+            "autor": "líder do bloco parlamentar aliança laércio oliveira ppse",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o requerimento n 783 de 2024 da liderança do pp de destaque para votação em separado da emenda n 20",
+            "descrição/Ementa": "requer pela liderança do pp destaque para votação em separado da emenda n 20 ao projeto de lei complementar n\n1752024"
+        },
+        {
+            "documento": "rqs 7842024",
+            "data": "13112024",
+            "autor": "líder do podemos rodrigo cunha podemosal",
+            "local": "pg",
+            "ação legislativa": "recebido o requerimento n 784 de 2024 da liderança do podemos de destaque para votação em separado da emenda n 6",
+            "descrição/Ementa": "requer pela liderança do podemos destaque para votação em separado da emenda n 6 ao projeto de lei complementar n\n1752024"
+        },
+        {
+            "documento": "rqs 7852024",
+            "data": "13112024",
+            "autor": "senador alessandro vieira mdbse",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o requerimento n 785 de 2024 do senador alessandro vieira solicitando a retirada definitiva da emenda n 29",
+            "descrição/Ementa": "requer a retirada definitiva da emenda n 29 ao projeto de lei complementar n 1752024"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "13112024",
+            "autor": "senador angelo coronel psdba",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o relatório do senador angelo coronel",
+            "descrição/Ementa": "relatório ao projeto de lei complementar 1752024"
+        },
+        {
+            "documento": "emenda 42 plen  plp",
+            "data": "13112024",
+            "autor": "senador rodrigo cunha podemosal",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 42 do senador rodrigo cunha",
+            "descrição/Ementa": "emenda ao plp 1752024 para priorizar creches"
+        },
+        {
+            "documento": "emenda 43 plen  plp",
+            "data": "13112024",
+            "autor": "senadora damares alves republicanosdf",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 43 da senadora damares alves",
+            "descrição/Ementa": "emenda  ao plp 1752024  proteção de crianças e adolescentes"
+        },
+        {
+            "documento": "emenda 41 plen  plp",
+            "data": "13112024",
+            "autor": "senador flávio arns psbpr senadora mara gabrilli psdsp senador alessandro vieira mdbse senadora damares alves",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 41 do senador flávio arns e outros",
+            "descrição/Ementa": "emenda para dar rastreabilidade e transparência às emendas pix plp 1752024"
+        },
+        {
+            "documento": "emenda 44 plen  plp",
+            "data": "13112024",
+            "autor": "pg",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 44 do senador rogério carvalho",
+            "descrição/Ementa": "emenda  ao plp 1752024"
+        },
+        {
+            "documento": "rqs 7872024",
+            "data": "13112024",
+            "autor": "líder do pl carlos portinho plrj",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer pela liderança do partido liberal destaque para votação em separado do art n 12 do projeto de lei complementar n\n1752024"
+        },
+        {
+            "documento": "rqs 7882024",
+            "data": "13112024",
+            "autor": "líder do união efraim filho uniãopb",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer pela liderança do união destaque para votação em separado do art n 4 do projeto de lei complementar n\n1752024"
+        },
+        {
+            "documento": "rqs 7892024",
+            "data": "13112024",
+            "autor": "líder do pt beto faro ptpa",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer pela liderança do pt destaque para votação em separado do art n 11 do projeto de lei complementar n 1752024"
+        },
+        {
+            "documento": "emenda 46 plen  plp",
+            "data": "13112024",
+            "autor": "senador randolfe rodrigues ptap",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 46 do senador randolfe rodrigues",
+            "descrição/Ementa": "emenda art12  ao plp 1752024"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "13112024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "votação nominal da emenda n 45substitutivo ao plp n 1752024 nos termos do parecer ressalvados os destaques"
+        },
+        {
+            "documento": "emenda 47 plen  plp\npg\n16\natividade legislativa\nprojeto de lei complementar n 175 de 2024\ndocumentos",
+            "data": "13112024",
+            "autor": "senador randolfe rodrigues ptap",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 47 do senador randolfe rodrigues",
+            "descrição/Ementa": "emenda art12 ao plp 1752024  atualizado"
+        },
+        {
+            "documento": "emenda 45 plen  plp",
+            "data": "13112024",
+            "autor": "senador angelo coronel psdba",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "emenda n 45plen  substitutivo"
+        },
+        {
+            "documento": "ps 1882024  plen",
+            "data": "13112024",
+            "autor": "senador angelo coronel psdba",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "parecer n 188 de 2024plensf"
+        },
+        {
+            "documento": "avulso de emendas",
+            "data": "13112024",
+            "autor": "senado federal",
+            "local": "pg",
+            "ação legislativa": "recebida a emenda n 47 do senador randolfe rodrigues",
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "rqs 7942024",
+            "data": "18112024",
+            "autor": "líder do psb jorge kajuru psbgo",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o requerimento n 794 de 2024 da liderança do psb de retirada do requerimento n 777 de 2024",
+            "descrição/Ementa": "requer pela liderança do psb a retirada do requeirmento n 777 de 2024"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "18112024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "votação nominal dos dispositivos do art 12 do substitutivo do relator ao plp n 1752024 destacados"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "18112024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "votação nominal do 4 do art 4 do substitutivo do relator ao plp n 1752024 destacado"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "18112024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "votação nominal da subemenda ao substitutivo do relator ao plp n 1752024 destacada"
+        },
+        {
+            "documento": "ps 1892024  plen",
+            "data": "18112024",
+            "autor": "comissão diretora do senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n18\natividade legislativa\nprojeto de lei complementar n 175 de 2024\ndocumentos\npara o turno suplementar\nencerrada a discussão em turno suplementar sem emendas o substitutivo é dado como definitivamente adotado sem votação\na matéria retorna à câmara dos deputados\nencaminhado à publicação o requerimento n 794 de 2024\nparecer n 189 de 2024plensf"
+        },
+        {
+            "documento": "ofsf 12962024",
+            "data": "21112024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à revisão da câmara dos deputados o substitutivo do projeto de lei complementar n 1752024"
+        },
+        {
+            "documento": "minuta",
+            "data": "21112024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "autógrafo  plp 1752024"
+        },
+        {
+            "documento": "autógrafo  plp 1752024",
+            "data": "21112024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "dispõe sobre a proposição e a execução de emendas parlamentares na lei orçamentária anual e dá outras providências"
+        },
+        {
+            "documento": "ofc 6012024  câmara dos",
+            "data": "22112024",
+            "autor": "primeirosecretário da câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica o envio à sanção do projeto de lei complementar n 175 de 2024"
+        }
+    ]
 }

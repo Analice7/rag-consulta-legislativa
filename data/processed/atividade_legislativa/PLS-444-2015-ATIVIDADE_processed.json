@@ -1,17 +1,465 @@
 {
-    "Atividade legislativa": "projeto de lei do senado n 444 de 2015",
-    "Autoria": "senador jorge viana ptac",
-    "Ementa": "altera a lei n 11445 de 5 de janeiro de 2007 para instituir como direito da população o acesso a relatórios periódicos\nsobre o nível dos reservatórios de água para abastecimento público e outros dados relativos à segurança hídrica",
-    "Explicação da Ementa": "altera a lei de saneamento básico lei n 14452007 para tornar obrigatória a divulgação de",
-    "Assunto": "meio ambiente ",
-    "Despacho": "07072015 despacho inicial\nnull\nanálise  tramitação sucessiva\nsfcma comissão de meio ambiente\n17042017 promulgação da resolução n3 de 2017\nnull\nanálise\nsfctfc comissão de transparência governança fiscalização e\ncontrole e defesa do consumidor",
-    "Relatoria": "cma  comissão de meio ambiente\nrelatores\nsenador ataídes oliveira encerrado em 07042017 \nredistribuição\nctfc  comissão de transparência governança fiscalização e controle e\nrelatores\nsenador ataídes oliveira encerrado em 09082017 \ndeliberação da matéria",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada por comissão em decisão",
-        "Destino": "à câmara dos deputados",
-        "Último local": "22112024  secretaria de atas e\ndiários",
-        "Último estado": "05112024  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei do senado n 444 de 2015",
+    "autoria": "senador jorge viana ptac",
+    "ementa": "altera a lei n 11445 de 5 de janeiro de 2007 para instituir como direito da população o acesso a relatórios periódicos\nsobre o nível dos reservatórios de água para abastecimento público e outros dados relativos à segurança hídrica",
+    "explicação da ementa": "altera a lei de saneamento básico lei n 14452007 para tornar obrigatória a divulgação de",
+    "assunto": "meio ambiente ",
+    "despacho": "07072015 despacho inicial\nnull\nanálise  tramitação sucessiva\nsfcma comissão de meio ambiente\n17042017 promulgação da resolução n3 de 2017\nnull\nanálise\nsfctfc comissão de transparência governança fiscalização e\ncontrole e defesa do consumidor",
+    "relatoria": "cma  comissão de meio ambiente\nrelatores\nsenador ataídes oliveira encerrado em 07042017 \nredistribuição\nctfc  comissão de transparência governança fiscalização e controle e\nrelatores\nsenador ataídes oliveira encerrado em 09082017 \ndeliberação da matéria",
+    "tramitação encerrada": {
+        "decisão": "aprovada por comissão em decisão",
+        "destino": "à câmara dos deputados",
+        "último local": "22112024  secretaria de atas e\ndiários",
+        "último estado": "05112024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "cma  comissão de meio ambiente\nrelatores\nsenador ataídes oliveira encerrado em 07042017 \nredistribuição\nctfc  comissão de transparência governança fiscalização e controle e\nrelatores\nsenador ataídes oliveira encerrado em 09082017 \ndeliberação da matéria",
-    "Documentos": "cma  comissão de meio ambiente\nrelatores\nsenador ataídes oliveira encerrado em 07042017 \nredistribuição\nctfc  comissão de transparência governança fiscalização e controle e\nrelatores\nsenador ataídes oliveira encerrado em 09082017 \ndeliberação da matéria"
+    "tramitação": [
+        {
+            "data": "22112024",
+            "órgão": "sfseadi  secretaria de atas e diários",
+            "situação": null,
+            "ação": "a matéria vai ao arquivo\nação"
+        },
+        {
+            "data": "22112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o ofício da câmara dos deputados n 589 de 2024 na origem que comunica a restituição do\nautógrafo do projeto de lei do senado n 444 de 2015 n 84482017 na câmara dos deputados sancionado e convertido na\nlei n 15012 de 4 de novembro de 2024\na matéria vai ao arquivo\nação\npg\n1\natividade legislativa\nprojeto de lei do senado n 444 de 2015\ntramitação"
+        },
+        {
+            "data": "05112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica",
+            "ação": "pr presidência da república\nsancionada lei 15012 de 2024\ndou diário oficial da união  05112024  seção i  págs 5 e 5\nsancionada em 04112024"
+        },
+        {
+            "data": "17102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o ofício n 179 de 2024 na origem que comunica o envio à sanção do projeto de lei do senado n\n444 de 2015 n 84482017 na câmara dos deputados\na matéria vai à secretaria de expediente\nação\npublicado no dsf páginas 8081  dsf n 179"
+        },
+        {
+            "data": "21112018",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "à coarq\nação"
+        },
+        {
+            "data": "31082017",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à câmara dos deputados",
+            "ação": "remetido ofício sf n 909 de 310817 ao primeirosecretário da câmara dos deputados encaminhando autógrafos do\nprojeto para revisão nos termos do art 65 da constituição federal fls 29 a 30"
+        },
+        {
+            "data": "29082017",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado fl 28\nação"
+        },
+        {
+            "data": "28082017",
+            "órgão": "sfseadi  secretaria de atas e diários",
+            "situação": "aprovada",
+            "ação": "encerrouse no dia 23 de agosto o prazo sem interposição do recurso no sentido da continuação da tramitação da matéria\ntendo sido aprovado terminativamente pela comissão competente o presente projeto de lei vai à câmara dos deputados"
+        },
+        {
+            "data": "24082017",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado ao plenário para comunicação do término do prazo para interposição de recurso\nação"
+        },
+        {
+            "data": "23082017",
+            "órgão": "sfcorele  coordenação de redação legislativa",
+            "situação": null,
+            "ação": "juntado texto final revisado fls 24 e 25\nação"
+        },
+        {
+            "data": "18082017",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "à corele\nação\npg\n2\natividade legislativa\nprojeto de lei do senado n 444 de 2015\ntramitação"
+        },
+        {
+            "data": "16082017",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo interposição de recurso art 91  3 ao 5 do risf\nde 17082017 a 23082017\nação"
+        },
+        {
+            "data": "15082017",
+            "órgão": "sfseadi  secretaria de atas e diários",
+            "situação": "aguardando interposição de recurso",
+            "ação": "encaminhado à publicação o parecer n 18 de 2017  ctfc relator senador ataídes oliveira pela aprovação da matéria com as\nemendas ns 1 e 2  ctfc\nanunciado o recebimento do memo n 27 do presidente da comissão de transparência governança fiscalização controle e\ndefesa do consumidor comunicando a aprovação da matéria com as duas emendas oferecidas\nabertura do prazo de cinco dias úteis para interposição de recurso por um décimo da composição da casa para que a matéria\nem referência seja apreciada pelo plenário nos termos do art 91  3 a 5 do regimento interno"
+        },
+        {
+            "data": "10082017",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando leitura parecer es",
+            "ação": "aguardando leitura do parecer n 18 2017 da ctfc"
+        },
+        {
+            "data": "10082017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": null,
+            "ação": "juntados às fls 11 a 22 o parecer da ctfc lista de presença da reunião folha de votação texto final do pls n 444 de 2015\ndecisão da comissão e memo n 272017ctfc que comunica aprovação do projeto nos termos dos artigo 91 2 do risf\nà slsf\nação"
+        },
+        {
+            "data": "09082017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "apreciada em decisão terminativa pelas comissões",
+            "ação": "reunida a ctfc nesta data encerrada a discussão e colocado em votação o projeto foi aprovado com as emendas ns 1 e 2 \nctfc por oito votos favoráveis nenhum voto contrário e nenhuma abstenção"
+        },
+        {
+            "data": "04082017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 12ª reunião da comissão de transparência governança fiscalização e controle e defesa do\nconsumidor agendada para o dia 09082017"
+        },
+        {
+            "data": "02082017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "em reunião realizada em 02082017 a apreciação da matéria foi adiada"
+        },
+        {
+            "data": "28072017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "incluída na pauta da reunião",
+            "ação": "pg\n3\natividade legislativa\nprojeto de lei do senado n 444 de 2015\ntramitação\nmatéria constante da pauta da 11ª reunião da comissão de transparência governança fiscalização e controle e defesa do\nconsumidor agendada para o dia 02082017"
+        },
+        {
+            "data": "13072017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": null,
+            "ação": "recebido relatório atualizado do senador ataídes oliveira pela aprovação do projeto com duas emendas que apresenta\nanexo às fls 11 a 16\nação"
+        },
+        {
+            "data": "12072017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "em reunião realizada em 12072017 a apreciação da matéria foi adiada"
+        },
+        {
+            "data": "07072017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 10ª reunião da comissão de transparência governança fiscalização e controle e defesa do\nconsumidor agendada para o dia 12072017"
+        },
+        {
+            "data": "05072017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "em reunião realizada em 05072017 a apreciação da matéria foi adiada"
+        },
+        {
+            "data": "30062017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 9ª reunião da comissão de transparência governança fiscalização e controle e defesa do\nconsumidor agendada para o dia 05072017"
+        },
+        {
+            "data": "28062017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "matéria não apreciada devido ao cancelamento da 9ª reunião da comissão de transparência governança fiscalização e\ncontrole e defesa do consumidor"
+        },
+        {
+            "data": "22062017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 9ª reunião da comissão de transparência governança fiscalização e controle e defesa do\nconsumidor agendada para o dia 28062017"
+        },
+        {
+            "data": "21062017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "matéria não apreciada devido ao cancelamento da 9ª reunião da comissão de transparência governança fiscalização e\ncontrole e defesa do consumidor"
+        },
+        {
+            "data": "19062017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 9ª reunião da comissão de transparência governança fiscalização e controle e defesa do\nconsumidor agendada para o dia 21062017"
+        },
+        {
+            "data": "14062017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "matéria não apreciada devido ao cancelamento da 9ª reunião da comissão de transparência governança fiscalização e\ncontrole e defesa do consumidor"
+        },
+        {
+            "data": "09062017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 9ª reunião da comissão de transparência governança fiscalização e controle e defesa do\nconsumidor agendada para o dia 14062017"
+        },
+        {
+            "data": "07062017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "em reunião realizada em 07062017 a apreciação da matéria foi adiada"
+        },
+        {
+            "data": "01062017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 8ª reunião da comissão de transparência governança fiscalização e controle e defesa do\nconsumidor agendada para o dia 07062017"
+        },
+        {
+            "data": "31052017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "em reunião realizada em 31052017 a apreciação da matéria foi adiada"
+        },
+        {
+            "data": "25052017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 7ª reunião da comissão de transparência governança fiscalização e controle e defesa do\nconsumidor agendada para o dia 31052017"
+        },
+        {
+            "data": "25052017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "matéria não apreciada devido ao cancelamento da 7ª reunião da comissão de transparência governança fiscalização e\ncontrole e defesa do consumidor"
+        },
+        {
+            "data": "19052017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "pg\n5\natividade legislativa\nprojeto de lei do senado n 444 de 2015\ntramitação\nincluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 7ª reunião da comissão de transparência governança fiscalização e controle e defesa do\nconsumidor agendada para o dia 24052017"
+        },
+        {
+            "data": "03052017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "em reunião realizada em 03052017 a apreciação da matéria foi adiada"
+        },
+        {
+            "data": "28042017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 4ª reunião da comissão de transparência governança fiscalização e controle e defesa do\nconsumidor agendada para o dia 03052017"
+        },
+        {
+            "data": "26042017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "em reunião realizada em 26042017 a apreciação da matéria foi adiada"
+        },
+        {
+            "data": "24042017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 3ª reunião da comissão de transparência governança fiscalização e controle e defesa do\nconsumidor agendada para o dia 26042017"
+        },
+        {
+            "data": "24042017",
+            "órgão": "ctfc  comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "situação": null,
+            "ação": "recebido na comissão o presidente da ctfc senador ataídes oliveira avoca a relatoria da matéria\nserá aproveitado o relatório apresentado na comissão de meio ambiente defesa do consumidor e fiscalização e controle cuja\ncompetência foi atribuída à ctfc\na matéria encontrase pronta para pauta\nação"
+        },
+        {
+            "data": "17042017",
+            "órgão": "sfseadi  secretaria de atas e diários",
+            "situação": null,
+            "ação": "tendo em vista a promulgação da resolução n 3 de 2017 que redefiniu as atribuições e as denominações da comissão de meio\nambiente cma e da comissão de transparência governança fiscalização e controle e defesa do consumidor ctfc a\npresente matéria é despachada à ctfc dt\nação\npublicado no dsf páginas 144153"
+        },
+        {
+            "data": "17042017",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado ao plenário\nação"
+        },
+        {
+            "data": "06042017",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": null,
+            "ação": "à slsf em virtude da promulgação da resolução n 3 de 2017\nação\npg\n6\natividade legislativa\nprojeto de lei do senado n 444 de 2015\ntramitação"
+        },
+        {
+            "data": "28112016",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "processado físico devolvido pelo relator senador ataídes oliveira sem alterações no relatório"
+        },
+        {
+            "data": "04112016",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "matéria com a relatoria",
+            "ação": "matéria devolvida ao relator senador ataídes oliveira para reexame do relatório fls 04 a 08 processado físico encaminhado\nao gabinete do relator por solicitação"
+        },
+        {
+            "data": "01112016",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "matéria não apreciada devido ao cancelamento da 19ª reunião da comissão de meio ambiente defesa do consumidor e\nfiscalização e controle"
+        },
+        {
+            "data": "27102016",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 19ª reunião da comissão de meio ambiente defesa do consumidor e fiscalização e controle\nagendada para o dia 01112016"
+        },
+        {
+            "data": "18102016",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "em reunião realizada em 18102016 a apreciação da matéria foi adiada"
+        },
+        {
+            "data": "14102016",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 17ª reunião da comissão de meio ambiente defesa do consumidor e fiscalização e controle\nagendada para o dia 18102016"
+        },
+        {
+            "data": "05102016",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido relatório do senador ataídes oliveira pela aprovação do projeto com duas emendas que apresenta fls 04 a 08"
+        },
+        {
+            "data": "12082015",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "matéria com a relatoria",
+            "ação": "ao senhor senador ataídes de oliveira para relatar"
+        },
+        {
+            "data": "16072015",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "aguardando designação do relator",
+            "ação": "pg\n7\natividade legislativa\nprojeto de lei do senado n 444 de 2015\ntramitação\nesgotado o prazo regimental sem a apresentação de emendas a matéria aguarda designação de relatoria"
+        },
+        {
+            "data": "09072015",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": null,
+            "ação": "aberto o prazo para apresentação de emendas ao projeto\nprimeiro dia 09072015\núltimo dia 15072015\nação"
+        },
+        {
+            "data": "08072015",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": null,
+            "ação": "recebido na comissão nesta data\naguardando a abertura do prazo para a apresentação de emendas ao projeto\nação"
+        },
+        {
+            "data": "07072015",
+            "órgão": "sfataplen  subsecretaria de ata  plenário",
+            "situação": "aguardando recebimento de emendas",
+            "ação": "encaminhado à publicação\nà comissão de meio ambiente defesa do consumidor e fiscalização e controle em decisão terminativa onde poderá receber\nemendas pelo prazo de cinco dias úteis após sua publicação e distribuição em avulsos"
+        },
+        {
+            "data": "07072015",
+            "órgão": "sfpleg  protocolo legislativo",
+            "situação": null,
+            "ação": "este processo contém 03 três  folhas numeradas e rubricadas\nação"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "texto inicial  pls 4442015",
+            "data": "07072015",
+            "autor": "senador jorge viana ptac",
+            "local": "null",
+            "ação legislativa": null,
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "07072015",
+            "autor": "",
+            "local": "subsecretaria de ata  plenário",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório legislativo"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "05102016",
+            "autor": "senador ataídes oliveira psdbto",
+            "local": "pg",
+            "ação legislativa": "recebido relatório do senador ataídes oliveira pela aprovação do projeto com duas emendas que apresenta fls 04 a 08",
+            "descrição/Ementa": "relatório legislativo"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "13072017",
+            "autor": "senador ataídes oliveira psdbto",
+            "local": "comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "09082017",
+            "autor": "comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "local": "comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 12ª reunião ctfc"
+        },
+        {
+            "documento": "ps 182017  ctfc",
+            "data": "09082017",
+            "autor": "comissão de transparência governança fiscalização e controle e defesa do consumidor senador ataídes oliveira psdbto",
+            "local": "comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "09082017",
+            "autor": "comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "local": "comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de votação nominal da reunião da 12ª reunião ctfc"
+        },
+        {
+            "documento": "texto final da comissão ",
+            "data": "10082017",
+            "autor": "senador",
+            "local": "comissão de transparência governança fiscalização e controle e defesa do consumidor",
+            "ação legislativa": null,
+            "descrição/Ementa": "altera a lei n 11445 de 5 de janeiro de 2007 para instituir como direito da população o acesso a relatórios periódicos sobre o\nnível dos reservatórios de água para abastecimento público e outros dados relativos à segurança hídrica"
+        },
+        {
+            "documento": "texto final revisado  projeto",
+            "data": "23082017",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": "juntado texto final revisado fls 24 e 25",
+            "descrição/Ementa": "juntado texto final revisado fls 24 e 25"
+        },
+        {
+            "documento": "pg\n9\natividade legislativa\nprojeto de lei do senado n 444 de 2015\ndocumentos\nofsf 9092017",
+            "data": "31082017",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à revisão da câmara dos deputados o projeto de lei do senado n 444 de 2015"
+        },
+        {
+            "documento": "autógrafo  pls 4442015",
+            "data": "31082017",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "altera a lei n 11445 de 5 de janeiro de 2007 para instituir como direito da população o acesso a relatórios periódicos sobre o\nnível dos reservatórios de água para abastecimento público e outros dados relativos à segurança hídrica"
+        },
+        {
+            "documento": "ofc 1792024  câmara dos",
+            "data": "17102024",
+            "autor": "primeirosecretário da câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica o envio à sanção do projeto de lei do senado n 444 de 2015 n 84482017 na câmara dos deputados"
+        },
+        {
+            "documento": "ofc 5892024  câmara dos",
+            "data": "22112024",
+            "autor": "primeirosecretário da câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica a restituição de autógrafo do projeto de lei do senado n 444 de 2015 n 84482017 na câmara dos deputados\nsancionado e convertido na lei n 15012 de 4 de novembro de 2024"
+        }
+    ]
 }

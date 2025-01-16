@@ -1,16 +1,558 @@
 {
-    "Atividade legislativa": "projeto de lei do senado n 206 de 2007",
-    "Autoria": "senador valdir raupp mdbro",
-    "Ementa": "exclui uma fração da área da reserva extrativista do rio ouro preto localizada nos municípios de guajarámirim e vila\nnova mamoré no estado de rondônia",
-    "Assunto": "meio ambiente ",
-    "Despacho": "24042007 despacho inicial\nnull\nanálise  tramitação sucessiva\nsfcae comissão de assuntos econômicos\nsfcma comissão de meio ambiente\n12032015 aprovação do requerimento n 121 de 2015 de\naprovação de requerimento\ndesarquivamento\nanálise  tramitação sucessiva\nsfcae comissão de assuntos econômicos\nsfcma comissão de meio ambiente\npg\n1\natividade legislativa\nprojeto de lei do senado n 206 de 2007",
-    "Relatoria": "cae  comissão de assuntos econômicos\nrelatores\nsenador paulo paim encerrado em 31052007 \nredistribuição\nsenador sergio guerra encerrado em 22122010  fim de\nlegislatura\nsenador aloysio nunes ferreira encerrado em 27102011 \nredistribuição\nsenador demóstenes torres encerrado em 11042012 \nredistribuição\nsenadora ana amélia encerrado em 24052012 \nredistribuição\nsenador alfredo nascimento encerrado em 10072012 \nredistribuição\nsenador randolfe rodrigues encerrado em 18102012 \nredistribuição\nsenador romero jucá encerrado em 22122014  fim de\nlegislatura\nsenador jorge viana encerrado em 22052018  deliberação\nda matéria\ncma  comissão de meio ambiente\nrelatores\nsenador jorge viana encerrado em 12062018  deliberação\nda matéria",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada por comissão em decisão",
-        "Destino": "à câmara dos deputados",
-        "Último local": "11122024  secretaria de expediente",
-        "Último estado": "10122024  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei do senado n 206 de 2007",
+    "autoria": "senador valdir raupp mdbro",
+    "ementa": "exclui uma fração da área da reserva extrativista do rio ouro preto localizada nos municípios de guajarámirim e vila\nnova mamoré no estado de rondônia",
+    "assunto": "meio ambiente ",
+    "despacho": "24042007 despacho inicial\nnull\nanálise  tramitação sucessiva\nsfcae comissão de assuntos econômicos\nsfcma comissão de meio ambiente\n12032015 aprovação do requerimento n 121 de 2015 de\naprovação de requerimento\ndesarquivamento\nanálise  tramitação sucessiva\nsfcae comissão de assuntos econômicos\nsfcma comissão de meio ambiente\npg\n1\natividade legislativa\nprojeto de lei do senado n 206 de 2007",
+    "relatoria": "cae  comissão de assuntos econômicos\nrelatores\nsenador paulo paim encerrado em 31052007 \nredistribuição\nsenador sergio guerra encerrado em 22122010  fim de\nlegislatura\nsenador aloysio nunes ferreira encerrado em 27102011 \nredistribuição\nsenador demóstenes torres encerrado em 11042012 \nredistribuição\nsenadora ana amélia encerrado em 24052012 \nredistribuição\nsenador alfredo nascimento encerrado em 10072012 \nredistribuição\nsenador randolfe rodrigues encerrado em 18102012 \nredistribuição\nsenador romero jucá encerrado em 22122014  fim de\nlegislatura\nsenador jorge viana encerrado em 22052018  deliberação\nda matéria\ncma  comissão de meio ambiente\nrelatores\nsenador jorge viana encerrado em 12062018  deliberação\nda matéria",
+    "tramitação encerrada": {
+        "decisão": "aprovada por comissão em decisão",
+        "destino": "à câmara dos deputados",
+        "último local": "11122024  secretaria de expediente",
+        "último estado": "10122024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "cae  comissão de assuntos econômicos\nrelatores\nsenador paulo paim encerrado em 31052007 \nredistribuição\nsenador sergio guerra encerrado em 22122010  fim de\nlegislatura\nsenador aloysio nunes ferreira encerrado em 27102011 \nredistribuição\nsenador demóstenes torres encerrado em 11042012 \nredistribuição\nsenadora ana amélia encerrado em 24052012 \nredistribuição\nsenador alfredo nascimento encerrado em 10072012 \nredistribuição\nsenador randolfe rodrigues encerrado em 18102012 \nredistribuição\nsenador romero jucá encerrado em 22122014  fim de\nlegislatura\nsenador jorge viana encerrado em 22052018  deliberação\nda matéria\ncma  comissão de meio ambiente\nrelatores\nsenador jorge viana encerrado em 12062018  deliberação\nda matéria",
-    "Documentos": "cae  comissão de assuntos econômicos\nrelatores\nsenador paulo paim encerrado em 31052007 \nredistribuição\nsenador sergio guerra encerrado em 22122010  fim de\nlegislatura\nsenador aloysio nunes ferreira encerrado em 27102011 \nredistribuição\nsenador demóstenes torres encerrado em 11042012 \nredistribuição\nsenadora ana amélia encerrado em 24052012 \nredistribuição\nsenador alfredo nascimento encerrado em 10072012 \nredistribuição\nsenador randolfe rodrigues encerrado em 18102012 \nredistribuição\nsenador romero jucá encerrado em 22122014  fim de\nlegislatura\nsenador jorge viana encerrado em 22052018  deliberação\nda matéria\ncma  comissão de meio ambiente\nrelatores\nsenador jorge viana encerrado em 12062018  deliberação\nda matéria"
+    "tramitação": [
+        {
+            "data": "10122024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica",
+            "ação": "pr presidência da república\nsancionada lei 15039 de 2024\ndou diário oficial da união  10122024  seção i  págs 1 e 3\nsancionada em 09122024"
+        },
+        {
+            "data": "19112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o ofício da câmara dos deputados n 235 de 2024 na origem que comunica o envio à sanção do\nprojeto de lei do senado n 206 de 2007 n 10493 de 2018 na câmara dos deputados\na matéria vai à secretaria de expediente\nação\npublicado no dsf páginas 98  dsf n 198\npublicado no dsf páginas 95  dsf n 198"
+        },
+        {
+            "data": "11102018",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "à coarq\nação"
+        },
+        {
+            "data": "26062018",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à câmara dos deputados",
+            "ação": "remetido ofício sf n 894 de 26062018 ao senhor primeirosecretário da câmara dos deputados encaminhando autógrafos\ndo projeto para revisão nos termos do art 65 da constituição federal fls 97 a 108"
+        },
+        {
+            "data": "26062018",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado fls86 a 96 \nação"
+        },
+        {
+            "data": "25062018",
+            "órgão": "sfseadi  secretaria de atas e diários",
+            "situação": "aprovada",
+            "ação": "encerrouse em 21 de junho o prazo para interposição de recurso para apreciação da matéria pelo plenário\nnão houve interposição de recurso\ntendo sido aprovado pela comissão competente o presente projeto de lei vai á câmara dos deputados"
+        },
+        {
+            "data": "25062018",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado ao plenário para comunicação do término do prazo para interposição de recurso\nação"
+        },
+        {
+            "data": "21062018",
+            "órgão": "sfcorele  coordenação de redação legislativa",
+            "situação": null,
+            "ação": "juntado texto final revisado fls 75 a 84\nação"
+        },
+        {
+            "data": "15062018",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "à corele para revisão do texto final\nação\npg\n2\natividade legislativa\nprojeto de lei do senado n 206 de 2007\ntramitação"
+        },
+        {
+            "data": "13062018",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo interposição de recurso a decisão terminativa de comissão art 91  3 ao 5 do risf de 15062018 a 21062018\nperante a mesa\nação"
+        },
+        {
+            "data": "13062018",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando interposição de recurso",
+            "ação": "encaminhado à publicação o memorando n 172018cma comunicando a apreciação da matéria em caráter terminativo nos\ntermos de substitutivo  emenda n 1caecma\nconcluída a instrução da matéria\nabertura de prazo para interposição de recurso no sentido da apreciação da matéria pelo plenário"
+        },
+        {
+            "data": "13062018",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo interposição de recurso a decisão terminativa de comissão art 91  3 ao 5 do risf de 15062018 a 21062018\nperante ao mesa\nação"
+        },
+        {
+            "data": "12062018",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando leitura parecer es",
+            "ação": "encaminhado ao plenário para comunicação da conclusão da instrução da matéria e abertura de prazo para recurso"
+        },
+        {
+            "data": "12062018",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "apreciada em decisão terminativa pelas comissões",
+            "ação": "na 8ª reunião da cma realizada nesta data não tendo sido apresentadas emendas até o fim da discussão no turno suplementar\na comissão adota definitivamente sem votação o substitutivo oferecido ao pls n 206 de 2007 relatado pelo senador jorge\nviana art 284 do risf\nanexado ao processado o memo  n 172018cma no qual o presidente eventual da cma senador paulo rocha comunica a\ndecisão da comissão em caráter terminativo no turno suplementar arts 91 e 92 do risf e a lista de presença fls 72 e 73"
+        },
+        {
+            "data": "08062018",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "incluída na pauta da reunião",
+            "ação": "substitutivo à matéria constante da pauta da 8ª reunião da comissão de meio ambiente agendada para o dia 12062018"
+        },
+        {
+            "data": "07062018",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "retorna à cma nesta data\na matéria será incluída na pauta da próxima reunião deliberativa desta comissão para apreciação em turno suplementar"
+        },
+        {
+            "data": "06062018",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": null,
+            "ação": "prazo apresentação de emendas perante as comissões durante turno suplementar art 282 combinado com o art 92 do risf\nde 06062018 a 13062018 perante a cma\nação\npg\n3\natividade legislativa\nprojeto de lei do senado n 206 de 2007\ntramitação"
+        },
+        {
+            "data": "06062018",
+            "órgão": "sfseadi  secretaria de atas e diários",
+            "situação": "aguardando recebimento de emendas",
+            "ação": "encaminhado á publicação o memo n 122018cma comunicando que a comissão de meio ambiente aprovou substitutivo à\nmatéria\npoderão ser oferecidas emendas ao substitutivo até o encerramento da discussão em turno suplementar na comissão nos\ntermos do art282 combinado com o art 92 do regimento interno do senado federal"
+        },
+        {
+            "data": "06062018",
+            "órgão": "sfseadi  secretaria de atas e diários",
+            "situação": null,
+            "ação": "prazo apresentação de emendas perante as comissões durante turno suplementar art 282 combinado com o art 92 do risf\na partir de 06062018 perante ao cma\nação"
+        },
+        {
+            "data": "06062018",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado ao plenário\nação"
+        },
+        {
+            "data": "06062018",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": null,
+            "ação": "à slsf para prosseguimento da tramitação\nação"
+        },
+        {
+            "data": "05062018",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "aguardando turno suplementar em apreciação terminativa",
+            "ação": "na 7ª reunião realizada nesta data a comissão de meio ambiente aprovou a emenda n 1caecma substitutivo oferecida ao\nprojeto por 9 votos favoráveis nenhum contrário e nenhuma abstenção\nanexados ao processado lista de presença lista de votação nominal texto final na cma decisão da comissão e memo n\n122018cma que comunica a decisão da comissão em caráter terminativo para ciência do plenário e publicação no diário do\nsenado federal art 91  2 cc art 92 do risf fls 55 a 70\na matéria será incluída na pauta da próxima reunião para apreciação em turno suplementar nos termos do disposto no art 282\ncc art 92 do risf"
+        },
+        {
+            "data": "01062018",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 7ª reunião da comissão de meio ambiente agendada para o dia 05062018"
+        },
+        {
+            "data": "28052018",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido relatório do senador jorge viana com voto pela aprovação do projeto de lei do senado n 206 de 2007 na forma da\nemenda n 1cae substitutivo fls 50 a 54"
+        },
+        {
+            "data": "23052018",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao senador jorge viana para emitir relatório"
+        },
+        {
+            "data": "22052018",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "aguardando designação do relator",
+            "ação": "recebido na comissão nesta data"
+        },
+        {
+            "data": "22052018",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "incluída matéria extrapauta em reunião realizada nesta data a comissão aprova o relatório do senador jorge viana que passa a\nconstituir o parecer da cae favorável ao projeto com a emenda n 1cae substitutivo\nação\npublicado no dsf páginas 558579  dsf n 71"
+        },
+        {
+            "data": "22052018",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "o relator senador jorge viana apresentou relatório favorável ao projeto nos termos do substitutivo de sua autoria fls 2947"
+        },
+        {
+            "data": "04082015",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "matéria com a relatoria",
+            "ação": "o presidente da comissão senador delcídio do amaral designa o senador jorge viana relator da matéria\nao relator"
+        },
+        {
+            "data": "13032015",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "aguardando designação do relator",
+            "ação": "recebido nesta comissão nesta data\nmatéria aguardando distribuição"
+        },
+        {
+            "data": "12032015",
+            "órgão": "sfataplen  subsecretaria de ata  plenário",
+            "situação": null,
+            "ação": "aprovado o requerimento n 121 de 2015 de desarquivamento\no projeto retorna ao exame da cae seguindo posteriormente à cma em decisão terminativa\nação\npublicado no dsf páginas 183"
+        },
+        {
+            "data": "12032015",
+            "órgão": "sfssclsf  subsec coordenação legislativa do senado",
+            "situação": null,
+            "ação": "encaminhado ao plenário\nação"
+        },
+        {
+            "data": "04032015",
+            "órgão": "sfataplen  subsecretaria de ata  plenário",
+            "situação": null,
+            "ação": "encaminhado à publicação o requerimento n 121 de 2015 do senador valdir raupp e outros senadores solicitando o\ndesarquivamento da presente matéria\nação\npublicado no dsf páginas 2324"
+        },
+        {
+            "data": "04032015",
+            "órgão": "sfssclsf  subsec coordenação legislativa do senado",
+            "situação": "pg\n5\natividade legislativa\nprojeto de lei do senado n 206 de 2007\ntramitação\ndesarquivada  risf art 332  1",
+            "ação": "matéria recebida do arquivo e encaminhada ao plenário para leitura de requerimento de desarquivamento do senador valdir\nraupp"
+        },
+        {
+            "data": "04032015",
+            "órgão": "sfsarq  secretaria de arquivo",
+            "situação": null,
+            "ação": "encaminhado a ssclsf por solicitação\nação"
+        },
+        {
+            "data": "26122014",
+            "órgão": "sfssclsf  subsec coordenação legislativa do senado",
+            "situação": "arquivada ao final da legislatura",
+            "ação": "matéria arquivada ao final da 54ª legislatura nos termos do art 332 do regimento interno e do ato da mesa n 2 de 2014"
+        },
+        {
+            "data": "17122014",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "devolvido pelo relator por solicitação desta secretaria\nà sclsf em atendimento ao art 332 do regimento interno\nação"
+        },
+        {
+            "data": "01082014",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "a partir de 1 de agosto de 2014 os boletins de ação legislativa não mais serão impressos nos termos da instrução normativa n\n1 de 2014 do secretáriogeral da mesa as consultas sobre a tramitação da matéria devem ser realizadas diretamente no\nsistema eletrônico próprio\nação"
+        },
+        {
+            "data": "21052013",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "matéria com a relatoria",
+            "ação": "reunida a comissão nesta data a matéria é retirada de pauta a pedido do relator\nao relator senador romero jucá para reexame"
+        },
+        {
+            "data": "16052013",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 24ª reunião da comissão de assuntos econômicos agendada para o dia 21052013"
+        },
+        {
+            "data": "17042013",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "devolvido pelo relator senador romero jucá com relatório favorável ao projeto anexado ao processado às fls 1820"
+        },
+        {
+            "data": "01112012",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "matéria com a relatoria",
+            "ação": "o presidente da comissão senador delcídio do amaral designa o senador romero jucá relator da matéria"
+        },
+        {
+            "data": "18102012",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "aguardando designação do relator",
+            "ação": "devolvido pelo senador randolfe rodrigues para redistribuição\nmatéria aguardando distribuição"
+        },
+        {
+            "data": "26092012",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "matéria com a relatoria",
+            "ação": "o presidente da comissão senador delcídio do amaral designa o senador randolfe rodrigues relator da matéria\nao relator"
+        },
+        {
+            "data": "10072012",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "aguardando designação do relator",
+            "ação": "devolvido pelo senador alfredo nascimento para redistribuição\nmatéria aguardando distribuição"
+        },
+        {
+            "data": "05072012",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "matéria com a relatoria",
+            "ação": "o presidente da comissão senador delcídio do amaral designa o senador alfredo nascimento relator da matéria\nao relator"
+        },
+        {
+            "data": "24052012",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "aguardando designação do relator",
+            "ação": "devolvido pela senadora ana amélia para redistribuição\nmatéria aguardando distribuição"
+        },
+        {
+            "data": "17052012",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "matéria com a relatoria",
+            "ação": "o presidente da comissão senador delcídio do amaral designa a senadora ana amélia relatora da matéria\nà relatora"
+        },
+        {
+            "data": "11042012",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "aguardando designação do relator",
+            "ação": "devolvido pelo senador demóstenes torres para redistribuição\nmatéria aguardando distribuição"
+        },
+        {
+            "data": "01122011",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "matéria com a relatoria",
+            "ação": "o presidente da comissão senador delcídio do amaral designa o senador demóstenes torres relator da matéria\nao relator"
+        },
+        {
+            "data": "27102011",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "aguardando designação do relator",
+            "ação": "devolvido pelo senador aloysio nunes ferreira para redistribuição\nmatéria aguardando distribuição"
+        },
+        {
+            "data": "25102011",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "matéria com a relatoria",
+            "ação": "reunida a comissão nesta data a matéria é retirada de pauta a pedido do relator para reexame\nao relator senador aloysio nunes ferreira"
+        },
+        {
+            "data": "20102011",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "incluída na pauta da reunião",
+            "ação": "a presente matéria consta da pauta da 54ª reunião da cae a realizarse em 25102011"
+        },
+        {
+            "data": "13092011",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "devolvido pelo relator senador aloysio nunes ferreira com relatório favorável ao projeto cópia anexada ao processado às fls\n13 a 17"
+        },
+        {
+            "data": "05042011",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "matéria com a relatoria",
+            "ação": "o presidente da comissão senador delcídio do amaral designa o senador aloysio nunes ferreira relator da matéria"
+        },
+        {
+            "data": "11012011",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "aguardando designação do relator",
+            "ação": "recebido na comissão nesta data\nmatéria aguardando designação de relator"
+        },
+        {
+            "data": "10012011",
+            "órgão": "sfssclsf  subsec coordenação legislativa do senado",
+            "situação": null,
+            "ação": "a presente proposição continua a tramitar nos termos dos incisos do art 332 do regimento interno e do ato n 4 de 2010 da\nmesa do senado federal\na matéria volta à cae\nação\npg\n8\natividade legislativa\nprojeto de lei do senado n 206 de 2007\ntramitação"
+        },
+        {
+            "data": "21122010",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "à sclsf em cumprimento ao disposto no art 332 do regimento interno do senado federal\nação"
+        },
+        {
+            "data": "14112008",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": " ação de saneamento  nesta data foi realizada a verificação de dados nos sistemas informatizados em atendimento aos\nobjetivos definidos no ato n 24 de 2008 do presidente do senado federal este registro não representa um novo andamento\nna tramitação desta matéria\nação"
+        },
+        {
+            "data": "13072007",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "matéria com a relatoria",
+            "ação": "o presidente da comissão senador aloizio mercadante designa o senador sérgio guerra relator da matéria"
+        },
+        {
+            "data": "31052007",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "aguardando designação do relator",
+            "ação": "devolvido pelo relator senador paulo paim para redistribuição aguardando designação de relator"
+        },
+        {
+            "data": "18052007",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "matéria com a relatoria",
+            "ação": "o presidente da comissão senador aloizio mercadante designa o senador paulo paim relator da matéria"
+        },
+        {
+            "data": "04052007",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "aguardando designação do relator",
+            "ação": "findo o prazo regimental não foram apresentadas emendas\naguardando designação de relator"
+        },
+        {
+            "data": "25042007",
+            "órgão": "sfcae  comissão de assuntos econômicos",
+            "situação": "aguardando recebimento de emendas",
+            "ação": "aguardando recebimento de emendas nos termos regimentais até o dia 030507"
+        },
+        {
+            "data": "24042007",
+            "órgão": "sfataplen  subsecretaria de ata  plenário",
+            "situação": null,
+            "ação": "leitura\nàs comissões de assuntos econômicos e de meio ambiente defesa do consumidor e fiscalização e controle podendo receber\nemendas perante a primeira comissão pelo prazo de 5 cinco dias úteis após sua publicação e distribuição em avulsos cabendo\nà última decisão terminativa\nao pleg com destino a cae e posteriormente à cma em decisão terminativa\nação\npublicado no dsf páginas 1135411365\npg\n9\natividade legislativa\nprojeto de lei do senado n 206 de 2007\ntramitação"
+        },
+        {
+            "data": "24042007",
+            "órgão": "sfpleg  protocolo legislativo",
+            "situação": null,
+            "ação": "este processo contém 12 doze  folhas numeradas e rubricadas\nação"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "texto inicial  pls 2062007",
+            "data": "24042007",
+            "autor": "senador valdir raupp mdbro",
+            "local": "subsecretaria de ata  plenário",
+            "ação legislativa": null,
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "legislação citada",
+            "data": "24042007",
+            "autor": "",
+            "local": "subsecretaria de ata  plenário",
+            "ação legislativa": null,
+            "descrição/Ementa": "avulso inicial da matéria"
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "24042007",
+            "autor": "",
+            "local": "null",
+            "ação legislativa": "relatório legislativo",
+            "descrição/Ementa": "relatório legislativo"
+        },
+        {
+            "documento": null,
+            "data": "13092011",
+            "autor": "senador aloysio nunes ferreira psdbsp",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório legislativo"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "17042013",
+            "autor": "senador romero jucá mdbrr",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório legislativo"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "22052018",
+            "autor": "senador jorge viana ptac",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": "listagem ou relatório",
+            "descrição/Ementa": "listagem ou relatório"
+        },
+        {
+            "documento": null,
+            "data": "22052018",
+            "autor": "comissão de assuntos econômicos",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 16ª reunião cae"
+        },
+        {
+            "documento": "ps 432018  cae",
+            "data": "22052018",
+            "autor": "comissão de assuntos econômicos senador jorge viana ptac",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório legislativo"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "28052018",
+            "autor": "senador jorge viana ptac",
+            "local": "comissão de meio ambiente",
+            "ação legislativa": "listagem ou relatório",
+            "descrição/Ementa": "listagem ou relatório"
+        },
+        {
+            "documento": null,
+            "data": "05062018",
+            "autor": "comissão de meio ambiente",
+            "local": "comissão de meio ambiente",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de votação nominal da reunião da 7ª reunião cma"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "05062018",
+            "autor": "comissão de meio ambiente",
+            "local": "comissão de meio ambiente",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 7ª reunião cma"
+        },
+        {
+            "documento": "texto final da comissão ",
+            "data": "05062018",
+            "autor": "senador",
+            "local": "comissão de meio ambiente",
+            "ação legislativa": null,
+            "descrição/Ementa": "exclui uma fração da área da reserva extrativista do rio ouro preto localizada nos municípios de guajarámirim e vila nova\nmamoré no estado de rondônia"
+        },
+        {
+            "documento": "pg\n11\natividade legislativa\nprojeto de lei do senado n 206 de 2007\ndocumentos\nps 152018  cma  relatório",
+            "data": "05062018",
+            "autor": "comissão de meio ambiente",
+            "local": "comissão de meio ambiente",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "12062018",
+            "autor": "comissão de meio ambiente",
+            "local": "comissão de meio ambiente",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 8ª reunião cma"
+        },
+        {
+            "documento": "texto final revisado  projeto",
+            "data": "21062018",
+            "autor": "senador",
+            "local": "plenário do senado federal",
+            "ação legislativa": "juntado texto final revisado fls 75 a 84",
+            "descrição/Ementa": "exclui uma fração da área da reserva extrativista do rio ouro preto localizada nos municípios de guajarámirim e vila nova\nmamoré no estado de rondônia"
+        },
+        {
+            "documento": "ofsf 8942018",
+            "data": "26062018",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à revisão da câmara dos deputados o projeto de lei do senado n206   de 2007"
+        },
+        {
+            "documento": "autógrafo  pls 2062007",
+            "data": "26062018",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "exclui uma fração da área da reserva extrativista do rio ouro preto localizada nos municípios de guajarámirim e vila nova\nmamoré no estado de rondônia"
+        },
+        {
+            "documento": "ofc 2352024  câmara dos",
+            "data": "19112024",
+            "autor": "deputado federal luciano bivar uniãope",
+            "local": "pg",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica o envio à sanção do projeto de lei n 10493 de 2018 pls n 2062007"
+        }
+    ]
 }

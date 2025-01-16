@@ -1,17 +1,261 @@
 {
-    "Atividade legislativa": "projeto de lei n 3090 de 2023",
-    "Autoria": "câmara dos deputados",
-    "Iniciativa": "deputado federal raimundo santos psdpa",
-    "Ementa": "institui o dia nacional da música gospel",
-    "Assunto": "honorífico   data comemorativa",
-    "Despacho": "12082024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfce comissão de educação e cultura",
-    "Relatoria": "ce  comissão de educação e cultura\nrelatores\nsenadora damares alves encerrado em 28082024 \nredistribuição\nsenador marcos rogério encerrado em 17092024 \nsubstituído por ad hoc\nsenadora damares alves relator ad hoc encerrado em\n17092024  deliberação da matéria",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada por comissão em decisão",
-        "Destino": "à sanção",
-        "Último local": "23102024  secretaria de expediente",
-        "Último estado": "16102024  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei n 3090 de 2023",
+    "autoria": "câmara dos deputados",
+    "iniciativa": "deputado federal raimundo santos psdpa",
+    "ementa": "institui o dia nacional da música gospel",
+    "assunto": "honorífico   data comemorativa",
+    "despacho": "12082024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfce comissão de educação e cultura",
+    "relatoria": "ce  comissão de educação e cultura\nrelatores\nsenadora damares alves encerrado em 28082024 \nredistribuição\nsenador marcos rogério encerrado em 17092024 \nsubstituído por ad hoc\nsenadora damares alves relator ad hoc encerrado em\n17092024  deliberação da matéria",
+    "tramitação encerrada": {
+        "decisão": "aprovada por comissão em decisão",
+        "destino": "à sanção",
+        "último local": "23102024  secretaria de expediente",
+        "último estado": "16102024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "ce  comissão de educação e cultura\nrelatores\nsenadora damares alves encerrado em 28082024 \nredistribuição\nsenador marcos rogério encerrado em 17092024 \nsubstituído por ad hoc\nsenadora damares alves relator ad hoc encerrado em\n17092024  deliberação da matéria",
-    "Documentos": "ce  comissão de educação e cultura\nrelatores\nsenadora damares alves encerrado em 28082024 \nredistribuição\nsenador marcos rogério encerrado em 17092024 \nsubstituído por ad hoc\nsenadora damares alves relator ad hoc encerrado em\n17092024  deliberação da matéria"
+    "tramitação": [
+        {
+            "data": "24102024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "remetido ofício sf n 1202 de 241024 ao senhor primeirosecretário da câmara dos deputados comunicando para os\ndevidos fins que a presidência da república encaminhou ao senado federal a mensagem n 1299 de 2024 na origem\nrestituindo autógrafos do projeto de lei n 3090 de 2023 sancionado e transformado na lei n 14998 de 15 de outubro de\n2024\ncoarq\nação"
+        },
+        {
+            "data": "23102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhada à publicação a mensagem da presidência da república n 1299 de 2024 na origem que restitui autógrafo do\nprojeto de lei n 3090 de 2023 sancionado e convertido na lei n 14998 de 15 de outubro de 2024\nserá feita a devida comunicação à câmara dos deputados\nação\npublicado no dsf páginas 43  dsf n 183"
+        },
+        {
+            "data": "16102024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica",
+            "ação": "pr presidência da república\nsancionada lei 14998 de 2024\ndou diário oficial da união  16102024  seção i  págs 2 e 2\nsancionada em 15102024"
+        },
+        {
+            "data": "30092024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à sanção",
+            "ação": "remetido ofício sf n 1168 de 300924 ao senhor ministro de estado chefe da casa civil da presidência da república\nencaminhando a mensagem sf n 20624 ao excelentíssimo senhor presidente da república submetendo à sanção\npresidencial autógrafo do projeto\nremetido ofício sf n 1169 de 300924 ao senhor primeirosecretário da câmara dos deputados comunicando que o projeto\nfoi encaminhado à sanção presidencial"
+        },
+        {
+            "data": "26092024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "26092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovada",
+            "ação": "encerrouse  em 25 de setembro  o prazo para interposição de recurso para apreciação pelo plenário do presente projeto\nnão foi apresentado recurso\no projeto aprovado terminativamente pela comissão de educação e cultura vai à sanção\nserá feita a devida comunicação à câmara dos deputados"
+        },
+        {
+            "data": "17092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo interposição de recurso a decisão terminativa de comissão art 91  3 ao 5 do risf de 19092024 a 25092024\nperante a mesa\nação\npublicado no dsf páginas 186  dsf n 157"
+        },
+        {
+            "data": "17092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando interposição de recurso",
+            "ação": "encaminhado à publicação o ofício n 364 de 2024 da comissão de educação e cultura comunicando a apreciação da matéria\nem caráter terminativo\nconcluída a instrução da matéria fica aberto o prazo de cinco dias úteis para interposição de recurso por um décimo dos\nmembros da casa para que seja apreciada pelo plenário nos termos do art 91  3 a 5 do regimento interno"
+        },
+        {
+            "data": "17092024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "apreciada em decisão terminativa pelas comissões",
+            "ação": "em reunião realizada em 17092024 foi aprovado em decisão terminativa o projeto quórum 15 sim 14 não 0 abstenções\n0\nà slsf"
+        },
+        {
+            "data": "17092024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": null,
+            "ação": "em reunião realizada em 17092024 a presidência designa relator ad hoc a senadora damares alves em substituição ao\nsenador marcos rogério\nação\npg\n2\natividade legislativa\nprojeto de lei n 3090 de 2023\ntramitação"
+        },
+        {
+            "data": "13092024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 53ª reunião da comissão de educação e cultura agendada para o dia 17092024"
+        },
+        {
+            "data": "05092024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido o relatório do senador marcos rogério com voto pela aprovação do projeto"
+        },
+        {
+            "data": "29082024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "matéria com a relatoria",
+            "ação": "redistribuído ao senador marcos rogério para emitir relatório"
+        },
+        {
+            "data": "28082024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "aguardando designação do relator",
+            "ação": "devolvido pela senadora damares alves para redistribuição"
+        },
+        {
+            "data": "26082024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído à senadora damares alves para emitir relatório"
+        },
+        {
+            "data": "21082024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "aguardando designação do relator",
+            "ação": "não foram oferecidas emendas no prazo regimental\nmatéria aguardando distribuição"
+        },
+        {
+            "data": "12082024",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": null,
+            "ação": "prazo apresentação de emendas a projeto terminativo em comissão art 122 ii c do risf de 14082024 a 20082024\nperante a ce\nação"
+        },
+        {
+            "data": "12082024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "matéria despachada",
+            "ação": "a presente matéria vai à ce em decisão terminativa nos termos do art 91 iv do regimento interno do senado podendo\nreceber emendas perante mencionada comissão pelo prazo de cinco dias úteis nos termos do art 122 ii c do mesmo\nregimento"
+        },
+        {
+            "data": "09072024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando despacho",
+            "ação": "pg\n3\natividade legislativa\nprojeto de lei n 3090 de 2023\ntramitação\nautuado o projeto de lei n 30902023 proveniente da câmara dos deputados o projeto vai à publicação"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "pl 30902023",
+            "data": "09072024",
+            "autor": "câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 30902023 proveniente da câmara dos deputados o projeto vai à publicação",
+            "descrição/Ementa": "institui o dia nacional da música gospel"
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "09072024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 30902023 proveniente da câmara dos deputados o projeto vai à publicação",
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "05092024",
+            "autor": "senador marcos rogério plro",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": "recebido o relatório do senador marcos rogério com voto pela aprovação do projeto",
+            "descrição/Ementa": "da comissão de educação e cultura sobre o projeto de lei n 3090 de 2023 que institui o dia nacional da música gospel"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "17092024",
+            "autor": "comissão de educação e cultura",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 53ª reunião ce"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "17092024",
+            "autor": "comissão de educação e cultura",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": null,
+            "descrição/Ementa": "lista de votação"
+        },
+        {
+            "documento": "ps 1102024  ce",
+            "data": "17092024",
+            "autor": "comissão de educação e cultura",
+            "local": "pg",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão de educação e cultura sobre o projeto de lei n 3090 de 2023 que institui o dia nacional da música gospel"
+        },
+        {
+            "documento": "ofício",
+            "data": "17092024",
+            "autor": "presidente de comissão",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunicação de deliberação de matéria"
+        },
+        {
+            "documento": "minuta",
+            "data": "26092024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "mpsf 2062024"
+        },
+        {
+            "documento": "mpsf 2062024",
+            "data": "30092024",
+            "autor": "presidente do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à sanção o projeto de lei n 3090 de 2023"
+        },
+        {
+            "documento": "ofsf 11682024",
+            "data": "30092024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha a mensagem da presidência do senado federal submetendo à sanção presidencial autógrafos do projeto de lei n\n3090 de 2023"
+        },
+        {
+            "documento": "ofsf 11692024",
+            "data": "30092024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "pg",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica à câmara dos deputados o encaminhamento à presidência da república do projeto de lei n 3090 de 2023"
+        },
+        {
+            "documento": "autógrafo  pl 30902023",
+            "data": "30092024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "institui o dia nacional da música gospel"
+        },
+        {
+            "documento": "of 14222024  casa civil",
+            "data": "22102024",
+            "autor": "casa civil",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica a restituição do autógrafo sancionado e a lei n 14998 de 15 de outubro de 2024 promulgada"
+        },
+        {
+            "documento": "autógrafo restituído após",
+            "data": "22102024",
+            "autor": "presidência da república",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "autógrafo restituído pela presidência da república ao senado federal após sanção"
+        },
+        {
+            "documento": "msg 12992024  presidência",
+            "data": "22102024",
+            "autor": "presidência da república",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "restitui o autógrafo do projeto de lei n 3090 de 2023 sancionado e convertido na lei n 14988 de 15 de outubro de 2024"
+        },
+        {
+            "documento": "ofsf 12022024",
+            "data": "24102024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n6\natividade legislativa\nprojeto de lei n 3090 de 2023\ndocumentos\ncoarq\ncomunica à câmara dos deputados o recebimento do autógrafo sancionado do projeto de lei n 3090 de 2023"
+        }
+    ]
 }

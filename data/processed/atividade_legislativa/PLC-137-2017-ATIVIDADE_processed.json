@@ -1,18 +1,448 @@
 {
-    "Atividade legislativa": "projeto de lei da câmara n 137 de 2017",
-    "Autoria": "câmara dos deputados",
-    "Iniciativa": "deputado federal paulo teixeira ptsp",
-    "Ementa": "dispõe sobre a política nacional de economia solidária e os empreendimentos econômicos solidários cria o sistema\nnacional de economia solidária e dá outras providências",
-    "Explicação da Ementa": "estabelece a política nacional de economia solidária integrada às estratégias de",
-    "Assunto": "política social   proteção social",
-    "Despacho": "09112017 despacho inicial\nnull\nanálise  tramitação sucessiva\nsfccj comissão de constituição justiça e cidadania\nsfcdr comissão de desenvolvimento regional e turismo\nsfcae comissão de assuntos econômicos\npg\n1\natividade legislativa\nprojeto de lei da câmara n 137 de 2017",
-    "Relatoria": "cae  comissão de assuntos econômicos\nrelatores\nsenador jaques wagner encerrado em 17092019 \ndeliberação da matéria\nccj  comissão de constituição justiça e cidadania\nrelatores\nsenadora ana amélia encerrado em 10102018  deliberação\nda matéria\ncdr  comissão de desenvolvimento regional e turismo\nrelatores\nsenadora fátima bezerra encerrado em 06112018 \nredistribuição\nsenador paulo rocha encerrado em 08112018 \nredistribuição\nsenadora fátima bezerra encerrado em 27112018 \nredistribuição\nsenador paulo paim encerrado em 14022019  alteração na\ncomposição da comissão\nsenador jaques wagner encerrado em 10072019 \ndeliberação da matéria\nsenadora zenaide maia encerrado em 07032019 \nredistribuição",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada pelo plenário",
-        "Destino": "à câmara dos deputados",
-        "Último local": "09122024  secretaria de expediente",
-        "Último estado": "24122024  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei da câmara n 137 de 2017",
+    "autoria": "câmara dos deputados",
+    "iniciativa": "deputado federal paulo teixeira ptsp",
+    "ementa": "dispõe sobre a política nacional de economia solidária e os empreendimentos econômicos solidários cria o sistema\nnacional de economia solidária e dá outras providências",
+    "explicação da ementa": "estabelece a política nacional de economia solidária integrada às estratégias de",
+    "assunto": "política social   proteção social",
+    "despacho": "09112017 despacho inicial\nnull\nanálise  tramitação sucessiva\nsfccj comissão de constituição justiça e cidadania\nsfcdr comissão de desenvolvimento regional e turismo\nsfcae comissão de assuntos econômicos\npg\n1\natividade legislativa\nprojeto de lei da câmara n 137 de 2017",
+    "relatoria": "cae  comissão de assuntos econômicos\nrelatores\nsenador jaques wagner encerrado em 17092019 \ndeliberação da matéria\nccj  comissão de constituição justiça e cidadania\nrelatores\nsenadora ana amélia encerrado em 10102018  deliberação\nda matéria\ncdr  comissão de desenvolvimento regional e turismo\nrelatores\nsenadora fátima bezerra encerrado em 06112018 \nredistribuição\nsenador paulo rocha encerrado em 08112018 \nredistribuição\nsenadora fátima bezerra encerrado em 27112018 \nredistribuição\nsenador paulo paim encerrado em 14022019  alteração na\ncomposição da comissão\nsenador jaques wagner encerrado em 10072019 \ndeliberação da matéria\nsenadora zenaide maia encerrado em 07032019 \nredistribuição",
+    "tramitação encerrada": {
+        "decisão": "aprovada pelo plenário",
+        "destino": "à câmara dos deputados",
+        "último local": "09122024  secretaria de expediente",
+        "último estado": "24122024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "cae  comissão de assuntos econômicos\nrelatores\nsenador jaques wagner encerrado em 17092019 \ndeliberação da matéria\nccj  comissão de constituição justiça e cidadania\nrelatores\nsenadora ana amélia encerrado em 10102018  deliberação\nda matéria\ncdr  comissão de desenvolvimento regional e turismo\nrelatores\nsenadora fátima bezerra encerrado em 06112018 \nredistribuição\nsenador paulo rocha encerrado em 08112018 \nredistribuição\nsenadora fátima bezerra encerrado em 27112018 \nredistribuição\nsenador paulo paim encerrado em 14022019  alteração na\ncomposição da comissão\nsenador jaques wagner encerrado em 10072019 \ndeliberação da matéria\nsenadora zenaide maia encerrado em 07032019 \nredistribuição",
-    "Documentos": "cae  comissão de assuntos econômicos\nrelatores\nsenador jaques wagner encerrado em 17092019 \ndeliberação da matéria\nccj  comissão de constituição justiça e cidadania\nrelatores\nsenadora ana amélia encerrado em 10102018  deliberação\nda matéria\ncdr  comissão de desenvolvimento regional e turismo\nrelatores\nsenadora fátima bezerra encerrado em 06112018 \nredistribuição\nsenador paulo rocha encerrado em 08112018 \nredistribuição\nsenadora fátima bezerra encerrado em 27112018 \nredistribuição\nsenador paulo paim encerrado em 14022019  alteração na\ncomposição da comissão\nsenador jaques wagner encerrado em 10072019 \ndeliberação da matéria\nsenadora zenaide maia encerrado em 07032019 \nredistribuição"
+    "tramitação": [
+        {
+            "data": "24122024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica",
+            "ação": "pr presidência da república\nsancionada lei 15068 de 2024\ndou diário oficial da união  24122024  seção i  págs 1 e 2\nsancionada em 23122024"
+        },
+        {
+            "data": "09122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o ofício da câmara dos deputados n 606 de 2024 na origem que comunica o envio à sanção do\nprojeto de lei da câmara n 137 de 2017\na matéria vai à secretaria de expediente\nação"
+        },
+        {
+            "data": "19122019",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à câmara dos deputados",
+            "ação": "remetido ofício sf n 1115 de 191219 à senhora primeirasecretária da câmara dos deputados comunicando que o senado\nfederal aprovou em revisão nos termos do substitutivo o projeto fls 92 a 98"
+        },
+        {
+            "data": "13122019",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado fls 86 a 91\nação"
+        },
+        {
+            "data": "11122019",
+            "órgão": "sfseadi  secretaria de atas e diários",
+            "situação": "aprovado o substitutivo",
+            "ação": "aprovado o substitutivo com subemendas\nà câmara dos deputados\ndetalhamento da ação legislativa\ndiscussão encerrada\naprovadas a emenda n 1  ccjcdrcae substitutivo com subemendas ns 1 a 7  cdrcae e n 9  cae\nencaminhado à publicação o parecer n 287 de 2019  plensf da cdir oferecendo a redação para o turno suplementar\ndiscussão encerrada sem emendas a matéria é dada como definitivamente adotada nos termos do art 284 do risf\nà câmara dos deputados"
+        },
+        {
+            "data": "25112019",
+            "órgão": "sfslsf  secretaria legislativa do senado federal",
+            "situação": "incluída em ordem do dia",
+            "ação": "incluído em ordem do dia da sessão deliberativa de 26112019\ndiscussão em turno único\nmatéria não apreciada em 26112019 transferida para a sessão deliberativa de 27112019\nmatéria não apreciada em 27112019 transferida para a sessão deliberativa de 03122019\nmatéria não apreciada em 03122019 transferida para a sessão deliberativa de 04122019\nmatéria não apreciada sessão deliberativa de 04122019 transferida para a sessão deliberativa de 10122019\nmatéria não apreciada em 10122019 transferida para a sessão deliberativa de 11122019"
+        },
+        {
+            "data": "26092019",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "aguardando inclusão em ordem do dia\ndiscussão em turno único\nação\npg\n2\natividade legislativa\nprojeto de lei da câmara n 137 de 2017\ntramitação"
+        },
+        {
+            "data": "26092019",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "pronto para deliberação do plenário",
+            "ação": "encerrouse em 25 de setembro o prazo para apresentação de emendas\nnão foram oferecidas emendas\na matéria será incluída em ordem do dia oportunamente"
+        },
+        {
+            "data": "25092019",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado ao plenário para comunicação de término de prazo para apresentação de emendas\nação"
+        },
+        {
+            "data": "17092019",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando recebimento de emendas perante a mesa",
+            "ação": "concluída a instrução da matéria"
+        },
+        {
+            "data": "17092019",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo apresentação de emendas a projeto que obteve parecer favorável da comissão art 235 ii d do risf de 19092019\na 25092019 perante a mesa\nação"
+        },
+        {
+            "data": "17092019",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando leitura parecer es",
+            "ação": "encaminhado ao plenário para comunicação de conclusão da instrução da matéria e abertura de prazo para apresentação de\nemenda"
+        },
+        {
+            "data": "17092019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "em reunião realizada nesta data a comissão aprova o relatório do senador jaques wagner que passa a constituir o parecer da\ncae favorável ao projeto nos termos da emenda n 1ccjcdrcae substitutivo com as subemendas ns 1 a 7cdrcae e a\nsubemenda n 9cae e pela prejudicialidade da subemenda n 8cdr\nanexado o parecer da comissão\nà slsf\nação\npublicado no dsf páginas 14591469  dsf n 139"
+        },
+        {
+            "data": "17092019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "aprovado parecer na comissão",
+            "ação": "encerrada a relatoria do senador jaques wagner por deliberação da matéria"
+        },
+        {
+            "data": "12092019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 35ª reunião da comissão de assuntos econômicos agendada para o dia 17092019"
+        },
+        {
+            "data": "10092019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "pedido de vista concedido",
+            "ação": "reunida a comissão nesta data após a leitura do relatório é solicitada vista pelo senador esperedião amin o vicepresidente da\ncomissão senador plínio valério concede vista ao senador esperedião amin nos termos regimentais art 132"
+        },
+        {
+            "data": "05092019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 34ª reunião da comissão de assuntos econômicos agendada para o dia 10092019"
+        },
+        {
+            "data": "20082019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "reunida a comissão nesta data a apreciação da matéria é adiada"
+        },
+        {
+            "data": "15082019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 31ª reunião da comissão de assuntos econômicos agendada para o dia 20082019"
+        },
+        {
+            "data": "14082019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "o relator senador jaques wagner apresentou relatório favorável ao projeto nos termos da emenda n 1ccjcdr substitutivo\ncom as subemendas ns 1 a 7cdr e uma subemenda de sua autoria e pela prejudicialidade da subemenda n 8cdr fls 6874"
+        },
+        {
+            "data": "11072019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao senador jaques wagner para emitir relatório"
+        },
+        {
+            "data": "10072019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "aguardando designação do relator",
+            "ação": "matéria aguardando distribuição"
+        },
+        {
+            "data": "10072019",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": null,
+            "ação": "à cae em prosseguimento da tramitação\nação"
+        },
+        {
+            "data": "10072019",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": null,
+            "ação": "encerrada a relatoria do senador jaques wagner por deliberação da matéria\nação\npg\n4\natividade legislativa\nprojeto de lei da câmara n 137 de 2017\ntramitação"
+        },
+        {
+            "data": "10072019",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "aprovado parecer na comissão",
+            "ação": "reunida a comissão nesta data é aprovado o relatório que passa a constituir parecer da cdr pela aprovação da matéria na\nforma da emenda n01 ccjcdr substitutivo e das subemendas de 1 a 8  cdr"
+        },
+        {
+            "data": "05072019",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 25ª reunião da comissão de desenvolvimento regional e turismo agendada para o dia\n10072019"
+        },
+        {
+            "data": "04072019",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": null,
+            "ação": "é recebido relatório reformulado do senador jaques wagner com voto pela aprovação do projeto na forma da emenda n 1ccj\nsubstitutivo com 8 oito subemendas que apresenta anexado às fls 58 a 65\nação"
+        },
+        {
+            "data": "21052019",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "é recebido relatório do senador jaques wagner com voto pela aprovação do projeto na forma da emenda n 1ccj\nsubstitutivo com 9 nove subemendas que apresenta anexado às fls 50 a 57"
+        },
+        {
+            "data": "07032019",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "matéria com a relatoria",
+            "ação": "redistribuído ao senador jaques wagner para emitir relatório"
+        },
+        {
+            "data": "07032019",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "aguardando designação do relator",
+            "ação": "devolvido pela senadora zenaide maia para redistribuição"
+        },
+        {
+            "data": "07032019",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "matéria com a relatoria",
+            "ação": "redistribuído à senadora zenaide maia para emitir relatório"
+        },
+        {
+            "data": "14022019",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "aguardando designação do relator",
+            "ação": "devolvido pelo relator senador paulo paim em virtude de não mais pertencer aos quadros desta comissão a matéria será\nredistribuída"
+        },
+        {
+            "data": "20122018",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": null,
+            "ação": "a proposição continua a tramitar nos termos do art 332 do regimento interno\nação\npg\n5\natividade legislativa\nprojeto de lei da câmara n 137 de 2017\ntramitação"
+        },
+        {
+            "data": "27112018",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "matéria com a relatoria",
+            "ação": "redistribuído ao senador paulo paim para emitir relatório"
+        },
+        {
+            "data": "27112018",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "aguardando designação do relator",
+            "ação": "devolvido pela senadora fátima bezerra para redistribuição"
+        },
+        {
+            "data": "08112018",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "matéria com a relatoria",
+            "ação": "avocada a relatoria pela presidente da comissão senadora fátima bezerra art 129 do risf"
+        },
+        {
+            "data": "08112018",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "aguardando designação do relator",
+            "ação": "devolvido pelo senador paulo rocha para redistribuição"
+        },
+        {
+            "data": "06112018",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "matéria com a relatoria",
+            "ação": "redistribuído ao senador paulo rocha para emitir relatório"
+        },
+        {
+            "data": "06112018",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "aguardando designação do relator",
+            "ação": "devolvido pela senadora fátima bezerra para redistribuição"
+        },
+        {
+            "data": "17102018",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "matéria com a relatoria",
+            "ação": "avocada a relatoria pela presidente da comissão senadora fátima bezerra art 129 do risf"
+        },
+        {
+            "data": "10102018",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "aguardando designação do relator",
+            "ação": "matéria recebida na cdr nesta data aguardando designação de relator"
+        },
+        {
+            "data": "10102018",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": null,
+            "ação": "encerrada a relatoria da senadora ana amélia por deliberação da matéria\nà cdr para prosseguimento da tramitação\nação\npg\n6\natividade legislativa\nprojeto de lei da câmara n 137 de 2017\ntramitação"
+        },
+        {
+            "data": "10102018",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "aprovado parecer na comissão",
+            "ação": "na 28ª reunião ordinária realizada nesta data a comissão aprova o relatório da senadora ana amélia que passa a constituir o\nparecer da ccj favorável ao projeto nos termos da emenda n 1ccj substitutivo"
+        },
+        {
+            "data": "31082018",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria incluída na pauta da comissão"
+        },
+        {
+            "data": "05072018",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido às 09h10 o relatório da senadora ana amélia com voto favorável ao projeto nos termos do substitutivo que apresenta\nmatéria pronta para a pauta na comissão"
+        },
+        {
+            "data": "30112017",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "matéria com a relatoria",
+            "ação": "o presidente da comissão de constituição justiça e cidadania senador edison lobão designa relatora da matéria a senadora\nana amélia"
+        },
+        {
+            "data": "09112017",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "aguardando designação do relator",
+            "ação": "matéria aguardando distribuição"
+        },
+        {
+            "data": "09112017",
+            "órgão": "sfseadi  secretaria de atas e diários",
+            "situação": "matéria lida em plenário",
+            "ação": "encaminhado à publicação\nà ccj cdr e cae"
+        },
+        {
+            "data": "09112017",
+            "órgão": "sfslsf  secretaria legislativa do senado federal",
+            "situação": "aguardando leitura",
+            "ação": "este processado contém 34 trinta de quatro folhas numeradas\naguardando leitura"
+        },
+        {
+            "data": "08112017",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "apresentado em 08112017 1144\nação\npg\n7\natividade legislativa\nprojeto de lei da câmara n 137 de 2017"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "plc 1372017",
+            "data": "08112017",
+            "autor": "câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "09112017",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório legislativo"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "05072018",
+            "autor": "senadora ana amélia pprs",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "10102018",
+            "autor": "comissão de constituição justiça e cidadania",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 28ª reunião ccj"
+        },
+        {
+            "documento": "ps 972018  ccj",
+            "data": "10102018",
+            "autor": "comissão de constituição justiça e cidadania senadora ana amélia pprs",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório legislativo"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "21052019",
+            "autor": "senador jaques wagner ptba",
+            "local": "comissão de desenvolvimento regional e turismo",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório legislativo"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "04072019",
+            "autor": "senador jaques wagner ptba",
+            "local": "pg",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "10072019",
+            "autor": "comissão de desenvolvimento regional e turismo",
+            "local": "comissão de desenvolvimento regional e turismo",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 25ª reunião cdr"
+        },
+        {
+            "documento": "ps 182019  cdr",
+            "data": "10072019",
+            "autor": "comissão de desenvolvimento regional e turismo senador jaques wagner ptba",
+            "local": "comissão de desenvolvimento regional e turismo",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório legislativo"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "14082019",
+            "autor": "senador jaques wagner ptba",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "17092019",
+            "autor": "comissão de assuntos econômicos",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 35ª reunião cae"
+        },
+        {
+            "documento": "ps 542019  cae",
+            "data": "17092019",
+            "autor": "comissão de assuntos econômicos senador jaques wagner ptba",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "ps 2872019  plen"
+        },
+        {
+            "documento": "ps 2872019  plen",
+            "data": "11122019",
+            "autor": "comissão diretora do senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": "aprovado o substitutivo com subemendas",
+            "descrição/Ementa": "pg\n9\natividade legislativa\nprojeto de lei da câmara n 137 de 2017\ndocumentos\nà câmara dos deputados\ndetalhamento da ação legislativa\ndiscussão encerrada\naprovadas a emenda n 1  ccjcdrcae substitutivo com subemendas ns 1 a 7  cdrcae e n 9  cae\nencaminhado à publicação o parecer n 287 de 2019  plensf da cdir oferecendo a redação para o turno suplementar\ndiscussão encerrada sem emendas a matéria é dada como definitivamente adotada nos termos do art 284 do risf\nà câmara dos deputados\nparecer n 287 de 2019  plensf da cdir"
+        },
+        {
+            "documento": "ofsf 11152019",
+            "data": "19122019",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à revisão da câmara dos deputados o substitutivo do projeto de lei da câmara n 137 de 2017"
+        },
+        {
+            "documento": "autógrafo  plc 1372017",
+            "data": "19122019",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "dispõe sobre a política nacional de economia solidária e os empreendimentos econômicos solidários cria o sistema nacional de\neconomia solidária e dá outras providências"
+        },
+        {
+            "documento": "ofc 6062024  câmara dos",
+            "data": "09122024",
+            "autor": "primeirosecretário da câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica o envio à sanção do projeto de lei da câmara n 137 de 2017"
+        }
+    ]
 }

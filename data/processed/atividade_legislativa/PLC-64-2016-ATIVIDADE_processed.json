@@ -1,18 +1,728 @@
 {
-    "Atividade legislativa": "projeto de lei da câmara n 64 de 2016",
-    "Autoria": "câmara dos deputados",
-    "Iniciativa": "deputada federal soraya santos mdbrj",
-    "Ementa": "altera a lei n 11977 de 7 de julho de 2009 que dispõe sobre o programa minha casa minha vida  pmcmv de forma\na assegurar o apoio técnico e financeiro às iniciativas de regularização fundiária de assentamentos urbanos",
-    "Explicação da Ementa": "dispõe que o programa minha casa minha vida tem por finalidade criar mecanismos de",
-    "Assunto": "economia e desenvolvimento   política fundiária e reforma agrária",
-    "Despacho": "18102016\nnull\nanálise  tramitação sucessiva\nsfcdr comissão de desenvolvimento regional e turismo\nsfcra comissão de agricultura e reforma agrária\npg\n1\natividade legislativa\nprojeto de lei da câmara n 64 de 2016",
-    "Relatoria": "cae  comissão de assuntos econômicos\nrelatores\nsenador mecias de jesus encerrado em 05072022 \ndeliberação da matéria\ncdr  comissão de desenvolvimento regional e turismo\nrelatores",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada pelo plenário",
-        "Destino": "à sanção",
-        "Último local": "10122024  secretaria de expediente",
-        "Último estado": "31122024  transformada em\nnorma jurídica com veto parcial"
+    "atividade legislativa": "projeto de lei da câmara n 64 de 2016",
+    "autoria": "câmara dos deputados",
+    "iniciativa": "deputada federal soraya santos mdbrj",
+    "ementa": "altera a lei n 11977 de 7 de julho de 2009 que dispõe sobre o programa minha casa minha vida  pmcmv de forma\na assegurar o apoio técnico e financeiro às iniciativas de regularização fundiária de assentamentos urbanos",
+    "explicação da ementa": "dispõe que o programa minha casa minha vida tem por finalidade criar mecanismos de",
+    "assunto": "economia e desenvolvimento   política fundiária e reforma agrária",
+    "despacho": "18102016\nnull\nanálise  tramitação sucessiva\nsfcdr comissão de desenvolvimento regional e turismo\nsfcra comissão de agricultura e reforma agrária\npg\n1\natividade legislativa\nprojeto de lei da câmara n 64 de 2016",
+    "relatoria": "cae  comissão de assuntos econômicos\nrelatores\nsenador mecias de jesus encerrado em 05072022 \ndeliberação da matéria\ncdr  comissão de desenvolvimento regional e turismo\nrelatores",
+    "tramitação encerrada": {
+        "decisão": "aprovada pelo plenário",
+        "destino": "à sanção",
+        "último local": "10122024  secretaria de expediente",
+        "último estado": "31122024  transformada em\nnorma jurídica com veto parcial"
     },
-    "Tramitação": "cae  comissão de assuntos econômicos\nrelatores\nsenador mecias de jesus encerrado em 05072022 \ndeliberação da matéria\ncdr  comissão de desenvolvimento regional e turismo\nrelatores",
-    "Documentos": "cae  comissão de assuntos econômicos\nrelatores\nsenador mecias de jesus encerrado em 05072022 \ndeliberação da matéria\ncdr  comissão de desenvolvimento regional e turismo\nrelatores"
+    "tramitação": [
+        {
+            "data": "31122024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica com veto parcial",
+            "ação": "pr presidência da república\nsancionada lei 15081 de 2024 vetada parcialmente vide msg 1708 de 2024\ndou diário oficial da união  31122024  seção i  págs 868 e 868\nsancionada em 30122024\nà coarq"
+        },
+        {
+            "data": "10122024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à sanção",
+            "ação": "remetido ofício sf n 1339 de 091224 ao senhor ministro de estado chefe da casa civil da presidência da república\nencaminhando a mensagem sf n 24624 ao excelentíssimo senhor presidente da república submetendo à sanção\npresidencial autógrafo do projeto\nremetido ofício sf n 1340 de 091224 ao senhor primeirosecretário da câmara dos deputados comunicando que o projeto\nfoi encaminhado à sanção presidencial"
+        },
+        {
+            "data": "10122024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação\npg\n2\natividade legislativa\nprojeto de lei da câmara n 64 de 2016\ntramitação"
+        },
+        {
+            "data": "05122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovada",
+            "ação": "sessão deliberativa extraordinária  realizada em 05122024\ndiscussão encerrada\naprovados o projeto e as emendas ns 1 e 2 ambas de redação\nencaminhado à publicação o parecer n 2012024plensf da comissão diretora apresentando a redação final\naprovada a redação final\nà sanção\nserá feita a devida comunicação à câmara dos deputados\nencaminhados à publicação os rqs ns 861 e 8642024"
+        },
+        {
+            "data": "05122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 864 de 2024 do senador jaques wagner de retirada do requerimento n 861 de 2024 em\ncaráter definitivo\nação"
+        },
+        {
+            "data": "05122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o requerimento n 861 de 2024 do senador jaques wagner de adiamento da discussão da matéria\nação"
+        },
+        {
+            "data": "01122024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "incluída em ordem do dia",
+            "ação": "incluído em ordem do dia da sessão deliberativa extraordinária de 5122024\ndiscussão em turno único"
+        },
+        {
+            "data": "30032023",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "pronto para deliberação do plenário",
+            "ação": "aguardando inclusão em ordem do dia\ndiscussão em turno único"
+        },
+        {
+            "data": "30032023",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "desarquivada  risf art 332  1",
+            "ação": "na sessão deliberativa de 30 de março de 2023 foi aprovado o requerimento n 256 de 2023 do senador carlos portinho e\noutros senadores solicitando o desarquivamento de proposição o projeto de lei da câmara n 64 de 2016 uma vez instruído\npelas comissões competentes aguardará inclusão em ordem do dia oportunamente"
+        },
+        {
+            "data": "29032023",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando inclusão ordem do dia de requerimento",
+            "ação": "aguardando inclusão em ordem do dia do requerimento n 256 de 2023 do senador carlos portinho e outros senadores\nsolicitando o desarquivamento da matéria"
+        },
+        {
+            "data": "29032023",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o rqs 2562023 que solicita o desarquivamento da matéria\nação\npublicado no dsf páginas 342343  dsf n 44"
+        },
+        {
+            "data": "21122022",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "arquivada ao final da legislatura",
+            "ação": "a proposição é arquivada ao final da legislatura nos termos do  1 do art 332  do regimento interno"
+        },
+        {
+            "data": "06072022",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "aguardando inclusão em ordem do dia\ndiscussão em turno único\nação"
+        },
+        {
+            "data": "05072022",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "pronto para deliberação do plenário",
+            "ação": "concluída a instrução da matéria o projeto será incluído em ordem do dia oportunamente"
+        },
+        {
+            "data": "05072022",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "encerrada a relatoria do senador mecias de jesus por deliberação da matéria\nação"
+        },
+        {
+            "data": "05072022",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "aprovado parecer na comissão",
+            "ação": "em reunião realizada nesta data a comissão aprova o relatório do senador mecias de jesus que passa a constituir o parecer da\ncae favorável à matéria com a emenda n 1cdrcracae e e emenda n 2cae\nà slsf para prosseguimento da tramitação"
+        },
+        {
+            "data": "05072022",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "o relator senador mecias de jesus apresentou novo relatório favorável ao projeto e à emenda n 1cdrcra e com uma\nemenda de redação que apresenta\nação"
+        },
+        {
+            "data": "01072022",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "o relator senador mecias de jesus apresentou relatório reformulado favorável ao projeto e à emenda n 1cdrcra e com uma\nemenda de redação que apresenta\nação"
+        },
+        {
+            "data": "30062022",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "incluída na pauta da reunião",
+            "ação": "o relator senador mecias de jesus apresentou relatório favorável ao projeto e à emenda n 1cdr e com uma emenda de\nredação que apresenta"
+        },
+        {
+            "data": "27062022",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "matéria não apreciada em razão do cancelamento da 15ª reunião da comissão"
+        },
+        {
+            "data": "23062022",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 15ª reunião da comissão de assuntos econômicos agendada para o dia 28062022"
+        },
+        {
+            "data": "31052022",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "o relator senador mecias de jesus encerra o reexame sem alterações no relatório"
+        },
+        {
+            "data": "22052019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "matéria com a relatoria",
+            "ação": "matéria devolvida por solicitação do relator senador mecias de jesus para reexame"
+        },
+        {
+            "data": "21052019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "em reunião realizada em 21052019 a apreciação da matéria foi adiada"
+        },
+        {
+            "data": "16052019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 15ª reunião da comissão de assuntos econômicos agendada para o dia 21052019"
+        },
+        {
+            "data": "02052019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "o relator senador mecias de jesus apresentou relatório favorável ao projetocom a emenda n 1cdr fls 4446\n retificado em 16052019\no relator senador mecias de jesus apresentou relatório favorável ao projetocom a emenda n 1cdrcra fls 4446"
+        },
+        {
+            "data": "29032019",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao senador mecias de jesus para emitir relatório"
+        },
+        {
+            "data": "20122018",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "a proposição continua a tramitar nos termos do art 332 do regimento interno\nação\npg\n5\natividade legislativa\nprojeto de lei da câmara n 64 de 2016\ntramitação"
+        },
+        {
+            "data": "07112018",
+            "órgão": "sfsacae  secretaria de apoio à comissão de assuntos econômicos",
+            "situação": "aguardando designação do relator",
+            "ação": "matéria aguardando distribuição"
+        },
+        {
+            "data": "06112018",
+            "órgão": "sfseadi  secretaria de atas e diários",
+            "situação": "aprovado o requerimento",
+            "ação": "encaminhado à publicação e aprovado o requerimento n 505 de 2018 de autoria do senador fernando bezerra coelho que\nsolicita o adiamento da discussão da matéria para audiência da cae\nserá cumprida a deliberação do plenário"
+        },
+        {
+            "data": "29102018",
+            "órgão": "sfslsf  secretaria legislativa do senado federal",
+            "situação": "incluída em ordem do dia",
+            "ação": "incluído em ordem do dia da sessão deliberativa de 30102018\ndiscussão em turno único\nmatéria não apreciada na sessão deliberativa de 30102018 transferida para a sessão de 31102018"
+        },
+        {
+            "data": "11062018",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "aguardando inclusão em ordem do dia\ndiscussão em turno único\nação"
+        },
+        {
+            "data": "11062018",
+            "órgão": "sfseadi  secretaria de atas e diários",
+            "situação": "pronto para deliberação do plenário",
+            "ação": "encerrouse em 08 de junho o prazo para apresentação de emendas\nnão foram oferecidas emendas\na matéria será incluída em ordem do dia oportunamente"
+        },
+        {
+            "data": "11062018",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado ao plenário para comunicação do término do prazo para apresentação de emendas\nação"
+        },
+        {
+            "data": "01062018",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo apresentação de emendas a projeto que obteve parecer favorável da comissão art 235 ii d do risf de 04062018\na 08062018 perante a mesa\nação"
+        },
+        {
+            "data": "01062018",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando recebimento de emendas perante a mesa",
+            "ação": "concluída as instruções das matérias fica aberto o prazo de cinco dias úteis para recebimento de emendas nos termos do art\n235 ii d do regimento interno"
+        },
+        {
+            "data": "01062018",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo apresentação de emendas a projeto que obteve parecer favorável da comissão art 235 ii d do risf de 04062018\na 08062018 perante ao mesa\nação"
+        },
+        {
+            "data": "30052018",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando leitura parecer es",
+            "ação": "encaminhado ao plenário para comunicação de conclusão da instrução da matéria e abertura de prazo para emenda"
+        },
+        {
+            "data": "30052018",
+            "órgão": "cra  comissão de agricultura e reforma agrária",
+            "situação": null,
+            "ação": "matéria encaminhada à secretariageral da mesa\nação"
+        },
+        {
+            "data": "29052018",
+            "órgão": "cra  comissão de agricultura e reforma agrária",
+            "situação": "aprovado parecer na comissão",
+            "ação": "na 15ª reunião extraordinária da cra realizada nesta data a comissão aprova o relatório do senador elmano férrer que passa a\nconstituir parecer da cra favorável ao plc 642016 com a emenda n 1cdrcra\na matéria será encaminhada à secretariageral da mesa"
+        },
+        {
+            "data": "23052018",
+            "órgão": "cra  comissão de agricultura e reforma agrária",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 15ª reunião da comissão de agricultura e reforma agrária agendada para o dia 29052018"
+        },
+        {
+            "data": "02052018",
+            "órgão": "cra  comissão de agricultura e reforma agrária",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido o relatório do senador elmano ferrer que conclui pela aprovação do plc 642016 com a emenda n 1cdr\nmatéria pronta para a pauta na comissão"
+        },
+        {
+            "data": "19122017",
+            "órgão": "cra  comissão de agricultura e reforma agrária",
+            "situação": "matéria com a relatoria",
+            "ação": "o senhor presidente senador ivo cassol designa o senador elmano férrer relator do plc 642016"
+        },
+        {
+            "data": "13122017",
+            "órgão": "cra  comissão de agricultura e reforma agrária",
+            "situação": "aguardando designação do relator",
+            "ação": "a matéria aguarda designação de relator"
+        },
+        {
+            "data": "13122017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "aprovado parecer na comissão",
+            "ação": "em reunião realizada nesta data a comissão aprova o relatório com a emenda 01  cdr passando a constituir parecer favorável"
+        },
+        {
+            "data": "08122017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 38ª reunião da comissão de desenvolvimento regional e turismo agendada para o dia\n13122017"
+        },
+        {
+            "data": "06122017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "é recebido nesta data o relatório da senadora regina sousa com voto pela aprovação da matéria com uma emenda que\napresenta anexado às fls 40 a 41"
+        },
+        {
+            "data": "01122017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "matéria com a relatoria",
+            "ação": "a matéria retorna ao gabinete da relatora senadora regina sousa para reexame"
+        },
+        {
+            "data": "30112017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "é recebido nesta data o relatório da senadora regina sousa com voto pela aprovação da matéria com uma emenda que\napresenta anexado às fls 38 a 39"
+        },
+        {
+            "data": "07112017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "matéria com a relatoria",
+            "ação": "nesta data a senadora regina sousa é designada relatora da matéria\nao gabinete da relatora"
+        },
+        {
+            "data": "01112017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "aguardando designação do relator",
+            "ação": "recebido nesta data na comissão\na matéria aguarda designação de relator"
+        },
+        {
+            "data": "01112017",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "aprovado o requerimento n 930 de 2017\na matéria volta a ter tramitação autônoma e vai ao exame da cdr  e  da cra\nação\npublicado no dsf páginas 31"
+        },
+        {
+            "data": "01112017",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado ao plenário\nação\npg\n8\natividade legislativa\nprojeto de lei da câmara n 64 de 2016\ntramitação"
+        },
+        {
+            "data": "01112017",
+            "órgão": "cdir  comissão diretora do senado federal",
+            "situação": null,
+            "ação": "à slsf\nação"
+        },
+        {
+            "data": "31102017",
+            "órgão": "sfseadi  secretaria de atas e diários",
+            "situação": null,
+            "ação": "encaminhado á publicação o requerimento n 930 de 2017 de autoria do senador lindbergh farias que solicita o\ndesapensamento do projeto de lei do senado n 465 de 2016 do projeto de lei da câmara n 64 de 2016 com o qual tramita\nem conjunto\no requerimento vai à comissão diretora para decisão\nação\npublicado no dsf páginas 235236"
+        },
+        {
+            "data": "27102017",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando leitura de requerimento",
+            "ação": "aguardando leitura do requerimento do senador lindbergh farias que solicita o desapensamento  da matéria que tramita em\nconjunto com o projeto de lei do senado n 465 de 2016"
+        },
+        {
+            "data": "25102017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": null,
+            "ação": "nesta data é recebido o of sf 11452017 da presidência do senado federal solicitando o encaminhamento da matéria à\nsecretariageral da mesa para que se possa dar andamento a requerimento de autoria do senador lindbergh farias para\ntramitação autônoma do plc n 642016 e do pls n 4652016\nação"
+        },
+        {
+            "data": "25102017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "matéria com a relatoria",
+            "ação": "em reunião realizada em 25102017 a matéria foi retirada de pauta à pedido da relatora para reexame"
+        },
+        {
+            "data": "20102017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 32ª reunião da comissão de desenvolvimento regional e turismo agendada para o dia\n25102017"
+        },
+        {
+            "data": "18102017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "pedido de vista concedido",
+            "ação": "em reunião realizada em 18102017 foi concedida vista ao senador dário berger nos termos do art 132 do regimento interno\ndo senado federal"
+        },
+        {
+            "data": "13102017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 31ª reunião da comissão de desenvolvimento regional e turismo agendada para o dia\n18102017"
+        },
+        {
+            "data": "11102017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "pg\n9\natividade legislativa\nprojeto de lei da câmara n 64 de 2016\ntramitação\npronta para a pauta na comissão",
+            "ação": "em reunião realizada em 11102017 a apreciação da matéria foi adiada"
+        },
+        {
+            "data": "06102017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 29ª reunião da comissão de desenvolvimento regional e turismo agendada para o dia\n11102017"
+        },
+        {
+            "data": "20092017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "nesta data a senadora regina sousa apresenta o relatório que conclui pela rejeição do plc 642016 e pela aprovação do pls\n4652016 com as 4 emendas que apresenta anexado às fls 28 a 33"
+        },
+        {
+            "data": "21062017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "matéria com a relatoria",
+            "ação": "a matéria retorna ao gabinete da senadora regina sousa relatora"
+        },
+        {
+            "data": "21062017",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "em virtude da aprovação do requerimento n 418 de 2017 o projeto de lei do senado n 465 de 2016 e o projeto de lei da\ncâmara n 64 de 2016 passam a tramitar em conjunto e vão à cdr cae ccj e cra o projeto de lei do senado n 465 de\n2016 perde o caráter terminativo\nação"
+        },
+        {
+            "data": "13062017",
+            "órgão": "cdir  comissão diretora do senado federal",
+            "situação": null,
+            "ação": "em sua 3ª reunião realizada no dia 13062017 a comissão diretora do senado federal aprovou o requerimento n 418 de\n2017 da senadora regina sousa que solicita a tramitação conjunta do projeto de lei da câmara n 64 de 2016 e do projeto de\nlei do senado n 465 de 2016\nao plenário\nação"
+        },
+        {
+            "data": "08062017",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o requerimento n 418 de 2017 de autoria da senadora regina sousa solicitando a tramitação em\nconjunto das seguintes matérias plc 642016 e pls 4652016\no requerimento n 418 de 2017 vai à comissão diretora\nação\npublicado no dsf páginas 168169"
+        },
+        {
+            "data": "08062017",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando leitura de requerimento",
+            "ação": "aguardando leitura do requerimento de autoria da senadora regina sousa solicitando a tramitação conjunta ao pls 4652016"
+        },
+        {
+            "data": "07062017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": null,
+            "ação": "matéria encaminhada à sgm em atendimento ao of sf4902017 de 01 de junho de 2017\nação\npg\n10\natividade legislativa\nprojeto de lei da câmara n 64 de 2016\ntramitação"
+        },
+        {
+            "data": "01062017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": null,
+            "ação": "nesta data é recebido o of sf4902017 solicitando o encaminhamento da matéria à secretariageral da mesa para que se\npossa dar andamento a requerimento de autoria da senadora regina sousa para tramitação em conjunto do plc n 642016 e\ndo pls n 4652016\nação"
+        },
+        {
+            "data": "17052017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "matéria com a relatoria",
+            "ação": "nesta data a senadora regina sousa é designada relatora da matéria\nao gabinete da relatora"
+        },
+        {
+            "data": "11052017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "aguardando designação do relator",
+            "ação": "a senadora regina sousa declina da relatoria da matéria\naguardando redistribuição"
+        },
+        {
+            "data": "05052017",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "matéria com a relatoria",
+            "ação": "nesta data a senadora regina sousa é designada relatora da matéria\nao gabinete da relatora"
+        },
+        {
+            "data": "19102016",
+            "órgão": "cdr  comissão de desenvolvimento regional e turismo",
+            "situação": "aguardando designação do relator",
+            "ação": "nesta data a matéria é recebida na secretaria da cdr\naguardando designação de relatoria"
+        },
+        {
+            "data": "19102016",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "matéria lida em plenário",
+            "ação": "encaminhado à publicação\nàs comissões de desenvolvimento regional e turismo e de agricultura e reforma agrária"
+        },
+        {
+            "data": "18102016",
+            "órgão": "sfslsf  secretaria legislativa do senado federal",
+            "situação": null,
+            "ação": "aguardando leitura\nação"
+        },
+        {
+            "data": "18102016",
+            "órgão": "sfseprtl  serviço de protocolo legislativo",
+            "situação": "aguardando leitura",
+            "ação": "este processo contém 10 dez folhas numeradas e rubricadas"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "autógrafo  plc 642016",
+            "data": "18102016",
+            "autor": "câmara dos deputados",
+            "local": "null",
+            "ação legislativa": null,
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "19102016",
+            "autor": "",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "avulso da matéria"
+        },
+        {
+            "documento": "ofício",
+            "data": "01062017",
+            "autor": "presidente do senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "ofício n 490 de 2017 da cdr solicitando a tramitação conjunta do plc 642016 com o pls 4652016"
+        },
+        {
+            "documento": "rqs 4182017",
+            "data": "08062017",
+            "autor": "senadora regina sousa ptpi",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer nos termos do art 258 do regimento interno do senado federal a tramitação conjunta do plc 642016 com o pls\n4652016 por tratarem da mesma matéria"
+        },
+        {
+            "documento": "decisão de comissão",
+            "data": "13062017",
+            "autor": "comissão diretora do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "decisão de aprovação pela cdir do rqs n 4182017 no qual se postula nos termos do art 258 do regimento interno do\nsenado federal a tramitação conjunta do plc 642016 com o pls 4652016 por tratarem da mesma matéria"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "20092017",
+            "autor": "senadora regina sousa ptpi",
+            "local": "comissão de desenvolvimento regional e turismo",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n12\natividade legislativa\nprojeto de lei da câmara n 64 de 2016\ndocumentos\nrelatório legislativo"
+        },
+        {
+            "documento": null,
+            "data": "30112017",
+            "autor": "senadora regina sousa ptpi",
+            "local": "comissão de desenvolvimento regional e turismo",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório legislativo"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "06122017",
+            "autor": "senadora regina sousa ptpi",
+            "local": "comissão de desenvolvimento regional e turismo",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "13122017",
+            "autor": "comissão de desenvolvimento regional e turismo",
+            "local": "comissão de desenvolvimento regional e turismo",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 38ª reunião cdr"
+        },
+        {
+            "documento": "ps 162017  cdr",
+            "data": "13122017",
+            "autor": "comissão de desenvolvimento regional e turismo senadora regina sousa ptpi",
+            "local": "comissão de desenvolvimento regional e turismo",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório legislativo"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "02052018",
+            "autor": "senador elmano férrer podemospi",
+            "local": "comissão de agricultura e reforma agrária",
+            "ação legislativa": null,
+            "descrição/Ementa": "ps 82018  cra"
+        },
+        {
+            "documento": "ps 82018  cra",
+            "data": "29052018",
+            "autor": "comissão de agricultura e reforma agrária",
+            "local": "comissão de agricultura e reforma agrária",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório\npg\n13\natividade legislativa\nprojeto de lei da câmara n 64 de 2016\ndocumentos"
+        },
+        {
+            "documento": "listagem ou relatório\npg\n13\natividade legislativa\nprojeto de lei da câmara n 64 de 2016\ndocumentos",
+            "data": "30052018",
+            "autor": "comissão de agricultura e reforma agrária",
+            "local": "comissão de agricultura e reforma agrária",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 15ª reunião cra"
+        },
+        {
+            "documento": "rqs 5052018",
+            "data": "06112018",
+            "autor": "senador fernando bezerra coelho mdbpe",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "oitiva  da cae sobre o projeto de lei da câmara n 64 de 2016"
+        },
+        {
+            "documento": "avulso de requerimento",
+            "data": "06112018",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requerimento n 505 de 2018"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "02052019",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório legislativo"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "30062022",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "novo relatório do plc 642016"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "01072022",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "novo relatório na cae"
+        },
+        {
+            "documento": "relatório legislativo\npg\n14\natividade legislativa\nprojeto de lei da câmara n 64 de 2016\ndocumentos",
+            "data": "05072022",
+            "autor": "senador mecias de jesus republicanosrr",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório ao plc n 642016"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "05072022",
+            "autor": "comissão de assuntos econômicos",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 15ª reunião cae"
+        },
+        {
+            "documento": "ps 312022  cae",
+            "data": "05072022",
+            "autor": "comissão de assuntos econômicos senador mecias de jesus republicanosrr",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório ao plc n 642016"
+        },
+        {
+            "documento": "rqs 2562023",
+            "data": "29032023",
+            "autor": "senador carlos portinho plrj senador zequinha marinho plpa senador flávio bolsonaro plrj senador wellington",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "desarquivamento do plc n 642016"
+        },
+        {
+            "documento": "rqs 8612024",
+            "data": "05122024",
+            "autor": "senador jaques wagner ptba",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o requerimento n 861 de 2024 do senador jaques wagner de adiamento da discussão da matéria",
+            "descrição/Ementa": "requer o adiamento da discussão do projeto de lei da câmara n 642016 para audiência da comissão de assuntos sociais"
+        },
+        {
+            "documento": "rqs 8642024",
+            "data": "05122024",
+            "autor": "pg",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer a retirada definitiva do requerimento n 8612024"
+        },
+        {
+            "documento": "ps 2012024  plen",
+            "data": "05122024",
+            "autor": "comissão diretora do senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "parecer n 2012024plensf da comissão diretora"
+        },
+        {
+            "documento": "ofsf 13392024",
+            "data": "10122024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica à câmara dos deputados o encaminhamento à presidência da república do projeto de lei  da câmara n 64 de 2016"
+        },
+        {
+            "documento": "mpsf 2462024",
+            "data": "10122024",
+            "autor": "presidente do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à sanção o projeto de lei da câmara n 64 de 2016"
+        },
+        {
+            "documento": "ofsf 13402024",
+            "data": "10122024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n16\natividade legislativa\nprojeto de lei da câmara n 64 de 2016\ndocumentos\nremetido ofício sf n 1340 de 091224 ao senhor primeirosecretário da câmara dos deputados comunicando que o projeto\nfoi encaminhado à sanção presidencial\nencaminha a mensagem da presidência do senado federal submetendo à sanção presidencial autógrafos do projeto de lei da\ncâmara  n 64 de 2016"
+        },
+        {
+            "documento": "minuta",
+            "data": "10122024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "autógrafo  plc 642016"
+        },
+        {
+            "documento": "autógrafo  plc 642016",
+            "data": "10122024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "altera a lei n 11977 de 7 de julho de 2009 que dispõe sobre o programa minha casa minha vida  pmcmv de forma a\nassegurar o apoio técnico e financeiro às iniciativas de regularização fundiária de assentamentos urbanos"
+        }
+    ]
 }

@@ -1,17 +1,249 @@
 {
-    "Atividade legislativa": "projeto de lei n 4258 de 2021",
-    "Autoria": "câmara dos deputados",
-    "Iniciativa": "deputada federal dra soraya manato psles",
-    "Ementa": "confere o título de capital nacional da biodiversidade marinha ao município de guarapari no estado do espírito santo",
-    "Assunto": "honorífico   homenagem",
-    "Despacho": "03062024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfcma comissão de meio ambiente",
-    "Relatoria": "cma  comissão de meio ambiente\nrelatores\nsenador fabiano contarato encerrado em 12092024 \ndeliberação da matéria",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada por comissão em decisão",
-        "Destino": "à sanção",
-        "Último local": "25102024  secretaria de expediente",
-        "Último estado": "17102024  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei n 4258 de 2021",
+    "autoria": "câmara dos deputados",
+    "iniciativa": "deputada federal dra soraya manato psles",
+    "ementa": "confere o título de capital nacional da biodiversidade marinha ao município de guarapari no estado do espírito santo",
+    "assunto": "honorífico   homenagem",
+    "despacho": "03062024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfcma comissão de meio ambiente",
+    "relatoria": "cma  comissão de meio ambiente\nrelatores\nsenador fabiano contarato encerrado em 12092024 \ndeliberação da matéria",
+    "tramitação encerrada": {
+        "decisão": "aprovada por comissão em decisão",
+        "destino": "à sanção",
+        "último local": "25102024  secretaria de expediente",
+        "último estado": "17102024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "cma  comissão de meio ambiente\nrelatores\nsenador fabiano contarato encerrado em 12092024 \ndeliberação da matéria",
-    "Documentos": "cma  comissão de meio ambiente\nrelatores\nsenador fabiano contarato encerrado em 12092024 \ndeliberação da matéria"
+    "tramitação": [
+        {
+            "data": "29102024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "remetido ofício sf n 1208 de 291024 ao senhor primeirosecretário da câmara dos deputados comunicando para os\ndevidos fins que a presidência da república encaminhou ao senado federal a mensagem n 1304 de 2024 na origem\nrestituindo autógrafos do projeto de lei n 4258 de 2021 sancionado e transformado na lei n 15004 de 16 de outubro de\n2024\ncoarq\nação"
+        },
+        {
+            "data": "24102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhada à publicação a mensagem da presidência da república n 130424 na origem que restitui o autógrafo do projeto\nde lei n 425821 sancionado e convertido na lei n 15004 de 24 de outubro de 2024\nserá feita a devida comunicação à câmara dos deputados\nação\npublicado no dsf páginas 2829  dsf n 184"
+        },
+        {
+            "data": "17102024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica",
+            "ação": "pr presidência da república\nsancionada lei 15004 de 2024\ndou diário oficial da união  17102024  seção i  págs 4 e 4\nsancionada em 16102024"
+        },
+        {
+            "data": "30092024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à sanção",
+            "ação": "remetido ofício sf n 1150 de 300924 ao senhor ministro de estado chefe da casa civil da presidência da república\nencaminhando a mensagem sf n 19724 ao excelentíssimo senhor presidente da república submetendo à sanção\npresidencial autógrafo do projeto\nremetido ofício sf n 1151 de 300924 ao senhor primeirosecretário da câmara dos deputados comunicando que o projeto\nfoi encaminhado à sanção presidencial"
+        },
+        {
+            "data": "23092024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "23092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovada",
+            "ação": "encerrouse  em 20 de setembro  o prazo para interposição de recurso para apreciação pelo plenário do presente projeto\nnão foi apresentado recurso\no presente projeto aprovado terminativamente pela comissão de meio ambiente vai à sanção\nserá feita a devida comunicação à câmara dos deputados"
+        },
+        {
+            "data": "12092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo interposição de recurso a decisão terminativa de comissão art 91  3 ao 5 do risf de 16092024 a 20092024\nperante a mesa\nação"
+        },
+        {
+            "data": "12092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando interposição de recurso",
+            "ação": "encaminhado à publicação  o ofício n 153 de 2024 da comissão de meio ambiente comunicando a apreciação da matéria em\ncaráter terminativo\nconcluída a instrução da matéria fica aberto o prazo de cinco dias úteis para interposição de recurso por um décimo dos\nmembros da casa para que seja apreciada pelo plenário nos termos do art 91  3 a 5 do regimento interno"
+        },
+        {
+            "data": "12092024",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": null,
+            "ação": "encerrada a relatoria do senador fabiano contarato por deliberação da matéria\nação"
+        },
+        {
+            "data": "11092024",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "apreciada em decisão terminativa pelas comissões",
+            "ação": "na 36ª reunião a comissão de meio ambiente aprovou o projeto de lei n 4258 de 2021 nos termos do relatório do senador\nfabiano contarato\nanexado ofício n 1532024cma que comunica a aprovação à presidência\nnotas vídeos e informações da reunião pelo link httpslegissenadolegbratividadecomissoescomissao50reuniao12985"
+        },
+        {
+            "data": "09092024",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 36ª reunião da comissão de meio ambiente agendada para o dia 11092024"
+        },
+        {
+            "data": "30082024",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido relatório do senador fabiano contarato pela aprovação do projeto de lei n 4258 de 2021"
+        },
+        {
+            "data": "16072024",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao senador fabiano contarato para emitir relatório"
+        },
+        {
+            "data": "12062024",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": "aguardando designação do relator",
+            "ação": "encerrado o prazo para apresentação de emendas perante a comissão de meio ambiente ao pl 42582021  terminativo art\n122 ii c do risf\nnão foram apresentadas emendas\naguarda designação para relatoria"
+        },
+        {
+            "data": "03062024",
+            "órgão": "cma  comissão de meio ambiente",
+            "situação": null,
+            "ação": "prazo apresentação de emendas a projeto terminativo em comissão art 122 ii c do risf de 05062024 a 11062024\nperante a cma\nação"
+        },
+        {
+            "data": "03062024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando recebimento de emendas",
+            "ação": "a matéria vai à cma em decisão terminativa nos termos do art 91  1 inciso iv do regimento interno podendo receber\nemendas perante a comissão pelo prazo de cinco dias úteis nos termos do art 122 ii c do regimento interno"
+        },
+        {
+            "data": "13052024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando despacho",
+            "ação": "autuado o projeto de lei n 42582021 proveniente da câmara dos deputados o projeto vai à publicação"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "pl 42582021",
+            "data": "13052024",
+            "autor": "câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 42582021 proveniente da câmara dos deputados o projeto vai à publicação",
+            "descrição/Ementa": "confere o título de capital nacional da biodiversidade marinha ao município de guarapari no estado do espírito santo"
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "13052024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 42582021 proveniente da câmara dos deputados o projeto vai à publicação",
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "30082024",
+            "autor": "senador fabiano contarato ptes",
+            "local": "comissão de meio ambiente",
+            "ação legislativa": "recebido relatório do senador fabiano contarato pela aprovação do projeto de lei n 4258 de 2021",
+            "descrição/Ementa": "da comissão de meio ambiente sobre o projeto de lei n 4258 de 2021 que confere o título de capital nacional da\nbiodiversidade marinha ao município de guarapari no estado do espírito santo"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "11092024",
+            "autor": "comissão de meio ambiente",
+            "local": "comissão de meio ambiente",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de votação nominal da reunião da 36ª reunião cma"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "11092024",
+            "autor": "comissão de meio ambiente",
+            "local": "comissão de meio ambiente",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 36ª reunião cma"
+        },
+        {
+            "documento": "ps 312024  cma",
+            "data": "11092024",
+            "autor": "comissão de meio ambiente",
+            "local": "comissão de meio ambiente",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão de meio ambiente sobre o projeto de lei n 4258 de 2021 que confere o título de capital nacional da\nbiodiversidade marinha ao município de guarapari no estado do espírito santo"
+        },
+        {
+            "documento": "pg\n4\natividade legislativa\nprojeto de lei n 4258 de 2021\ndocumentos\nofício",
+            "data": "11092024",
+            "autor": "presidente de comissão",
+            "local": "comissão de meio ambiente",
+            "ação legislativa": null,
+            "descrição/Ementa": "ofício 1532024cma que comunica à presidência do senado a aprovação em caráter terminativo do pl 42582021 pela\ncomissão de meio ambiente em sua 36ª reunião"
+        },
+        {
+            "documento": "minuta",
+            "data": "23092024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "mpsf 1972024"
+        },
+        {
+            "documento": "mpsf 1972024",
+            "data": "30092024",
+            "autor": "presidente do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à sanção o projeto de lei n 42582021"
+        },
+        {
+            "documento": "ofsf 11502024",
+            "data": "30092024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha a mensagem da presidência do senado federal submetendo à sanção presidencial autógrafos do projeto de lei n\n42582021"
+        },
+        {
+            "documento": "ofsf 11512024",
+            "data": "30092024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n5\natividade legislativa\nprojeto de lei n 4258 de 2021\ndocumentos\nremetido ofício sf n 1151 de 300924 ao senhor primeirosecretário da câmara dos deputados comunicando que o projeto\nfoi encaminhado à sanção presidencial\ncomunica à câmara dos deputados o encaminhamento à presidência da república do projeto de lei n 42582021"
+        },
+        {
+            "documento": "autógrafo  pl 42582021",
+            "data": "30092024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "confere o título de capital nacional da biodiversidade marinha ao município de guarapari no estado do espírito santo"
+        },
+        {
+            "documento": "of 14232024  casa civil",
+            "data": "22102024",
+            "autor": "casa civil",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica a restituição do autógrafo sancionado e a lei n 15004 de 16 de outubro de 2024 promulgada"
+        },
+        {
+            "documento": "msg 13042024  presidência",
+            "data": "22102024",
+            "autor": "presidência da república",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "restitui o autógrafo do projeto de lei n 4258 de 2021 sancionado e convertido na lei n 15004 de 16 de outubro de 2024"
+        },
+        {
+            "documento": "autógrafo restituído após",
+            "data": "22102024",
+            "autor": "presidência da república",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "autógrafo restituído pela presidência da república ao senado federal após sanção"
+        },
+        {
+            "documento": "ofsf 12082024",
+            "data": "29102024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica à câmara dos deputados o recebimento do autógrafo sancionado do projeto de lei n 4258 de 2021"
+        }
+    ]
 }

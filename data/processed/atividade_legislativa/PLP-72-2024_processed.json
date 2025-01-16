@@ -1,16 +1,300 @@
 {
-    "Atividade legislativa": "projeto de lei complementar n 72 de 2024",
-    "Iniciativa": "senador veneziano vital do rêgo mdbpb",
-    "Ementa": "altera a lei complementar n 141 de 13 de janeiro de 2012 que regulamenta o  3 do art 198 da constituição\nfederal para dispor sobre as despesas de custeio e de investimento com os hospitais universitários federais para fins\nde apuração do gasto mínimo constitucional em saúde",
-    "Assunto": "economia e desenvolvimento   finanças públicas",
-    "Despacho": "06052024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfcae comissão de assuntos econômicos",
-    "Relatoria": "cae  comissão de assuntos econômicos\nrelatores\nsenadora zenaide maia encerrado em 25062024 \ndeliberação da matéria\nplen  plenário do senado federal\nrelatores\nsenadora zenaide maia encerrado em 02072024 \ndeliberação da matéria",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada pelo plenário",
-        "Destino": "à câmara dos deputados",
-        "Último local": "30102024  secretaria de atas e\ndiários",
-        "Último estado": "04102024  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei complementar n 72 de 2024",
+    "iniciativa": "senador veneziano vital do rêgo mdbpb",
+    "ementa": "altera a lei complementar n 141 de 13 de janeiro de 2012 que regulamenta o  3 do art 198 da constituição\nfederal para dispor sobre as despesas de custeio e de investimento com os hospitais universitários federais para fins\nde apuração do gasto mínimo constitucional em saúde",
+    "assunto": "economia e desenvolvimento   finanças públicas",
+    "despacho": "06052024\ndecisão da presidência\nanálise  tramitação sucessiva instrução da matéria\nsfcae comissão de assuntos econômicos",
+    "relatoria": "cae  comissão de assuntos econômicos\nrelatores\nsenadora zenaide maia encerrado em 25062024 \ndeliberação da matéria\nplen  plenário do senado federal\nrelatores\nsenadora zenaide maia encerrado em 02072024 \ndeliberação da matéria",
+    "tramitação encerrada": {
+        "decisão": "aprovada pelo plenário",
+        "destino": "à câmara dos deputados",
+        "último local": "30102024  secretaria de atas e\ndiários",
+        "último estado": "04102024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "cae  comissão de assuntos econômicos\nrelatores\nsenadora zenaide maia encerrado em 25062024 \ndeliberação da matéria\nplen  plenário do senado federal\nrelatores\nsenadora zenaide maia encerrado em 02072024 \ndeliberação da matéria",
-    "Documentos": "cae  comissão de assuntos econômicos\nrelatores\nsenadora zenaide maia encerrado em 25062024 \ndeliberação da matéria\nplen  plenário do senado federal\nrelatores\nsenadora zenaide maia encerrado em 02072024 \ndeliberação da matéria"
+    "tramitação": [
+        {
+            "data": "30102024",
+            "órgão": "sfseadi  secretaria de atas e diários",
+            "situação": null,
+            "ação": "a matéria vai ao arquivo\nação"
+        },
+        {
+            "data": "30102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o ofício da câmara dos deputados n 582 de 2024 na origem que comunica a restituição do\nautógrafo do projeto de lei complementar n 72 de 2024 sancionado e convertido na lei complementar n 209 de 3 de\noutubro de 2024\na matéria vai ao arquivo\nação\npublicado no dsf páginas 161  dsf n 187\npublicado no dsf páginas 164  dsf n 187"
+        },
+        {
+            "data": "04102024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "pg\n1\natividade legislativa\nprojeto de lei complementar n 72 de 2024\ntramitação\ntransformada em norma jurídica",
+            "ação": "pr presidência da república\nsancionada lei complementar 209 de 2024\ndou diário oficial da união  04102024  seção i  págs 4 e 4\nsancionada em 03102024"
+        },
+        {
+            "data": "18092024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o ofício n 498 de 2024 da câmara dos deputados que comunica o envio à sanção do projeto de lei\ncomplementar n 72 de 2024\na matéria vai à secretaria de expediente\nação\npublicado no dsf páginas 380  dsf n 158\npublicado no dsf páginas 383  dsf n 158"
+        },
+        {
+            "data": "08072024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à câmara dos deputados",
+            "ação": "remetido ofício sf n 642 de 080724 ao senhor primeirosecretário da câmara dos deputados encaminhando autógrafo do\nprojeto para revisão nos termos do art 65 da constituição federal"
+        },
+        {
+            "data": "05072024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "02072024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovada",
+            "ação": "sessão deliberativa ordinária realizada em 02072024\nencaminhada à publicação a emenda n 2plensf aprovado o requerimento n 79 de 2024 da cae de urgência para o projeto\nde lei\né proferido pela senadora zenaide maia o parecer n 96 de 2024plensf favorável ao projeto e às emendas n 1 e 2\nencerrada a discussão da matéria\naprovado o projeto com a emenda n 2 com o seguinte resultado sim  60 não  0  presidente  1 abst  0 total  61 \nprejudicada a emenda n 1\nencaminhado à publicação e aprovado o parecer n 97 de 2024plensf da comissão diretora que oferece a redação final\na matéria vai à câmara dos deputados"
+        },
+        {
+            "data": "02072024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encerrada a relatoria da senadora zenaide maia por deliberação da matéria\nação"
+        },
+        {
+            "data": "02072024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebido o relatório da senadora zenaide maia\nação\npg\n2\natividade legislativa\nprojeto de lei complementar n 72 de 2024\ntramitação"
+        },
+        {
+            "data": "30062024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "incluída em ordem do dia",
+            "ação": "incluído em ordem do dia da sessão deliberativa ordinária de 02072024\ndesignada relatora de plenário a senadora zenaide maia\npendente de apreciação de requerimento de urgência para a matéria"
+        },
+        {
+            "data": "26062024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "recebida a emenda n 2 da senadora janaína farias\nação"
+        },
+        {
+            "data": "25062024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo apresentação de emendas a projeto que obteve parecer favorável da comissão art 235 ii d do risf de 27062024\na 03072024 perante a mesa\nação\npublicado no dsf páginas 163  dsf n 96"
+        },
+        {
+            "data": "25062024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando recebimento de emendas perante a mesa",
+            "ação": "concluída a instrução da matéria fica aberto o prazo de cinco dias úteis para recebimento de emendas nos termos do art 235\nii d do regimento interno"
+        },
+        {
+            "data": "25062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "encerrada a relatoria da senadora zenaide maia por deliberação da matéria\nação"
+        },
+        {
+            "data": "25062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "aprovado parecer na comissão",
+            "ação": "em reunião realizada nesta data a comissão aprova o relatório da senadora zenaide maia que passa a constituir o parecer da\ncae favorável ao projeto com a emenda n 1cae\naprovada também a apresentação do requerimento n 792024cae de urgência para a matéria\nanexado o parecer da comissão e o requerimento de urgência\nà slsf"
+        },
+        {
+            "data": "25062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "apresentado requerimento urgência para matéria na comissão nesta data às 1119\nação"
+        },
+        {
+            "data": "20062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "incluída na pauta da reunião",
+            "ação": "pg\n3\natividade legislativa\nprojeto de lei complementar n 72 de 2024\ntramitação\nmatéria constante da pauta da 25ª reunião da comissão de assuntos econômicos agendada para o dia 25062024"
+        },
+        {
+            "data": "18062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "pedido de vista concedido",
+            "ação": "após a leitura do relatório é concedida vista coletiva para a matéria"
+        },
+        {
+            "data": "17062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "a relatora senadora zenaide maia apresentou relatório favorável à matéria com uma emenda de sua autoria"
+        },
+        {
+            "data": "04062024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído à senadora zenaide maia para emitir relatório"
+        },
+        {
+            "data": "06052024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "aguardando designação do relator",
+            "ação": "matéria aguardando distribuição"
+        },
+        {
+            "data": "06052024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "matéria despachada",
+            "ação": "a matéria vai à comissão de assuntos econômicos"
+        },
+        {
+            "data": "30042024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando despacho",
+            "ação": "autuado o projeto de lei n 722024 complementar o projeto vai à publicação"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "plp 722024",
+            "data": "30042024",
+            "autor": "senador veneziano vital do rêgo mdbpb",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 722024 complementar o projeto vai à publicação",
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "pg\n4\natividade legislativa\nprojeto de lei complementar n 72 de 2024\ndocumentos\nmínimo constitucional em saúde\navulso inicial da matéria",
+            "data": "30042024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": "autuado o projeto de lei n 722024 complementar o projeto vai à publicação",
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "17062024",
+            "autor": "senadora zenaide maia psdrn",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": "a relatora senadora zenaide maia apresentou relatório favorável à matéria com uma emenda de sua autoria",
+            "descrição/Ementa": "da comissão de assuntos econômicos sobre o projeto de lei complementar n 72 de 2024 do senador veneziano vital do\nrêgo que altera a lei complementar n 141 de 13 de janeiro de 2012 que regulamenta o  3 do art 198 da constituição\nfederal para dispor sobre as despesas de custeio e de investimento com os hospitais universitários federais para fins de\napuração do gasto mínimo constitucional em saúde"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "18062024",
+            "autor": "comissão de assuntos econômicos",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 24ª reunião cae"
+        },
+        {
+            "documento": "req 792024  cae",
+            "data": "25062024",
+            "autor": "comissão de assuntos econômicos",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "requer nos termos dos arts 336 ii e 338 iv do regimento interno do senado federal urgência para o plp 722024"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "25062024",
+            "autor": "comissão de assuntos econômicos",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 25ª reunião cae"
+        },
+        {
+            "documento": "ps 572024  cae",
+            "data": "25062024",
+            "autor": "pg",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão de assuntos econômicos sobre o projeto de lei complementar n 72 de 2024 do senador veneziano vital do\nrêgo que altera a lei complementar n 141 de 13 de janeiro de 2012 que regulamenta o  3 do art 198 da constituição\nfederal para dispor sobre as despesas de custeio e de investimento com os hospitais universitários federais para fins de\napuração do gasto mínimo constitucional em saúde"
+        },
+        {
+            "documento": "emenda 2 plen  plp",
+            "data": "26062024",
+            "autor": "senadora janaína farias ptce",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebida a emenda n 2 da senadora janaína farias",
+            "descrição/Ementa": "emenda ao plp 722024  parecer da cae"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "02072024",
+            "autor": "senadora zenaide maia psdrn",
+            "local": "plenário do senado federal",
+            "ação legislativa": "recebido o relatório da senadora zenaide maia",
+            "descrição/Ementa": "relatório de plenário plp 722024"
+        },
+        {
+            "documento": "avulso de emendas",
+            "data": "02072024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "02072024",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "votação nominal do projeto de lei complementar n 72 de 2024 e emenda n 2"
+        },
+        {
+            "documento": "ps 962024  plen",
+            "data": "02072024",
+            "autor": "senadora zenaide maia psdrn",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n6\natividade legislativa\nprojeto de lei complementar n 72 de 2024\ndocumentos\né proferido pela senadora zenaide maia o parecer n 96 de 2024plensf favorável ao projeto e às emendas n 1 e 2\nencerrada a discussão da matéria\naprovado o projeto com a emenda n 2 com o seguinte resultado sim  60 não  0  presidente  1 abst  0 total  61 \nprejudicada a emenda n 1\nencaminhado à publicação e aprovado o parecer n 97 de 2024plensf da comissão diretora que oferece a redação final\na matéria vai à câmara dos deputados\nparecer n 96 de 2024  plensf"
+        },
+        {
+            "documento": "ps 972024  plen",
+            "data": "02072024",
+            "autor": "comissão diretora do senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "parecer n 97 de 2024  plensf"
+        },
+        {
+            "documento": "minuta",
+            "data": "05072024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "ofsf 6422024"
+        },
+        {
+            "documento": "ofsf 6422024",
+            "data": "08072024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à revisão da câmara dos deputados o projeto de lei complementar n 72 de 2024"
+        },
+        {
+            "documento": "autógrafo  plp 722024",
+            "data": "08072024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "altera a lei complementar n 141 de 13 de janeiro de 2012 que regulamenta o  3 do art 198 da constituição federal para\ndispor sobre as despesas de custeio e de investimento com os hospitais universitários federais para fins de apuração do gasto\nmínimo constitucional em saúde"
+        },
+        {
+            "documento": "pg\n7\natividade legislativa\nprojeto de lei complementar n 72 de 2024\ndocumentos\nofc 4982024  câmara dos",
+            "data": "18092024",
+            "autor": "primeirosecretário da câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica o envio à sanção do projeto de lei complementar n 72 de 2024"
+        },
+        {
+            "documento": "ofc 5822024  primeira",
+            "data": "30102024",
+            "autor": "primeirosecretário da câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica a restituição de autógrafo do projeto de lei complementar n 72 de 2024 sancionado e convertido na lei\ncomplementar n 209 de 3 de outubro de 2024"
+        }
+    ]
 }

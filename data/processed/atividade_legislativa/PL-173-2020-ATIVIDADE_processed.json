@@ -1,18 +1,364 @@
 {
-    "Atividade legislativa": "projeto de lei n 173 de 2020",
-    "Autoria": "câmara dos deputados",
-    "Iniciativa": "deputado federal eros biondini ptbmg",
-    "Ementa": "autoriza transferência de capital a título de contribuição mediante celebração de convênios entre a união e as\nassociações de proteção e assistência aos condenados apacs em atenção ao disposto no  6 do art 12 da lei n\n4320 de 17 de março de 1964",
-    "Explicação da Ementa": "permite a transferência mediante celebração de convênio de recursos da união para as",
-    "Assunto": "administração pública   terceiro setor parcerias públicoprivadas e desestatização",
-    "Despacho": "06022020\nleitura da matéria\nanálise  tramitação sucessiva instrução da matéria\nsfccj comissão de constituição justiça e cidadania\nsfcae comissão de assuntos econômicos",
-    "Relatoria": "cae  comissão de assuntos econômicos\nrelatores\nsenador magno malta encerrado em 15102024  deliberação\nda matéria\nsenador flavio azevedo relator ad hoc encerrado em\n10092024  encerrado por fim de reunião\nccj  comissão de constituição justiça e cidadania\nrelatores\nsenador alexandre silveira encerrado em 10012023  fim de\nlegislatura\nsenador magno malta encerrado em 18102023  deliberação\nda matéria\nplen  plenário do senado federal\nrelatores\nsenador antonio anastasia encerrado em 02022022 \nencerramento de mandato",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada pelo plenário",
-        "Destino": "à sanção",
-        "Último local": "28112024  secretaria de expediente",
-        "Último estado": "27112024  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei n 173 de 2020",
+    "autoria": "câmara dos deputados",
+    "iniciativa": "deputado federal eros biondini ptbmg",
+    "ementa": "autoriza transferência de capital a título de contribuição mediante celebração de convênios entre a união e as\nassociações de proteção e assistência aos condenados apacs em atenção ao disposto no  6 do art 12 da lei n\n4320 de 17 de março de 1964",
+    "explicação da ementa": "permite a transferência mediante celebração de convênio de recursos da união para as",
+    "assunto": "administração pública   terceiro setor parcerias públicoprivadas e desestatização",
+    "despacho": "06022020\nleitura da matéria\nanálise  tramitação sucessiva instrução da matéria\nsfccj comissão de constituição justiça e cidadania\nsfcae comissão de assuntos econômicos",
+    "relatoria": "cae  comissão de assuntos econômicos\nrelatores\nsenador magno malta encerrado em 15102024  deliberação\nda matéria\nsenador flavio azevedo relator ad hoc encerrado em\n10092024  encerrado por fim de reunião\nccj  comissão de constituição justiça e cidadania\nrelatores\nsenador alexandre silveira encerrado em 10012023  fim de\nlegislatura\nsenador magno malta encerrado em 18102023  deliberação\nda matéria\nplen  plenário do senado federal\nrelatores\nsenador antonio anastasia encerrado em 02022022 \nencerramento de mandato",
+    "tramitação encerrada": {
+        "decisão": "aprovada pelo plenário",
+        "destino": "à sanção",
+        "último local": "28112024  secretaria de expediente",
+        "último estado": "27112024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "cae  comissão de assuntos econômicos\nrelatores\nsenador magno malta encerrado em 15102024  deliberação\nda matéria\nsenador flavio azevedo relator ad hoc encerrado em\n10092024  encerrado por fim de reunião\nccj  comissão de constituição justiça e cidadania\nrelatores\nsenador alexandre silveira encerrado em 10012023  fim de\nlegislatura\nsenador magno malta encerrado em 18102023  deliberação\nda matéria\nplen  plenário do senado federal\nrelatores\nsenador antonio anastasia encerrado em 02022022 \nencerramento de mandato",
-    "Documentos": "cae  comissão de assuntos econômicos\nrelatores\nsenador magno malta encerrado em 15102024  deliberação\nda matéria\nsenador flavio azevedo relator ad hoc encerrado em\n10092024  encerrado por fim de reunião\nccj  comissão de constituição justiça e cidadania\nrelatores\nsenador alexandre silveira encerrado em 10012023  fim de\nlegislatura\nsenador magno malta encerrado em 18102023  deliberação\nda matéria\nplen  plenário do senado federal\nrelatores\nsenador antonio anastasia encerrado em 02022022 \nencerramento de mandato"
+    "tramitação": [
+        {
+            "data": "03122024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "remetido ofício sf n 1330 de 021224 ao senhor primeirosecretário da câmara dos deputados comunicando para os\ndevidos fins que a presidência da república encaminhou ao senado federal a mensagem n 1525 de 2024 na origem\nação\npg\n1\natividade legislativa\nprojeto de lei n 173 de 2020\ntramitação\nrestituindo autógrafos do projeto de lei n 173 de 2020 sancionado e transformado na lei n 15033 de 26 de novembro de\n2024\nà coarq"
+        },
+        {
+            "data": "28112024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhada à publicação a mensagem da presidência da república n 1525 de 2024 na origem que restitui autógrafo do\nprojeto de lei n 173 de 2020 n 16852011 na câmara dos deputados sancionado e convertido na lei n 15033 de 26 de\nnovembro de 2024\nserá feita a devida comunicação à câmara dos deputados\nação"
+        },
+        {
+            "data": "27112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "transformada em norma jurídica",
+            "ação": "pr presidência da república\nsancionada lei 15033 de 2024\ndou diário oficial da união  27112024  seção i  págs 1 e 1\nsancionada em 26112024"
+        },
+        {
+            "data": "05112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à sanção",
+            "ação": "remetido ofício sf n 1262 de 051124 ao senhor ministro de estado chefe da casa civil da presidência da república\nencaminhando a mensagem sf n 23024 ao excelentíssimo senhor presidente da república submetendo à sanção\npresidencial autógrafo do projeto\nremetido ofício sf n 1263 de 051124 ao senhor primeirosecretário da câmara dos deputados comunicando que o projeto\nfoi encaminhado à sanção presidencial"
+        },
+        {
+            "data": "31102024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "30102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovada",
+            "ação": "sessão deliberativa ordinária realizada em 30102024\nencerrada a discussão da matéria\naprovado o projeto\no projeto vai à sanção\nserá feita a devida comunicação à câmara dos deputados"
+        },
+        {
+            "data": "27102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "incluída em ordem do dia",
+            "ação": "incluído em ordem do dia da sessão deliberativa ordinária de 30102024\ndiscussão em turno único"
+        },
+        {
+            "data": "24102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "pg\n2\natividade legislativa\nprojeto de lei n 173 de 2020\ntramitação\naguardando inclusão em ordem do dia\ndiscussão em turno único\nação"
+        },
+        {
+            "data": "24102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "pronto para deliberação do plenário",
+            "ação": "encerrouse em 23 de outubro o prazo para apresentação de emendas ao projeto de lei n 173 de 2020\nnão foram apresentadas emendas perante a mesa\na matéria será incluída em ordem do dia oportunamente"
+        },
+        {
+            "data": "15102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo apresentação de emendas a projeto que obteve parecer favorável da comissão art 235 ii d do risf de 17102024\na 23102024 perante a mesa\nação\npublicado no dsf páginas 108113  dsf n 177"
+        },
+        {
+            "data": "15102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando recebimento de emendas perante a mesa",
+            "ação": "concluída a instrução da matéria fica aberto o prazo de cinco dias úteis para recebimento de emendas nos termos do art 235\nii d do regimento interno"
+        },
+        {
+            "data": "15102024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "encerrada a relatoria do senador magno malta por deliberação da matéria\nação"
+        },
+        {
+            "data": "15102024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "aprovado parecer na comissão",
+            "ação": "em reunião realizada nesta data a comissão aprova o relatório do senador magno malta que passa a constituir o parecer da\ncae favorável ao projeto\nanexado o parecer da comissão\nà slsf"
+        },
+        {
+            "data": "11102024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 57ª reunião da comissão de assuntos econômicos agendada para o dia 15102024"
+        },
+        {
+            "data": "10092024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "pedido de vista concedido",
+            "ação": "em reunião realizada em 10092024 foi concedida vista coletiva nos termos do art 132 do regimento interno do senado\nfederal"
+        },
+        {
+            "data": "05092024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 42ª reunião da comissão de assuntos econômicos agendada para o dia 10092024"
+        },
+        {
+            "data": "19082024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "o relator senador magno malta apresentou relatório favorável ao projeto"
+        },
+        {
+            "data": "17042024",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao senador magno malta para emitir relatório"
+        },
+        {
+            "data": "19102023",
+            "órgão": "cae  comissão de assuntos econômicos",
+            "situação": null,
+            "ação": "matéria aguardando distribuição\nação"
+        },
+        {
+            "data": "18102023",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": null,
+            "ação": "encerrada a relatoria do senador magno malta por deliberação da matéria\nà cae para prosseguimento da tramitação\nação"
+        },
+        {
+            "data": "18102023",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "aprovado parecer na comissão",
+            "ação": "na 41ª reunião ordinária realizada nesta data a comissão aprova o relatório do senador magno malta que passa a constituir o\nparecer da comissão favorável ao projeto"
+        },
+        {
+            "data": "03102023",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": null,
+            "ação": "recebido o relatório do senador magno malta com voto favorável ao projeto\nação"
+        },
+        {
+            "data": "29092023",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria incluída na pauta da comissão"
+        },
+        {
+            "data": "13092023",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido o relatório do senador magno malta com voto favorável ao projeto"
+        },
+        {
+            "data": "30082023",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao senador magno malta para emitir relatório"
+        },
+        {
+            "data": "02022023",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "aguardando designação do relator",
+            "ação": "matéria aguardando distribuição"
+        },
+        {
+            "data": "21122022",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": null,
+            "ação": "a proposição continua a tramitar nos termos do art 332 do regimento interno\nação"
+        },
+        {
+            "data": "24022022",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido às 9h21min o relatório do senador alexandre silveira com voto favorável ao projeto\nmatéria pronta para a pauta na comissão"
+        },
+        {
+            "data": "16022022",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "matéria com a relatoria",
+            "ação": "distribuído ao senador alexandre silveira para emitir relatório"
+        },
+        {
+            "data": "07022020",
+            "órgão": "ccj  comissão de constituição justiça e cidadania",
+            "situação": "aguardando designação do relator",
+            "ação": "matéria aguardando distribuição"
+        },
+        {
+            "data": "06022020",
+            "órgão": "sfseadi  secretaria de atas e diários",
+            "situação": "matéria lida em plenário",
+            "ação": "encaminhado à publicação\nàs ccj e cae"
+        },
+        {
+            "data": "06022020",
+            "órgão": "sfslsf  secretaria legislativa do senado federal",
+            "situação": "aguardando leitura",
+            "ação": "aguardando leitura"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "pl 1732020",
+            "data": "19122019",
+            "autor": "câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "06022020",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": "aguardando leitura",
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "24022022",
+            "autor": "senador alexandre silveira psdmg",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório ao pl 17320"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "13092023",
+            "autor": "senador magno malta ples",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": "recebido o relatório do senador magno malta com voto favorável ao projeto",
+            "descrição/Ementa": "relatório ao pl 17320  permite a transferência mediante celebração de convênio de recursos da união para as apacs \nassociações de proteção e assistência aos condenados"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "03102023",
+            "autor": "senador magno malta ples",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": "recebido o relatório do senador magno malta com voto favorável ao projeto",
+            "descrição/Ementa": "relatório pl 173 de 2020"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "18102023",
+            "autor": "comissão de constituição justiça e cidadania",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 41ª reunião ccj"
+        },
+        {
+            "documento": "pg\n6\natividade legislativa\nprojeto de lei n 173 de 2020\ndocumentos\nps 802023  ccj",
+            "data": "18102023",
+            "autor": "comissão de constituição justiça e cidadania",
+            "local": "comissão de constituição justiça e cidadania",
+            "ação legislativa": null,
+            "descrição/Ementa": "relatório pl 173 de 2020"
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "19082024",
+            "autor": "senador magno malta ples",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": "o relator senador magno malta apresentou relatório favorável ao projeto",
+            "descrição/Ementa": "da comissão de assuntos econômicos sobre o projeto de lei n 173 de 2020 que autoriza transferência de capital a título\nde contribuição mediante celebração de convênios entre a união e as associações de proteção e assistência aos condenados\napacs em atenção ao disposto no  6 do art 12 da lei n 4320 de 17 de março de 1964"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "15102024",
+            "autor": "comissão de assuntos econômicos",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 57ª reunião cae"
+        },
+        {
+            "documento": "ps 1012024  cae",
+            "data": "15102024",
+            "autor": "comissão de assuntos econômicos",
+            "local": "comissão de assuntos econômicos",
+            "ação legislativa": null,
+            "descrição/Ementa": "da comissão de assuntos econômicos sobre o projeto de lei n 173 de 2020 que autoriza transferência de capital a título\nde contribuição mediante celebração de convênios entre a união e as associações de proteção e assistência aos condenados\napacs em atenção ao disposto no  6 do art 12 da lei n 4320 de 17 de março de 1964"
+        },
+        {
+            "documento": "minuta",
+            "data": "31102024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "mpsf 2302024"
+        },
+        {
+            "documento": "mpsf 2302024",
+            "data": "05112024",
+            "autor": "presidente do senado federal",
+            "local": "pg",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à sanção o projeto de lei n 173 de 2020"
+        },
+        {
+            "documento": "ofsf 12622024",
+            "data": "05112024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha a mensagem da presidência do senado federal submetendo à sanção presidencial autógrafos do projeto de lei n\n173 de 2020"
+        },
+        {
+            "documento": "ofsf 12632024",
+            "data": "05112024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica à câmara dos deputados o encaminhamento à presidência da república do projeto de lei n 173 de 2020"
+        },
+        {
+            "documento": "autógrafo  pl 1732020",
+            "data": "05112024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "autoriza transferência de capital a título de contribuição mediante celebração de convênios entre a união e as associações de\nproteção e assistência aos condenados apacs em atenção ao disposto no  6 do art 12 da lei n 4320 de 17 de março de\n1964"
+        },
+        {
+            "documento": "msg 15252024  presidência",
+            "data": "28112024",
+            "autor": "presidência da república",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n8\natividade legislativa\nprojeto de lei n 173 de 2020\ndocumentos\nrestitui o autógrafo do projeto de lei n 173 de 2020 n 16852011 na câmara dos deputados sancionado e convertido na lei\nn 15033 de 26 de novembro de 2024"
+        },
+        {
+            "documento": "of 17272024  casa civil",
+            "data": "28112024",
+            "autor": "casa civil",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica a restituição do autógrafo sancionado e a lei n 15033 de 26 de novembro de 2024 promulgada"
+        },
+        {
+            "documento": "autógrafo restituído após",
+            "data": "28112024",
+            "autor": "presidência da república",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "autógrafo restituído pela presidência da república ao senado federal após sanção"
+        },
+        {
+            "documento": "ofsf 13302024",
+            "data": "03122024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica à câmara dos deputados o recebimento do autógrafo sancionado do projeto de lei n 1732020"
+        }
+    ]
 }

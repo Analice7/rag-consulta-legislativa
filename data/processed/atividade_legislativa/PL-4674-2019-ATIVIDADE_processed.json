@@ -1,18 +1,302 @@
 {
-    "Atividade legislativa": "projeto de lei n 4674 de 2019",
-    "Autoria": "câmara dos deputados",
-    "Iniciativa": "deputado federal rogério peninha mendonça mdbsc",
-    "Ementa": "confere ao município de jaraguá do sul no estado de santa catarina o título de capital nacional dos atiradores",
-    "Explicação da Ementa": "confere a jaraguá do sul município catarinense o título de capital nacional dos atiradores",
-    "Assunto": "honorífico   homenagem",
-    "Despacho": "23082019\nleitura da matéria\nanálise  tramitação sucessiva instrução da matéria\nsfce comissão de educação e cultura",
-    "Relatoria": "ce  comissão de educação e cultura\nrelatores\nsenador dário berger encerrado em 03122019  deliberação\nda matéria",
-    "Tramitação encerrada": {
-        "Decisão": "aprovada pelo plenário",
-        "Destino": "à sanção",
-        "Último local": "04112024  secretaria de expediente",
-        "Último estado": "04112024  transformada em\nnorma jurídica"
+    "atividade legislativa": "projeto de lei n 4674 de 2019",
+    "autoria": "câmara dos deputados",
+    "iniciativa": "deputado federal rogério peninha mendonça mdbsc",
+    "ementa": "confere ao município de jaraguá do sul no estado de santa catarina o título de capital nacional dos atiradores",
+    "explicação da ementa": "confere a jaraguá do sul município catarinense o título de capital nacional dos atiradores",
+    "assunto": "honorífico   homenagem",
+    "despacho": "23082019\nleitura da matéria\nanálise  tramitação sucessiva instrução da matéria\nsfce comissão de educação e cultura",
+    "relatoria": "ce  comissão de educação e cultura\nrelatores\nsenador dário berger encerrado em 03122019  deliberação\nda matéria",
+    "tramitação encerrada": {
+        "decisão": "aprovada pelo plenário",
+        "destino": "à sanção",
+        "último local": "04112024  secretaria de expediente",
+        "último estado": "04112024  transformada em\nnorma jurídica"
     },
-    "Tramitação": "ce  comissão de educação e cultura\nrelatores\nsenador dário berger encerrado em 03122019  deliberação\nda matéria",
-    "Documentos": "ce  comissão de educação e cultura\nrelatores\nsenador dário berger encerrado em 03122019  deliberação\nda matéria"
+    "tramitação": [
+        {
+            "data": "05112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "remetido ofício sf n 1268 de 051124 ao senhor ministro de estado chefe da casa civil da presidência da república\nencaminhando a mensagem sf n 23224 ao excelentíssimo senhor presidente da república participando a promulgação da\nlei n 15011 de 1 de novembro de 2024 nos termos do  7 do art 66 da constituição federal\nremetido ofício sf n 1269 de 051124 ao senhor primeirosecretário da câmara dos deputados comunicando que foi\npromulgada pelo senhor presidente do senado federal nos termos do  7 do art 66 da constituição federal a lei n 15011\nde 1 de novembro de 2024\nação"
+        },
+        {
+            "data": "04112024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "cn mesa\npromulgada lei n 15011 de 2024\ndou diário oficial da união  04112024  seção i  pág 1\npromulgada em 01112024\nação\npg\n1\natividade legislativa\nprojeto de lei n 4674 de 2019\ntramitação"
+        },
+        {
+            "data": "31102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado à publicação o ofício  n 1511 de 2024 na origem do ministro de estado chefe da casa civil da presidência da\nrepública que restitui para os fins do disposto no  7 do art 66 da constituição federal os autógrafos do projeto de lei n\n4674 de 2019\nação\npublicado no dsf páginas 39  dsf n 188"
+        },
+        {
+            "data": "09102024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": "remetida à sanção",
+            "ação": "remetido ofício sf n 1190 de 091024 ao senhor ministro de estado chefe da casa civil da presidência da república\nencaminhando a mensagem sf n 21124 ao excelentíssimo senhor presidente da república submetendo à sanção\npresidencial autógrafo do projeto\nremetido ofício sf n 1191 de 091024 ao senhor primeirosecretário da câmara dos deputados comunicando que o projeto\nfoi encaminhado à sanção presidencial"
+        },
+        {
+            "data": "09102024",
+            "órgão": "sfsexpe  secretaria de expediente",
+            "situação": null,
+            "ação": "anexado o texto revisado\nação"
+        },
+        {
+            "data": "08102024",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aprovada",
+            "ação": "sessão deliberativa ordinária realizada em 8 de outubro de 2024\ndiscussão encerrada\naprovado o projeto\na matéria vai à sanção\nserá feita a devida comunicação à câmara dos deputados"
+        },
+        {
+            "data": "21122022",
+            "órgão": "sfslsf  secretaria legislativa do senado federal",
+            "situação": null,
+            "ação": "a proposição continua a tramitar nos termos do art 332 do regimento interno\nação"
+        },
+        {
+            "data": "03122019",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "pronto para deliberação do plenário",
+            "ação": "aguardando inclusão em ordem do dia\ndiscussão em turno único"
+        },
+        {
+            "data": "03122019",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": null,
+            "ação": "à slsf\nação"
+        },
+        {
+            "data": "03122019",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "aprovado parecer na comissão",
+            "ação": "encerrada a relatoria do senador dário berger por deliberação da matéria"
+        },
+        {
+            "data": "03122019",
+            "órgão": "sfslsf  secretaria legislativa do senado federal",
+            "situação": null,
+            "ação": "encaminhado à ce a pedido\nação"
+        },
+        {
+            "data": "24102019",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "aguardando inclusão em ordem do dia\ndiscussão em turno único\nação"
+        },
+        {
+            "data": "24102019",
+            "órgão": "sfseadi  secretaria de atas e diários",
+            "situação": "pronto para deliberação do plenário",
+            "ação": "encerrouse em 23 de outubro o prazo para apresentação de emendas ao presente projeto não foram oferecidas emendas\na matéria será incluída em ordem do dia oportunamente"
+        },
+        {
+            "data": "23102019",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "encaminhado ao plenário para comunicação de término de prazo para apresentação de emendas\nação"
+        },
+        {
+            "data": "15102019",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando recebimento de emendas perante a mesa",
+            "ação": "concluída a instrução das matéria"
+        },
+        {
+            "data": "15102019",
+            "órgão": "plen  plenário do senado federal",
+            "situação": null,
+            "ação": "prazo apresentação de emendas a projeto que obteve parecer favorável da comissão art 235 ii d do risf de 17102019\na 23102019 perante a mesa\nação\npublicado no dsf páginas 135  dsf n 158"
+        },
+        {
+            "data": "15102019",
+            "órgão": "plen  plenário do senado federal",
+            "situação": "aguardando leitura parecer es",
+            "ação": "encaminhado ao plenário para comunicação da conclusão da instrução da matéria e abertura de prazo para apresentação de\nemenda"
+        },
+        {
+            "data": "15102019",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "aprovado parecer na comissão",
+            "ação": "em reunião realizada em 15102019  foi aprovado o relatório que passa a constituir o parecer da ce pela aprovação da\nmatéria\nà slsf"
+        },
+        {
+            "data": "11102019",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "incluída na pauta da reunião",
+            "ação": "pg\n3\natividade legislativa\nprojeto de lei n 4674 de 2019\ntramitação\nmatéria constante da pauta da 51ª reunião da comissão de educação cultura e esporte agendada para o dia 15102019"
+        },
+        {
+            "data": "08102019",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "em reunião realizada em 08102019 a apreciação da matéria foi adiada"
+        },
+        {
+            "data": "03102019",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": null,
+            "ação": "matéria constante da pauta da 50ª reunião da comissão de educação cultura e esporte agendada para o dia 08102019\nação"
+        },
+        {
+            "data": "26092019",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "incluída na pauta da reunião",
+            "ação": "matéria constante da pauta da 49ª reunião da comissão de educação cultura e esporte agendada para o dia 01102019"
+        },
+        {
+            "data": "25092019",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "pronta para a pauta na comissão",
+            "ação": "recebido o relatório do senador dário berger com voto pela aprovação do projeto fls 10 a 13"
+        },
+        {
+            "data": "23082019",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "matéria com a relatoria",
+            "ação": "avocada a relatoria pelo presidente da comissão senador dário berger art 129 do risf"
+        },
+        {
+            "data": "23082019",
+            "órgão": "ce  comissão de educação e cultura",
+            "situação": "aguardando designação do relator",
+            "ação": "matéria aguardando distribuição"
+        },
+        {
+            "data": "23082019",
+            "órgão": "sfseadi  secretaria de atas e diários",
+            "situação": "matéria lida em plenário",
+            "ação": "encaminhado à publicação\nà ce"
+        },
+        {
+            "data": "22082019",
+            "órgão": "sfslsf  secretaria legislativa do senado federal",
+            "situação": "aguardando leitura",
+            "ação": "este processado contém 9 nove folhas numeradas\naguardando leitura"
+        }
+    ],
+    "documentos": [
+        {
+            "documento": "pl 46742019",
+            "data": "21082019",
+            "autor": "câmara dos deputados",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": null
+        },
+        {
+            "documento": "avulso inicial da matéria",
+            "data": "22082019",
+            "autor": "senado federal",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": ""
+        },
+        {
+            "documento": "relatório legislativo",
+            "data": "25092019",
+            "autor": "senador dário berger mdbsc",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": "recebido o relatório do senador dário berger com voto pela aprovação do projeto fls 10 a 13",
+            "descrição/Ementa": "listagem ou relatório"
+        },
+        {
+            "documento": "listagem ou relatório",
+            "data": "15102019",
+            "autor": "comissão de educação e cultura",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": null,
+            "descrição/Ementa": "listagem ou relatório descritivolista de presença da reunião da 51ª reunião ce"
+        },
+        {
+            "documento": "ps 832019  ce",
+            "data": "15102019",
+            "autor": "comissão de educação e cultura",
+            "local": "comissão de educação e cultura",
+            "ação legislativa": null,
+            "descrição/Ementa": "mpsf 2112024"
+        },
+        {
+            "documento": "mpsf 2112024",
+            "data": "09102024",
+            "autor": "presidente do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à sanção o projeto de lei n 46742019"
+        },
+        {
+            "documento": "pg\n5\natividade legislativa\nprojeto de lei n 4674 de 2019\ndocumentos\nofsf 11902024",
+            "data": "09102024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha a mensagem da presidência do senado federal submetendo à sanção presidencial autógrafos do projeto de lei n\n46742019"
+        },
+        {
+            "documento": "ofsf 11912024",
+            "data": "09102024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica à câmara dos deputados o encaminhamento à presidência da república do projeto de lei n 46742019"
+        },
+        {
+            "documento": "minuta",
+            "data": "09102024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": "anexado o texto revisado",
+            "descrição/Ementa": "autógrafo  pl 46742019"
+        },
+        {
+            "documento": "autógrafo  pl 46742019",
+            "data": "09102024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "confere ao município de jaraguá do sul no estado de santa catarina o título de capital nacional dos atiradores"
+        },
+        {
+            "documento": "of 15112024  casa civil",
+            "data": "31102024",
+            "autor": "casa civil",
+            "local": "plenário do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "comunica a restituição do autógrafo não sancionado e não promulgado"
+        },
+        {
+            "documento": "pg\n6\natividade legislativa\nprojeto de lei n 4674 de 2019\ndocumentos\nmpsf 2322024",
+            "data": "05112024",
+            "autor": "presidente do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à presidência da república o autógrafo promulgado do projeto de lei n 4674 de 2019 nos termos dos  3 e 7 do\nart 66 da constituição federal"
+        },
+        {
+            "documento": "ofsf 12682024",
+            "data": "05112024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha a mensagem da presidência do senado federal participando a promulgação do projeto de lei n 4674 de 2019 nos\ntermos dos  3 e 7 do art 66 da constituição federal"
+        },
+        {
+            "documento": "ofsf 12692024",
+            "data": "05112024",
+            "autor": "primeirosecretário do senado federal",
+            "local": "comissão diretora do senado federal",
+            "ação legislativa": null,
+            "descrição/Ementa": "encaminha à câmara dos deputados cópia de autógrafo promulgado do projeto de lei n 4674 de 2019 nos termos dos  3 e\n7 do art 66 da constituição federal"
+        },
+        {
+            "documento": "autógrafo  pl 46742019",
+            "data": "05112024",
+            "autor": "senado federal",
+            "local": "secretaria de expediente",
+            "ação legislativa": null,
+            "descrição/Ementa": "pg\n7\natividade legislativa\nprojeto de lei n 4674 de 2019\ndocumentos\nconfere ao município de jaraguá do sul no estado de santa catarina o título de capital nacional dos atiradores"
+        }
+    ]
 }
