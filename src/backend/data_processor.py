@@ -5,25 +5,24 @@ import re
 def process_texts_in_file(data, remove_chars=r'[^\w\s]'):
     result = {}
     for key, value in data.items():
+        
         if type(value) == list:
             list_result = []
             for item in value:
-                list_result.append(process_texts_in_file(item, remove_chars))
+                list_result.append(process_texts_in_file(item))
             result[key] = list_result
-        if type(value) == dict:
-            result[key] = process_texts_in_file(value, remove_chars)
+
+        elif type(value) == dict:
+            result[key] = process_texts_in_file(value)
+
+        elif type(value) == str:
+            texto = value.lower()
+            if(key != 'link'):
+                texto = re.sub(remove_chars, '', texto)
+                texto = texto.replace("º", "")
+            result[key] = texto
         else:
-            if value:
-                if type(value) != list:
-                    texto = value.lower()
-                else:
-                    result[key] = [item.lower() if isinstance(item, str) else item for item in value]
-                if(key != 'link'):
-                    texto = re.sub(remove_chars, '', texto)
-                    texto = texto.replace("º", "")
-                result[key] = texto
-            else:
-                result[key] = value
+            result[key] = value
     return result
 
 if __name__ == "__main__":
