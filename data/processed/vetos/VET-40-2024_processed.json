@@ -1,0 +1,18 @@
+{
+    "veto": {
+        "numero": "40",
+        "ano": "2024"
+    },
+    "ementa": "veto parcial aposto ao projeto de lei n 2230 de 2022 n 37202015 na câmara dos deputados que autoriza a criação do cadastro nacional de animais domésticos",
+    "mensagem": {
+        "numero": "1665",
+        "ano": "2024"
+    },
+    "dispositivos_vetados": [
+        {
+            "dispositivo_vetado": "Alínea “e” do inciso IV do parágrafo único do art. 2º do Projeto de Lei",
+            "texto_dispositivo": "e) a categoria do animal quanto à sua função, entre as seguintes: 1. estimação; 2. entretenimento;",
+            "razao_veto": "Em que pese a boa intenção do legislador, o art. 1º do projeto de lei, que trata de seu objeto e âmbito de aplicação, se restringe a animais domésticos, entendidos como de companhia ou de estimação, o que destoaria da categoria de ‘entretenimento’ proposta na alínea ‘e’ do inciso IV do parágrafo único do art. 2º. Nesse sentido, entende-se que essa categorização não encontra respaldo no texto do projeto de lei e contraria o interesse público."
+        }
+    ]
+}
