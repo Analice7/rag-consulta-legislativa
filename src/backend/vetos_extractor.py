@@ -85,6 +85,6 @@ def process_vetos(input_folder, output_folder):
 
 # Uso do script
 if __name__ == "__main__":
-    input_folder = "./date/raw/vetos"  # Substitua pelo caminho da pasta com os PDFs
-    output_folder = "./date/extracted/vetos"
+    input_folder = "../../data/raw/vetos"  # Substitua pelo caminho da pasta com os PDFs
+    output_folder = "../../data/extracted/vetos"
     process_vetos(input_folder, output_folder)

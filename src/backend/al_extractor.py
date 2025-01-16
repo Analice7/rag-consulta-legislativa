@@ -37,9 +37,14 @@ def parse_text_to_structure(text):
         structured_data["Iniciativa"] = initiative_match.group(1)
 
     # Extrai ementa
-    ementa_match = re.search(r"Ementa:\s*(.*?)(?=\s*Assunto:|$)", text, re.DOTALL)
+    ementa_match = re.search(r"Ementa:\s*(.*?)(?=\s*Assunto:|Explicação da Ementa:|$)", text, re.DOTALL)
     if ementa_match:
         structured_data["Ementa"] = ementa_match.group(1).strip()
+
+    # Extrai explicação da ementa
+    explication_match = re.search(r"Explicação da Ementa:\s*(.+)", text)
+    if explication_match:
+        structured_data["Explicação da Ementa"] = explication_match.group(1)
 
     # Extrai o Assunto (Não mudar)
     subject_match = re.search(r"Data de Leitura:\s*([^\n]+)", text)
