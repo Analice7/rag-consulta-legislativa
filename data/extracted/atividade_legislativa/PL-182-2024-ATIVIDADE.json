@@ -1,1282 +1,711 @@
 {
-    "paginas": [
-        {},
-        {
-            "Atividade legislativa": "Projeto de Lei n° 182, de 2024",
-            "Autoria": "Câmara dos Deputados",
-            "Iniciativa": "Deputado Federal Jaime Martins (PSD/MG)",
-            "Ementa": "Institui o Sistema Brasileiro de Comércio de Emissões de Gases de Efeito Estufa (SBCE); e altera as Leis nºs 12.187, de 29\nde dezembro de 2009, 12.651, de 25 de maio de 2012 (Código Florestal), 6.385, de 7 de dezembro de 1976, 11.033, de\n21 de dezembro de 2004, e 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos).",
-            "Assunto": "Economia e Desenvolvimento  - Sistema Financeiro Nacional",
-            "Despacho": [
-                "04/11/2024",
-                "Decisão da Presidência",
-                "Ao Plenário",
-                "(SF-PLEN) Plenário do Senado Federal"
-            ],
-            "Relatoria": [
-                "PLEN - (Plenário do Senado Federal)",
-                "Relator(es):",
-                "Senadora Leila Barros (encerrado em 13/11/2024 - Matéria",
-                "deliberada no plenário)"
-            ],
-            "Tramitação encerrada": [
-                "Decisão: Aprovada pelo Plenário",
-                "Destino: À Câmara dos Deputados",
-                "Último local: 26/11/2024 - Secretaria de Expediente",
-                "Último estado: 12/12/2024 - TRANSFORMADA EM\nNORMA JURÍDICA"
-            ],
-            "Tramitação": [
-                {
-                    "Data": "12/12/2024",
-                    "Órgão": "SF-SEXPE - Secretaria de Expediente",
-                    "Situação": "TRANSFORMADA EM NORMA JURÍDICA",
-                    "Ação": "(PR) PRESIDÊNCIA DA REPÚBLICA.\nSANCIONADA. LEI 15042 DE 2024.\nDOU (Diário Oficial da União) - 12/12/2024 - Seção I - págs. 4 e 8.\nSancionada em 11/12/2024."
-                },
-                {
-                    "Data": "26/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Encaminhado à publicação o Ofício da Câmara dos Deputados nº 603, de 2024, na origem, que comunica o envio à sanção do\nProjeto de Lei nº 182, de 2024. A matéria vai à Secretaria de Expediente.\nAção:"
-                },
-                {
-                    "Data": "19/11/2024",
-                    "Órgão": "SF-SEXPE - Secretaria de Expediente",
-                    "Situação": "REMETIDA À CÂMARA DOS DEPUTADOS",
-                    "Ação": "Remetido Ofício SF nº 1291, de 18/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Senado\nFederal aprovou, em revisão, nos termos do substitutivo, o Projeto."
-                },
-                {
-                    "Data": "19/11/2024",
-                    "Órgão": "SF-SEXPE - Secretaria de Expediente",
-                    "Situação": null,
-                    "Ação": "Anexado o texto revisado.\nAção:"
-                },
-                {
-                    "Data": "13/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": "APROVADO O SUBSTITUTIVO",
-                    "Ação": "(Continuação da Sessão Deliberativa Ordinária iniciada em 12/11/2024)\nEncaminhadas à publicação as emendas nºs 52 a 58.\nEncaminhado à publicação o Parecer nº 186, de 2024-PLEN/SF, proferido pela Senadora Leila Barros, o qual é favorável ao\nprojeto e pelo acolhimento total ou parcial das emendas nºs 2, 8, 11, 13, 14, 15, 20, 24, 27, 35, 36, 38, 39, 40, 41, 42, 45, 47, 49,\n52, 54, 55, 56, 57 e 58, na forma da Emenda nº 59 (substitutivo), que apresenta, complementada com os acolhimentos de\nPlenário, e pela rejeição das demais emendas.\nPrejudicados os requerimentos nºs 745 e 765, de 2024, tendo em vista – respectivamente – os acolhimentos parciais das\nemendas nºs 8 e 42.\nEncaminhado à publicação - e prejudicado – o Requerimento nº 781, de 2024, tendo em vista o acolhimento da Emenda nº 57.\nRetirado o Requerimento nº 768, de 2024.\nEncaminhado à publicação - e retirado – o Requerimento nº 779, de 2024.\nDeferido o Requerimento nº 772, de 2024, de destaque, para votação em separado, da Emenda nº 25.\nEncaminhado à publicação - e deferido – o Requerimento nº 782, de 2024, de destaque, para votação em separado, da Emenda\nnº 58.\nEncerrada a discussão da matéria."
-                },
-                {
-                    "Data": "13/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebido o Requerimento n° 782, de 2024, da liderança do União, de destaque para votação em separado da Emenda nº 58.\nAção:"
-                },
-                {
-                    "Data": "13/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 58, do Senador Alan Rick.\nAção:"
-                },
-                {
-                    "Data": "13/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebidos, da Liderança do PL, os Requerimentos:\n- n° 780/2024, de retirada do Requerimento n° 767;\n- n° 781/2024, de destaque para votação em separado da Emenda n° 57.\nAção:"
-                },
-                {
-                    "Data": "13/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebido o Requerimento n° 779, de 2024, da liderança do REPUBLICANOS, de destaque para votação em separado da Emenda\nnº 26.\nAção:"
-                },
-                {
-                    "Data": "13/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebido o Relatório da Senadora Leila Barros.\nAção:"
-                },
-                {
-                    "Data": "13/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 57, do Marcos Rogério.\nAção:"
-                },
-                {
-                    "Data": "13/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 56, do Luis Carlos Heinze.\nAção:"
-                },
-                {
-                    "Data": "13/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 55, do Senador Carlos Portinho.\nAção:\npg\n3\n\n TRAMITAÇÃO"
-                },
-                {
-                    "Data": "13/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 54, do Senador Alan Rick.\nAção:"
-                },
-                {
-                    "Data": "13/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 53, do Senador Izalci Lucas.\nAção:"
-                },
-                {
-                    "Data": "13/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 52, do Senador Efraim Filho.\nAção:"
-                },
-                {
-                    "Data": "12/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Incluído em Ordem do Dia da continuação da Sessão Deliberativa Ordinária de 12/11/2024, a ser realizada em 13/11/2024, às\n14h.\nAção:\nPublicado no DSF Páginas 12 - DSF nº 192"
-                },
-                {
-                    "Data": "12/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "(Sessão Deliberativa Ordinária - realizada em 12/11/2024)\nEncaminhadas à publicação as Emendas nºs 25 a 51.\nRetirado pelo primeiro signatário, Senador Carlos Portinho, o RQS nº 769/24, que solicita a extinção de urgência da matéria.\nApreciação adiada.\n(Encaminhados à publicação os Requerimento nºs 769/24, 765/24, 766/24, 767/24, 768/24, 770/24 e 772/24)\nAção:\nPublicado no DSF Páginas 134-197 - DSF nº 194\nPublicado no DSF Páginas 51 - DSF nº 194"
-                },
-                {
-                    "Data": "12/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebido o Requerimento n° 772, de 2024, da liderança do PP, de destaque para votação em separado da Emenda nº 25.\nAção:"
-                },
-                {
-                    "Data": "12/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebido o Relatório da Senadora Leila Barros.\nAção:"
-                },
-                {
-                    "Data": "12/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebido o Requerimento n° 770, de 2024, da liderança do PP, de destaque para votação em separado da Emenda nº 25.\nAção:"
-                },
-                {
-                    "Data": "12/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebido o Requerimento nº 769, de 2024, de Líderes, solicitando a extinção da urgência para a matéria.\nAção:"
-                },
-                {
-                    "Data": "12/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebido o Requerimento n° 768, de 2024, da liderança do PODEMOS, de destaque para votação em separado da Emenda nº 50.\nAção:\npg\n4\n\n TRAMITAÇÃO"
-                },
-                {
-                    "Data": "12/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 51, do Senador Carlos Portinho.\nAção:"
-                },
-                {
-                    "Data": "12/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebidos, da Liderança do PL, os Requerimentos:\n- n° 765/2024, de destaque para votação em separado da Emenda n° 42;\n- n° 766/2024, de retirada dos Requerimentos n°s 747 e 748, de 2024; e\n- n° 767/2024, de destaque para votação em separado da Emenda n° 43.\nAção:"
-                },
-                {
-                    "Data": "12/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 50, da Senadora Soraya Thronicke.\nAção:"
-                },
-                {
-                    "Data": "12/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 49, do Senador Dr. Hiran.\nAção:"
-                },
-                {
-                    "Data": "12/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebidas as Emendas nºs 47e 48, do Senador Mecias de Jesus.\nAção:"
-                },
-                {
-                    "Data": "12/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebidas as Emendas nºs 44, 45 e 46, do Senador Carlos Portinho.\nAção:"
-                },
-                {
-                    "Data": "12/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 43, do Senador Marcos Rogério.\nAção:"
-                },
-                {
-                    "Data": "12/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 42, do Senador Rogério Marinho.\nAção:"
-                },
-                {
-                    "Data": "12/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 41, do Senador Alan Rick.\nAção:"
-                },
-                {
-                    "Data": "12/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 40, do Senador Jayme Campos.\nAção:"
-                },
-                {
-                    "Data": "12/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebidas as Emendas nº  38 e 39, do Senador Nelsinho Trad.\nAção:\npg\n5\n\n TRAMITAÇÃO"
-                },
-                {
-                    "Data": "12/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 37, do Senador Zequinha Marinho.\nAção:"
-                },
-                {
-                    "Data": "12/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 36, do Senador Efraim Filho.\nAção:"
-                },
-                {
-                    "Data": "11/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebido novo relatório da Senadora Leila Barros.\nAção:"
-                },
-                {
-                    "Data": "11/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 35, do Senador Laércio Oliveira.\nAção:"
-                },
-                {
-                    "Data": "11/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebidas as Emendas nºs 33 e 34, da Senadora Soraya Thronicke.\nAção:"
-                },
-                {
-                    "Data": "11/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebidas as Emendas nºs 30 a 32, do Senador Zequinha Marinho.\nAção:"
-                },
-                {
-                    "Data": "11/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 29, do Senador Jaime Bagattoli.\nAção:"
-                },
-                {
-                    "Data": "11/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 28, do Senador Esperidião Amin.\nAção:"
-                },
-                {
-                    "Data": "11/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 27, do Senador Efraim Filho.\nAção:"
-                },
-                {
-                    "Data": "11/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 26, do Senador Veneziano Vital do Rêgo.\nAção:"
-                },
-                {
-                    "Data": "10/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 12/11/2024.\nDiscussão, em turno único.\n(Matéria tramita em regime de urgência, nos termos do Requerimento nº 743, de 2024)\nAção:\npg\n6\n\n TRAMITAÇÃO"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Encaminhado à publicação o RQS nº 750, de 2024, do Senador Esperidião Amin, de retirada, em caráter definitivo, da Emenda nº\n22 apresentada ao presente Projeto.\nA Presidência defere o Requerimento.\nAção:\nPublicado no DSF Páginas 162-164 - DSF nº 191"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 25, do Senador Esperidião Amin.\nAção:"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebido o Requerimento nº 750, de 2024, do Senador Esperidião Amin, solicitando a retirada definitiva da Emenda n° 22.\nAção:\nPublicado no DSF Páginas 162-163 - DSF nº 191"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "(Sessão Deliberativa Extraordinária – Semipresencial – realizada em 05/11/2024)\nEncaminhadas à publicação as emendas nºs 1 a 24.\nAprovado o Requerimento nº 743, de 2024, por meio do qual se solicita urgência para a matéria.\nAdiada a apreciação da matéria.\n(Encaminhados a publicações os requerimentos nºs 745, 747 e 748, de 2024, de destaques)\nAção:\nPublicado no DSF Páginas 30-100 - DSF nº 191\nPublicado no DSF Páginas 20-23 - DSF nº 191"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 24, da Senadora Professora Dorinha Seabra.\nAção:"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 23, do Senador Rogerio Marinho.\nAção:"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 22, do Senador Esperidião Amin.\nAção:"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 21, do Senador Mecias de Jesus.\nAção:"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 20, da Senadora Tereza Cristina.\nAção:\npg\n7\n\n TRAMITAÇÃO"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebido o Requerimento n° 748, de 2024, da liderança do PL, de destaque para votação em separado dos §§2º e 3º do Art. 28\ndo Substitutivo da Relatora.\nAção:\nPublicado no DSF Páginas 98-100 - DSF nº 191"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 19, do Senador Luis Carlos Heinze.\nAção:"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebido o Requerimento n° 747, de 2024, da liderança do PL, de destaque para votação em separado do art. 56 do Substitutivo\nda Relatora.\nAção:\nPublicado no DSF Páginas 92-97 - DSF nº 191"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 18, do Senador Luis Carlos Heinze.\nAção:"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 17, do Senador Esperidião Amin.\nAção:"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 16, do Senador Castellar Neto.\nAção:"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebidas as Emendas nºs 13 a 15, do Senador Zequinha Marinho.\nAção:"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebidas as Emendas nºs 11 e 12, do Senador Luis Carlos Heinze.\nAção:"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebido o Requerimento n° 745, de 2024, da liderança do MDB, de destaque para votação em separado da Emenda nº 8.\nAção:\nPublicado no DSF Páginas 90-91 - DSF nº 191"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebidas as Emendas nºs 9 e 10, do Senador Mecias de Jesus.\nAção:\npg\n8\n\n TRAMITAÇÃO"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 8, do Senador Eduardo Braga.\nAção:"
-                },
-                {
-                    "Data": "05/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 7, do Senador Eduardo Gomes.\nAção:"
-                },
-                {
-                    "Data": "04/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebido o Requerimento nº 743, de 2024, de Líderes, solicitando urgência para a matéria.\nAção:\nPublicado no DSF Páginas 70-71 - DSF nº 190"
-                },
-                {
-                    "Data": "04/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 6, do Senador Sérgio Petecão.\nAção:"
-                },
-                {
-                    "Data": "04/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebidas as Emendas nºs 4 e 5, do Senador Alan Rick.\nAção:"
-                },
-                {
-                    "Data": "04/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 3, da Senadora Soraya Thronicke.\nAção:"
-                },
-                {
-                    "Data": "04/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebido o Relatório da Senadora Leila Barros.\nAção:"
-                },
-                {
-                    "Data": "04/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 2, do Senador Laércio Oliveira.\nAção:"
-                },
-                {
-                    "Data": "04/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Designada Relatora de Plenário a Senadora Leila Barros.\n(Pendente de apresentação de requerimento de urgência)\nAção:"
-                },
-                {
-                    "Data": "04/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": null,
-                    "Ação": "Recebida a Emenda nº 1, da Senadora Margareth Buzetti.\nAção:"
-                },
-                {
-                    "Data": "02/11/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": "INCLUÍDA EM ORDEM DO DIA",
-                    "Ação": "Incluído em ordem do dia da sessão deliberativa extraordinária semipresencial de 05/11/2024."
-                },
-                {
-                    "Data": "07/02/2024",
-                    "Órgão": "PLEN - Plenário do Senado Federal",
-                    "Situação": "AGUARDANDO DESPACHO",
-                    "Ação": "Autuado o Projeto de Lei nº 182/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação."
-                }
-            ],
-            "Documentos": [
-                {
-                    "Documento": "PL 182/2024",
-                    "Data": "07/02/2024",
-                    "Autor": "Câmara dos Deputados",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Autuado o Projeto de Lei nº 182/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
-                    "Descrição/Ementa": null
-                },
-                {
-                    "Documento": "Avulso inicial da matéria",
-                    "Data": "07/02/2024",
-                    "Autor": "Senado Federal",
-                    "Local": "null",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "-"
-                },
-                {
-                    "Documento": "Ofício",
-                    "Data": "27/03/2024",
-                    "Autor": "Cidadão Alexandre Victor Borges Scavardoni",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Solicita apoio e  celeridade na tramitação do PL 182/2024, que versa sobre a regulamentação do mercado de mitigação de\ncarbono e emissões de gases poluentes, bem como a possibilidade de atribuir a relatoria do referido projeto à Senadora Tereza\nCristina. Encaminha nota técnica a favor do PL."
-                },
-                {
-                    "Documento": "Correspondência Eletrônica",
-                    "Data": "24/04/2024",
-                    "Autor": "Cidadão Alexandre Victor Borges Scavardoni",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Solicitação de aprovação urgente do PL 182/2024, com emissão de nota técnica do referido projeto."
-                },
-                {
-                    "Documento": "Ofício",
-                    "Data": "12/08/2024",
-                    "Autor": "INDÚSTRIA BRASILEIRA DE ÁRVORES - IBÁ",
-                    "Local": "null",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "pg\n10\n\npg 10\nEmenta: Avulso inicial da matéria\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\nNECESSIDADE DE CORREÇÃO DO TEXTO REFERENTE À PL DE CARBONO Nº 182/2024."
-                },
-                {
-                    "Documento": "Ofício",
-                    "Data": "12/08/2024",
-                    "Autor": "FÓRUM DO MEIO AMBIENTE E SUSTENTABILIDADE DO SETOR ELÉTRICO - FMASE",
-                    "Local": "null",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Projeto de Lei nº 182/2024, que institui o Sistema Brasileiro de Comércio de Emissões de Gases de Efeito Estufa (SBCE) e altera as\nLeis nºs 12.187, de 29 de dezembro de 2009, 12.651, de 25 de maio de 2012 (Código Florestal), 6.385, de 7 de dezembro de\n1976, 11.033, de 21 de dezembro de 2004, e 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos)."
-                },
-                {
-                    "Documento": "Ofício",
-                    "Data": "17/09/2024",
-                    "Autor": "FIESP",
-                    "Local": "null",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Alerta sobre proposições que podem acarretar significativo aumento de custos para a indústria brasileira."
-                },
-                {
-                    "Documento": "EMENDA 1 PLEN - PL",
-                    "Data": "04/11/2024",
-                    "Autor": "Senadora Margareth Buzetti (PSD/MT)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 1, da Senadora Margareth Buzetti.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 - CRÉDITO DE CARBONO"
-                },
-                {
-                    "Documento": "EMENDA 2 PLEN - PL",
-                    "Data": "04/11/2024",
-                    "Autor": "Senador Laércio Oliveira (PP/SE)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 2, do Senador Laércio Oliveira.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024"
-                },
-                {
-                    "Documento": "Relatório Legislativo",
-                    "Data": "04/11/2024",
-                    "Autor": "Senadora Leila Barros (PDT/DF)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebido o Relatório da Senadora Leila Barros.",
-                    "Descrição/Ementa": "Pela aprovação do PL 182/2024, na forma de substitutivo"
-                },
-                {
-                    "Documento": "EMENDA 4 PLEN - PL",
-                    "Data": "04/11/2024",
-                    "Autor": "Senador Alan Rick (UNIÃO/AC)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nºs 4 e 5, do Senador Alan Rick.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 - Setores Estratégicos"
-                },
-                {
-                    "Documento": "pg\n11\n\npg 11\nEmenta: Ofício\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\nEMENDA 3 PLEN - PL",
-                    "Data": "04/11/2024",
-                    "Autor": "Senadora Soraya Thronicke (PODEMOS/MS)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 3, da Senadora Soraya Thronicke.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 CRVE"
-                },
-                {
-                    "Documento": "EMENDA 5 PLEN - PL",
-                    "Data": "04/11/2024",
-                    "Autor": "Senador Alan Rick (UNIÃO/AC)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nºs 4 e 5, do Senador Alan Rick.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 - Ganhos de Intensidade"
-                },
-                {
-                    "Documento": "EMENDA 6 PLEN - PL",
-                    "Data": "04/11/2024",
-                    "Autor": "Senador Sérgio Petecão (PSD/AC)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 6, do Senador Sérgio Petecão.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 - responsável técnico"
-                },
-                {
-                    "Documento": "RQS 743/2024",
-                    "Data": "04/11/2024",
-                    "Autor": "Líder do Bloco Parlamentar da Resistência Democrática Otto Alencar (PSD/BA), Líder do Bloco Parlamentar Aliança Laércio",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebido o Requerimento nº 743, de 2024, de Líderes, solicitando urgência para a matéria.",
-                    "Descrição/Ementa": "Requer urgência para o Projeto de Lei nº 182/2024, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado\nFederal."
-                },
-                {
-                    "Documento": "EMENDA 8 PLEN - PL",
-                    "Data": "05/11/2024",
-                    "Autor": "Senador Eduardo Braga (MDB/AM)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 8, do Senador Eduardo Braga.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 (§ 6º, art. 43)"
-                },
-                {
-                    "Documento": "EMENDA 7 PLEN - PL",
-                    "Data": "05/11/2024",
-                    "Autor": "Senador Eduardo Gomes (PL/TO)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 7, do Senador Eduardo Gomes.",
-                    "Descrição/Ementa": "pg\n12\n\npg 12\nEmenta: EMENDA 5 PLEN - PL\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\nEmenda  ao substitutivo do PL 182/2024"
-                },
-                {
-                    "Documento": "EMENDA 13 PLEN - PL",
-                    "Data": "05/11/2024",
-                    "Autor": "Senador Zequinha Marinho (PODEMOS/PA)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nºs 13 a 15, do Senador Zequinha Marinho.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 - FPA 3"
-                },
-                {
-                    "Documento": "EMENDA 14 PLEN - PL",
-                    "Data": "05/11/2024",
-                    "Autor": "Senador Zequinha Marinho (PODEMOS/PA)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nºs 13 a 15, do Senador Zequinha Marinho.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 - 4"
-                },
-                {
-                    "Documento": "EMENDA 15 PLEN - PL",
-                    "Data": "05/11/2024",
-                    "Autor": "Senador Zequinha Marinho (PODEMOS/PA)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nºs 13 a 15, do Senador Zequinha Marinho.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 - FPA"
-                },
-                {
-                    "Documento": "EMENDA 9 PLEN - PL",
-                    "Data": "05/11/2024",
-                    "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nºs 9 e 10, do Senador Mecias de Jesus.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024"
-                },
-                {
-                    "Documento": "EMENDA 10 PLEN - PL",
-                    "Data": "05/11/2024",
-                    "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nºs 9 e 10, do Senador Mecias de Jesus.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024"
-                },
-                {
-                    "Documento": "RQS 745/2024",
-                    "Data": "05/11/2024",
-                    "Autor": "Líder do MDB Eduardo Braga (MDB/AM)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebido o Requerimento n° 745, de 2024, da liderança do MDB, de destaque para votação em separado da Emenda nº 8.",
-                    "Descrição/Ementa": "pg\n13\n\npg 13\nEmenta: EMENDA 13 PLEN - PL\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\nRequer, pela Liderança do Movimento Democrático Brasileiro (MDB), destaque para votação em separado da Emenda nº 8 ao\nProjeto de Lei nº 182/2024."
-                },
-                {
-                    "Documento": "EMENDA 11 PLEN - PL",
-                    "Data": "05/11/2024",
-                    "Autor": "Senador Luis Carlos Heinze (PP/RS)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nºs 11 e 12, do Senador Luis Carlos Heinze.",
-                    "Descrição/Ementa": "Emenda  01 PL 182/2024"
-                },
-                {
-                    "Documento": "EMENDA 12 PLEN - PL",
-                    "Data": "05/11/2024",
-                    "Autor": "Senador Luis Carlos Heinze (PP/RS)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nºs 11 e 12, do Senador Luis Carlos Heinze.",
-                    "Descrição/Ementa": "Emenda  02 - PL 182/2024"
-                },
-                {
-                    "Documento": "EMENDA 16 PLEN - PL",
-                    "Data": "05/11/2024",
-                    "Autor": "Senador Castellar Neto (PP/MG)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 16, do Senador Castellar Neto.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 - aplicação de 1% das reservas técnicas de seguradoras"
-                },
-                {
-                    "Documento": "EMENDA 17 PLEN - PL",
-                    "Data": "05/11/2024",
-                    "Autor": "Senador Esperidião Amin (PP/SC)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 17, do Senador Esperidião Amin.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 Multas"
-                },
-                {
-                    "Documento": "RQS 747/2024",
-                    "Data": "05/11/2024",
-                    "Autor": "Líder do PL Izalci Lucas (PL/DF)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Requer, pela Liderança do Partido Liberal (PL), destaque para votação em separado do art. 56 do Substitutivo ao Projeto de Lei\nnº 182/2024."
-                },
-                {
-                    "Documento": "EMENDA 20 PLEN - PL",
-                    "Data": "05/11/2024",
-                    "Autor": "Senadora Tereza Cristina (PP/MS)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024"
-                },
-                {
-                    "Documento": "EMENDA 21 PLEN - PL",
-                    "Data": "05/11/2024",
-                    "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 21, do Senador Mecias de Jesus.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024"
-                },
-                {
-                    "Documento": "EMENDA 18 PLEN - PL",
-                    "Data": "05/11/2024",
-                    "Autor": "Senador Luis Carlos Heinze (PP/RS)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 18, do Senador Luis Carlos Heinze.",
-                    "Descrição/Ementa": "Emenda  03 - PL 182/2024"
-                },
-                {
-                    "Documento": "EMENDA 19 PLEN - PL",
-                    "Data": "05/11/2024",
-                    "Autor": "Senador Luis Carlos Heinze (PP/RS)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 19, do Senador Luis Carlos Heinze.",
-                    "Descrição/Ementa": "Emenda 04 - PL 182/2024"
-                },
-                {
-                    "Documento": "OF 197/2024 - Gabinete do",
-                    "Data": "05/11/2024",
-                    "Autor": "Senador Eduardo Girão (NOVO/CE)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Declaração de voto contrário ao PL 182/2024."
-                },
-                {
-                    "Documento": "RQS 748/2024",
-                    "Data": "05/11/2024",
-                    "Autor": "Líder do PL Izalci Lucas (PL/DF)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Requer, pela Liderança do Partido Liberal (PL), destaque para votação em separado dos §§2º e 3º do Art. 28 do Substitutivo ao\nProjeto de Lei nº 182/2024."
-                },
-                {
-                    "Documento": "EMENDA 22 PLEN - PL",
-                    "Data": "05/11/2024",
-                    "Autor": "Senador Esperidião Amin (PP/SC)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 carvão"
-                },
-                {
-                    "Documento": "EMENDA 23 PLEN - PL",
-                    "Data": "05/11/2024",
-                    "Autor": "Senador Rogerio Marinho (PL/RN)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 23, do Senador Rogerio Marinho.",
-                    "Descrição/Ementa": "Metodologias internacionais consagradas"
-                },
-                {
-                    "Documento": "EMENDA 24 PLEN - PL",
-                    "Data": "05/11/2024",
-                    "Autor": "Senadora Professora Dorinha Seabra (UNIÃO/TO)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 24, da Senadora Professora Dorinha Seabra.",
-                    "Descrição/Ementa": "Emenda ao PL 182_2024"
-                },
-                {
-                    "Documento": "Avulso de emendas",
-                    "Data": "05/11/2024",
-                    "Autor": "Senado Federal",
-                    "Local": "null",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "-"
-                },
-                {
-                    "Documento": "Ofício",
-                    "Data": "05/11/2024",
-                    "Autor": "OUVIDSF - OUVIDORIA DO SENADO FEDERAL",
-                    "Local": "null",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Manifestação recebida na Ouvidoria do Senado - Autuação 2814870"
-                },
-                {
-                    "Documento": "RQS 750/2024",
-                    "Data": "05/11/2024",
-                    "Autor": "Senador Esperidião Amin (PP/SC)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebido o Requerimento nº 750, de 2024, do Senador Esperidião Amin, solicitando a retirada definitiva da Emenda n° 22.",
-                    "Descrição/Ementa": "Requer a retirada definitiva da Emenda nº 22 ao Projeto de Lei nº 182/2024."
-                },
-                {
-                    "Documento": "EMENDA 25 PLEN - PL",
-                    "Data": "05/11/2024",
-                    "Autor": "Senador Esperidião Amin (PP/SC)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 25, do Senador Esperidião Amin.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 Carbono Sustentável - ajustada"
-                },
-                {
-                    "Documento": "pg\n16\n\npg 16\nEmenta: EMENDA 23 PLEN - PL\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\nEMENDA 26 PLEN - PL",
-                    "Data": "11/11/2024",
-                    "Autor": "Senador Veneziano Vital do Rêgo (MDB/PB)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 26, do Senador Veneziano Vital do Rêgo.",
-                    "Descrição/Ementa": "Emenda  PL 182/2024 mecanismos de precificação"
-                },
-                {
-                    "Documento": "EMENDA 27 PLEN - PL",
-                    "Data": "11/11/2024",
-                    "Autor": "Senador Efraim Filho (UNIÃO/PB)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 27, do Senador Efraim Filho.",
-                    "Descrição/Ementa": "Emenda ao Substitutivo do PL 182/2024 - conceito de crédito de carbono"
-                },
-                {
-                    "Documento": "EMENDA 28 PLEN - PL",
-                    "Data": "11/11/2024",
-                    "Autor": "Senador Esperidião Amin (PP/SC)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 28, do Senador Esperidião Amin.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 transferência de crédito internacional"
-                },
-                {
-                    "Documento": "EMENDA 30 PLEN - PL",
-                    "Data": "11/11/2024",
-                    "Autor": "Senador Zequinha Marinho (PODEMOS/PA)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nºs 30 a 32, do Senador Zequinha Marinho.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024"
-                },
-                {
-                    "Documento": "EMENDA 31 PLEN - PL",
-                    "Data": "11/11/2024",
-                    "Autor": "Senador Zequinha Marinho (PODEMOS/PA)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nºs 30 a 32, do Senador Zequinha Marinho.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024"
-                },
-                {
-                    "Documento": "EMENDA 32 PLEN - PL",
-                    "Data": "11/11/2024",
-                    "Autor": "Senador Zequinha Marinho (PODEMOS/PA)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nºs 30 a 32, do Senador Zequinha Marinho.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 -"
-                },
-                {
-                    "Documento": "pg\n17\n\npg 17\nEmenta: EMENDA 27 PLEN - PL\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\nEMENDA 29 PLEN - PL",
-                    "Data": "11/11/2024",
-                    "Autor": "Senador Jaime Bagattoli (PL/RO)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 29, do Senador Jaime Bagattoli.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024"
-                },
-                {
-                    "Documento": "EMENDA 33 PLEN - PL",
-                    "Data": "11/11/2024",
-                    "Autor": "Senadora Soraya Thronicke (PODEMOS/MS)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nºs 33 e 34, da Senadora Soraya Thronicke.",
-                    "Descrição/Ementa": "Emenda 2 ao PL 182/2024 ABBI"
-                },
-                {
-                    "Documento": "EMENDA 34 PLEN - PL",
-                    "Data": "11/11/2024",
-                    "Autor": "Senadora Soraya Thronicke (PODEMOS/MS)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nºs 33 e 34, da Senadora Soraya Thronicke.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 supressão §§3 e 4 do art 28"
-                },
-                {
-                    "Documento": "EMENDA 35 PLEN - PL",
-                    "Data": "11/11/2024",
-                    "Autor": "Senador Laércio Oliveira (PP/SE)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 35, do Senador Laércio Oliveira.",
-                    "Descrição/Ementa": "EM | Emenda  ao PL 182/2024_art 30 §3º"
-                },
-                {
-                    "Documento": "Relatório Legislativo",
-                    "Data": "11/11/2024",
-                    "Autor": "Senadora Leila Barros (PDT/DF)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebido novo relatório da Senadora Leila Barros.",
-                    "Descrição/Ementa": "pela aprovação do PL 182 de 2024, ne forma de substitutivo"
-                },
-                {
-                    "Documento": "EMENDA 36 PLEN - PL",
-                    "Data": "12/11/2024",
-                    "Autor": "Senador Efraim Filho (UNIÃO/PB)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 36, do Senador Efraim Filho.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 - art. 43, § 5º - obrigatoriedade da escrituração do contrato"
-                },
-                {
-                    "Documento": "pg\n18\n\npg 18\nEmenta: EMENDA 33 PLEN - PL\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\nEMENDA 37 PLEN - PL",
-                    "Data": "12/11/2024",
-                    "Autor": "Senador Zequinha Marinho (PODEMOS/PA)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 37, do Senador Zequinha Marinho.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024"
-                },
-                {
-                    "Documento": "EMENDA 38 PLEN - PL",
-                    "Data": "12/11/2024",
-                    "Autor": "Senador Nelsinho Trad (PSD/MS)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nº  38 e 39, do Senador Nelsinho Trad.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 - Credito de Carbono"
-                },
-                {
-                    "Documento": "EMENDA 39 PLEN - PL",
-                    "Data": "12/11/2024",
-                    "Autor": "Senador Nelsinho Trad (PSD/MS)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nº  38 e 39, do Senador Nelsinho Trad.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 - Credito de Carbono"
-                },
-                {
-                    "Documento": "EMENDA 40 PLEN - PL",
-                    "Data": "12/11/2024",
-                    "Autor": "Senador Jayme Campos (UNIÃO/MT)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 40, do Senador Jayme Campos.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024"
-                },
-                {
-                    "Documento": "EMENDA 41 PLEN - PL",
-                    "Data": "12/11/2024",
-                    "Autor": "Senador Alan Rick (UNIÃO/AC)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 41, do Senador Alan Rick.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 - Tratamento de Resíduos"
-                },
-                {
-                    "Documento": "EMENDA 42 PLEN - PL",
-                    "Data": "12/11/2024",
-                    "Autor": "Senador Rogerio Marinho (PL/RN)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 42, do Senador Rogério Marinho.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 - oitiva dos setores regulados"
-                },
-                {
-                    "Documento": "pg\n19\n\npg 19\nEmenta: EMENDA 38 PLEN - PL\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\nEMENDA 43 PLEN - PL",
-                    "Data": "12/11/2024",
-                    "Autor": "Senador Marcos Rogério (PL/RO)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 43, do Senador Marcos Rogério.",
-                    "Descrição/Ementa": "Emenda ao substitutivo apresentado ao PL nº 182/2024 (recebimento de receitas sobre vegetação existente)"
-                },
-                {
-                    "Documento": "EMENDA 44 PLEN - PL",
-                    "Data": "12/11/2024",
-                    "Autor": "Senador Carlos Portinho (PL/RJ)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nºs 44, 45 e 46, do Senador Carlos Portinho.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 art 1º incluir § 6º"
-                },
-                {
-                    "Documento": "EMENDA 45 PLEN - PL",
-                    "Data": "12/11/2024",
-                    "Autor": "Senador Carlos Portinho (PL/RJ)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nºs 44, 45 e 46, do Senador Carlos Portinho.",
-                    "Descrição/Ementa": "Emenda parag. 1, do art. 21 -  ao PL 182/2024"
-                },
-                {
-                    "Documento": "EMENDA 46 PLEN - PL",
-                    "Data": "12/11/2024",
-                    "Autor": "Senador Carlos Portinho (PL/RJ)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nºs 44, 45 e 46, do Senador Carlos Portinho.",
-                    "Descrição/Ementa": "Emenda  ao 2 do PL 182/2024"
-                },
-                {
-                    "Documento": "EMENDA 50 PLEN - PL",
-                    "Data": "12/11/2024",
-                    "Autor": "Senadora Soraya Thronicke (PODEMOS/MS)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 50, da Senadora Soraya Thronicke.",
-                    "Descrição/Ementa": "Emenda art. 56 do PL 182/2024"
-                },
-                {
-                    "Documento": "EMENDA 47 PLEN - PL",
-                    "Data": "12/11/2024",
-                    "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nºs 47e 48, do Senador Mecias de Jesus.",
-                    "Descrição/Ementa": "Emenda limites ao PL 182/2024"
-                },
-                {
-                    "Documento": "pg\n20\n\npg 20\nEmenta: EMENDA 44 PLEN - PL\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\nEMENDA 48 PLEN - PL",
-                    "Data": "12/11/2024",
-                    "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebidas as Emendas nºs 47e 48, do Senador Mecias de Jesus.",
-                    "Descrição/Ementa": "Emenda limites v3 ao PL 182/2024"
-                },
-                {
-                    "Documento": "EMENDA 49 PLEN - PL",
-                    "Data": "12/11/2024",
-                    "Autor": "Senador Dr. Hiran (PP/RR)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 49, do Senador Dr. Hiran.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 - Isonomia para tratamento de carbono produtos nacionais e importados."
-                },
-                {
-                    "Documento": "RQS 765/2024",
-                    "Data": "12/11/2024",
-                    "Autor": "Líder do PL Carlos Portinho (PL/RJ)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Requer, pela Liderança do PL, destaque para votação em separado do Emenda n° 42 ao Projeto de Lei nº 182/2024."
-                },
-                {
-                    "Documento": "RQS 766/2024",
-                    "Data": "12/11/2024",
-                    "Autor": "Líder do PL Carlos Portinho (PL/RJ)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Requer a retirada definitiva dos requerimentos n°s 747 e 748, de 2024."
-                },
-                {
-                    "Documento": "RQS 767/2024",
-                    "Data": "12/11/2024",
-                    "Autor": "Líder do PL Carlos Portinho (PL/RJ)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Requer, pela Liderança do Partido Liberal, destaque para votação em separado da Emenda nº 43 ao Projeto de Lei nº 182/2024."
-                },
-                {
-                    "Documento": "EMENDA 51 PLEN - PL",
-                    "Data": "12/11/2024",
-                    "Autor": "pg",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 51, do Senador Carlos Portinho.",
-                    "Descrição/Ementa": "Emenda supressiva questão dos seguros ao PL 182/2024"
-                },
-                {
-                    "Documento": "RQS 768/2024",
-                    "Data": "12/11/2024",
-                    "Autor": "Líder do PODEMOS Rodrigo Cunha (PODEMOS/AL)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebido o Requerimento n° 768, de 2024, da liderança do PODEMOS, de destaque para votação em separado da Emenda nº 50.",
-                    "Descrição/Ementa": "Requer, pela Liderança do Podemos, destaque para votação em separado da Emenda nº 50 ao Projeto de Lei nº 182/2024."
-                },
-                {
-                    "Documento": "RQS 769/2024",
-                    "Data": "12/11/2024",
-                    "Autor": "Líder do PL Carlos Portinho (PL/RJ), Líder do Bloco Parlamentar Independência Styvenson Valentim (PODEMOS/RN), Líder do",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebido o Requerimento nº 769, de 2024, de Líderes, solicitando a extinção da urgência para a matéria.",
-                    "Descrição/Ementa": "Requer a extinção de urgência para o Projeto de Lei nº 182/2024, nos termos do art. 352, II, e parágrafo único, II, do Regimento\nInterno do Senado Federal."
-                },
-                {
-                    "Documento": "RQS 770/2024",
-                    "Data": "12/11/2024",
-                    "Autor": "Senador Laércio Oliveira (PP/SE)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebido o Requerimento n° 770, de 2024, da liderança do PP, de destaque para votação em separado da Emenda nº 25.",
-                    "Descrição/Ementa": "Requer, pela Liderança do PP, destaque para votação em separado da Emenda n° 25 ao Projeto de Lei nº 182/2024."
-                },
-                {
-                    "Documento": "Relatório Legislativo",
-                    "Data": "12/11/2024",
-                    "Autor": "Senadora Leila Barros (PDT/DF)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebido o Relatório da Senadora Leila Barros.",
-                    "Descrição/Ementa": "parecer favorável ao PL 182/24, na forma de substitutivo"
-                },
-                {
-                    "Documento": "RQS 772/2024",
-                    "Data": "12/11/2024",
-                    "Autor": "Líder do Bloco Parlamentar Aliança Laércio Oliveira (PP/SE)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebido o Requerimento n° 772, de 2024, da liderança do PP, de destaque para votação em separado da Emenda nº 25.",
-                    "Descrição/Ementa": "Requer, pela Liderança do PP, destaque para votação em separado da Emenda n° 25 ao Projeto de Lei nº 182/2024."
-                },
-                {
-                    "Documento": "Avulso de emendas\npg\n22\n\npg 22\nEmenta: RQS 768/2024\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS",
-                    "Data": "12/11/2024",
-                    "Autor": "Senado Federal",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "-"
-                },
-                {
-                    "Documento": "EMENDA 52 PLEN - PL",
-                    "Data": "13/11/2024",
-                    "Autor": "Senador Efraim Filho (UNIÃO/PB)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 52, do Senador Efraim Filho.",
-                    "Descrição/Ementa": "Emenda ao art. 26 do Substitutivo"
-                },
-                {
-                    "Documento": "EMENDA 53 PLEN - PL",
-                    "Data": "13/11/2024",
-                    "Autor": "Senador Izalci Lucas (PL/DF)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 53, do Senador Izalci Lucas.",
-                    "Descrição/Ementa": "Emenda 1 ao PL 182/2024"
-                },
-                {
-                    "Documento": "EMENDA 54 PLEN - PL",
-                    "Data": "13/11/2024",
-                    "Autor": "Senador Alan Rick (UNIÃO/AC)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 54, do Senador Alan Rick.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024"
-                },
-                {
-                    "Documento": "EMENDA 55 PLEN - PL",
-                    "Data": "13/11/2024",
-                    "Autor": "Senador Carlos Portinho (PL/RJ)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 55, do Senador Carlos Portinho.",
-                    "Descrição/Ementa": "Emenda ao art. 56 do subs ao PL 182/2024 - autorizativa investimento seguro"
-                },
-                {
-                    "Documento": "EMENDA 56 PLEN - PL",
-                    "Data": "13/11/2024",
-                    "Autor": "Senador Luis Carlos Heinze (PP/RS)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 56, do Luis Carlos Heinze.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024 resíduos"
-                },
-                {
-                    "Documento": "EMENDA 57 PLEN - PL",
-                    "Data": "13/11/2024",
-                    "Autor": "pg",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 57, do Marcos Rogério.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024- Art 43 acrescentando o §17"
-                },
-                {
-                    "Documento": "Relatório Legislativo",
-                    "Data": "13/11/2024",
-                    "Autor": "Senadora Leila Barros (PDT/DF)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebido o Relatório da Senadora Leila Barros.",
-                    "Descrição/Ementa": "pela aprovação do PL 182/2024"
-                },
-                {
-                    "Documento": "RQS 779/2024",
-                    "Data": "13/11/2024",
-                    "Autor": "Líder do REPUBLICANOS Mecias de Jesus (REPUBLICANOS/RR)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Requer, pela Liderança do REPUBLICANOS, destaque para votação em separado da Emenda nº 26 ao PL 182/2024."
-                },
-                {
-                    "Documento": "RQS 780/2024",
-                    "Data": "13/11/2024",
-                    "Autor": "Líder do PL Carlos Portinho (PL/RJ)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Requer a retirada definitiva do Requerimento nº 767 de 2024."
-                },
-                {
-                    "Documento": "RQS 781/2024",
-                    "Data": "13/11/2024",
-                    "Autor": "Líder do PL Carlos Portinho (PL/RJ)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Requer, pela Liderança do PL, destaque para votação em separado da Emenda nº 57 ao Projeto de Lei nº 182/2024."
-                },
-                {
-                    "Documento": "EMENDA 58 PLEN - PL",
-                    "Data": "13/11/2024",
-                    "Autor": "Senador Alan Rick (UNIÃO/AC)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebida a Emenda nº 58, do Senador Alan Rick.",
-                    "Descrição/Ementa": "Emenda  ao PL 182/2024"
-                },
-                {
-                    "Documento": "pg\n24\n\npg 24\nEmenta: Relatório Legislativo\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\nRQS 782/2024",
-                    "Data": "13/11/2024",
-                    "Autor": "Líder do UNIÃO Efraim Filho (UNIÃO/PB)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": "Recebido o Requerimento n° 782, de 2024, da liderança do União, de destaque para votação em separado da Emenda nº 58.",
-                    "Descrição/Ementa": "Requer, pela Liderança do União, destaque para votação em separado da Emenda nº 58 ao Projeto de Lei nº 182/2024."
-                },
-                {
-                    "Documento": "Listagem ou relatório",
-                    "Data": "13/11/2024",
-                    "Autor": "Senado Federal",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Votação nominal da Emenda nº 58 ao Substitutivo da Relatora ao Projeto de Lei nº 182, de 2024, destacada"
-                },
-                {
-                    "Documento": "EMENDA 59 PLEN - PL",
-                    "Data": "13/11/2024",
-                    "Autor": "Senadora Leila Barros (PDT/DF)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Emenda nº 59 (substitutivo da relatora) - Parecer nº 186, de 2024-PLEN/SF."
-                },
-                {
-                    "Documento": "P.S 186/2024 - PLEN",
-                    "Data": "13/11/2024",
-                    "Autor": "Senadora Leila Barros (PDT/DF)",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Parecer nº 186, de 2024-PLEN/SF, com complemento por notas taquigráficas."
-                },
-                {
-                    "Documento": "P.S 187/2024 - PLEN",
-                    "Data": "13/11/2024",
-                    "Autor": "Comissão Diretora do Senado Federal",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "pg\n25\n\npg 25\nEmenta: Listagem ou relatório\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\n69.\nEncaminhado à publicação o Parecer nº 187, de 2024-PLEN/SF, da Comissão Diretora, oferecendo a redação para o turno\nsuplementar.\nEncerrada a discussão em turno suplementar, sem emendas, o substitutivo é dado como definitivamente adotado, sem votação.\nA matéria retorna à Câmara dos Deputados.\nParecer nº 187/2024-CDIR"
-                },
-                {
-                    "Documento": "Avulso de emendas",
-                    "Data": "13/11/2024",
-                    "Autor": "Senado Federal",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "-"
-                },
-                {
-                    "Documento": "OFSF 1291/2024",
-                    "Data": "19/11/2024",
-                    "Autor": "Primeiro-Secretário do Senado Federal",
-                    "Local": "Comissão Diretora do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Encaminha à revisão da Câmara dos Deputados o Substitutivo do Projeto de Lei n° 182, de 2024."
-                },
-                {
-                    "Documento": "Minuta",
-                    "Data": "19/11/2024",
-                    "Autor": "Senado Federal",
-                    "Local": "Secretaria de Expediente",
-                    "Ação Legislativa": "Anexado o texto revisado.",
-                    "Descrição/Ementa": "Autógrafo - PL 182/2024"
-                },
-                {
-                    "Documento": "Autógrafo - PL 182/2024",
-                    "Data": "19/11/2024",
-                    "Autor": "Senado Federal",
-                    "Local": "Secretaria de Expediente",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Institui o Sistema Brasileiro de Comércio de Emissões de Gases de Efeito Estufa (SBCE); e altera as Leis nºs 12.187, de 29 de\ndezembro de 2009, 12.651, de 25 de maio de 2012 (Código Florestal), 6.385, de 7 de dezembro de 1976, 11.033, de 21 de\ndezembro de 2004, e 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos)."
-                },
-                {
-                    "Documento": "OF. 603/2024 - Câmara dos",
-                    "Data": "26/11/2024",
-                    "Autor": "Primeiro-Secretário da Câmara dos Deputados",
-                    "Local": "Plenário do Senado Federal",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Comunica o envio à sanção do Projeto de Lei nº 182, de 2024."
-                },
-                {
-                    "Documento": "Quadro Comparativo",
-                    "Data": "26/11/2024",
-                    "Autor": "Congresso Nacional",
-                    "Local": "pg",
-                    "Ação Legislativa": null,
-                    "Descrição/Ementa": "Comparação entre a legislação vigente, o texto aprovado na Câmara dos Deputados e o substitutivo aprovado pelo Senado\nFederal."
-                }
-            ]
+    "Atividade legislativa": "Projeto de Lei n° 182, de 2024",
+    "Autoria": "Câmara dos Deputados",
+    "Iniciativa": "Deputado Federal Jaime Martins (PSD/MG)",
+    "Ementa": "Institui o Sistema Brasileiro de Comércio de Emissões de Gases de Efeito Estufa (SBCE); e altera as Leis nºs 12.187, de 29\nde dezembro de 2009, 12.651, de 25 de maio de 2012 (Código Florestal), 6.385, de 7 de dezembro de 1976, 11.033, de\n21 de dezembro de 2004, e 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos).",
+    "Assunto": "Economia e Desenvolvimento  - Sistema Financeiro Nacional",
+    "Despacho": "04/11/2024\nDecisão da Presidência\nAo Plenário\n(SF-PLEN) Plenário do Senado Federal",
+    "Relatoria": "PLEN - (Plenário do Senado Federal)\nRelator(es):\nSenadora Leila Barros (encerrado em 13/11/2024 - Matéria\ndeliberada no plenário)",
+    "Tramitação encerrada": {
+        "Decisão": "Aprovada pelo Plenário",
+        "Destino": "À Câmara dos Deputados",
+        "Último local": "26/11/2024 - Secretaria de Expediente",
+        "Último estado": "12/12/2024 - TRANSFORMADA EM\nNORMA JURÍDICA"
+    },
+    "Tramitação": {
+        "12/12/2024": {
+            "Órgão": "SF-SEXPE - Secretaria de Expediente",
+            "Situação": "TRANSFORMADA EM NORMA JURÍDICA",
+            "Ação": "(PR) PRESIDÊNCIA DA REPÚBLICA.\nSANCIONADA. LEI 15042 DE 2024.\nDOU (Diário Oficial da União) - 12/12/2024 - Seção I - págs. 4 e 8.\nSancionada em 11/12/2024."
+        },
+        "26/11/2024": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Encaminhado à publicação o Ofício da Câmara dos Deputados nº 603, de 2024, na origem, que comunica o envio à sanção do\nProjeto de Lei nº 182, de 2024. A matéria vai à Secretaria de Expediente.\nAção:"
+        },
+        "19/11/2024": {
+            "Órgão": "SF-SEXPE - Secretaria de Expediente",
+            "Situação": null,
+            "Ação": "Anexado o texto revisado.\nAção:"
+        },
+        "13/11/2024": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebida a Emenda nº 52, do Senador Efraim Filho.\nAção:"
+        },
+        "12/11/2024": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebida a Emenda nº 36, do Senador Efraim Filho.\nAção:"
+        },
+        "11/11/2024": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebida a Emenda nº 26, do Senador Veneziano Vital do Rêgo.\nAção:"
+        },
+        "10/11/2024": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 12/11/2024.\nDiscussão, em turno único.\n(Matéria tramita em regime de urgência, nos termos do Requerimento nº 743, de 2024)\nAção:\npg\n6\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nTRAMITAÇÃO"
+        },
+        "05/11/2024": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebida a Emenda nº 7, do Senador Eduardo Gomes.\nAção:"
+        },
+        "04/11/2024": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebida a Emenda nº 1, da Senadora Margareth Buzetti.\nAção:"
+        },
+        "02/11/2024": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": "INCLUÍDA EM ORDEM DO DIA",
+            "Ação": "Incluído em ordem do dia da sessão deliberativa extraordinária semipresencial de 05/11/2024."
+        },
+        "07/02/2024": {
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": "AGUARDANDO DESPACHO",
+            "Ação": "Autuado o Projeto de Lei nº 182/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação."
         }
-    ]
+    },
+    "Documentos": {
+        "PL 182/2024": {
+            "Data": "07/02/2024",
+            "Autor": "Câmara dos Deputados",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Autuado o Projeto de Lei nº 182/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
+            "Descrição/Ementa": null
+        },
+        "Avulso inicial da matéria": {
+            "Data": "07/02/2024",
+            "Autor": "Senado Federal",
+            "Local": "null",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "-"
+        },
+        "Ofício": {
+            "Data": "05/11/2024",
+            "Autor": "OUVIDSF - OUVIDORIA DO SENADO FEDERAL",
+            "Local": "null",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Manifestação recebida na Ouvidoria do Senado - Autuação 2814870"
+        },
+        "Correspondência Eletrônica": {
+            "Data": "24/04/2024",
+            "Autor": "Cidadão Alexandre Victor Borges Scavardoni",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Solicitação de aprovação urgente do PL 182/2024, com emissão de nota técnica do referido projeto."
+        },
+        "EMENDA 1 PLEN - PL": {
+            "Data": "04/11/2024",
+            "Autor": "Senadora Margareth Buzetti (PSD/MT)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 1, da Senadora Margareth Buzetti.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 - CRÉDITO DE CARBONO"
+        },
+        "EMENDA 2 PLEN - PL": {
+            "Data": "04/11/2024",
+            "Autor": "Senador Laércio Oliveira (PP/SE)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 2, do Senador Laércio Oliveira.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024"
+        },
+        "Relatório Legislativo": {
+            "Data": "13/11/2024",
+            "Autor": "Senadora Leila Barros (PDT/DF)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebido o Relatório da Senadora Leila Barros.",
+            "Descrição/Ementa": "pela aprovação do PL 182/2024"
+        },
+        "EMENDA 4 PLEN - PL": {
+            "Data": "04/11/2024",
+            "Autor": "Senador Alan Rick (UNIÃO/AC)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nºs 4 e 5, do Senador Alan Rick.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 - Setores Estratégicos"
+        },
+        "pg\n11\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\nEMENDA 3 PLEN - PL": {
+            "Data": "04/11/2024",
+            "Autor": "Senadora Soraya Thronicke (PODEMOS/MS)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 3, da Senadora Soraya Thronicke.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 CRVE"
+        },
+        "EMENDA 5 PLEN - PL": {
+            "Data": "04/11/2024",
+            "Autor": "Senador Alan Rick (UNIÃO/AC)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nºs 4 e 5, do Senador Alan Rick.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 - Ganhos de Intensidade"
+        },
+        "EMENDA 6 PLEN - PL": {
+            "Data": "04/11/2024",
+            "Autor": "Senador Sérgio Petecão (PSD/AC)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 6, do Senador Sérgio Petecão.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 - responsável técnico"
+        },
+        "RQS 743/2024": {
+            "Data": "04/11/2024",
+            "Autor": "Líder do Bloco Parlamentar da Resistência Democrática Otto Alencar (PSD/BA), Líder do Bloco Parlamentar Aliança Laércio",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebido o Requerimento nº 743, de 2024, de Líderes, solicitando urgência para a matéria.",
+            "Descrição/Ementa": "Requer urgência para o Projeto de Lei nº 182/2024, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado\nFederal."
+        },
+        "EMENDA 8 PLEN - PL": {
+            "Data": "05/11/2024",
+            "Autor": "Senador Eduardo Braga (MDB/AM)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 8, do Senador Eduardo Braga.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 (§ 6º, art. 43)"
+        },
+        "EMENDA 7 PLEN - PL": {
+            "Data": "05/11/2024",
+            "Autor": "Senador Eduardo Gomes (PL/TO)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 7, do Senador Eduardo Gomes.",
+            "Descrição/Ementa": "pg\n12\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\nEmenda  ao substitutivo do PL 182/2024"
+        },
+        "EMENDA 13 PLEN - PL": {
+            "Data": "05/11/2024",
+            "Autor": "Senador Zequinha Marinho (PODEMOS/PA)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nºs 13 a 15, do Senador Zequinha Marinho.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 - FPA 3"
+        },
+        "EMENDA 14 PLEN - PL": {
+            "Data": "05/11/2024",
+            "Autor": "Senador Zequinha Marinho (PODEMOS/PA)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nºs 13 a 15, do Senador Zequinha Marinho.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 - 4"
+        },
+        "EMENDA 15 PLEN - PL": {
+            "Data": "05/11/2024",
+            "Autor": "Senador Zequinha Marinho (PODEMOS/PA)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nºs 13 a 15, do Senador Zequinha Marinho.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 - FPA"
+        },
+        "EMENDA 9 PLEN - PL": {
+            "Data": "05/11/2024",
+            "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nºs 9 e 10, do Senador Mecias de Jesus.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024"
+        },
+        "EMENDA 10 PLEN - PL": {
+            "Data": "05/11/2024",
+            "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nºs 9 e 10, do Senador Mecias de Jesus.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024"
+        },
+        "RQS 745/2024": {
+            "Data": "05/11/2024",
+            "Autor": "Líder do MDB Eduardo Braga (MDB/AM)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebido o Requerimento n° 745, de 2024, da liderança do MDB, de destaque para votação em separado da Emenda nº 8.",
+            "Descrição/Ementa": "pg\n13\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\nRequer, pela Liderança do Movimento Democrático Brasileiro (MDB), destaque para votação em separado da Emenda nº 8 ao\nProjeto de Lei nº 182/2024."
+        },
+        "EMENDA 11 PLEN - PL": {
+            "Data": "05/11/2024",
+            "Autor": "Senador Luis Carlos Heinze (PP/RS)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nºs 11 e 12, do Senador Luis Carlos Heinze.",
+            "Descrição/Ementa": "Emenda  01 PL 182/2024"
+        },
+        "EMENDA 12 PLEN - PL": {
+            "Data": "05/11/2024",
+            "Autor": "Senador Luis Carlos Heinze (PP/RS)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nºs 11 e 12, do Senador Luis Carlos Heinze.",
+            "Descrição/Ementa": "Emenda  02 - PL 182/2024"
+        },
+        "EMENDA 16 PLEN - PL": {
+            "Data": "05/11/2024",
+            "Autor": "Senador Castellar Neto (PP/MG)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 16, do Senador Castellar Neto.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 - aplicação de 1% das reservas técnicas de seguradoras"
+        },
+        "EMENDA 17 PLEN - PL": {
+            "Data": "05/11/2024",
+            "Autor": "Senador Esperidião Amin (PP/SC)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 17, do Senador Esperidião Amin.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 Multas"
+        },
+        "RQS 747/2024": {
+            "Data": "05/11/2024",
+            "Autor": "Líder do PL Izalci Lucas (PL/DF)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Requer, pela Liderança do Partido Liberal (PL), destaque para votação em separado do art. 56 do Substitutivo ao Projeto de Lei\nnº 182/2024."
+        },
+        "EMENDA 20 PLEN - PL": {
+            "Data": "05/11/2024",
+            "Autor": "Senadora Tereza Cristina (PP/MS)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Emenda  ao PL 182/2024"
+        },
+        "EMENDA 21 PLEN - PL": {
+            "Data": "05/11/2024",
+            "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 21, do Senador Mecias de Jesus.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024"
+        },
+        "EMENDA 18 PLEN - PL": {
+            "Data": "05/11/2024",
+            "Autor": "Senador Luis Carlos Heinze (PP/RS)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 18, do Senador Luis Carlos Heinze.",
+            "Descrição/Ementa": "Emenda  03 - PL 182/2024"
+        },
+        "EMENDA 19 PLEN - PL": {
+            "Data": "05/11/2024",
+            "Autor": "Senador Luis Carlos Heinze (PP/RS)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 19, do Senador Luis Carlos Heinze.",
+            "Descrição/Ementa": "Emenda 04 - PL 182/2024"
+        },
+        "OF 197/2024 - Gabinete do": {
+            "Data": "05/11/2024",
+            "Autor": "Senador Eduardo Girão (NOVO/CE)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Declaração de voto contrário ao PL 182/2024."
+        },
+        "RQS 748/2024": {
+            "Data": "05/11/2024",
+            "Autor": "Líder do PL Izalci Lucas (PL/DF)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Requer, pela Liderança do Partido Liberal (PL), destaque para votação em separado dos §§2º e 3º do Art. 28 do Substitutivo ao\nProjeto de Lei nº 182/2024."
+        },
+        "EMENDA 22 PLEN - PL": {
+            "Data": "05/11/2024",
+            "Autor": "Senador Esperidião Amin (PP/SC)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 carvão"
+        },
+        "EMENDA 23 PLEN - PL": {
+            "Data": "05/11/2024",
+            "Autor": "Senador Rogerio Marinho (PL/RN)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 23, do Senador Rogerio Marinho.",
+            "Descrição/Ementa": "Metodologias internacionais consagradas"
+        },
+        "EMENDA 24 PLEN - PL": {
+            "Data": "05/11/2024",
+            "Autor": "Senadora Professora Dorinha Seabra (UNIÃO/TO)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 24, da Senadora Professora Dorinha Seabra.",
+            "Descrição/Ementa": "Emenda ao PL 182_2024"
+        },
+        "Avulso de emendas": {
+            "Data": "13/11/2024",
+            "Autor": "Senado Federal",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "-"
+        },
+        "RQS 750/2024": {
+            "Data": "05/11/2024",
+            "Autor": "Senador Esperidião Amin (PP/SC)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebido o Requerimento nº 750, de 2024, do Senador Esperidião Amin, solicitando a retirada definitiva da Emenda n° 22.",
+            "Descrição/Ementa": "Requer a retirada definitiva da Emenda nº 22 ao Projeto de Lei nº 182/2024."
+        },
+        "EMENDA 25 PLEN - PL": {
+            "Data": "05/11/2024",
+            "Autor": "Senador Esperidião Amin (PP/SC)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 25, do Senador Esperidião Amin.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 Carbono Sustentável - ajustada"
+        },
+        "pg\n16\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\nEMENDA 26 PLEN - PL": {
+            "Data": "11/11/2024",
+            "Autor": "Senador Veneziano Vital do Rêgo (MDB/PB)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 26, do Senador Veneziano Vital do Rêgo.",
+            "Descrição/Ementa": "Emenda  PL 182/2024 mecanismos de precificação"
+        },
+        "EMENDA 27 PLEN - PL": {
+            "Data": "11/11/2024",
+            "Autor": "Senador Efraim Filho (UNIÃO/PB)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 27, do Senador Efraim Filho.",
+            "Descrição/Ementa": "Emenda ao Substitutivo do PL 182/2024 - conceito de crédito de carbono"
+        },
+        "EMENDA 28 PLEN - PL": {
+            "Data": "11/11/2024",
+            "Autor": "Senador Esperidião Amin (PP/SC)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 28, do Senador Esperidião Amin.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 transferência de crédito internacional"
+        },
+        "EMENDA 30 PLEN - PL": {
+            "Data": "11/11/2024",
+            "Autor": "Senador Zequinha Marinho (PODEMOS/PA)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nºs 30 a 32, do Senador Zequinha Marinho.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024"
+        },
+        "EMENDA 31 PLEN - PL": {
+            "Data": "11/11/2024",
+            "Autor": "Senador Zequinha Marinho (PODEMOS/PA)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nºs 30 a 32, do Senador Zequinha Marinho.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024"
+        },
+        "EMENDA 32 PLEN - PL": {
+            "Data": "11/11/2024",
+            "Autor": "Senador Zequinha Marinho (PODEMOS/PA)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nºs 30 a 32, do Senador Zequinha Marinho.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 -"
+        },
+        "pg\n17\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\nEMENDA 29 PLEN - PL": {
+            "Data": "11/11/2024",
+            "Autor": "Senador Jaime Bagattoli (PL/RO)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 29, do Senador Jaime Bagattoli.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024"
+        },
+        "EMENDA 33 PLEN - PL": {
+            "Data": "11/11/2024",
+            "Autor": "Senadora Soraya Thronicke (PODEMOS/MS)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nºs 33 e 34, da Senadora Soraya Thronicke.",
+            "Descrição/Ementa": "Emenda 2 ao PL 182/2024 ABBI"
+        },
+        "EMENDA 34 PLEN - PL": {
+            "Data": "11/11/2024",
+            "Autor": "Senadora Soraya Thronicke (PODEMOS/MS)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nºs 33 e 34, da Senadora Soraya Thronicke.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 supressão §§3 e 4 do art 28"
+        },
+        "EMENDA 35 PLEN - PL": {
+            "Data": "11/11/2024",
+            "Autor": "Senador Laércio Oliveira (PP/SE)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 35, do Senador Laércio Oliveira.",
+            "Descrição/Ementa": "EM | Emenda  ao PL 182/2024_art 30 §3º"
+        },
+        "EMENDA 36 PLEN - PL": {
+            "Data": "12/11/2024",
+            "Autor": "Senador Efraim Filho (UNIÃO/PB)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 36, do Senador Efraim Filho.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 - art. 43, § 5º - obrigatoriedade da escrituração do contrato"
+        },
+        "pg\n18\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\nEMENDA 37 PLEN - PL": {
+            "Data": "12/11/2024",
+            "Autor": "Senador Zequinha Marinho (PODEMOS/PA)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 37, do Senador Zequinha Marinho.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024"
+        },
+        "EMENDA 38 PLEN - PL": {
+            "Data": "12/11/2024",
+            "Autor": "Senador Nelsinho Trad (PSD/MS)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nº  38 e 39, do Senador Nelsinho Trad.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 - Credito de Carbono"
+        },
+        "EMENDA 39 PLEN - PL": {
+            "Data": "12/11/2024",
+            "Autor": "Senador Nelsinho Trad (PSD/MS)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nº  38 e 39, do Senador Nelsinho Trad.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 - Credito de Carbono"
+        },
+        "EMENDA 40 PLEN - PL": {
+            "Data": "12/11/2024",
+            "Autor": "Senador Jayme Campos (UNIÃO/MT)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 40, do Senador Jayme Campos.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024"
+        },
+        "EMENDA 41 PLEN - PL": {
+            "Data": "12/11/2024",
+            "Autor": "Senador Alan Rick (UNIÃO/AC)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 41, do Senador Alan Rick.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 - Tratamento de Resíduos"
+        },
+        "EMENDA 42 PLEN - PL": {
+            "Data": "12/11/2024",
+            "Autor": "Senador Rogerio Marinho (PL/RN)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 42, do Senador Rogério Marinho.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 - oitiva dos setores regulados"
+        },
+        "pg\n19\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\nEMENDA 43 PLEN - PL": {
+            "Data": "12/11/2024",
+            "Autor": "Senador Marcos Rogério (PL/RO)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 43, do Senador Marcos Rogério.",
+            "Descrição/Ementa": "Emenda ao substitutivo apresentado ao PL nº 182/2024 (recebimento de receitas sobre vegetação existente)"
+        },
+        "EMENDA 44 PLEN - PL": {
+            "Data": "12/11/2024",
+            "Autor": "Senador Carlos Portinho (PL/RJ)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nºs 44, 45 e 46, do Senador Carlos Portinho.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 art 1º incluir § 6º"
+        },
+        "EMENDA 45 PLEN - PL": {
+            "Data": "12/11/2024",
+            "Autor": "Senador Carlos Portinho (PL/RJ)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nºs 44, 45 e 46, do Senador Carlos Portinho.",
+            "Descrição/Ementa": "Emenda parag. 1, do art. 21 -  ao PL 182/2024"
+        },
+        "EMENDA 46 PLEN - PL": {
+            "Data": "12/11/2024",
+            "Autor": "Senador Carlos Portinho (PL/RJ)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nºs 44, 45 e 46, do Senador Carlos Portinho.",
+            "Descrição/Ementa": "Emenda  ao 2 do PL 182/2024"
+        },
+        "EMENDA 50 PLEN - PL": {
+            "Data": "12/11/2024",
+            "Autor": "Senadora Soraya Thronicke (PODEMOS/MS)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 50, da Senadora Soraya Thronicke.",
+            "Descrição/Ementa": "Emenda art. 56 do PL 182/2024"
+        },
+        "EMENDA 47 PLEN - PL": {
+            "Data": "12/11/2024",
+            "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nºs 47e 48, do Senador Mecias de Jesus.",
+            "Descrição/Ementa": "Emenda limites ao PL 182/2024"
+        },
+        "pg\n20\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\nEMENDA 48 PLEN - PL": {
+            "Data": "12/11/2024",
+            "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebidas as Emendas nºs 47e 48, do Senador Mecias de Jesus.",
+            "Descrição/Ementa": "Emenda limites v3 ao PL 182/2024"
+        },
+        "EMENDA 49 PLEN - PL": {
+            "Data": "12/11/2024",
+            "Autor": "Senador Dr. Hiran (PP/RR)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 49, do Senador Dr. Hiran.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 - Isonomia para tratamento de carbono produtos nacionais e importados."
+        },
+        "RQS 765/2024": {
+            "Data": "12/11/2024",
+            "Autor": "Líder do PL Carlos Portinho (PL/RJ)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Requer, pela Liderança do PL, destaque para votação em separado do Emenda n° 42 ao Projeto de Lei nº 182/2024."
+        },
+        "RQS 766/2024": {
+            "Data": "12/11/2024",
+            "Autor": "Líder do PL Carlos Portinho (PL/RJ)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Requer a retirada definitiva dos requerimentos n°s 747 e 748, de 2024."
+        },
+        "RQS 767/2024": {
+            "Data": "12/11/2024",
+            "Autor": "Líder do PL Carlos Portinho (PL/RJ)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Requer, pela Liderança do Partido Liberal, destaque para votação em separado da Emenda nº 43 ao Projeto de Lei nº 182/2024."
+        },
+        "EMENDA 51 PLEN - PL": {
+            "Data": "12/11/2024",
+            "Autor": "pg",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 51, do Senador Carlos Portinho.",
+            "Descrição/Ementa": "Emenda supressiva questão dos seguros ao PL 182/2024"
+        },
+        "RQS 768/2024": {
+            "Data": "12/11/2024",
+            "Autor": "Líder do PODEMOS Rodrigo Cunha (PODEMOS/AL)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebido o Requerimento n° 768, de 2024, da liderança do PODEMOS, de destaque para votação em separado da Emenda nº 50.",
+            "Descrição/Ementa": "Requer, pela Liderança do Podemos, destaque para votação em separado da Emenda nº 50 ao Projeto de Lei nº 182/2024."
+        },
+        "RQS 769/2024": {
+            "Data": "12/11/2024",
+            "Autor": "Líder do PL Carlos Portinho (PL/RJ), Líder do Bloco Parlamentar Independência Styvenson Valentim (PODEMOS/RN), Líder do",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebido o Requerimento nº 769, de 2024, de Líderes, solicitando a extinção da urgência para a matéria.",
+            "Descrição/Ementa": "Requer a extinção de urgência para o Projeto de Lei nº 182/2024, nos termos do art. 352, II, e parágrafo único, II, do Regimento\nInterno do Senado Federal."
+        },
+        "RQS 770/2024": {
+            "Data": "12/11/2024",
+            "Autor": "Senador Laércio Oliveira (PP/SE)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebido o Requerimento n° 770, de 2024, da liderança do PP, de destaque para votação em separado da Emenda nº 25.",
+            "Descrição/Ementa": "Requer, pela Liderança do PP, destaque para votação em separado da Emenda n° 25 ao Projeto de Lei nº 182/2024."
+        },
+        "RQS 772/2024": {
+            "Data": "12/11/2024",
+            "Autor": "Líder do Bloco Parlamentar Aliança Laércio Oliveira (PP/SE)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebido o Requerimento n° 772, de 2024, da liderança do PP, de destaque para votação em separado da Emenda nº 25.",
+            "Descrição/Ementa": "Requer, pela Liderança do PP, destaque para votação em separado da Emenda n° 25 ao Projeto de Lei nº 182/2024."
+        },
+        "Avulso de emendas\npg\n22\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS": {
+            "Data": "12/11/2024",
+            "Autor": "Senado Federal",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "-"
+        },
+        "EMENDA 52 PLEN - PL": {
+            "Data": "13/11/2024",
+            "Autor": "Senador Efraim Filho (UNIÃO/PB)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 52, do Senador Efraim Filho.",
+            "Descrição/Ementa": "Emenda ao art. 26 do Substitutivo"
+        },
+        "EMENDA 53 PLEN - PL": {
+            "Data": "13/11/2024",
+            "Autor": "Senador Izalci Lucas (PL/DF)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 53, do Senador Izalci Lucas.",
+            "Descrição/Ementa": "Emenda 1 ao PL 182/2024"
+        },
+        "EMENDA 54 PLEN - PL": {
+            "Data": "13/11/2024",
+            "Autor": "Senador Alan Rick (UNIÃO/AC)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 54, do Senador Alan Rick.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024"
+        },
+        "EMENDA 55 PLEN - PL": {
+            "Data": "13/11/2024",
+            "Autor": "Senador Carlos Portinho (PL/RJ)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 55, do Senador Carlos Portinho.",
+            "Descrição/Ementa": "Emenda ao art. 56 do subs ao PL 182/2024 - autorizativa investimento seguro"
+        },
+        "EMENDA 56 PLEN - PL": {
+            "Data": "13/11/2024",
+            "Autor": "Senador Luis Carlos Heinze (PP/RS)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 56, do Luis Carlos Heinze.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024 resíduos"
+        },
+        "EMENDA 57 PLEN - PL": {
+            "Data": "13/11/2024",
+            "Autor": "pg",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 57, do Marcos Rogério.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024- Art 43 acrescentando o §17"
+        },
+        "RQS 779/2024": {
+            "Data": "13/11/2024",
+            "Autor": "Líder do REPUBLICANOS Mecias de Jesus (REPUBLICANOS/RR)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Requer, pela Liderança do REPUBLICANOS, destaque para votação em separado da Emenda nº 26 ao PL 182/2024."
+        },
+        "RQS 780/2024": {
+            "Data": "13/11/2024",
+            "Autor": "Líder do PL Carlos Portinho (PL/RJ)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Requer a retirada definitiva do Requerimento nº 767 de 2024."
+        },
+        "RQS 781/2024": {
+            "Data": "13/11/2024",
+            "Autor": "Líder do PL Carlos Portinho (PL/RJ)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Requer, pela Liderança do PL, destaque para votação em separado da Emenda nº 57 ao Projeto de Lei nº 182/2024."
+        },
+        "EMENDA 58 PLEN - PL": {
+            "Data": "13/11/2024",
+            "Autor": "Senador Alan Rick (UNIÃO/AC)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebida a Emenda nº 58, do Senador Alan Rick.",
+            "Descrição/Ementa": "Emenda  ao PL 182/2024"
+        },
+        "pg\n24\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\nRQS 782/2024": {
+            "Data": "13/11/2024",
+            "Autor": "Líder do UNIÃO Efraim Filho (UNIÃO/PB)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebido o Requerimento n° 782, de 2024, da liderança do União, de destaque para votação em separado da Emenda nº 58.",
+            "Descrição/Ementa": "Requer, pela Liderança do União, destaque para votação em separado da Emenda nº 58 ao Projeto de Lei nº 182/2024."
+        },
+        "Listagem ou relatório": {
+            "Data": "13/11/2024",
+            "Autor": "Senado Federal",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Votação nominal da Emenda nº 58 ao Substitutivo da Relatora ao Projeto de Lei nº 182, de 2024, destacada"
+        },
+        "EMENDA 59 PLEN - PL": {
+            "Data": "13/11/2024",
+            "Autor": "Senadora Leila Barros (PDT/DF)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Emenda nº 59 (substitutivo da relatora) - Parecer nº 186, de 2024-PLEN/SF."
+        },
+        "P.S 186/2024 - PLEN": {
+            "Data": "13/11/2024",
+            "Autor": "Senadora Leila Barros (PDT/DF)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Parecer nº 186, de 2024-PLEN/SF, com complemento por notas taquigráficas."
+        },
+        "P.S 187/2024 - PLEN": {
+            "Data": "13/11/2024",
+            "Autor": "Comissão Diretora do Senado Federal",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "pg\n25\nAtividade Legislativa\nProjeto de Lei n° 182, de 2024\nDOCUMENTOS\n69.\nEncaminhado à publicação o Parecer nº 187, de 2024-PLEN/SF, da Comissão Diretora, oferecendo a redação para o turno\nsuplementar.\nEncerrada a discussão em turno suplementar, sem emendas, o substitutivo é dado como definitivamente adotado, sem votação.\nA matéria retorna à Câmara dos Deputados.\nParecer nº 187/2024-CDIR"
+        },
+        "OFSF 1291/2024": {
+            "Data": "19/11/2024",
+            "Autor": "Primeiro-Secretário do Senado Federal",
+            "Local": "Comissão Diretora do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Encaminha à revisão da Câmara dos Deputados o Substitutivo do Projeto de Lei n° 182, de 2024."
+        },
+        "Minuta": {
+            "Data": "19/11/2024",
+            "Autor": "Senado Federal",
+            "Local": "Secretaria de Expediente",
+            "Ação Legislativa": "Anexado o texto revisado.",
+            "Descrição/Ementa": "Autógrafo - PL 182/2024"
+        },
+        "Autógrafo - PL 182/2024": {
+            "Data": "19/11/2024",
+            "Autor": "Senado Federal",
+            "Local": "Secretaria de Expediente",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Institui o Sistema Brasileiro de Comércio de Emissões de Gases de Efeito Estufa (SBCE); e altera as Leis nºs 12.187, de 29 de\ndezembro de 2009, 12.651, de 25 de maio de 2012 (Código Florestal), 6.385, de 7 de dezembro de 1976, 11.033, de 21 de\ndezembro de 2004, e 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos)."
+        },
+        "OF. 603/2024 - Câmara dos": {
+            "Data": "26/11/2024",
+            "Autor": "Primeiro-Secretário da Câmara dos Deputados",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Comunica o envio à sanção do Projeto de Lei nº 182, de 2024."
+        },
+        "Quadro Comparativo": {
+            "Data": "26/11/2024",
+            "Autor": "Congresso Nacional",
+            "Local": "pg",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Comparação entre a legislação vigente, o texto aprovado na Câmara dos Deputados e o substitutivo aprovado pelo Senado\nFederal."
+        }
+    }
 }
