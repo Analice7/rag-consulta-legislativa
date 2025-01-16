@@ -46,23 +46,23 @@ def extract_veto_details(pdf_path):
         razao_veto = dispositivo[2].strip().replace("“", "").replace("”", "").replace("\n", "")  # Remover aspas extras
         
         dispositivos.append({
-            'dispositivo_vetado': dispositivo_vetado,
-            'texto_dispositivo': texto_dispositivo,
-            'razao_veto': razao_veto
+            'dispositivo vetado': dispositivo_vetado,
+            'texto dispositivo': texto_dispositivo,
+            'razao veto': razao_veto
         })
 
     # Montando o dicionário final
     return {
         "veto": {
-            "numero": veto_number,
+            "número": veto_number,
             "ano": veto_year,
         },
         "ementa": ementa,
         "mensagem": {
-            "numero": mensagem_number,
+            "número": mensagem_number,
             "ano": mensagem_year,
         },
-        "dispositivos_vetados": dispositivos
+        "dispositivos vetados": dispositivos
     }
 
 def process_vetos(input_folder, output_folder):

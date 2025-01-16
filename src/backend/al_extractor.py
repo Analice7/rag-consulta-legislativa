@@ -24,55 +24,55 @@ def parse_text_to_structure(text):
     # Extrai número e ano do projeto
     title_match = re.search(r"(.+? n[º°] \d+, de \d{4})", text)
     if title_match:
-        structured_data["Atividade legislativa"] = title_match.group(1)
+        structured_data["atividade legislativa"] = title_match.group(1)
 
     # Extrai autoria
     author_match = re.search(r"Autoria:\s*(.+)", text)
     if author_match:
-        structured_data["Autoria"] = author_match.group(1)
+        structured_data["autoria"] = author_match.group(1)
 
     # Extrai iniciativa
     initiative_match = re.search(r"Iniciativa:\s*(.+?)(?:\n(Ementa:|$))", text)
     if initiative_match:
-        structured_data["Iniciativa"] = initiative_match.group(1)
+        structured_data["iniciativa"] = initiative_match.group(1)
 
     # Extrai ementa
     ementa_match = re.search(r"Ementa:\s*(.*?)(?=\s*Assunto:|Explicação da Ementa:|$)", text, re.DOTALL)
     if ementa_match:
-        structured_data["Ementa"] = ementa_match.group(1).strip()
+        structured_data["ementa"] = ementa_match.group(1).strip()
 
     # Extrai explicação da ementa
     explication_match = re.search(r"Explicação da Ementa:\s*(.+)", text)
     if explication_match:
-        structured_data["Explicação da Ementa"] = explication_match.group(1)
+        structured_data["explicação da ementa"] = explication_match.group(1)
 
     # Extrai o Assunto (Não mudar)
     subject_match = re.search(r"Data de Leitura:\s*([^\n]+)", text)
     if subject_match:
-        structured_data["Assunto"] = subject_match.group(1).strip()
+        structured_data["assunto"] = subject_match.group(1).strip()
 
     # Extrai a Data de Leitura
     reading_date_match = re.search(r"Data de Leitura:\s*([^\n]+)(?:\n(Tramitação encerrada)|$)", text)
     if reading_date_match:
-        structured_data["Data de leitura"] = reading_date_match.group(1).strip()
+        structured_data["data de leitura"] = reading_date_match.group(1).strip()
 
     # Extrai despacho
     dispatch_match = re.search(r"Despacho:\s+((?:.|\n)*?)(?:\n(Relatoria:|TRAMITAÇÃO)|$)", text, re.DOTALL)
     if dispatch_match:
         dispatch = dispatch_match.group(1)
-        if "Despacho" in structured_data:
-            structured_data["Despacho"] += " " + dispatch.strip()
+        if "despacho" in structured_data:
+            structured_data["despacho"] += " " + dispatch.strip()
         else:
-            structured_data["Despacho"] = dispatch.strip()
+            structured_data["despacho"] = dispatch.strip()
 
     # Extrai relatoria
     reporting_match = re.search(r"Relatoria:\s+((?:.|\n)*?)(?:\n(Despacho:)|$)", text, re.DOTALL)
     if reporting_match:
         reporting = reporting_match.group(1)
-        if "Relatoria" in structured_data:
-            structured_data["Relatoria"] += " " + reporting.strip()
+        if "relatoria" in structured_data:
+            structured_data["relatoria"] += " " + reporting.strip()
         else:
-            structured_data["Relatoria"] = reporting.strip()
+            structured_data["relatoria"] = reporting.strip()
 
     # Extrai tramitação encerrada
     tramitation_cloded_match = re.search(r"Tramitação encerrada\s+(.+?)(?=\s*(Relatoria:|Despacho:|$))", text, re.DOTALL)
@@ -94,13 +94,13 @@ def parse_text_to_structure(text):
         last_state = last_state[0][0].strip() if last_state else None
 
         tramitation_lines = {
-            "Decisão": decision,
-            "Destino": destiny,
-            "Último local": last_location,
-            "Último estado": last_state
+            "decisão": decision,
+            "destino": destiny,
+            "último local": last_location,
+            "último estado": last_state
         } 
 
-        structured_data["Tramitação encerrada"] = tramitation_lines
+        structured_data["tramitação encerrada"] = tramitation_lines
 
     
     # Extrai tramitação
@@ -137,15 +137,15 @@ def parse_text_to_structure(text):
             acao = acao_match.group(1).strip() if acao_match else None
 
         tramitation_entry = {
-            "Data": date,
-            "Órgão": org,
-            "Situação": situacao,
-            "Ação": acao
+            "data": date,
+            "órgão": org,
+            "situação": situacao,
+            "ação": acao
         }
 
         organized_tramitation.append(tramitation_entry)
 
-    structured_data["Tramitação"] = organized_tramitation
+    structured_data["tramitação"] = organized_tramitation
 
     # Extrai documentos
     documents_matches = re.findall(r"DOCUMENTOS[\s\S]*?(?=\n[A-Z ]+:\s|$)", text, re.DOTALL)
@@ -227,17 +227,17 @@ def parse_text_to_structure(text):
 
         # Montar o bloco estruturado
         document_entry = {
-            "Documento" : document,
-            "Data": data,
-            "Autor": author,
-            "Local": place,
-            "Ação Legislativa": action,
-            "Descrição/Ementa": describe
+            "documento" : document,
+            "data": data,
+            "autor": author,
+            "local": place,
+            "ação legislativa": action,
+            "descrição/Ementa": describe
         }
 
         organized_documents.append(document_entry)
 
-    structured_data["Documentos"] = organized_documents
+    structured_data["documentos"] = organized_documents
 
     return structured_data
 
