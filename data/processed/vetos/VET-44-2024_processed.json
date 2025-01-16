@@ -8,11 +8,5 @@
         "numero": "1695",
         "ano": "2024"
     },
-    "dispositivos_vetados": [
-        {
-            "dispositivo_vetado": "Art. 2º do Projeto de Lei, na parte em que acrescenta o art. 43-A à Lei nº 11.771, de 17 de setembro de 2008",
-            "texto_dispositivo": "Art. 43-A. Promover, intermediar ou facilitar, no âmbito da prestação de serviços turísticos, o recrutamento, o transporte, a transferência, o alojamento ou o acolhimento de pessoa que venha a exercer a prostituição: Pena - multa, cancelamento da classificação, interdição de local, de atividade, de instalação, de estabelecimento empresarial, de empreendimento ou de equipamento e cancelamento do cadastro.",
-            "razao_veto": "Em que pese a boa intenção do legislador, a proposição contrariaria o interesse público ao estabelecer sanções que implicariam em risco de penalização de vítimas sob coação ou que estejam à mercê de práticas que violem a sua autonomia ou a sua liberdade de locomoção, ao prever pena para quem conceda alojamento ou acolhimento a pessoas que venham a exercer a prostituição, e não somente àqueles que praticam atos que visam à exploração sexual de terceiros."
-        }
-    ]
+    "dispositivos_vetados": "veto parcial aposto ao projeto de lei n 5637 de 2020 que altera a lei n 11771 de 17 de setembro de 2008 lei geral do turismo para prever sanções aos prestadores de serviços turísticos que cometerem infrações associadas à facilitação do turismo sexual"
 }

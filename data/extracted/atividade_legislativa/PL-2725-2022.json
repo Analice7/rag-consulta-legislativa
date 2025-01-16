@@ -12,235 +12,346 @@
         "Último local": "23/10/2024 - Secretaria de Expediente",
         "Último estado": "17/10/2024 - TRANSFORMADA EM\nNORMA JURÍDICA"
     },
-    "Tramitação": {
-        "24/10/2024": {
+    "Tramitação": [
+        {
+            "Data": "24/10/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": null,
             "Ação": "Remetido Ofício SF nº 1201, de 24/10/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os\ndevidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.301, de 2024, na origem,\nrestituindo autógrafos do Projeto de Lei n° 2.725, de 2022, sancionado e transformado na Lei nº 15.001, de 16 de outubro de\n2024.\nCOARQ.\nAção:"
         },
-        "23/10/2024": {
+        {
+            "Data": "23/10/2024",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": null,
             "Ação": "Encaminhada à publicação a Mensagem da Presidência da República nº 1.301, de 2024, na origem, que restitui autógrafo do\nProjeto de Lei nº 2.725, de 2022, sancionado e convertido na Lei nº 15.001, de 16 de outubro de 2024.\nSerá feita a devida comunicação à Câmara dos Deputados.\nAção:\nPublicado no DSF Páginas 44 - DSF nº 183"
         },
-        "17/10/2024": {
+        {
+            "Data": "17/10/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": "TRANSFORMADA EM NORMA JURÍDICA",
             "Ação": "pg\n1\nAtividade Legislativa\nProjeto de Lei n° 2725, de 2022\nTRAMITAÇÃO\n(PR) PRESIDÊNCIA DA REPÚBLICA.\nSANCIONADA. LEI 15001 DE 2024.\nDOU (Diário Oficial da União) - 17/10/2024 - Seção I - págs. 3 e 4.\nSancionada em 16/10/2024."
         },
-        "30/09/2024": {
+        {
+            "Data": "30/09/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": "REMETIDA À SANÇÃO",
             "Ação": "Remetido Ofício SF n.º 1148, de 11/09/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,\nencaminhando a Mensagem SF n.º 196/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção\npresidencial autógrafo do Projeto.\nRemetido Ofício SF n.º 1149, de 11/09/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto\nfoi encaminhado à sanção presidencial."
         },
-        "24/09/2024": {
+        {
+            "Data": "24/09/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": null,
             "Ação": "Anexado o texto revisado.\nAção:"
         },
-        "18/09/2024": {
+        {
+            "Data": "18/09/2024",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": "APROVADA",
             "Ação": "(Sessão Deliberativa Ordinária, realizada em 18/09/2024)\nEncerrada a discussão.\nAprovados o Projeto e a Emenda nº 1, de redação.\nEncaminhado à publicação o Parecer nº 170, de 2024-PLEN/SF, da Comissão Diretora, apresentando a redação final.\nAprovada a redação final.\nÀ sanção.\nSerá feita a devida comunicação à Câmara dos Deputados."
         },
-        "15/09/2024": {
+        {
+            "Data": "15/09/2024",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": "INCLUÍDA EM ORDEM DO DIA",
             "Ação": "Incluído em Ordem do Dia da Sessão Deliberativa Ordinária Semipresencial de 18/09/2024.\nDiscussão, em turno único."
         },
-        "12/09/2024": {
+        {
+            "Data": "12/09/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Aguardando inclusão em Ordem do Dia.\nDiscussão, em turno único.\nAção:"
+        },
+        {
+            "Data": "12/09/2024",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
             "Ação": "Encerrou-se em 11 de setembro o prazo para apresentação de emendas ao projeto.\nNão foram apresentadas emendas perante a Mesa.\nA matéria será incluída em Ordem do Dia oportunamente."
         },
-        "03/09/2024": {
+        {
+            "Data": "03/09/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, \"d\", do RISF). De 05/09/2024\na 11/09/2024. Perante a Mesa.\nAção:"
+        },
+        {
+            "Data": "03/09/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": "AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA",
+            "Ação": "Concluída a instrução da matéria, fica aberto o prazo de cinco dias úteis para recebimento de emendas, nos termos do art. 235,\nII, \"d\", do Regimento Interno."
+        },
+        {
+            "Data": "03/09/2024",
+            "Órgão": "CE - Comissão de Educação e Cultura",
+            "Situação": null,
+            "Ação": "Encerrada a relatoria do Senador Alessandro Vieira por deliberação da matéria.\nAção:"
+        },
+        {
+            "Data": "03/09/2024",
             "Órgão": "CE - Comissão de Educação e Cultura",
             "Situação": "APROVADO PARECER NA COMISSÃO",
             "Ação": "Em reunião realizada em 03/09/2024, a Comissão de Educação e Cultura aprova o Relatório, que passa a constituir o Parecer da\nCE, favorável ao Projeto, com a Emenda nº 1 – CTFC/CE.\nÀ SLSF"
         },
-        "29/08/2024": {
+        {
+            "Data": "29/08/2024",
             "Órgão": "CE - Comissão de Educação e Cultura",
             "Situação": "INCLUÍDA NA PAUTA DA REUNIÃO",
             "Ação": "Matéria constante da Pauta da 49ª Reunião da Comissão de Educação e Cultura, agendada para o dia 03/09/2024."
         },
-        "13/08/2024": {
+        {
+            "Data": "13/08/2024",
             "Órgão": "CE - Comissão de Educação e Cultura",
             "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
             "Ação": "Em reunião realizada em 13/08/2024, a matéria foi retirada de pauta."
         },
-        "09/08/2024": {
+        {
+            "Data": "09/08/2024",
             "Órgão": "CE - Comissão de Educação e Cultura",
             "Situação": "INCLUÍDA NA PAUTA DA REUNIÃO",
             "Ação": "Matéria constante da Pauta da 43ª Reunião da Comissão de Educação e Cultura, agendada para o dia 13/08/2024."
         },
-        "05/08/2024": {
+        {
+            "Data": "05/08/2024",
             "Órgão": "CE - Comissão de Educação e Cultura",
             "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
             "Ação": "Recebido o relatório do Senador Alessandro Vieira, com voto pela aprovação do projeto, com a Emenda nº 1-CTFC."
         },
-        "05/07/2024": {
+        {
+            "Data": "05/07/2024",
             "Órgão": "CE - Comissão de Educação e Cultura",
             "Situação": "MATÉRIA COM A RELATORIA",
             "Ação": "pg\n3\nAtividade Legislativa\nProjeto de Lei n° 2725, de 2022\nTRAMITAÇÃO\nDistribuído ao Senador Alessandro Vieira, para emitir relatório."
         },
-        "04/07/2024": {
+        {
+            "Data": "04/07/2024",
+            "Órgão": "CE - Comissão de Educação e Cultura",
+            "Situação": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "Ação": "Matéria aguardando distribuição."
+        },
+        {
+            "Data": "04/07/2024",
+            "Órgão": "CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
+            "Situação": null,
+            "Ação": "À Comissão de Educação e Cultura.\nAção:"
+        },
+        {
+            "Data": "04/07/2024",
+            "Órgão": "CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
+            "Situação": null,
+            "Ação": "Encerrada a relatoria do Senador Alessandro Vieira por deliberação da matéria.\nAção:"
+        },
+        {
+            "Data": "04/07/2024",
             "Órgão": "CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
             "Situação": "APROVADO PARECER NA COMISSÃO",
             "Ação": "Reunida a comissão na 4ª Reunião Extraordinária de 03/07/2024, foi aprovado o relatório, que passa a constituir o parecer da\nCTFC, pela aprovação do projeto com a emenda nº 1-CTFC."
         },
-        "02/07/2024": {
+        {
+            "Data": "02/07/2024",
             "Órgão": "CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
             "Situação": "INCLUÍDA NA PAUTA DA REUNIÃO",
             "Ação": "Matéria constante da Pauta da 4ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do\nConsumidor, agendada para o dia 03/07/2024."
         },
-        "20/05/2024": {
+        {
+            "Data": "20/05/2024",
             "Órgão": "CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
             "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
             "Ação": "Recebido relatório do Senador Alessandro Vieira pela aprovação do projeto com uma emenda (de redação) que apresenta."
         },
-        "10/05/2024": {
+        {
+            "Data": "10/05/2024",
             "Órgão": "CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
             "Situação": "MATÉRIA COM A RELATORIA",
             "Ação": "Redistribuído ao Senador Alessandro Vieira, para emitir relatório."
         },
-        "14/03/2024": {
+        {
+            "Data": "14/03/2024",
             "Órgão": "CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
             "Situação": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
             "Ação": "Devolvido pelo relator, Senador Jorge Kajuru, em virtude de não mais pertencer aos quadros desta Comissão. A matéria será\nredistribuída."
         },
-        "29/11/2023": {
+        {
+            "Data": "29/11/2023",
             "Órgão": "CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
             "Situação": "pg\n4\nAtividade Legislativa\nProjeto de Lei n° 2725, de 2022\nTRAMITAÇÃO\nPRONTA PARA A PAUTA NA COMISSÃO",
             "Ação": "Recebido relatório do Senador Jorge Kajuru favorável ao projeto com uma emenda de redação que oferece."
         },
-        "22/11/2023": {
+        {
+            "Data": "22/11/2023",
             "Órgão": "CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
             "Situação": "MATÉRIA COM A RELATORIA",
             "Ação": "Distribuído ao Senador Jorge Kajuru, para emitir relatório."
         },
-        "01/09/2023": {
+        {
+            "Data": "01/09/2023",
+            "Órgão": "CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
+            "Situação": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "Ação": "Recebida na CTFC nesta data, a matéria aguarda designação de relatoria."
+        },
+        {
+            "Data": "01/09/2023",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": "MATÉRIA DESPACHADA",
             "Ação": "A matéria vai à CTFC e posteriormente à CE."
         },
-        "23/08/2023": {
+        {
+            "Data": "23/08/2023",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": "AGUARDANDO DESPACHO",
             "Ação": "Autuado o Projeto de Lei nº 2725/2022, proveniente da Câmara dos Deputados. O projeto vai à publicação."
         }
-    },
-    "Documentos": {
-        "PL 2725/2022": {
+    ],
+    "Documentos": [
+        {
+            "Documento": "PL 2725/2022",
             "Data": "23/08/2023",
             "Autor": "Câmara dos Deputados",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Autuado o Projeto de Lei nº 2725/2022, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
             "Descrição/Ementa": null
         },
-        "Avulso inicial da matéria": {
+        {
+            "Documento": "Avulso inicial da matéria",
             "Data": "23/08/2023",
             "Autor": "Senado Federal",
             "Local": "null",
             "Ação Legislativa": null,
             "Descrição/Ementa": "-"
         },
-        "Relatório Legislativo": {
-            "Data": "05/08/2024",
+        {
+            "Documento": "Relatório Legislativo",
+            "Data": "29/11/2023",
+            "Autor": "pg",
+            "Local": "Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
+            "Ação Legislativa": "Recebido relatório do Senador Jorge Kajuru favorável ao projeto com uma emenda de redação que oferece.",
+            "Descrição/Ementa": "Relatório sobre o PL 2725/2022"
+        },
+        {
+            "Documento": "Relatório Legislativo",
+            "Data": "20/05/2024",
             "Autor": "Senador Alessandro Vieira (MDB/SE)",
-            "Local": "Comissão de Educação e Cultura",
-            "Ação Legislativa": "Recebido o relatório do Senador Alessandro Vieira, com voto pela aprovação do projeto, com a Emenda nº 1-CTFC.",
-            "Descrição/Ementa": "Da COMISSÃO DE EDUCAÇÃO E CULTURA, sobre o Projeto de Lei n° 2725, de 2022, que Altera as Leis nºs 9.394, de 20 de\ndezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e 10.973, de 2 de dezembro de 2004, para estabelecer\nrequisitos mínimos de transparência pública e controle social em matéria educacional."
+            "Local": "Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
+            "Ação Legislativa": "Recebido relatório do Senador Alessandro Vieira pela aprovação do projeto com uma emenda (de redação) que apresenta.",
+            "Descrição/Ementa": "Da COMISSÃO DE TRANSPARÊNCIA, GOVERNANÇA, FISCALIZAÇÃO E CONTROLE E DEFESA DO CONSUMIDOR, sobre o Projeto de\nLei n° 2725, de 2022, que Altera as Leis nºs 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e\n10.973, de 2 de dezembro de 2004, para estabelecer requisitos mínimos de transparência pública e controle social em matéria\neducacional."
         },
-        "Listagem ou relatório": {
-            "Data": "03/09/2024",
-            "Autor": "Comissão de Educação e Cultura",
-            "Local": "Comissão de Educação e Cultura",
+        {
+            "Documento": "Listagem ou relatório",
+            "Data": "03/07/2024",
+            "Autor": "Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
+            "Local": "Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
             "Ação Legislativa": null,
-            "Descrição/Ementa": "Listagem ou relatório descritivo-Lista de Presença da reunião da 49ª Reunião CE"
+            "Descrição/Ementa": "Listagem ou relatório descritivo-Lista de Presença da reunião da 4ª Reunião CTFC"
         },
-        "P.S 3/2024 - CTFC": {
+        {
+            "Documento": "P.S 3/2024 - CTFC",
             "Data": "04/07/2024",
             "Autor": "Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor, Senador Alessandro Vieira (MDB/SE),",
             "Local": "Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Da COMISSÃO DE TRANSPARÊNCIA, GOVERNANÇA, FISCALIZAÇÃO E CONTROLE E DEFESA DO CONSUMIDOR, sobre o Projeto de\nLei n° 2725, de 2022, que Altera as Leis nºs 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e\n10.973, de 2 de dezembro de 2004, para estabelecer requisitos mínimos de transparência pública e controle social em matéria\neducacional."
         },
-        "P.S 98/2024 - CE": {
+        {
+            "Documento": "Relatório Legislativo",
+            "Data": "05/08/2024",
+            "Autor": "Senador Alessandro Vieira (MDB/SE)",
+            "Local": "Comissão de Educação e Cultura",
+            "Ação Legislativa": "Recebido o relatório do Senador Alessandro Vieira, com voto pela aprovação do projeto, com a Emenda nº 1-CTFC.",
+            "Descrição/Ementa": "Da COMISSÃO DE EDUCAÇÃO E CULTURA, sobre o Projeto de Lei n° 2725, de 2022, que Altera as Leis nºs 9.394, de 20 de\ndezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e 10.973, de 2 de dezembro de 2004, para estabelecer\nrequisitos mínimos de transparência pública e controle social em matéria educacional."
+        },
+        {
+            "Documento": "P.S 98/2024 - CE",
             "Data": "03/09/2024",
             "Autor": "Comissão de Educação e Cultura",
             "Local": "Comissão de Educação e Cultura",
             "Ação Legislativa": "Em reunião realizada em 03/09/2024, a Comissão de Educação e Cultura aprova o Relatório, que passa a constituir o Parecer da",
             "Descrição/Ementa": "pg\n6\nAtividade Legislativa\nProjeto de Lei n° 2725, de 2022\nDOCUMENTOS\nCE, favorável ao Projeto, com a Emenda nº 1 – CTFC/CE.\nÀ SLSF\nDa COMISSÃO DE EDUCAÇÃO E CULTURA, sobre o Projeto de Lei n° 2725, de 2022, que Altera as Leis nºs 9.394, de 20 de\ndezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e 10.973, de 2 de dezembro de 2004, para estabelecer\nrequisitos mínimos de transparência pública e controle social em matéria educacional."
         },
-        "P.S 170/2024 - PLEN": {
+        {
+            "Documento": "Listagem ou relatório",
+            "Data": "03/09/2024",
+            "Autor": "Comissão de Educação e Cultura",
+            "Local": "Comissão de Educação e Cultura",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Listagem ou relatório descritivo-Lista de Presença da reunião da 49ª Reunião CE"
+        },
+        {
+            "Documento": "P.S 170/2024 - PLEN",
             "Data": "18/09/2024",
             "Autor": "Comissão Diretora do Senado Federal",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Parecer nº 170/2024-PLEN/SF, da Comissão Diretora"
         },
-        "Minuta": {
+        {
+            "Documento": "Minuta",
             "Data": "24/09/2024",
             "Autor": "Senado Federal",
             "Local": "Secretaria de Expediente",
             "Ação Legislativa": "Anexado o texto revisado.",
             "Descrição/Ementa": "OFSF 1148/2024"
         },
-        "OFSF 1148/2024": {
+        {
+            "Documento": "OFSF 1148/2024",
             "Data": "30/09/2024",
             "Autor": "Primeiro-Secretário do Senado Federal",
             "Local": "Comissão Diretora do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°\n2725, de 2022."
         },
-        "MPSF 196/2024": {
+        {
+            "Documento": "MPSF 196/2024",
             "Data": "30/09/2024",
             "Autor": "Presidente do Senado Federal",
             "Local": "Comissão Diretora do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Encaminha à sanção o Projeto de Lei n° 2725, de 2022."
         },
-        "pg\n7\nAtividade Legislativa\nProjeto de Lei n° 2725, de 2022\nDOCUMENTOS\nOFSF 1149/2024": {
+        {
+            "Documento": "pg\n7\nAtividade Legislativa\nProjeto de Lei n° 2725, de 2022\nDOCUMENTOS\nOFSF 1149/2024",
             "Data": "30/09/2024",
             "Autor": "Primeiro-Secretário do Senado Federal",
             "Local": "Comissão Diretora do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 2725, de 2022."
         },
-        "Autógrafo - PL 2725/2022": {
+        {
+            "Documento": "Autógrafo - PL 2725/2022",
             "Data": "30/09/2024",
             "Autor": "Senado Federal",
             "Local": "Secretaria de Expediente",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Altera as Leis nºs 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), e 10.973, de 2 de\ndezembro de 2004, para estabelecer requisitos mínimos de transparência pública e controle social em matéria educacional."
         },
-        "MSG 1301/2024 - Presidência": {
+        {
+            "Documento": "MSG 1301/2024 - Presidência",
             "Data": "22/10/2024",
             "Autor": "Presidência da República",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Restitui o autógrafo do Projeto de Lei nº 2.725, de 2022, sancionado e convertido na Lei nº 15.001, de 16 de outubro de 2024."
         },
-        "OF. 1424/2024 - Casa Civil": {
+        {
+            "Documento": "OF. 1424/2024 - Casa Civil",
             "Data": "22/10/2024",
             "Autor": "Casa Civil da Presidência da República",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Comunica a restituição do autógrafo sancionado e a Lei nº 15.001, de 16 de outubro de 2024, promulgada."
         },
-        "Autógrafo restituído após": {
+        {
+            "Documento": "Autógrafo restituído após",
             "Data": "22/10/2024",
             "Autor": "Presidência da República",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Autógrafo restituído pela Presidência da República ao Senado Federal após sanção."
         },
-        "OFSF 1201/2024": {
+        {
+            "Documento": "OFSF 1201/2024",
             "Data": "24/10/2024",
             "Autor": "Primeiro-Secretário do Senado Federal",
             "Local": "pg",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Comunica à Câmara dos Deputados o recebimento do autógrafo sancionado do Projeto de Lei n° 2.725, de 2022."
         }
-    }
+    ]
 }

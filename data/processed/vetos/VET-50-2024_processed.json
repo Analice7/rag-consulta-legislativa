@@ -8,16 +8,5 @@
         "numero": "1709",
         "ano": "2024"
     },
-    "dispositivos_vetados": [
-        {
-            "dispositivo_vetado": "Art. 2º do Projeto de Lei, na parte em que acrescenta o art. 15-D à Lei nº 13.576, de 26 de dezembro de 2017",
-            "texto_dispositivo": "Art. 15-D. Considerada a natureza obrigatória e operacional das despesas dos distribuidores para aquisições de Créditos de Descarbonização até o limite do cumprimento de sua meta, fica declarada, na forma do art. 106 da Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), a viabilidade de tomada correspondente de créditos também das contribuições previstas nas Leis nºs 10.637, de 30 de dezembro de 2002, e 10.833, de 29 de dezembro de 2003.",
-            "razao_veto": "O art. 15-D do Projeto de Lei equipara os créditos de descarbonização a insumos para os distribuidores, inclusive com efeitos retroativos na forma do art. 106 da Lei nº 5.172, de 25 de outubro de 1966 – Código Tributário Nacional, a fim de gerar créditos para compensação no processo de não cumulatividade de tributos federais. Assim, em que pese a boa intenção do legislador, o preceito contraria o interesse público e viola o disposto no art. 113 do Ato das Disposições Constitucionais Transitórias, uma vez que cria renúncia de receita sem estimativa de impacto orçamentário e financeiro."
-        },
-        {
-            "dispositivo_vetado": "Art. 2º do Projeto de Lei, na parte em que acrescenta o art. 15-E à Lei nº 13.576, de 26 de dezembro de 2017",
-            "texto_dispositivo": "Art. 15-E. Para fins de incidência tributária, ficam os Créditos de Descarbonização previstos no inciso V do caput do art. 5º desta Lei equiparados aos valores mobiliários previstos na Lei nº 6.385, de 7 de dezembro de 1976. Parágrafo único. O disposto no caput deste artigo entrará em vigor a partir da cobrança dos tributos previstos no art. 156-A e no inciso V do caput do art. 195 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 132, de 20 de dezembro de 2023.",
-            "razao_veto": "O Art. 15-E do Projeto de Lei contraria o interesse público, tendo em vista que sua redação não contém referência aos impostos e às contribuições incidentes nas negociações com Crédito de Descarbonização que seriam alcançados pela proposta, de forma a gerar dúvidas quanto à sua aplicação. Ademais, o fato de a equiparação tratada no dispositivo entrar em vigor a partir da cobrança do Imposto sobre Bens e Serviços – IBS e da Contribuição Social sobre Bens e Serviços – CBS poderia denotar a ilação de que o preceito trataria de matéria oriunda da Reforma Tributária de que trata a Emenda Constitucional nº 132, de 20 de dezembro de 2023, de modo que a sede adequada sobre o assunto seria a própria regulamentação feita em lei complementar, conforme exigência da Constituição."
-        }
-    ]
+    "dispositivos_vetados": "veto parcial aposto ao projeto de lei n 3149 de 2024 projeto de lei n 5802007 no senado federal que  altera a lei n 13576 de 26 de dezembro de 2017 que dispõe sobre a política nacional de biocombustíveis renovabio para nela incluir os produtores independentes de matériaprima destinada à produção de biocombustível e altera a lei n 9478 de 6 de agosto de 1997"
 }

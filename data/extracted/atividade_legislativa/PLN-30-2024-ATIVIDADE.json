@@ -12,154 +12,208 @@
         "Último local": "18/12/2024 - Secretaria de Expediente",
         "Último estado": "23/12/2024 - TRANSFORMADA EM\nNORMA JURÍDICA"
     },
-    "Tramitação": {
-        "23/12/2024": {
+    "Tramitação": [
+        {
+            "Data": "23/12/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": "TRANSFORMADA EM NORMA JURÍDICA",
             "Ação": "(PR) PRESIDÊNCIA DA REPÚBLICA.\nSANCIONADA. LEI 15061 DE 2024.\nDOUE (Diário Oficial da União - Edição Extra) - 23/12/2024 - Seção I - págs. 17 e 21.\nSancionada em 23/12/2024."
         },
-        "19/12/2024": {
+        {
+            "Data": "19/12/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": "REMETIDA À SANÇÃO",
             "Ação": "Remetido Ofício CN nº 376, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a\nMensagem CN nº 129/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do\nProjeto."
         },
-        "18/12/2024": {
+        {
+            "Data": "18/12/2024",
+            "Órgão": "SF-SEXPE - Secretaria de Expediente",
+            "Situação": null,
+            "Ação": "Anexado o texto revisado.\nAção:"
+        },
+        {
+            "Data": "18/12/2024",
+            "Órgão": "PLEN - Plenário do Congresso Nacional",
+            "Situação": "APROVADA",
+            "Ação": "(Sessão Conjunta do Congresso Nacional, realizada em 18/12/2024)\nEncaminhado à publicação e aprovado, na Câmara dos Deputados e no Senado Federal, o RQN nº 28/2024, solicitando a votação\nem globo dos PLN nºs 14 a 20, 27, 28, 30, 32 a 34 e 36 a 39/2024, nos termos dos respectivos pareceres.\nDiscussão encerrada.\nAprovado o Projeto, na Câmara dos Deputados e no Senado Federal.\nÀ sanção."
+        },
+        {
+            "Data": "18/12/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": "INCLUÍDA EM ORDEM DO DIA",
             "Ação": "Incluído na Ordem do Dia da Sessão Conjunta - Semipresencial convocada para 18/12/2024, às 10 horas."
         },
-        "17/12/2024": {
+        {
+            "Data": "17/12/2024",
+            "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Situação": null,
+            "Ação": "Encerrada a relatoria do Deputado Zeca Dirceu por deliberação da matéria.\nAção:"
+        },
+        {
+            "Data": "17/12/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "APROVADO PARECER NA COMISSÃO",
             "Ação": "A COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO - CMO, na continuação da Nona Reunião,\nExtraordinária, realizada em 17 de dezembro de 2024, APROVOU, o Relatório do Deputado ZECA DIRCEU, favorável ao Projeto de\nLei nº 30/2024-CN na forma proposta pelo Poder Executivo. Ao projeto não foram apresentadas emendas."
         },
-        "03/12/2024": {
+        {
+            "Data": "03/12/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
             "Ação": "Recebido do Relator, Deputado Zeca Dirceu, relatório com voto pela aprovação do Projeto de Lei na forma apresentada pelo\nPoder Executivo. Ao Projeto não foram apresentadas emendas."
         },
-        "02/12/2024": {
+        {
+            "Data": "02/12/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "MATÉRIA COM A RELATORIA",
             "Ação": "Distribuído ao Deputado Zeca Dirceu, para emitir relatório."
         },
-        "26/11/2024": {
+        {
+            "Data": "26/11/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
             "Ação": "Encerrado o prazo regimental, ao Projeto, não foram apresentadas emendas."
         },
-        "25/11/2024": {
+        {
+            "Data": "25/11/2024",
+            "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Situação": "AGUARDANDO RECEBIMENTO DE EMENDAS",
+            "Ação": "Aguardando recebimento de emendas."
+        },
+        {
+            "Data": "25/11/2024",
+            "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
+            "Situação": "MATÉRIA DESPACHADA",
+            "Ação": "À CMO."
+        },
+        {
+            "Data": "25/11/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": null,
             "Ação": "A matéria será publicada no Diário do Congresso Nacional.\nCalendário de tramitação de projetos de lei de créditos adicionais - PLN 30/2024 (Art. 112, da Res. 1/2006-CN):\n- Data do despacho: 25/11/2024\n- Publicação em avulso eletrônico: de 25/11/2024 a 25/11/2024\n- Apresentação de emendas: de 25/11/2024 (15h) a 26/11/2024 (12h)\n- Publicação em avulso eletrônico das emendas: de 26/11/2024 (12h) a 26/11/2024 (14h)\n- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 26/11/2024 (14h) a\n28/11/2024 (14h)\nA matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.\n* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.\nAção:\nPublicado no DCN Páginas 40 - DCN nº 44"
         },
-        "12/11/2024": {
+        {
+            "Data": "12/11/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": null,
             "Ação": "Recebida, em 12/11/2024, retificação da Mensagem nº 1.208, de 2024 do PLN 30/2024.\nAção:\nPublicado no DCN Páginas 49-66 - DCN nº 42"
         },
-        "08/10/2024": {
+        {
+            "Data": "08/10/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": null,
             "Ação": "Recebida, em 08/10/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado\nFederal.\nAção:"
         },
-        "04/10/2024": {
+        {
+            "Data": "04/10/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": "AGUARDANDO DESPACHO",
             "Ação": "Recebida a matéria em 04/10/2024. A Matéria aguarda despacho do Presidente do Congresso Nacional para envio à Comissão\nMista de Planos, Orçamentos Públicos e Fiscalização."
         }
-    },
-    "Documentos": {
-        "PLN 30/2024": {
+    ],
+    "Documentos": [
+        {
+            "Documento": "PLN 30/2024",
             "Data": "04/10/2024",
             "Autor": "Presidência da República",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": null
         },
-        "Avulso inicial da matéria": {
+        {
+            "Documento": "Avulso inicial da matéria",
             "Data": "04/10/2024",
             "Autor": "Senado Federal",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "-"
         },
-        "Nota Informativa": {
+        {
+            "Documento": "Nota Informativa",
             "Data": "08/10/2024",
             "Autor": "Senado Federal",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Nota Informativa PLN 30_2024"
         },
-        "MSG 1208/2024 - Presidência": {
+        {
+            "Documento": "MSG 1208/2024 - Presidência",
             "Data": "12/11/2024",
             "Autor": "Presidência da República",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": "Recebida, em 12/11/2024, retificação da Mensagem nº 1.208, de 2024 do PLN 30/2024.",
             "Descrição/Ementa": "Retificação do PLN 30/2024 - Mensagem nº 1.208, de 2024, para juntada na Exposição de Motivos o anexo - Demonstrativo de\nDesvios de Valores Cancelados."
         },
-        "Calendário": {
+        {
+            "Documento": "Calendário",
             "Data": "25/11/2024",
             "Autor": "Congresso Nacional",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "pg\n4\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 30, de 2024\nDOCUMENTOS\n* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.\nOfício"
         },
-        "pg\n4\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 30, de 2024\nDOCUMENTOS\n* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.\nOfício": {
+        {
+            "Documento": "pg\n4\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 30, de 2024\nDOCUMENTOS\n* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.\nOfício",
             "Data": "02/12/2024",
             "Autor": "Deputado Federal Julio Arcoverde (PP/PI)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": "Distribuído ao Deputado Zeca Dirceu, para emitir relatório.",
             "Descrição/Ementa": "DESIGNA RELATOR - PLN 30/2024 - da Presidência da República – que “Abre ao Orçamento de Investimento da União, em favor\ndas empresas Araucária Nitrogenados S.A., Petrobras Biocombustível S.A. e Petróleo Brasileiro S.A., crédito especial no valor de\nR$ 552.847.000,00, para os fins que especifica”."
         },
-        "Relatório sobre crédito": {
+        {
+            "Documento": "Relatório sobre crédito",
             "Data": "03/12/2024",
             "Autor": "Deputado Federal Zeca Dirceu (PT/PR)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre o Projeto de Lei do Congresso Nacional n° 30,\nde 2024, que Abre ao Orçamento de Investimento da União, em favor das empresas Araucária Nitrogenados S.A., Petrobras\nBiocombustível S.A. e Petróleo Brasileiro S.A., crédito especial no valor de R$ 552.847.000,00, para os fins que especifica."
         },
-        "Decisão de Comissão": {
+        {
+            "Documento": "Decisão de Comissão",
             "Data": "17/12/2024",
             "Autor": "Deputado Federal Julio Arcoverde (PP/PI)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "APROVA, o Relatório do Deputado ZECA DIRCEU, favorável ao Projeto de Lei nº 30/2024-CN na forma proposta pelo Poder\nExecutivo."
         },
-        "PAR 61/2024 - Relatório": {
+        {
+            "Documento": "PAR 61/2024 - Relatório",
             "Data": "17/12/2024",
             "Autor": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre o Projeto de Lei do Congresso Nacional n° 30,\nde 2024, que Abre ao Orçamento de Investimento da União, em favor das empresas Araucária Nitrogenados S.A., Petrobras\nBiocombustível S.A. e Petróleo Brasileiro S.A., crédito especial no valor de R$ 552.847.000,00, para os fins que especifica."
         },
-        "Minuta": {
+        {
+            "Documento": "Minuta",
             "Data": "18/12/2024",
             "Autor": "Senado Federal",
             "Local": "Secretaria de Expediente",
             "Ação Legislativa": "Anexado o texto revisado.",
             "Descrição/Ementa": "pg\n5\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 30, de 2024\nDOCUMENTOS\nMPCN 129/2024"
         },
-        "pg\n5\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 30, de 2024\nDOCUMENTOS\nMPCN 129/2024": {
+        {
+            "Documento": "pg\n5\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 30, de 2024\nDOCUMENTOS\nMPCN 129/2024",
             "Data": "19/12/2024",
             "Autor": "Presidente do Congresso Nacional",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Encaminha à sanção o Projeto de Lei do Congresso Nacional n° 30, de 2024."
         },
-        "OFCN 376/2024": {
+        {
+            "Documento": "OFCN 376/2024",
             "Data": "19/12/2024",
             "Autor": "Primeiro-Secretário do Senado Federal",
             "Local": "Comissão Diretora do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Encaminha a Mensagem da Presidência da Mesa do Congresso Nacional submetendo à sanção presidencial autógrafos do\nProjeto de Lei do Congresso Nacional n° 30, de 2024."
         },
-        "Autógrafo - PLN 30/2024": {
+        {
+            "Documento": "Autógrafo - PLN 30/2024",
             "Data": "19/12/2024",
             "Autor": "Senado Federal",
             "Local": "Secretaria de Expediente",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Abre ao Orçamento de Investimento da União, em favor das empresas Araucária Nitrogenados S.A., Petrobras Biocombustível\nS.A. e Petróleo Brasileiro S.A., crédito especial no valor de R$ 552.847.000,00, para os fins que especifica."
         }
-    }
+    ]
 }

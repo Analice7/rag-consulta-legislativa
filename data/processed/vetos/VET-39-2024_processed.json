@@ -8,11 +8,5 @@
         "numero": "1590",
         "ano": "2024"
     },
-    "dispositivos_vetados": [
-        {
-            "dispositivo_vetado": "Art. 2º do Projeto de Lei",
-            "texto_dispositivo": "Art. 2º Revogam-se os arts. 13, 14, 18 e 18-A da Lei nº 9.615, de 24 de março de 1998 (Lei Pelé).",
-            "razao_veto": "Em que pese a boa intenção do legislador, a proposição legislativa contraria o interesse público ao revogar dispositivos que estabelecem critérios para que organizações esportivas sejam beneficiadas com isenções fiscais, o que pode comprometer a seleção adequada das entidades beneficiárias e prejudicar a gestão dos benefícios fiscais, com potencial renúncia de receita e possível conflito com a legislação fiscal. Além disso, o dispositivo incorre em vício de inconstitucionalidade uma vez que, por estar desacompanhada de estimativa de impacto orçamentário e financeiro, a potencial renúncia de receita viola o art. 113 dos Atos das Disposições Constitucionais Transitórias."
-        }
-    ]
+    "dispositivos_vetados": "veto parcial aposto ao projeto de lei n 1205 de 2024 que altera a lei n 14597 de 14 de junho de 2023 lei geral do esporte para dispor sobre os subsistemas esportivos privados e revoga dispositivos da lei n 9615 de 24 de março de 1998 lei pelé"
 }

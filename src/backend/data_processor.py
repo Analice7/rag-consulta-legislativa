@@ -8,22 +8,28 @@ def process_texts_in_file(data, remove_chars=r'[^\w\s]'):
         if type(value) == list:
             list_result = []
             for item in value:
-                list_result.append(process_texts_in_file(item))
+                list_result.append(process_texts_in_file(item, remove_chars))
             result[key] = list_result
         if type(value) == dict:
-            result[key] = process_texts_in_file(value)
+            result[key] = process_texts_in_file(value, remove_chars)
         else:
-            texto = value.lower()
-            if(key != 'link'):
-                texto = re.sub(remove_chars, '', texto)
-                texto = texto.replace("º", "")
-            result[key] = texto
+            if value:
+                if type(value) != list:
+                    texto = value.lower()
+                else:
+                    result[key] = [item.lower() if isinstance(item, str) else item for item in value]
+                if(key != 'link'):
+                    texto = re.sub(remove_chars, '', texto)
+                    texto = texto.replace("º", "")
+                result[key] = texto
+            else:
+                result[key] = value
     return result
 
 if __name__ == "__main__":
-    directory = "data/extracted"
+    directory = "../../data/extracted"
     extension = ".json"
-    for i in ['leis', 'vetos']:
+    for i in ['atividade_legislativa', 'leis', 'vetos']:
          for arquivo in os.listdir(f"{directory}/{i}"):
             dictionary = []
             with open(f'{directory}/{i}/{arquivo}', 'r', encoding='utf-8') as file:
@@ -32,5 +38,5 @@ if __name__ == "__main__":
                 
             dictionary = process_texts_in_file(data)
             
-            with open(f'data/processed/{i}/{arquivo[:-5]}_processed.json', 'w', encoding = 'utf-8', errors= 'ignore') as file_processed:
+            with open(f'../../data/processed/{i}/{arquivo[:-5]}_processed.json', 'w', encoding = 'utf-8', errors= 'ignore') as file_processed:
                 json.dump(dictionary, file_processed, ensure_ascii=False, indent=4)

@@ -12,149 +12,230 @@
         "Último local": "02/01/2025 - Plenário do Senado\nFederal (Secretaria Legislativa do\nSenado Federal)",
         "Último estado": "23/12/2024 - TRANSFORMADA EM\nNORMA JURÍDICA"
     },
-    "Tramitação": {
-        "23/12/2024": {
+    "Tramitação": [
+        {
+            "Data": "23/12/2024",
+            "Órgão": "SF-SEXPE - Secretaria de Expediente",
+            "Situação": "TRANSFORMADA EM NORMA JURÍDICA",
+            "Ação": "(PR) PRESIDÊNCIA DA REPÚBLICA.\nSANCIONADA. LEI 15055 DE 2024.\nDOUE (Diário Oficial da União - Edição Extra) - 23/12/2024 - Seção I - págs. 3 e 9."
+        },
+        {
+            "Data": "23/12/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": "REMETIDA À SANÇÃO",
             "Ação": "Remetido Ofício CN nº 371, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a\nMensagem CN nº 124/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do\nProjeto."
         },
-        "18/12/2024": {
+        {
+            "Data": "18/12/2024",
+            "Órgão": "SF-SEXPE - Secretaria de Expediente",
+            "Situação": null,
+            "Ação": "Anexado o texto revisado.\nAção:"
+        },
+        {
+            "Data": "18/12/2024",
+            "Órgão": "PLEN - Plenário do Congresso Nacional",
+            "Situação": "APROVADA",
+            "Ação": "(Sessão Conjunta do Congresso Nacional, realizada em 18/12/2024)\nEncaminhado à publicação e aprovado, na Câmara dos Deputados e no Senado Federal, o RQN nº 28/2024, solicitando a votação\nem globo dos PLN nºs 14 a 20, 27, 28, 30, 32 a 34 e 36 a 39/2024, nos termos dos respectivos pareceres.\nDiscussão encerrada.\nAprovado o Projeto, na Câmara dos Deputados e no Senado Federal.\nÀ sanção.\n(Encaminhada à publicação declaração de voto contrário do Senador Eduardo Girão)"
+        },
+        {
+            "Data": "18/12/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": "INCLUÍDA EM ORDEM DO DIA",
             "Ação": "Incluído na Ordem do Dia da Sessão Conjunta - Semipresencial convocada para 18/12/2024, às 10 horas."
         },
-        "17/12/2024": {
+        {
+            "Data": "17/12/2024",
+            "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Situação": null,
+            "Ação": "Encerrada a relatoria do Deputado Paulão por deliberação da matéria.\nAção:"
+        },
+        {
+            "Data": "17/12/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "APROVADO PARECER NA COMISSÃO",
             "Ação": "A COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO - CMO, na continuação da Nona Reunião,\nExtraordinária, realizada em 17 de dezembro de 2024, APROVOU, o Relatório do Deputado PAULÃO, favorável ao Projeto de Lei\nnº 16/2024-CN na forma proposta pelo Poder Executivo. Ao projeto não foram apresentadas emendas."
         },
-        "09/09/2024": {
+        {
+            "Data": "09/09/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
             "Ação": "Recebido do Relator, Deputado Paulão, relatório com voto pela aprovação do Projeto de Lei na forma apresentada pelo Poder\nExecutivo. Ao Projeto não foram apresentadas emendas."
         },
-        "20/08/2024": {
+        {
+            "Data": "20/08/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": null,
             "Ação": "Encerrado o prazo regimental, ao Projeto, não foram apresentadas emendas.\nAção:\npg\n2\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 16, de 2024\nTRAMITAÇÃO"
         },
-        "14/08/2024": {
+        {
+            "Data": "14/08/2024",
+            "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Situação": "MATÉRIA COM A RELATORIA",
+            "Ação": "Redistribuído ao Deputado Paulão, para emitir relatório."
+        },
+        {
+            "Data": "14/08/2024",
+            "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Situação": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "Ação": "Devolvido pelo Deputado Cabo Gilberto Silva, para redistribuição."
+        },
+        {
+            "Data": "14/08/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": null,
             "Ação": "Oficio 15/2024 CGS, do Cabo Gilberto Silva, de 14/10/2024, que comunica o declínio da relatoria do PLN 16/2024.\nAção:"
         },
-        "06/08/2024": {
+        {
+            "Data": "06/08/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "MATÉRIA COM A RELATORIA",
             "Ação": "Distribuído ao Deputado Cabo Gilberto Silva, para emitir relatório."
         },
-        "05/08/2024": {
+        {
+            "Data": "05/08/2024",
+            "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
+            "Situação": "MATÉRIA DESPACHADA",
+            "Ação": "À CMO."
+        },
+        {
+            "Data": "05/08/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": null,
             "Ação": "A matéria será publicada no Diário do Congresso Nacional.\nCalendário de tramitação de projetos de lei de créditos adicionais - PLN 16/2024 (Art. 112, da Res. 1/2006-CN):\n- Data do despacho: 05/08/2024\n- Publicação em avulso eletrônico: de 05/08/2024 a 09/08/2024\n- Apresentação de emendas: de 10/08/2024 a 19/08/2024\n- Publicação em avulso eletrônico das emendas: de 20/08/2024 a 24/08/2024\n- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 25/08/2024 a 08/09/2024\nA matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.\n* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.\nAção:\nPublicado no DCN Páginas 512-548 - DCN nº 28"
         },
-        "20/06/2024": {
+        {
+            "Data": "20/06/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": null,
             "Ação": "Recebida, em 20/06/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado\nFederal.\nAção:"
         },
-        "13/06/2024": {
+        {
+            "Data": "13/06/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": "AGUARDANDO DESPACHO",
             "Ação": "Recebida a matéria em 13/06/2024. A Matéria aguarda despacho do Presidente do Congresso Nacional para envio à Comissão"
         }
-    },
-    "Documentos": {
-        "PLN 16/2024": {
+    ],
+    "Documentos": [
+        {
+            "Documento": "PLN 16/2024",
             "Data": "13/06/2024",
             "Autor": "Presidência da República",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": null
         },
-        "Nota Informativa": {
+        {
+            "Documento": "Nota Informativa",
             "Data": "20/06/2024",
             "Autor": "Senado Federal",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Nota Informativa"
         },
-        "Calendário": {
+        {
+            "Documento": "Calendário",
             "Data": "05/08/2024",
             "Autor": "Congresso Nacional",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Avulso inicial da matéria"
         },
-        "Avulso inicial da matéria": {
+        {
+            "Documento": "Avulso inicial da matéria",
             "Data": "05/08/2024",
             "Autor": "Senado Federal",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "pg\n4\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 16, de 2024\nDOCUMENTOS\n- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 25/08/2024 a 08/09/2024\nA matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.\n* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.\n-"
         },
-        "Ofício": {
+        {
+            "Documento": "Ofício",
+            "Data": "06/08/2024",
+            "Autor": "Deputado Federal Julio Arcoverde (PP/PI)",
+            "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Ação Legislativa": "Distribuído ao Deputado Cabo Gilberto Silva, para emitir relatório.",
+            "Descrição/Ementa": "Relator do PLN 16/2024 - da Presidência da República – que “Abre ao Orçamento de Investimento da União, em favor da\nempresa Petrobras International Braspetro B.V. – PIBBV, da empresa Petrobras Biocombustível S.A. – PBIO e da Empresa\nBrasileira de Correios e Telégrafos, crédito suplementar no valor de R$ 304.301.914,00, para reforço de dotações constantes da\nLei Orçamentária vigente”."
+        },
+        {
+            "Documento": "Ofício",
+            "Data": "14/08/2024",
+            "Autor": "Deputado Federal Julio Arcoverde (PP/PI)",
+            "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Ação Legislativa": "Redistribuído ao Deputado Paulão, para emitir relatório.",
+            "Descrição/Ementa": "Designação do relator Senhor Deputado PAULÃO"
+        },
+        {
+            "Documento": "Ofício",
             "Data": "14/08/2024",
             "Autor": "Deputado Federal Cabo Gilberto Silva (PL/PB)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": "Oficio 15/2024 CGS, do Cabo Gilberto Silva, de 14/10/2024, que comunica o declínio da relatoria do PLN 16/2024.",
             "Descrição/Ementa": "Comunica que declinação da relatoria do PLN 16/2024."
         },
-        "Relatório sobre crédito": {
+        {
+            "Documento": "Relatório sobre crédito",
             "Data": "09/09/2024",
             "Autor": "Deputado Federal Paulão (PT/AL)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre o Projeto de Lei do Congresso Nacional n° 16,\nde 2024, que Abre ao Orçamento de Investimento da União, em favor da empresa Petrobras International Braspetro B.V. –\nPIBBV, da empresa Petrobras Biocombustível S.A. – PBIO e da Empresa Brasileira de Correios e Telégrafos, crédito suplementar\nno valor de R$ 304.301.914,00, para reforço de dotações constantes da Lei Orçamentária vigente."
         },
-        "Decisão de Comissão": {
+        {
+            "Documento": "Decisão de Comissão",
             "Data": "17/12/2024",
             "Autor": "Deputado Federal Julio Arcoverde (PP/PI)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": "A COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO - CMO, na continuação da Nona Reunião,",
             "Descrição/Ementa": "pg\n5\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 16, de 2024\nDOCUMENTOS\nExtraordinária, realizada em 17 de dezembro de 2024, APROVOU, o Relatório do Deputado PAULÃO, favorável ao Projeto de Lei\nnº 16/2024-CN na forma proposta pelo Poder Executivo. Ao projeto não foram apresentadas emendas.\nAPROVA, o Relatório do Deputado PAULÃO, favorável ao Projeto de Lei nº 16/2024-CN na forma proposta pelo Poder Executivo.\nAo projeto não foram apresentadas emendas"
         },
-        "PAR 69/2024 - Relatório": {
+        {
+            "Documento": "PAR 69/2024 - Relatório",
             "Data": "17/12/2024",
             "Autor": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre o Projeto de Lei do Congresso Nacional n° 16,\nde 2024, que Abre ao Orçamento de Investimento da União, em favor da empresa Petrobras International Braspetro B.V. –\nPIBBV, da empresa Petrobras Biocombustível S.A. – PBIO e da Empresa Brasileira de Correios e Telégrafos, crédito suplementar\nno valor de R$ 304.301.914,00, para reforço de dotações constantes da Lei Orçamentária vigente."
         },
-        "Minuta": {
+        {
+            "Documento": "Minuta",
             "Data": "18/12/2024",
             "Autor": "Senado Federal",
             "Local": "Secretaria de Expediente",
             "Ação Legislativa": "Anexado o texto revisado.",
             "Descrição/Ementa": "Declaração de Voto"
         },
-        "Declaração de Voto": {
+        {
+            "Documento": "Declaração de Voto",
             "Data": "18/12/2024",
             "Autor": "Senador Eduardo Girão (NOVO/CE)",
             "Local": "Plenário do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Declaração de voto contrário do Senador Eduardo Girão."
         },
-        "MPCN 124/2024": {
+        {
+            "Documento": "MPCN 124/2024",
             "Data": "19/12/2024",
             "Autor": "Presidente do Congresso Nacional",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Encaminha à sanção o Projeto de Lei do Congresso Nacional n° 16, de 2024."
         },
-        "OFCN 371/2024": {
+        {
+            "Documento": "OFCN 371/2024",
             "Data": "19/12/2024",
             "Autor": "Primeiro-Secretário do Senado Federal",
             "Local": "Comissão Diretora do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Encaminha a Mensagem da Presidência da Mesa do Congresso Nacional submetendo à sanção presidencial autógrafos do\nProjeto de Lei do Congresso Nacional n° 16, de 2024."
         },
-        "Autógrafo - PLN 16/2024": {
+        {
+            "Documento": "Autógrafo - PLN 16/2024",
             "Data": "19/12/2024",
             "Autor": "Senado Federal",
             "Local": "Secretaria de Expediente",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Abre ao Orçamento de Investimento da União, em favor da empresa Petrobras International Braspetro B.V. – PIBBV, da empresa\nPetrobras Biocombustível S.A. – PBIO e da Empresa Brasileira de Correios e Telégrafos, crédito suplementar no valor de R$\n304.301.914,00, para reforço de dotações constantes da Lei Orçamentária vigente."
         }
-    }
+    ]
 }

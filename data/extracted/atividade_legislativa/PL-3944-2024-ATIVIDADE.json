@@ -12,207 +12,344 @@
         "Último local": "19/12/2024 - Secretaria de Expediente",
         "Último estado": "07/01/2025 - TRANSFORMADA EM\nNORMA JURÍDICA"
     },
-    "Tramitação": {
-        "07/01/2025": {
+    "Tramitação": [
+        {
+            "Data": "07/01/2025",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": "TRANSFORMADA EM NORMA JURÍDICA",
             "Ação": "(PR) PRESIDÊNCIA DA REPÚBLICA.\nSANCIONADA. LEI 15088 DE 2025.\nDOU (Diário Oficial da União) - 07/01/2025 - Seção I - págs. 1 e 1.\nSancionada em 06/01/2025."
         },
-        "19/12/2024": {
+        {
+            "Data": "19/12/2024",
+            "Órgão": "SF-SEXPE - Secretaria de Expediente",
+            "Situação": null,
+            "Ação": "Remetido Ofício SF n.º 1467, de 19/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,\nencaminhando a Mensagem SF n.º 290/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção\npresidencial autógrafo do Projeto.\nRemetido Ofício SF n.º 1468, de 19/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto\nfoi encaminhado à sanção presidencial.\nAção:\npg\n1\nAtividade Legislativa\nProjeto de Lei n° 3944, de 2024\nTRAMITAÇÃO"
+        },
+        {
+            "Data": "19/12/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": null,
             "Ação": "Anexado o texto revisado.\nAção:"
         },
-        "17/12/2024": {
+        {
+            "Data": "17/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": "APROVADA",
+            "Ação": "(Sessão Deliberativa Ordinária realizada em 17/12/2024)\nEncaminhadas à publicação as Emendas n°s 3 a 6 de Plenário.\nAprovado o Requerimento n° 58, de 2024, de autoria da Comissão de Meio Ambiente, que solicita urgência para o presente\nProjeto de Lei.\nO Senador Weverton profere o Parecer n° 235/2024 - Plen/SF, contrário às Emendas n°s 3 a 6, com a apresentação da Emenda n°\n7, de Plenário, de autoria do relator, com adequação redacional de Plenário.\nEncerrada a discussão.\nEncaminhado à publicação e retirado o RQS 946, de 2024, de destaque para votação em separado.\nAprovado o Projeto, com a Emenda n°s 7, de redação, nos termos dos pareceres, com adequação redacional de plenário.\nEncaminhado à publicação e aprovado o Parecer n° 236/2024 - Plen/SF, da Comissão Diretora, oferecendo a Redação Final.\nA matéria vai à sanção. Será feita a devida comunicação à Câmara dos Deputados.\n(Encaminhado à publicação o Requerimento n° 949, de 2024)"
+        },
+        {
+            "Data": "17/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebido novo Relatório do Senador Weverton.\nAção:"
+        },
+        {
+            "Data": "17/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebido o Relatório do Senador Weverton.\nAção:"
+        },
+        {
+            "Data": "17/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebido o Requerimento n° 949, de 2024, da Liderança do PP, de destaque para votação em separado da Emenda nº 3.\nAção:"
+        },
+        {
+            "Data": "17/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebido o Requerimento n° 946, de 2024, da Liderança do PL, de destaque para votação em separado da Emenda nº 3.\nAção:"
+        },
+        {
+            "Data": "17/12/2024",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": null,
             "Ação": "Recebidas as Emendas nºs 5 e 6, do Senador Luis Carlos Heinze.\nAção:"
         },
-        "16/12/2024": {
+        {
+            "Data": "16/12/2024",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": null,
             "Ação": "Recebida a Emenda nº 4, do Senador Alessandro Vieira.\nAção:"
         },
-        "15/12/2024": {
+        {
+            "Data": "15/12/2024",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": "INCLUÍDA EM ORDEM DO DIA",
             "Ação": "Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 17/12/2024."
         },
-        "12/12/2024": {
+        {
+            "Data": "12/12/2024",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": null,
             "Ação": "Recebida a Emenda nº 3, do Senador Jorge Seif.\nAção:"
         },
-        "11/12/2024": {
+        {
+            "Data": "11/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, \"d\", do RISF). De 13/12/2024\na 19/12/2024. Perante a Mesa.\nAção:"
+        },
+        {
+            "Data": "11/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": "AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA",
+            "Ação": "Concluída a instrução da matéria, fica aberto o prazo de cinco dias úteis para recebimento de emendas, nos termos do art. 235,\nII, \"d\", do Regimento Interno."
+        },
+        {
+            "Data": "11/12/2024",
+            "Órgão": "CMA - Comissão de Meio Ambiente",
+            "Situação": null,
+            "Ação": "Encerrada a relatoria do Senador Weverton por deliberação da matéria.\nAção:"
+        },
+        {
+            "Data": "11/12/2024",
+            "Órgão": "CMA - Comissão de Meio Ambiente",
+            "Situação": "APROVADO PARECER NA COMISSÃO",
+            "Ação": "Na 47ª reunião, realizada nesta data, a Comissão de Meio Ambiente aprovou parecer do senador Weverton favorável à\naprovação do Projeto de Lei nº 3.944, de 2024, com as emendas de redação nº 1 e 2 - CMA. Logo após a deliberação foi\napresentado extrapauta e aprovado o REQ 58/2024 - CMA que solicita urgência ao plenário para deliberação da matéria\nA matéria seguirá ao plenário.\nLink da reunião: https://legis.senado.leg.br/atividade/comissoes/comissao/50/reuniao/13265"
+        },
+        {
+            "Data": "11/12/2024",
+            "Órgão": "CMA - Comissão de Meio Ambiente",
+            "Situação": null,
+            "Ação": "Apresentado requerimento (Urgência para matéria) na Comissão nesta data às 09:49.\nAção:"
+        },
+        {
+            "Data": "11/12/2024",
             "Órgão": "CMA - Comissão de Meio Ambiente",
             "Situação": null,
             "Ação": "Em 10/12/2024, o relator apresentou novo relatório pela aprovação da matéria na com duas emendas de redação. Pauta da 47ª\nreunião atualizada.\nAção:"
         },
-        "06/12/2024": {
+        {
+            "Data": "06/12/2024",
+            "Órgão": "CMA - Comissão de Meio Ambiente",
+            "Situação": "INCLUÍDA NA PAUTA DA REUNIÃO",
+            "Ação": "Matéria constante da Pauta da 47ª Reunião da Comissão de Meio Ambiente, agendada para o dia 11/12/2024."
+        },
+        {
+            "Data": "06/12/2024",
             "Órgão": "CMA - Comissão de Meio Ambiente",
             "Situação": "pg\n3\nAtividade Legislativa\nProjeto de Lei n° 3944, de 2024\nTRAMITAÇÃO\nPRONTA PARA A PAUTA NA COMISSÃO",
             "Ação": "Recebido relatório, do senador Weverton, favorável à aprovação do Projeto de Lei nº 3.944, de 2024, com a emenda que\napresenta."
         },
-        "03/12/2024": {
+        {
+            "Data": "03/12/2024",
+            "Órgão": "CMA - Comissão de Meio Ambiente",
+            "Situação": "MATÉRIA COM A RELATORIA",
+            "Ação": "Distribuído ao Senador Weverton, para emitir relatório."
+        },
+        {
+            "Data": "03/12/2024",
+            "Órgão": "CMA - Comissão de Meio Ambiente",
+            "Situação": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "Ação": "Matéria recebida na Secretaria da Comissão de Meio Ambiente.\nAguardando designação de relator."
+        },
+        {
+            "Data": "03/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": "MATÉRIA DESPACHADA",
+            "Ação": "A matéria vai à Comissão de Meio Ambiente."
+        },
+        {
+            "Data": "03/12/2024",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": "AGUARDANDO DESPACHO",
             "Ação": "Autuado o Projeto de Lei nº 3944/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação."
         }
-    },
-    "Documentos": {
-        "PL 3944/2024": {
+    ],
+    "Documentos": [
+        {
+            "Documento": "PL 3944/2024",
             "Data": "03/12/2024",
             "Autor": "Câmara dos Deputados",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Autuado o Projeto de Lei nº 3944/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
             "Descrição/Ementa": null
         },
-        "Avulso inicial da matéria": {
+        {
+            "Documento": "Avulso inicial da matéria",
             "Data": "03/12/2024",
             "Autor": "Senado Federal",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Autuado o Projeto de Lei nº 3944/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
             "Descrição/Ementa": "-"
         },
-        "Relatório Legislativo\npg\n4\nAtividade Legislativa\nProjeto de Lei n° 3944, de 2024\nDOCUMENTOS": {
+        {
+            "Documento": "Relatório Legislativo\npg\n4\nAtividade Legislativa\nProjeto de Lei n° 3944, de 2024\nDOCUMENTOS",
             "Data": "06/12/2024",
             "Autor": "Senador Weverton (PDT/MA)",
             "Local": "Comissão de Meio Ambiente",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Da COMISSÃO DE MEIO AMBIENTE, sobre o Projeto de Lei nº 3.944, de 2024, do Deputado Célio Silveira, que altera a Lei nº\n12.305, de 2 de agosto de 2010, que institui a Política Nacional de Resíduos Sólidos, para proibir a importação de resíduos\nsólidos, ressalvados os casos que especifica."
         },
-        "Relatório Legislativo": {
-            "Data": "17/12/2024",
+        {
+            "Documento": "Relatório Legislativo",
+            "Data": "11/12/2024",
             "Autor": "Senador Weverton (PDT/MA)",
-            "Local": "Plenário do Senado Federal",
-            "Ação Legislativa": "Recebido novo Relatório do Senador Weverton.",
-            "Descrição/Ementa": "PARECER FINAL AO PL 3944/2024"
+            "Local": "Comissão de Meio Ambiente",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Da COMISSÃO DE MEIO AMBIENTE, sobre o Projeto de Lei nº 3.944, de 2024, do Deputado Célio Silveira, que altera a Lei nº\n12.305, de 2 de agosto de 2010, que institui a Política Nacional de Resíduos Sólidos, para proibir a importação de resíduos\nsólidos, ressalvados os casos que especifica."
         },
-        "REQ 58/2024 - CMA": {
+        {
+            "Documento": "REQ 58/2024 - CMA",
             "Data": "11/12/2024",
             "Autor": "Comissão de Meio Ambiente",
             "Local": "Comissão de Meio Ambiente",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Requeremos, nos termos dos arts. 336, II, e 338, IV, do Regimento Interno do Senado Federal, urgência para o PL 3944/2024, que\n“altera a Lei nº 12.305, de 2 de agosto de 2010, que institui a Política Nacional de Resíduos Sólidos, para proibir a importação de\nresíduos sólidos, ressalvados os casos que especifica”."
         },
-        "Listagem ou relatório": {
+        {
+            "Documento": "Listagem ou relatório",
             "Data": "11/12/2024",
             "Autor": "Comissão de Meio Ambiente",
             "Local": "Comissão de Meio Ambiente",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Da COMISSÃO DE MEIO AMBIENTE, sobre o Projeto de Lei n° 3944, de 2024, que Altera a Lei nº 12.305, de 2 de agosto de 2010,\nque institui a Política Nacional de Resíduos Sólidos, para proibir a importação de resíduos sólidos, ressalvados os casos que\nespecifica."
         },
-        "P.S 39/2024 - CMA": {
+        {
+            "Documento": "P.S 39/2024 - CMA",
             "Data": "11/12/2024",
             "Autor": "Comissão de Meio Ambiente, Senador Weverton (PDT/MA), Senadora Leila Barros (PDT/DF), Senador Weverton (PDT/MA)",
             "Local": "Comissão de Meio Ambiente",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Da COMISSÃO DE MEIO AMBIENTE, sobre o Projeto de Lei nº 3.944, de 2024, do Deputado Célio Silveira, que altera a Lei nº\n12.305, de 2 de agosto de 2010, que institui a Política Nacional de Resíduos Sólidos, para proibir a importação de resíduos"
         },
-        "pg\n5\nAtividade Legislativa\nProjeto de Lei n° 3944, de 2024\nDOCUMENTOS\nsólidos, ressalvados os casos que especifica.\nEMENDA 3 PLEN - PL": {
+        {
+            "Documento": "pg\n5\nAtividade Legislativa\nProjeto de Lei n° 3944, de 2024\nDOCUMENTOS\nsólidos, ressalvados os casos que especifica.\nEMENDA 3 PLEN - PL",
             "Data": "12/12/2024",
             "Autor": "Senador Jorge Seif (PL/SC)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebida a Emenda nº 3, do Senador Jorge Seif.",
             "Descrição/Ementa": "Emenda  ao PL 3944/2024 - Dep. Cobalchini - Papel ondulado"
         },
-        "EMENDA 4 PLEN - PL": {
+        {
+            "Documento": "EMENDA 4 PLEN - PL",
             "Data": "16/12/2024",
             "Autor": "Senador Alessandro Vieira (MDB/SE)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebida a Emenda nº 4, do Senador Alessandro Vieira.",
             "Descrição/Ementa": "Emenda  ao PL 3944/2024"
         },
-        "EMENDA 5 PLEN - PL": {
+        {
+            "Documento": "EMENDA 5 PLEN - PL",
             "Data": "17/12/2024",
             "Autor": "Senador Luis Carlos Heinze (PP/RS)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebidas as Emendas nºs 5 e 6, do Senador Luis Carlos Heinze.",
             "Descrição/Ementa": "Emenda 01 ao PL 3944/2024"
         },
-        "EMENDA 6 PLEN - PL": {
+        {
+            "Documento": "EMENDA 6 PLEN - PL",
             "Data": "17/12/2024",
             "Autor": "Senador Luis Carlos Heinze (PP/RS)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebidas as Emendas nºs 5 e 6, do Senador Luis Carlos Heinze.",
             "Descrição/Ementa": "Emenda 2 ao PL 3944/2024"
         },
-        "RQS 946/2024": {
+        {
+            "Documento": "RQS 946/2024",
             "Data": "17/12/2024",
             "Autor": "Líder do PL Carlos Portinho (PL/RJ)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebido o Requerimento n° 946, de 2024, da Liderança do PL, de destaque para votação em separado da Emenda nº 3.",
             "Descrição/Ementa": "Requer, pela Liderança do PL, destaque para votação em separado da Emenda nº 3 ao Projeto de Lei nº 3.944/2024."
         },
-        "RQS 949/2024": {
+        {
+            "Documento": "RQS 949/2024",
             "Data": "17/12/2024",
             "Autor": "Líder do PP Tereza Cristina (PP/MS)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebido o Requerimento n° 949, de 2024, da Liderança do PP, de destaque para votação em separado da Emenda nº 3.",
             "Descrição/Ementa": "pg\n6\nAtividade Legislativa\nProjeto de Lei n° 3944, de 2024\nDOCUMENTOS\nRequer, pela Liderança do PP, destaque para votação em separado da Emenda nº 3 ao Projeto de Lei nº 3944/2024."
         },
-        "P.S 235/2024 - PLEN": {
+        {
+            "Documento": "Relatório Legislativo",
+            "Data": "17/12/2024",
+            "Autor": "Senador Weverton (PDT/MA)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebido o Relatório do Senador Weverton.",
+            "Descrição/Ementa": "Relatório ao PL 3944/2024 COM EMENDAS"
+        },
+        {
+            "Documento": "Relatório Legislativo",
+            "Data": "17/12/2024",
+            "Autor": "Senador Weverton (PDT/MA)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": "Recebido novo Relatório do Senador Weverton.",
+            "Descrição/Ementa": "PARECER FINAL AO PL 3944/2024"
+        },
+        {
+            "Documento": "P.S 235/2024 - PLEN",
             "Data": "17/12/2024",
             "Autor": "Senador Weverton (PDT/MA)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Parecer nº 235, de 2024-PLEN/SF"
         },
-        "P.S 236/2024 - PLEN": {
+        {
+            "Documento": "P.S 236/2024 - PLEN",
             "Data": "17/12/2024",
             "Autor": "Comissão Diretora do Senado Federal",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Parecer n° 236/2024 - Plen/SF, da Comissão Diretora, oferecendo a Redação Final."
         },
-        "pg\n7\nAtividade Legislativa\nProjeto de Lei n° 3944, de 2024\nDOCUMENTOS\nEMENDA 7 PLEN - PL": {
+        {
+            "Documento": "pg\n7\nAtividade Legislativa\nProjeto de Lei n° 3944, de 2024\nDOCUMENTOS\nEMENDA 7 PLEN - PL",
             "Data": "17/12/2024",
             "Autor": "Senador Weverton (PDT/MA)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Emenda nº 7, de redação, do Relator"
         },
-        "Avulso de emendas": {
+        {
+            "Documento": "Avulso de emendas",
             "Data": "17/12/2024",
             "Autor": "Senado Federal",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "-"
         },
-        "OFSF 1467/2024": {
+        {
+            "Documento": "OFSF 1467/2024",
             "Data": "19/12/2024",
             "Autor": "Primeiro-Secretário do Senado Federal",
             "Local": "Comissão Diretora do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°\n3.944, de 2024."
         },
-        "MPSF 290/2024": {
+        {
+            "Documento": "MPSF 290/2024",
             "Data": "19/12/2024",
             "Autor": "Presidente do Senado Federal",
             "Local": "Comissão Diretora do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Encaminha à sanção o Projeto de Lei n° 3.944, de 2024."
         },
-        "OFSF 1468/2024\npg\n8\nAtividade Legislativa\nProjeto de Lei n° 3944, de 2024\nDOCUMENTOS": {
+        {
+            "Documento": "OFSF 1468/2024\npg\n8\nAtividade Legislativa\nProjeto de Lei n° 3944, de 2024\nDOCUMENTOS",
             "Data": "19/12/2024",
             "Autor": "Primeiro-Secretário do Senado Federal",
             "Local": "Comissão Diretora do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 3.944, de 2024."
         },
-        "Minuta": {
+        {
+            "Documento": "Minuta",
             "Data": "19/12/2024",
             "Autor": "Senado Federal",
             "Local": "Secretaria de Expediente",
             "Ação Legislativa": "Anexado o texto revisado.",
             "Descrição/Ementa": "Autógrafo - PL 3944/2024"
         },
-        "Autógrafo - PL 3944/2024": {
+        {
+            "Documento": "Autógrafo - PL 3944/2024",
             "Data": "19/12/2024",
             "Autor": "Senado Federal",
             "Local": "Secretaria de Expediente",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Altera a Lei nº 12.305, de 2 de agosto de 2010, que institui a Política Nacional de Resíduos Sólidos, para proibir a importação de\nresíduos sólidos, ressalvados os casos que especifica."
         }
-    }
+    ]
 }

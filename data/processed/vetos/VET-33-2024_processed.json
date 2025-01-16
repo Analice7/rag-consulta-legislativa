@@ -8,21 +8,5 @@
         "numero": "1244",
         "ano": "2024"
     },
-    "dispositivos_vetados": [
-        {
-            "dispositivo_vetado": "Art. 24 do Projeto de Lei",
-            "texto_dispositivo": "Art. 24. Não produzirão efeitos na apuração de tributos federais as eventuais diferenças decorrentes dos métodos e dos critérios contábeis previstos na legislação comercial em relação às situações objeto desta Lei.",
-            "razao_veto": "Em que pese a boa intenção do legislador, a proposição legislativa contraria o interesse público em razão da possibilidade de sobreposição com a disciplina da Lei nº 12.973, de 13 de maio de 2014, o que comprometeria a segurança jurídica."
-        },
-        {
-            "dispositivo_vetado": "Art. 30 do Projeto de Lei, na parte em que altera o inciso XVI do caput do art. 2º da Lei nº 9.478, de 6 de agosto de 1997",
-            "texto_dispositivo": "XVI - definir diretrizes para a aquisição de biometano por comercializadores e importadores de gás natural para assegurar o cumprimento da adição obrigatória de biometano ao gás natural.",
-            "razao_veto": "Em que pese a boa intenção do legislador, o dispositivo contraria o interesse público ao alterar texto recém acrescentado à Lei nº 9.478, de 6 de agosto de 1997, pela Medida Provisória nº 1.255, de 26 de agosto de 2024. Além disso, a consecução da finalidade do inciso ora vetado não ficará prejudicada porque estará abarcada pela sanção da nova redação dada pelo art. 30 do Projeto de Lei ao inciso IV do caput do art. 2º da Lei nº 9.478, de 6 de agosto de 1997."
-        },
-        {
-            "dispositivo_vetado": "Art. 30 do Projeto de Lei, na parte em que altera o inciso XXXVI do caput do art. 8º da Lei nº 9.478, de 6 de agosto de 1997",
-            "texto_dispositivo": "XXXVI - regular e autorizar as atividades relacionadas à captura e à estocagem geológica de dióxido de carbono;",
-            "razao_veto": "Em que pese a boa intenção do legislador, o dispositivo contraria o interesse público ao alterar texto recém acrescentado à Lei nº 9.478, de 6 de agosto de 1997, pela Lei nº 14.948, 2 de agosto de 2024. Além disso, a consecução da finalidade do inciso ora vetado não ficará prejudicada porque estará abarcada pela sanção da nova redação dada pelo art. 30 do Projeto de Lei ao caput do art. 8º da Lei nº 9.478, de 6 de agosto de 1997."
-        }
-    ]
+    "dispositivos_vetados": "veto parcial aposto ao projeto de lei n 528 de 2020 que dispõe sobre a promoção da mobilidade sustentável de baixo carbono e a captura e a estocagem geológica de dióxido de carbono institui o programa nacional de combustível sustentável de aviação probioqav o programa nacional de diesel verde pndv e o programa nacional de descarbonização do produtor e importador de gás natural e de incentivo ao biometano altera as leis ns 9478 de 6 de agosto de 1997 9847 de 26 de outubro de 1999 8723 de 28 de outubro de 1993 e 13033 de 24 de setembro de 2014 e revoga dispositivo da lei n 10438 de 26 de abril de 2002"
 }

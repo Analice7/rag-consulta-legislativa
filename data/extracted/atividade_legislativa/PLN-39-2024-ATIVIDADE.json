@@ -12,153 +12,232 @@
         "Último local": "03/01/2025 - Plenário do Senado\nFederal (Secretaria Legislativa do\nSenado Federal)",
         "Último estado": "23/12/2024 - TRANSFORMADA EM\nNORMA JURÍDICA"
     },
-    "Tramitação": {
-        "23/12/2024": {
+    "Tramitação": [
+        {
+            "Data": "23/12/2024",
+            "Órgão": "SF-SEXPE - Secretaria de Expediente",
+            "Situação": "TRANSFORMADA EM NORMA JURÍDICA",
+            "Ação": "(PR) PRESIDÊNCIA DA REPÚBLICA.\nSANCIONADA. LEI 15067 DE 2024.\nDOUE (Diário Oficial da União - Edição Extra) - 23/12/2024 - Seção I - págs. 37 e 37.\nSancionada em 23/12/2024."
+        },
+        {
+            "Data": "23/12/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": null,
             "Ação": "Anexado o Quadro Comparativo entre a Lei nº 14.791, de 29 de dezembro de 2023 (LDO 2024), o Projeto de Lei nº 39, de 2024-\nCN (PLN 39/2024) e o Substitutivo aprovado, elaborado pela Secretaria Legislativa do Congresso Nacional.\nAção:"
         },
-        "19/12/2024": {
+        {
+            "Data": "19/12/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": "pg\n1\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 39, de 2024\nTRAMITAÇÃO\nREMETIDA À SANÇÃO",
             "Ação": "Remetido Ofício CN nº 383, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a\nMensagem CN nº 136/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do\nProjeto."
         },
-        "18/12/2024": {
+        {
+            "Data": "18/12/2024",
+            "Órgão": "SF-SEXPE - Secretaria de Expediente",
+            "Situação": null,
+            "Ação": "Anexado o texto revisado.\nAção:"
+        },
+        {
+            "Data": "18/12/2024",
+            "Órgão": "PLEN - Plenário do Congresso Nacional",
+            "Situação": "APROVADO O SUBSTITUTIVO",
+            "Ação": "(Sessão Conjunta do Congresso Nacional, realizada em 18/12/2024)\nEncaminhado à publicação e aprovado, na Câmara dos Deputados e no Senado Federal, o RQN nº 28/2024, solicitando a votação\nem globo dos PLN nºs 14 a 20, 27, 28, 30, 32 a 34 e 36 a 39/2024, nos termos dos respectivos pareceres.\nDiscussão encerrada.\nAprovado o Substitutivo, na Câmara dos Deputados e no Senado Federal, ficando prejudicado o projeto.\nÀ sanção."
+        },
+        {
+            "Data": "18/12/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": "INCLUÍDA EM ORDEM DO DIA",
             "Ação": "Incluído na Ordem do Dia da Sessão Conjunta - Semipresencial convocada para 18/12/2024, às 10 horas."
         },
-        "17/12/2024": {
+        {
+            "Data": "17/12/2024",
+            "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Situação": "APROVADO PARECER NA COMISSÃO",
+            "Ação": "Encerrada a relatoria do Deputado Dr. Victor Linhalis por deliberação da matéria."
+        },
+        {
+            "Data": "17/12/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": null,
             "Ação": "A COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO - CMO, na continuação da Nona Reunião,\nExtraordinária, realizada em 17 de dezembro de 2024, APROVOU, o Relatório do Deputado MERLONG SOLANO, relator ad hoc\n(anteriormente designado o Deputado Dr. Victor Linhalis), favorável ao Projeto de Lei nº 39/2024-CN na forma do Substitutivo\napresentado. Ao projeto não foram apresentadas emendas.\nAção:\nPublicado no DCN Páginas 4-8 Suplemento (nº B) - DCN nº 47"
         },
-        "11/12/2024": {
+        {
+            "Data": "11/12/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": null,
             "Ação": "Anexado o Quadro Comparativo entre a Lei nº 14.791, de 29 de dezembro de 2023 (LDO 2024) e o Projeto de Lei nº 39, de 2024-\nCN (PLN 39/2024), elaborado pela Secretaria Legislativa do Congresso Nacional.\nAção:"
         },
-        "09/12/2024": {
+        {
+            "Data": "09/12/2024",
+            "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
+            "Ação": "Recebido do Relator, Deputado Dr. Victor Linhalis, relatório com voto pela aprovação do Projeto de Lei na forma do\nSUBSTITUTIVO apresentado. Ao projeto não foram apresentadas emendas."
+        },
+        {
+            "Data": "09/12/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": null,
             "Ação": "Encerrado o prazo regimental, ao Projeto, não foram apresentadas emendas.\nAção:"
         },
-        "06/12/2024": {
+        {
+            "Data": "06/12/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "MATÉRIA COM A RELATORIA",
             "Ação": "Distribuído ao Deputado Dr. Victor Linhalis, para emitir relatório."
         },
-        "05/12/2024": {
+        {
+            "Data": "05/12/2024",
+            "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Situação": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
+            "Ação": "Aguardando relatoria"
+        },
+        {
+            "Data": "05/12/2024",
+            "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
+            "Situação": null,
+            "Ação": "À CMO.\nAção:"
+        },
+        {
+            "Data": "05/12/2024",
+            "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
+            "Situação": null,
+            "Ação": "A matéria será publicada no Diário do Congresso Nacional.\nCalendário de tramitação de projetos de lei de créditos adicionais - PLN 39/2024 (Art. 112, da Res. 1/2006-CN):\n- Data do despacho: 05/12/2024\n- Publicação em avulso eletrônico: de 05/12/2024 a 05/12/2024\n- Apresentação de emendas: de 06/12/2024 a 09/12/2024 (12h)\n- Publicação em avulso eletrônico das emendas: de 09/12/2024 (12h) a 09/12/2024 (14h)\n- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 09/12/2024 (14h) a\n10/12/2024\nA matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.\n* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.\nAção:"
+        },
+        {
+            "Data": "05/12/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": null,
             "Ação": "Recebida a matéria em 05/12/2024. A Matéria aguarda despacho do Presidente do Congresso Nacional para envio à Comissão\nMista de Orçamento.\nAção:\nPublicado no DCN Páginas 142-145 - DCN nº 46"
         }
-    },
-    "Documentos": {
-        "PLN 39/2024": {
+    ],
+    "Documentos": [
+        {
+            "Documento": "PLN 39/2024",
             "Data": "05/12/2024",
             "Autor": "Presidência da República",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": null
         },
-        "Avulso inicial da matéria": {
+        {
+            "Documento": "Avulso inicial da matéria",
             "Data": "05/12/2024",
             "Autor": "Senado Federal",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "-"
         },
-        "Calendário": {
+        {
+            "Documento": "Calendário",
             "Data": "05/12/2024",
             "Autor": "Congresso Nacional",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Ofício"
         },
-        "Ofício": {
+        {
+            "Documento": "Ofício",
             "Data": "06/12/2024",
             "Autor": "Deputado Federal Julio Arcoverde (PP/PI)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": "Distribuído ao Deputado Dr. Victor Linhalis, para emitir relatório.",
             "Descrição/Ementa": "DESIGNA RELATOR - PLN 39/2024 - da Presidência da República"
         },
-        "Relatório sobre crédito": {
+        {
+            "Documento": "Relatório sobre crédito",
             "Data": "09/12/2024",
             "Autor": "Deputado Federal Dr. Victor Linhalis (PODEMOS/ES)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre o Projeto de Lei do Congresso Nacional n° 39,\nde 2024, que Altera a Lei nº 14.791, de 29 de dezembro de 2023, que dispõe sobre as diretrizes para a elaboração e a execução\nda Lei Orçamentária de 2024."
         },
-        "Quadro Comparativo": {
-            "Data": "23/12/2024",
+        {
+            "Documento": "Quadro Comparativo",
+            "Data": "11/12/2024",
             "Autor": "Congresso Nacional",
-            "Local": "Mesa Diretora do Congresso Nacional",
+            "Local": "pg",
             "Ação Legislativa": null,
-            "Descrição/Ementa": "QC LDO 2024 X PLN 39/2024 X SUBSTITUTIVO."
+            "Descrição/Ementa": "QC LDO 2024 X PLN 39/2024"
         },
-        "Decisão de Comissão": {
+        {
+            "Documento": "Decisão de Comissão",
             "Data": "17/12/2024",
             "Autor": "Deputado Federal Julio Arcoverde (PP/PI)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "APROVA, o Relatório do Deputado MERLONG SOLANO, relator ad hoc (anteriormente designado o Deputado Dr. Victor Linhalis),\nfavorável ao Projeto de Lei nº 39/2024-CN na forma do Substitutivo apresentado"
         },
-        "PAR 60/2024 - Relatório": {
+        {
+            "Documento": "PAR 60/2024 - Relatório",
             "Data": "17/12/2024",
             "Autor": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre o Projeto de Lei do Congresso Nacional n° 39,\nde 2024, que Altera a Lei nº 14.791, de 29 de dezembro de 2023, que dispõe sobre as diretrizes para a elaboração e a execução\nda Lei Orçamentária de 2024."
         },
-        "Minuta": {
+        {
+            "Documento": "Minuta",
             "Data": "18/12/2024",
             "Autor": "Senado Federal",
             "Local": "Secretaria de Expediente",
             "Ação Legislativa": "Anexado o texto revisado.",
             "Descrição/Ementa": "MPCN 136/2024"
         },
-        "MPCN 136/2024": {
+        {
+            "Documento": "MPCN 136/2024",
             "Data": "19/12/2024",
             "Autor": "Presidente do Congresso Nacional",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Encaminha à sanção o Projeto de Lei do Congresso Nacional n° 39, de 2024."
         },
-        "OFCN 383/2024": {
+        {
+            "Documento": "OFCN 383/2024",
             "Data": "19/12/2024",
             "Autor": "Primeiro-Secretário do Congresso Nacional",
             "Local": "Comissão Diretora do Senado Federal",
             "Ação Legislativa": "Remetido Ofício CN nº 383, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a",
             "Descrição/Ementa": "pg\n5\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 39, de 2024\nDOCUMENTOS\nMensagem CN nº 136/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do\nProjeto.\nEncaminha a Mensagem da Presidência da Mesa do Congresso Nacional submetendo à sanção presidencial autógrafos do\nProjeto de Lei do Congresso Nacional n° 39, de 2024."
         },
-        "Autógrafo - PLN 39/2024": {
+        {
+            "Documento": "Autógrafo - PLN 39/2024",
             "Data": "19/12/2024",
             "Autor": "Senado Federal",
             "Local": "Secretaria de Expediente",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Altera a Lei nº 14.791, de 29 de dezembro de 2023, que dispõe sobre as diretrizes para a elaboração e a execução da Lei\nOrçamentária de 2024."
         },
-        "MSG 1686/2024 - Presidência": {
+        {
+            "Documento": "Quadro Comparativo",
+            "Data": "23/12/2024",
+            "Autor": "Congresso Nacional",
+            "Local": "Mesa Diretora do Congresso Nacional",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "QC LDO 2024 X PLN 39/2024 X SUBSTITUTIVO."
+        },
+        {
+            "Documento": "MSG 1686/2024 - Presidência",
             "Data": "03/01/2025",
             "Autor": "Presidência da República",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "“Restitui o autógrafo do Projeto de Lei do Congresso Nacional nº 39, de 2024, sancionado e convertido na Lei nº 15.067, de 23 de\ndezembro de 2024."
         },
-        "OF. 1909/2024 - Casa Civil": {
+        {
+            "Documento": "OF. 1909/2024 - Casa Civil",
             "Data": "03/01/2025",
             "Autor": "Casa Civil",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Comunica a restituição do autógrafo sancionado e a Lei nº 15.067, de 23 de dezembro de 2024, promulgada."
         },
-        "Autógrafo restituído após": {
+        {
+            "Documento": "Autógrafo restituído após",
             "Data": "03/01/2025",
             "Autor": "Presidência da República",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Autógrafo restituído pela Presidência da República ao Senado Federal após sanção."
         }
-    }
+    ]
 }

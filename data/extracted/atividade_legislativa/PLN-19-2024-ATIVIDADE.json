@@ -12,229 +12,348 @@
         "Último local": "02/01/2025 - Plenário do Senado\nFederal (Secretaria Legislativa do\nSenado Federal)",
         "Último estado": "23/12/2024 - TRANSFORMADA EM\nNORMA JURÍDICA"
     },
-    "Tramitação": {
-        "23/12/2024": {
+    "Tramitação": [
+        {
+            "Data": "23/12/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": "TRANSFORMADA EM NORMA JURÍDICA",
             "Ação": "pg\n1\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 19, de 2024\nTRAMITAÇÃO\n(PR) PRESIDÊNCIA DA REPÚBLICA.\nSANCIONADA. LEI 15052 DE 2024.\nDOU (Diário Oficial da União) - 23/12/2024 - Seção I - págs. 1 e 3.\nSancionada em 20/12/2024."
         },
-        "19/12/2024": {
+        {
+            "Data": "19/12/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": "REMETIDA À SANÇÃO",
             "Ação": "Remetido Ofício CN nº 385, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a\nMensagem CN nº 138/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do\nProjeto."
         },
-        "18/12/2024": {
+        {
+            "Data": "18/12/2024",
+            "Órgão": "SF-SEXPE - Secretaria de Expediente",
+            "Situação": null,
+            "Ação": "Anexado o texto revisado.\nAção:"
+        },
+        {
+            "Data": "18/12/2024",
+            "Órgão": "PLEN - Plenário do Congresso Nacional",
+            "Situação": "APROVADO O SUBSTITUTIVO",
+            "Ação": "(Sessão Conjunta do Congresso Nacional, realizada em 18/12/2024)\nEncaminhado à publicação o RQN nº 27/2024, da Liderança do PP no Senado Federal, solicitando destaque para votação em\nseparado do § 14 do art. 4º da Lei nº 14.822, de 2024, com a redação dada pelo art. 1º do PLN nº 19/2024.\nEncaminhado à publicação e aprovado, na Câmara dos Deputados e no Senado Federal, o RQN nº 28/2024, solicitando a votação\nem globo dos PLN nºs 14 a 20, 27, 28, 30, 32 a 34 e 36 a 39/2024, nos termos dos respectivos pareceres.\nDiscussão encerrada.\nAprovado o Substitutivo, na Câmara dos Deputados e no Senado Federal, ressalvado o destaque, com voto contrário do NOVO\nna Câmara dos Deputados.\nRejeitado, na Câmara dos Deputados, o § 14 do art. 4º da Lei nº 14.822, de 2024, com a redação dada pelo art. 1º do PLN nº\n19/2024.\nEncaminhada à publicação e aprovada, na Câmara dos Deputados e no Senado Federal, a Redação Final da matéria. (Parecer nº\n6/2024-PLEN/CN)\nÀ sanção.\n(Encaminhada à publicação declaração de voto contrário do Senador Eduardo Girão)"
+        },
+        {
+            "Data": "18/12/2024",
             "Órgão": "PLEN - Plenário do Congresso Nacional",
             "Situação": null,
             "Ação": "Anexado o destaque apresentado à matéria.\nAção:"
         },
-        "16/12/2024": {
+        {
+            "Data": "16/12/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": "INCLUÍDA EM ORDEM DO DIA",
             "Ação": "Incluído na Ordem do Dia da Sessão Conjunta - Semipresencial convocada para 18/12/2024, às 10 horas."
         },
-        "16/10/2024": {
+        {
+            "Data": "16/10/2024",
+            "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
+            "Situação": "PRONTO PARA DELIBERAÇÃO DO PLENÁRIO",
+            "Ação": "Matéria aguarda inclusão em pauta de Sessão do Congresso Nacional."
+        },
+        {
+            "Data": "16/10/2024",
+            "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Situação": null,
+            "Ação": "Encerrada a relatoria do Deputado Adail Filho por deliberação da matéria.\nAção:\npg\n2\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 19, de 2024\nTRAMITAÇÃO"
+        },
+        {
+            "Data": "16/10/2024",
+            "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Situação": "APROVADO PARECER NA COMISSÃO",
+            "Ação": "A COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO - CMO, na continuação da Nona Reunião,\nExtraordinária, realizada em 16 de outubro de 2024, APROVOU, o Relatório do Deputado JADYEL ALENCAR, relator ad hoc\n(designado relator anteriormente o Deputado ADAIL FILHO), favorável ao Projeto de Lei nº 19/2024-CN na forma do\nSUBSTITUTIVO apresentado. Quanto à emenda apresentada foi REJEITADA."
+        },
+        {
+            "Data": "16/10/2024",
+            "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Situação": null,
+            "Ação": "Na continuação  da 9ª Reunião,extraordinária, em 16.10.2024, foi aprovada a inclusão da matéria na pauta.\nAção:"
+        },
+        {
+            "Data": "16/10/2024",
+            "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Situação": null,
+            "Ação": "Recebido do relator, Deputado Adail Filho, NOVO às 15:31h relatório com voto pela aprovação do Projeto, nos termos do\nsubstitutivo apresentado. Quanto a emenda apresentada, recebeu voto pela REJEIÇÃO.\nAção:"
+        },
+        {
+            "Data": "16/10/2024",
+            "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Situação": null,
+            "Ação": "Recebido do relator, Deputado Adail Filho, NOVO às 14:32h, relatório com voto pela aprovação do Projeto, nos termos do\nsubstitutivo apresentado. Quanto a emenda apresentada, recebeu voto pela APROVAÇÃO.\nAção:"
+        },
+        {
+            "Data": "16/10/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": null,
             "Ação": "Recebido do relator, Deputado Adail Filho, novo relatório com voto pela aprovação do Projeto, nos termos  do substitutivo\napresentado. Quanto a emenda apresentada, recebeu voto pela REJEIÇÃO.\nAção:"
         },
-        "03/09/2024": {
+        {
+            "Data": "03/09/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
             "Ação": "Recebido do relator, Deputado Adail Filho, relatório com voto pela aprovação do Projeto, na forma do substitutivo apresentado.\nQuanto a emenda apresentada, recebeu voto pela REJEIÇÃO."
         },
-        "22/08/2024": {
+        {
+            "Data": "22/08/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": null,
             "Ação": "Recebida Mensagem nº 871/2024 da Presidência da República, em 22 de agosto de 2024, com proposta de modificação do\nProjeto de Lei nº 19, de 2024 - CN.\nAção:\nPublicado no DCN Páginas 28-49 - DCN nº 31"
         },
-        "20/08/2024": {
+        {
+            "Data": "20/08/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "MATÉRIA COM A RELATORIA",
             "Ação": "Encerrado o prazo regimental, ao Projeto foi apresentada 1 (uma) emenda. O avulso será publicado no DCN de 22.08.2024."
         },
-        "06/08/2024": {
+        {
+            "Data": "06/08/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "pg\n3\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 19, de 2024\nTRAMITAÇÃO\nMATÉRIA COM A RELATORIA",
             "Ação": "Distribuído ao Deputado Adail Filho, para emitir relatório."
         },
-        "05/08/2024": {
+        {
+            "Data": "05/08/2024",
+            "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
+            "Situação": "MATÉRIA DESPACHADA",
+            "Ação": "À CMO."
+        },
+        {
+            "Data": "05/08/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": null,
             "Ação": "A matéria será publicada no Diário do Congresso Nacional.\nCalendário de tramitação de projetos de lei de créditos adicionais - PLN 19/2024 (Art. 112, da Res. 1/2006-CN):\n- Data do despacho: 05/08/2024\n- Publicação em avulso eletrônico: de 05/08/2024 a 09/08/2024\n- Apresentação de emendas: de 10/08/2024 a 19/08/2024\n- Publicação em avulso eletrônico das emendas: de 20/08/2024 a 24/08/2024\n- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 25/08/2024 a 08/09/2024\nA matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.\n* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.\nAção:\nPublicado no DCN Páginas 568-577 - DCN nº 28"
         },
-        "17/07/2024": {
+        {
+            "Data": "17/07/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": null,
             "Ação": "Recebida, em 17/07/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado\nFederal.\nAção:"
         },
-        "09/07/2024": {
+        {
+            "Data": "09/07/2024",
+            "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
+            "Situação": null,
+            "Ação": "Anexado o Quadro Comparativo entre o Projeto de Lei do Congresso Nacional nº 19, de 2024 (PLN 19/2024) e a Lei nº 14.822, de\n2024 (LOA 2024), elaborado pela Secretaria Legislativa do Congresso Nacional.\nAção:"
+        },
+        {
+            "Data": "09/07/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": "AGUARDANDO DESPACHO",
             "Ação": "Recebida a matéria em 09/07/2024. A Matéria aguarda despacho do Presidente do Congresso Nacional para envio à Comissão\nMista de Orçamento."
         }
-    },
-    "Documentos": {
-        "PLN 19/2024": {
+    ],
+    "Documentos": [
+        {
+            "Documento": "PLN 19/2024",
             "Data": "09/07/2024",
             "Autor": "Presidência da República",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": null
         },
-        "pg\n4\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 19, de 2024\nDOCUMENTOS\nQuadro Comparativo": {
+        {
+            "Documento": "pg\n4\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 19, de 2024\nDOCUMENTOS\nQuadro Comparativo",
             "Data": "09/07/2024",
             "Autor": "Congresso Nacional",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "QC LOA 2024 x PLN 19/2024"
         },
-        "Nota Informativa": {
+        {
+            "Documento": "Nota Informativa",
             "Data": "17/07/2024",
             "Autor": "Senado Federal",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Calendário"
         },
-        "Calendário": {
+        {
+            "Documento": "Calendário",
             "Data": "05/08/2024",
             "Autor": "Congresso Nacional",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Avulso inicial da matéria"
         },
-        "Avulso inicial da matéria": {
-            "Data": "22/08/2024",
+        {
+            "Documento": "Avulso inicial da matéria",
+            "Data": "05/08/2024",
             "Autor": "Senado Federal",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
-            "Descrição/Ementa": "Retificado em virtude da Mensagem Modificativa recebida em 22/08/2004."
+            "Descrição/Ementa": "-"
         },
-        "pg\n5\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 19, de 2024\nDOCUMENTOS\nOfício": {
+        {
+            "Documento": "pg\n5\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 19, de 2024\nDOCUMENTOS\nOfício",
             "Data": "06/08/2024",
             "Autor": "Deputado Federal Julio Arcoverde (PP/PI)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": "Distribuído ao Deputado Adail Filho, para emitir relatório.",
             "Descrição/Ementa": "PLN 19/2024 - da Presidência da República – que “Altera a Lei nº 14.822, de 22 de janeiro de 2024, que estima a receita e fixa a\ndespesa da União para o exercício financeiro de 2024”."
         },
-        "EMENDA 1 - PLN 19/2024": {
+        {
+            "Documento": "EMENDA 1 - PLN 19/2024",
             "Data": "19/08/2024",
             "Autor": "Deputada Federal Erika Kokay (PT/DF)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Fica alterado o item 5.3 do Anexo V da Lei nº 14.822, de 22 de janeiro de 2024 - LOA 2024, passando a conter a seguinte redação:\nANEXO V AUTORIZAÇÕES ESPECÍFICAS DE QUE TRATA O ART. 169, § 1º, INCISO II, DA CONSTITUIÇÃO, E O ART. 120, INCISO IV, DA\nLDO-2024, RELATIVAS A DESPESAS DE PESSOAL E ENCARGOS SOCIAIS PARA 2024"
         },
-        "Avulso de emendas": {
+        {
+            "Documento": "Avulso de emendas",
             "Data": "20/08/2024",
             "Autor": "Senado Federal",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": "Encerrado o prazo regimental, ao Projeto foi apresentada 1 (uma) emenda. O avulso será publicado no DCN de 22.08.2024.",
             "Descrição/Ementa": "-"
         },
-        "MSG 871/2024 - Presidência": {
+        {
+            "Documento": "MSG 871/2024 - Presidência",
             "Data": "22/08/2024",
             "Autor": "Presidência da República",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Proposta de modificação do Projeto de Lei nº 19, de 2024-CN"
         },
-        "Relatório sobre crédito": {
-            "Data": "16/10/2024",
+        {
+            "Documento": "Avulso inicial da matéria",
+            "Data": "22/08/2024",
+            "Autor": "Senado Federal",
+            "Local": "Mesa Diretora do Congresso Nacional",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Retificado em virtude da Mensagem Modificativa recebida em 22/08/2004."
+        },
+        {
+            "Documento": "Relatório sobre crédito",
+            "Data": "03/09/2024",
             "Autor": "Deputado Federal Adail Filho (REPUBLICANOS/AM)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
-            "Descrição/Ementa": "Relatório NOVO  16.10.24 - 15:31"
+            "Descrição/Ementa": "Relatório 3.9.24 - 17:42"
         },
-        "pg\n6\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 19, de 2024\nDOCUMENTOS\nRelatório sobre crédito": {
+        {
+            "Documento": "pg\n6\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 19, de 2024\nDOCUMENTOS\nRelatório sobre crédito",
             "Data": "16/10/2024",
             "Autor": "Deputado Federal Adail Filho (REPUBLICANOS/AM)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Relatório 16.10.24 - 9:40"
         },
-        "Decisão de Comissão": {
+        {
+            "Documento": "Relatório sobre crédito",
+            "Data": "16/10/2024",
+            "Autor": "Deputado Federal Adail Filho (REPUBLICANOS/AM)",
+            "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Relatório 16.10.24 - 14:31"
+        },
+        {
+            "Documento": "Relatório sobre crédito",
+            "Data": "16/10/2024",
+            "Autor": "Deputado Federal Adail Filho (REPUBLICANOS/AM)",
+            "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Relatório NOVO  16.10.24 - 15:31"
+        },
+        {
+            "Documento": "Decisão de Comissão",
             "Data": "16/10/2024",
             "Autor": "Deputado Federal AJ Albuquerque (PP/CE)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre o Projeto de Lei do Congresso Nacional n° 19,\nde 2024, que Altera a Lei nº 14.822, de 22 de janeiro de 2024, que estima a receita e fixa a despesa da União para o exercício\nfinanceiro de 2024 (alteração proposta pela Mensagem presidencial nº 871/2024)."
         },
-        "PAR 29/2024 - Relatório": {
+        {
+            "Documento": "PAR 29/2024 - Relatório",
             "Data": "16/10/2024",
             "Autor": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Relatório NOVO  16.10.24 - 15:31"
         },
-        "Listagem ou relatório\npg\n7\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 19, de 2024\nDOCUMENTOS": {
+        {
+            "Documento": "Listagem ou relatório\npg\n7\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 19, de 2024\nDOCUMENTOS",
             "Data": "18/12/2024",
             "Autor": "Congresso Nacional",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": "Anexado o destaque apresentado à matéria.",
             "Descrição/Ementa": "Relatório de Destaques ao PLN 19"
         },
-        "Parecer": {
+        {
+            "Documento": "Parecer",
             "Data": "18/12/2024",
             "Autor": "Comissão",
             "Local": "Plenário do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Parecer nº 6/2024-PLEN/CN - redação final"
         },
-        "Minuta": {
+        {
+            "Documento": "Minuta",
             "Data": "18/12/2024",
             "Autor": "Senado Federal",
             "Local": "Secretaria de Expediente",
             "Ação Legislativa": "Anexado o texto revisado.",
             "Descrição/Ementa": "Declaração de Voto"
         },
-        "Declaração de Voto": {
+        {
+            "Documento": "Declaração de Voto",
             "Data": "18/12/2024",
             "Autor": "Senador Eduardo Girão (NOVO/CE)",
             "Local": "Plenário do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Declaração de voto contrário do Senador Eduardo Girão."
         },
-        "pg\n8\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 19, de 2024\nDOCUMENTOS\nMPCN 138/2024": {
+        {
+            "Documento": "pg\n8\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 19, de 2024\nDOCUMENTOS\nMPCN 138/2024",
             "Data": "19/12/2024",
             "Autor": "Presidente do Congresso Nacional",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Encaminha à sanção o Projeto de Lei do Congresso Nacional n° 19, de 2024."
         },
-        "OFCN 385/2024": {
+        {
+            "Documento": "OFCN 385/2024",
             "Data": "19/12/2024",
             "Autor": "Primeiro-Secretário do Senado Federal",
             "Local": "Comissão Diretora do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Encaminha a Mensagem da Presidência da Mesa do Congresso Nacional submetendo à sanção presidencial autógrafos do\nProjeto de Lei do Congresso Nacional n° 19, de 2024."
         },
-        "Autógrafo - PLN 19/2024": {
+        {
+            "Documento": "Autógrafo - PLN 19/2024",
             "Data": "19/12/2024",
             "Autor": "Senado Federal",
             "Local": "Secretaria de Expediente",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Altera a Lei nº 14.822, de 22 de janeiro de 2024, que estima a receita e fixa a despesa da União para o exercício financeiro de\n2024 (alteração proposta pela Mensagem presidencial nº 871/2024)."
         },
-        "Autógrafo restituído após": {
+        {
+            "Documento": "Autógrafo restituído após",
             "Data": "02/01/2025",
             "Autor": "Presidência da República",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Autógrafo restituído pela Presidência da República ao Senado Federal após sanção."
         },
-        "MSG 1671/2024 - Presidência": {
+        {
+            "Documento": "MSG 1671/2024 - Presidência",
             "Data": "02/01/2025",
             "Autor": "Presidência da República",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Restitui o autógrafo do Projeto de Lei do Congresso Nacional n°19, de 2024, sancionado e convertido na Lei nº 15.052, de 20 de\ndezembro de 2024."
         },
-        "OF. 1888/2024 - Casa Civil": {
+        {
+            "Documento": "OF. 1888/2024 - Casa Civil",
             "Data": "02/01/2025",
             "Autor": "Casa Civil",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "pg\n9\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 19, de 2024\nDOCUMENTOS\nComunica a restituição do autógrafo sancionado e a Lei nº 15.052, de 20 de dezembro de 2024, promulgada."
         }
-    }
+    ]
 }

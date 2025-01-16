@@ -12,171 +12,228 @@
         "Último local": "18/12/2024 - Secretaria de Expediente",
         "Último estado": "23/12/2024 - TRANSFORMADA EM\nNORMA JURÍDICA"
     },
-    "Tramitação": {
-        "23/12/2024": {
+    "Tramitação": [
+        {
+            "Data": "23/12/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": "TRANSFORMADA EM NORMA JURÍDICA",
             "Ação": "(PR) PRESIDÊNCIA DA REPÚBLICA.\nSANCIONADA. LEI 15064 DE 2024.\nDOUE (Diário Oficial da União - Edição Extra) - 23/12/2024 - Seção I - págs. 26 e 26.\nSancionada em 23/12/2024."
         },
-        "19/12/2024": {
+        {
+            "Data": "19/12/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": "REMETIDA À SANÇÃO",
             "Ação": "Remetido Ofício CN nº 380, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a\nMensagem CN nº 133/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do\nProjeto."
         },
-        "18/12/2024": {
+        {
+            "Data": "18/12/2024",
+            "Órgão": "SF-SEXPE - Secretaria de Expediente",
+            "Situação": null,
+            "Ação": "Anexado o texto revisado.\nAção:"
+        },
+        {
+            "Data": "18/12/2024",
+            "Órgão": "PLEN - Plenário do Congresso Nacional",
+            "Situação": "APROVADA",
+            "Ação": "(Sessão Conjunta do Congresso Nacional, realizada em 18/12/2024)\nEncaminhado à publicação e aprovado, na Câmara dos Deputados e no Senado Federal, o RQN nº 28/2024, solicitando a votação\nem globo dos PLN nºs 14 a 20, 27, 28, 30, 32 a 34 e 36 a 39/2024, nos termos dos respectivos pareceres.\nDiscussão encerrada.\nAprovado o Projeto, na Câmara dos Deputados e no Senado Federal.\nÀ sanção."
+        },
+        {
+            "Data": "18/12/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": "INCLUÍDA EM ORDEM DO DIA",
             "Ação": "Incluído na Ordem do Dia da Sessão Conjunta - Semipresencial convocada para 18/12/2024, às 10 horas."
         },
-        "17/12/2024": {
+        {
+            "Data": "17/12/2024",
+            "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Situação": null,
+            "Ação": "Encerrada a relatoria do Deputado Filipe Martins por deliberação da matéria.\nAção:"
+        },
+        {
+            "Data": "17/12/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "APROVADO PARECER NA COMISSÃO",
             "Ação": "A COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO - CMO, na continuação da Nona Reunião,\nExtraordinária, realizada em 17 de dezembro de 2024, APROVOU, o Relatório do Deputado FILIPE MARTINS, favorável ao Projeto\nde Lei nº 36/2024-CN na forma proposta pelo Poder Executivo. Ao projeto não foram apresentadas emendas."
         },
-        "13/12/2024": {
+        {
+            "Data": "13/12/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "MATÉRIA COM A RELATORIA",
             "Ação": "Distribuído ao Deputado Filipe Martins, para emitir relatório."
         },
-        "12/12/2024": {
+        {
+            "Data": "12/12/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": null,
             "Ação": "Recebida, em 12/12/2024, a Mensagem nº 1.605, de 2024, do Senhor Presidente da República, solicitando que seja considerada\nsem efeito a Mensagem nº 1.599, de 2024, referente ao Projeto de Lei nº 36, de 2024 - CN. A Mensagem será publicada no DCN\nde 19/12/2024.\nÀ CMO.\nAção:"
         },
-        "11/12/2024": {
+        {
+            "Data": "11/12/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": null,
             "Ação": "Recebida, em 11/12/2024, a Mensagem nº 1.599, de 2024, do Senhor Presidente da República solicitando a retirada de\ntramitação do Projeto de Lei nº 36, de 2024 - CN. A Mensagem será publicada no Diário do Congresso Nacional de 19/12/2024.\nNos termos do art. 42 do RCCN, a matéria aguarda despacho do Presidente do Congresso Nacional.\nAção:\npg\n2\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 36, de 2024\nTRAMITAÇÃO"
         },
-        "05/12/2024": {
+        {
+            "Data": "05/12/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
             "Ação": "Recebido do Relator, Deputado Filipe Martins, relatório com voto pela aprovação do Projeto de Lei na forma apresentada pelo\nPoder Executivo. Ao Projeto não foram apresentadas emendas."
         },
-        "02/12/2024": {
+        {
+            "Data": "02/12/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "MATÉRIA COM A RELATORIA",
             "Ação": "Distribuído ao Deputado Filipe Martins, para emitir relatório."
         },
-        "26/11/2024": {
+        {
+            "Data": "26/11/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "AGUARDANDO DESIGNAÇÃO DO RELATOR",
             "Ação": "Encerrado o prazo regimental, ao Projeto, não foram apresentadas emendas."
         },
-        "25/11/2024": {
+        {
+            "Data": "25/11/2024",
+            "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Situação": "AGUARDANDO RECEBIMENTO DE EMENDAS",
+            "Ação": "Aguardando recebimento de emendas."
+        },
+        {
+            "Data": "25/11/2024",
+            "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
+            "Situação": "MATÉRIA DESPACHADA",
+            "Ação": "À CMO."
+        },
+        {
+            "Data": "25/11/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": null,
             "Ação": "A matéria será publicada no Diário do Congresso Nacional.\nCalendário de tramitação de projetos de lei de créditos adicionais - PLN 36/2024 (Art. 112, da Res. 1/2006-CN):\n- Data do despacho: 25/11/2024\n- Publicação em avulso eletrônico: de 25/11/2024 a 25/11/2024\n- Apresentação de emendas: de 25/11/2024 (15h) a 26/11/2024 (12h)\n- Publicação em avulso eletrônico das emendas: de 26/11/2024 (12h) a 26/11/2024 (14h)\n- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 26/11/2024 (14h) a\n28/11/2024 (14h)\nA matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.\n* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.\nAção:\nPublicado no DCN Páginas 46 - DCN nº 44"
         },
-        "21/10/2024": {
+        {
+            "Data": "21/10/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": null,
             "Ação": "Recebida, em 21/10/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado\nFederal.\nAção:"
         },
-        "15/10/2024": {
+        {
+            "Data": "15/10/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": "pg\n3\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 36, de 2024\nTRAMITAÇÃO\nAGUARDANDO DESPACHO",
             "Ação": "Recebida a matéria em 15/10/2024. A Matéria aguarda despacho do Presidente do Congresso Nacional para envio à Comissão\nMista de Planos, Orçamentos Públicos e Fiscalização."
         }
-    },
-    "Documentos": {
-        "PLN 36/2024": {
+    ],
+    "Documentos": [
+        {
+            "Documento": "PLN 36/2024",
             "Data": "15/10/2024",
             "Autor": "Presidência da República",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": null
         },
-        "Avulso inicial da matéria": {
+        {
+            "Documento": "Avulso inicial da matéria",
             "Data": "15/10/2024",
             "Autor": "Senado Federal",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "-"
         },
-        "Nota Informativa": {
+        {
+            "Documento": "Nota Informativa",
             "Data": "21/10/2024",
             "Autor": "Senado Federal",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Calendário"
         },
-        "Calendário": {
+        {
+            "Documento": "Calendário",
             "Data": "25/11/2024",
             "Autor": "Congresso Nacional",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "pg\n4\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 36, de 2024\nDOCUMENTOS\nOfício"
         },
-        "pg\n4\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 36, de 2024\nDOCUMENTOS\nOfício": {
+        {
+            "Documento": "pg\n4\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 36, de 2024\nDOCUMENTOS\nOfício",
             "Data": "02/12/2024",
             "Autor": "Deputado Federal Julio Arcoverde (PP/PI)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": "Distribuído ao Deputado Filipe Martins, para emitir relatório.",
             "Descrição/Ementa": "DESIGNA RELATOR - PLN 36/2024 - da Presidência da República – que “Abre ao Orçamento Fiscal da União, em favor do\nMinistério de Portos e Aeroportos, crédito especial no valor de R$ 15.400.839,00, para o fim que especifica”."
         },
-        "Relatório sobre crédito": {
+        {
+            "Documento": "Relatório sobre crédito",
             "Data": "05/12/2024",
             "Autor": "Deputado Federal Filipe Martins (PL/TO)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre o Projeto de Lei do Congresso Nacional n° 36,\nde 2024, que Abre ao Orçamento Fiscal da União, em favor do Ministério de Portos e Aeroportos, crédito especial no valor de R$\n15.400.839,00, para o fim que especifica."
         },
-        "MSG 1599/2024 - Presidência": {
+        {
+            "Documento": "MSG 1599/2024 - Presidência",
             "Data": "11/12/2024",
             "Autor": "Presidência da República",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Solicita a retirada de tramitação do Projeto de Lei nº 36, de 2024-CN."
         },
-        "MSG 1605/2024 - Presidência": {
+        {
+            "Documento": "MSG 1605/2024 - Presidência",
             "Data": "12/12/2024",
             "Autor": "Presidência da República",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Solicita tornar sem efeito a Mensagem nº 1.599, de 11 de dezembro de 2024."
         },
-        "Decisão de Comissão": {
+        {
+            "Documento": "Decisão de Comissão",
             "Data": "17/12/2024",
             "Autor": "Deputado Federal Julio Arcoverde (PP/PI)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "APROVA, o Relatório do Deputado FILIPE MARTINS, favorável ao Projeto de Lei nº 36/2024-CN na forma proposta pelo Poder\nExecutivo"
         },
-        "pg\n5\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 36, de 2024\nDOCUMENTOS\nPAR 59/2024 - Relatório": {
+        {
+            "Documento": "pg\n5\nAtividade Legislativa\nProjeto de Lei do Congresso Nacional n° 36, de 2024\nDOCUMENTOS\nPAR 59/2024 - Relatório",
             "Data": "17/12/2024",
             "Autor": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre o Projeto de Lei do Congresso Nacional n° 36,\nde 2024, que Abre ao Orçamento Fiscal da União, em favor do Ministério de Portos e Aeroportos, crédito especial no valor de R$\n15.400.839,00, para o fim que especifica."
         },
-        "Minuta": {
+        {
+            "Documento": "Minuta",
             "Data": "18/12/2024",
             "Autor": "Senado Federal",
             "Local": "Secretaria de Expediente",
             "Ação Legislativa": "Anexado o texto revisado.",
             "Descrição/Ementa": "MPCN 133/2024"
         },
-        "MPCN 133/2024": {
+        {
+            "Documento": "MPCN 133/2024",
             "Data": "19/12/2024",
             "Autor": "Presidente do Congresso Nacional",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Encaminha à sanção o Projeto de Lei do Congresso Nacional n° 36, de 2024."
         },
-        "OFCN 380/2024": {
+        {
+            "Documento": "OFCN 380/2024",
             "Data": "19/12/2024",
             "Autor": "Primeiro-Secretário do Senado Federal",
             "Local": "Comissão Diretora do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Encaminha a Mensagem da Presidência da Mesa do Congresso Nacional submetendo à sanção presidencial autógrafos do\nProjeto de Lei do Congresso Nacional n° 36, de 2024."
         },
-        "Autógrafo - PLN 36/2024": {
+        {
+            "Documento": "Autógrafo - PLN 36/2024",
             "Data": "19/12/2024",
             "Autor": "Senado Federal",
             "Local": "Secretaria de Expediente",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério de Portos e Aeroportos, crédito especial no valor de R$\n15.400.839,00, para o fim que especifica."
         }
-    }
+    ]
 }

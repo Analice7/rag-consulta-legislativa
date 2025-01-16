@@ -12,216 +12,318 @@
         "Último local": "13/11/2024 - Secretaria de Expediente",
         "Último estado": "14/11/2024 - TRANSFORMADA EM\nNORMA JURÍDICA\npg\n1\nAtividade Legislativa\nMedida Provisória n° 1248, de 2024"
     },
-    "Tramitação": {
-        "18/11/2024": {
+    "Tramitação": [
+        {
+            "Data": "18/11/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": null,
             "Ação": "Remetido Ofício CN nº 326 de 18/11/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a\nMensagem CN nº 109/24, ao Excelentíssimo Senhor Presidente da República, comunicando a aprovação da Medida Provisória e\nsua publicação como Lei nº 15.025, de 13 de novembro de 2024, no Diário Oficial da União.\nRemetido Ofício CN nº 327 de 18/11/24, ao Senhor Presidente da Câmara dos Deputados, participando a promulgação da\nmatéria, bem como o envio do texto promulgado para o arquivo daquela Casa.\nAção:"
         },
-        "14/11/2024": {
+        {
+            "Data": "14/11/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": "TRANSFORMADA EM NORMA JURÍDICA",
             "Ação": "(CN) MESA.\nPROMULGADA. LEI N° 15025 DE 2024.\nDOU (Diário Oficial da União) - 14/11/2024 - Seção I - pág. 7.\nPromulgada em 13/11/2024."
         },
-        "13/11/2024": {
+        {
+            "Data": "13/11/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": null,
             "Ação": "Anexado o texto revisado.\nAção:"
         },
-        "12/11/2024": {
+        {
+            "Data": "12/11/2024",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": "APROVADA A MEDIDA PROVISÓRIA",
             "Ação": "(Sessão Deliberativa Ordinária - realizada em 12/11/2024)\nEncaminhada à publicação a presente MPV, recebida no Senado Federal.\nEncerrada a discussão.\nAprovados, conjuntamente, os pressupostos de pertinência temática, relevância e urgência, adequação financeira e\norçamentária; e o mérito da medida provisória e da emenda, nos termos do parecer.\nA matéria vai à promulgação.\nSerá feita a devida comunicação à Câmara dos Deputados."
         },
-        "11/11/2024": {
+        {
+            "Data": "11/11/2024",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": "AGUARDANDO LEITURA",
             "Ação": "Aguardando leitura no Senado Federal."
         },
-        "08/11/2024": {
+        {
+            "Data": "08/11/2024",
             "Órgão": "MESA - Mesa Diretora da Câmara dos Deputados",
             "Situação": null,
             "Ação": "Apresentação do Autógrafo.\nRemessa ao Senado Federal por meio do Of. nº 155/2024/SGM-P.\nAção:\npg\n2\nAtividade Legislativa\nMedida Provisória n° 1248, de 2024\nTRAMITAÇÃO"
         },
-        "04/11/2024": {
+        {
+            "Data": "04/11/2024",
+            "Órgão": "MESA - Mesa Diretora da Câmara dos Deputados",
+            "Situação": null,
+            "Ação": "Apresentação da RDF n. 1 PLEN (Redação Final), pelo Deputado Lula da Fonte (PP/PE).\nAção:"
+        },
+        {
+            "Data": "04/11/2024",
             "Órgão": "PLEN - Plenário",
             "Situação": null,
             "Ação": "Leitura do recebimento do Ofício n° 260/2024, do Congresso Nacional (CN), que encaminha o processado da Medida Provisória\nn° 1.248/2024 (Sessão Deliberativa Extraordinária de 04/11/2024 – 17h - 187ª Sessão).\nDiscussão em turno único.\nDiscutiram a Matéria: Dep. Erika Kokay (PT-DF) e Dep. Cabo Gilberto Silva (PL-PB).\nEncerrada a discussão.\nVotação preliminar em turno único.\nAprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em\nque manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua\nadequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN.\nAprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em\nque manifesta opinião pelo não atendimento dos pressupostos constitucionais de relevância e urgência e de sua adequação\nfinanceira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN.\nVotação, quanto ao mérito, em turno único.\nAprovada a Medida Provisória nº 1.248, de 2024.\nVotação da Redação Final.\nAprovada a Redação Final assinada pelo Dep. Lula da Fonte (PP-PE).\nA matéria vai ao Senado Federal (MPV 1.248-A/2024).\nAção:"
         },
-        "01/10/2024": {
+        {
+            "Data": "01/10/2024",
+            "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
+            "Situação": null,
+            "Ação": "Prorrogação do prazo para Deliberação da Medida Provisória por 60 dias. Data final após prorrogação: 29/11/2024. Motivação:\nATO DO PRESIDENTE DA MESA DO CONGRESSO NACIONAL Nº 81, DE 2024.\nAção:\nPublicado no DCN Páginas 23 - DCN nº 36"
+        },
+        {
+            "Data": "01/10/2024",
             "Órgão": "PLEN - Plenário",
             "Situação": null,
             "Ação": "Prorrogação do prazo para Deliberação da Medida Provisória por 60 dias. Data final após prorrogação: 29/11/2024. Motivação:\nATO DO PRESIDENTE DA MESA DO CONGRESSO NACIONAL Nº 81, DE 2024.\nAção:"
         },
-        "11/09/2024": {
+        {
+            "Data": "11/09/2024",
+            "Órgão": "CCP - COORDENAÇÃO DE COMISSÕES PERMANENTES",
+            "Situação": null,
+            "Ação": "Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 12/09/2024.\nAção:"
+        },
+        {
+            "Data": "11/09/2024",
+            "Órgão": "MESA - Mesa Diretora da Câmara dos Deputados",
+            "Situação": null,
+            "Ação": "Recebido o Ofício nº 260/2024 do Senado Federal, que encaminha, nos termos do § 8° do art. 62 da Constituição Federal, com a\nredação dada pela Emenda Constitucional n° 32, a Medida Provisória n° 1.248, de 2024, que \"Abre crédito extraordinário, em\nfavor dos Ministérios da Educação e da Cultura e de Operações Oficiais de Crédito, no valor de R$ 1.454.799.092,00, para os fins\nque especifica\". A Medida foi oferecida 1 (uma) emenda, sendo esta declarada inadmitida, e a Comissão Mista de Planos,\nOrçamentos Públicos e Fiscalização emitiu o Parecer n° 25, de 2024-CN, que conclui pela aprovação da matéria. A matéria está\ndisponível no portal do Congresso Nacional, juntamente com os demais documentos que a compõem.\nApresentação da MSC n. 739/2024 (Mensagem), pelo Poder Executivo, que \"Submete à apreciação do Congresso Nacional o\ntexto da Medida Provisória nº 1248/2024, que Abre crédito extraordinário, em favor dos Ministérios da Educação e da Cultura e\nde Operações Oficiais de Crédito, no valor de R$ 1.454.799.092,00, para os fins que especifica\".\nRecebido o Parecer 25/2024 , da Medida provisória nº 1248/2024, queque Abre crédito extraordinário, em favor dos Ministérios\nda Educação e da Cultura e de Operações Oficiais de Crédito, no valor de R$1.454.799.092,00, para os fins que especifica.\nAção:"
+        },
+        {
+            "Data": "11/09/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": "pg\n3\nAtividade Legislativa\nMedida Provisória n° 1248, de 2024\nTRAMITAÇÃO\nMEDIDA PROVISÓRIA ENVIADA À CÂMARA DOS DEPUTADOS",
             "Ação": "Remetido Ofício CN nº 260, de 11/09/24, encaminhando a Medida Provisória nº 1248, de 2024, ao Senhor Presidente da Câmara\ndos Deputados, nos termos do § 8º do art. 62 da Constituição Federal, com a redação dada pela Emenda Constitucional nº 32. À\nMedida foi oferecida 1 ( uma ) emenda, sendo esta declarada inadmitida, e a Comissão Mista de Planos, Orçamento Público e\nFiscalização emitiu o Parecer nº 25, de 2024- CN, que conclui pelo aprovação da matéria.\nÀ CD."
         },
-        "10/09/2024": {
+        {
+            "Data": "10/09/2024",
+            "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
+            "Situação": null,
+            "Ação": "Será feita a publicação, no Diário do Congresso Nacional de 12/09/2024, do Parecer nº 25, de 2024, da Comissão Mista de\nPlanos, Orçamentos Públicos e Fiscalização, que concluiu pela aprovação da Medida Provisória nº 1.248, de 2024, sem alteração\nde mérito, conforme o texto proposto pelo Poder Executivo.\nÀ Secretaria de Expediente para envio à Câmara dos Deputados.\nAção:"
+        },
+        {
+            "Data": "10/09/2024",
+            "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Situação": null,
+            "Ação": "Encerrada a relatoria do Senador Zequinha Marinho por deliberação da matéria.\nAção:"
+        },
+        {
+            "Data": "10/09/2024",
+            "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Situação": null,
+            "Ação": "Encerrada a relatoria do Deputado Lula da Fonte por deliberação da matéria.\nAção:"
+        },
+        {
+            "Data": "10/09/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "APROVADO PARECER NA COMISSÃO",
             "Ação": "A COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO - CMO, na continuação da Nona Reunião,\nExtraordinária, realizada em 10 de setembro de 2024, APROVOU o Relatório do Deputado LULA DA FONTE, pela aprovação da\nMedida Provisória nº 1248/2024. Quanto à emenda apresentada DECLARADA INADMITIDA."
         },
-        "29/08/2024": {
+        {
+            "Data": "29/08/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "PRONTA PARA A PAUTA NA COMISSÃO",
             "Ação": "Recebido do relator, Deputado Lula da Fonte, relatório com voto pela aprovação da Medida Provisória, na forma proposta pelo\nPoder Executivo. Quanto à emenda apresentada foi INADMITIDA."
         },
-        "13/08/2024": {
+        {
+            "Data": "13/08/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "MATÉRIA COM A RELATORIA",
             "Ação": "Designados relator e relator revisor, o Deputado Lula da Fonte e o Senador Zequinha Marinho, respectivamente."
         },
-        "09/08/2024": {
+        {
+            "Data": "09/08/2024",
+            "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+            "Situação": null,
+            "Ação": "Anexada Nota Técnica nº 46/2024, que contém subsídios para análise de adequação orçamentária e financeira da Medida\nProvisória nº 1248/2024, elaborada pela Consultoria de Orçamentos e Fiscalização Financeira da Câmara dos Deputados.\nAção:"
+        },
+        {
+            "Data": "09/08/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "pg\n4\nAtividade Legislativa\nMedida Provisória n° 1248, de 2024\nTRAMITAÇÃO\nAGUARDANDO DESIGNAÇÃO DO RELATOR",
             "Ação": "Encerrado o prazo regimental, à Medida Provisória foi apresentada 1 (uma) emenda. O avulso será publicado no Diário do\nCongresso Nacional do dia 15.8.2024"
         },
-        "05/08/2024": {
+        {
+            "Data": "05/08/2024",
             "Órgão": "CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Situação": "AGUARDANDO RECEBIMENTO DE EMENDAS",
             "Ação": "Aguardando recebimento de emendas."
         },
-        "02/08/2024": {
+        {
+            "Data": "02/08/2024",
+            "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
+            "Situação": "MATÉRIA DESPACHADA",
+            "Ação": "A matéria será encaminhada, nos termos do § 6º do art. 2º da Resolução nº 1, de 2002-CN, à Comissão Mista de Planos,\nOrçamentos Públicos e Fiscalização, onde receberá emendas.\nA matéria está publicada em avulso eletrônico.\nSerá feita a comunicação à Câmara dos Deputados."
+        },
+        {
+            "Data": "02/08/2024",
+            "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
+            "Situação": "AGUARDANDO DESPACHO",
+            "Ação": "Calendário de tramitação da Medida Provisória:\n- Deliberação da Medida Provisória: de 02/08/2024 a 30/09/2024\n- Apresentação de Emendas à Medida Provisória: de 02/08/2024 a 08/08/2024 (Res. 1/2002-CN)\n- Prazo na comissão: *\n- Regime de urgência, obstruindo a pauta a partir de: 16/09/2024  (46º dia)\n* A Comissão Mista deve, obrigatoriamente, emitir parecer antes de a matéria ser submetida aos Plenários da Câmara dos\nDeputados e do Senado Federal (art. 62, § 9º - CF / Ação Direta de Inconstitucionalidade nº 4.029 - DOU de 16/03/2012)\n* As emendas poderão ser enviadas pelo sistema até as 23h59 do dia 08/08/2024.\n* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado."
+        },
+        {
+            "Data": "02/08/2024",
             "Órgão": "Mesa - Mesa Diretora do Congresso Nacional",
             "Situação": null,
             "Ação": "Publicada no DOU de 02/08/2024, nas páginas 1 a 3, a Medida Provisória 1248/2024.\nAção:\nPublicado no DOU Páginas 1-3"
         }
-    },
-    "Documentos": {
-        "MPV 1248/2024": {
+    ],
+    "Documentos": [
+        {
+            "Documento": "MPV 1248/2024",
             "Data": "02/08/2024",
             "Autor": "Presidência da República",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": null
         },
-        "pg\n5\nAtividade Legislativa\nMedida Provisória n° 1248, de 2024\nDOCUMENTOS\nR$ 1.454.799.092,00, para os fins que especifica.\nCalendário": {
+        {
+            "Documento": "pg\n5\nAtividade Legislativa\nMedida Provisória n° 1248, de 2024\nDOCUMENTOS\nR$ 1.454.799.092,00, para os fins que especifica.\nCalendário",
             "Data": "02/08/2024",
             "Autor": "Congresso Nacional",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Avulso inicial da matéria"
         },
-        "Avulso inicial da matéria": {
-            "Data": "12/11/2024",
+        {
+            "Documento": "Avulso inicial da matéria",
+            "Data": "02/08/2024",
             "Autor": "Senado Federal",
-            "Local": "Plenário do Senado Federal",
-            "Ação Legislativa": null,
-            "Descrição/Ementa": "Avulso MPV 1248/2024"
+            "Local": "Mesa Diretora do Congresso Nacional",
+            "Ação Legislativa": "Publicada no DOU de 02/08/2024, nas páginas 1 a 3, a Medida Provisória 1248/2024.",
+            "Descrição/Ementa": "-"
         },
-        "EMENDA 1 - MPV 1248/2024": {
+        {
+            "Documento": "EMENDA 1 - MPV 1248/2024",
             "Data": "05/08/2024",
             "Autor": "Deputado Federal Pastor Sargento Isidório (AVANTE/BA)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Dê-se nova redação ao art. 2º; e acrescente-se art. 3º à Medida Provisória, nos termos a seguir:"
         },
-        "Avulso de emendas": {
+        {
+            "Documento": "Avulso de emendas",
             "Data": "09/08/2024",
             "Autor": "Senado Federal",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "-"
         },
-        "Nota Técnica": {
+        {
+            "Documento": "Nota Técnica",
             "Data": "09/08/2024",
             "Autor": "Câmara dos Deputados",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Nota técnica"
         },
-        "pg\n6\nAtividade Legislativa\nMedida Provisória n° 1248, de 2024\nDOCUMENTOS\nOfício": {
+        {
+            "Documento": "pg\n6\nAtividade Legislativa\nMedida Provisória n° 1248, de 2024\nDOCUMENTOS\nOfício",
             "Data": "13/08/2024",
             "Autor": "Deputado Federal Julio Arcoverde (PP/PI)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": "Designados relator e relator revisor, o Deputado Lula da Fonte e o Senador Zequinha Marinho, respectivamente.",
             "Descrição/Ementa": "Designo relator revisor da seguinte proposição o Senhor Senador ZEQUINHA MARINHO"
         },
-        "Ofício": {
+        {
+            "Documento": "Ofício",
             "Data": "13/08/2024",
             "Autor": "Deputado Federal Julio Arcoverde (PP/PI)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": "Designados relator e relator revisor, o Deputado Lula da Fonte e o Senador Zequinha Marinho, respectivamente.",
             "Descrição/Ementa": "Designo relator da seguinte proposição o Senhor Deputado LULA DA FONTE"
         },
-        "Relatório sobre crédito": {
+        {
+            "Documento": "Relatório sobre crédito",
             "Data": "29/08/2024",
             "Autor": "Deputado Federal Lula da Fonte (PP/PE)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre a Medida Provisória n° 1248, de 2024, que\nAbre crédito extraordinário, em favor dos Ministérios da Educação e da Cultura e de Operações Oficiais de Crédito, no valor de\nR$ 1.454.799.092,00, para os fins que especifica."
         },
-        "Decisão de Comissão": {
+        {
+            "Documento": "Decisão de Comissão",
             "Data": "10/09/2024",
             "Autor": "Deputado Federal Julio Arcoverde (PP/PI)",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "CONCLUSÃO"
         },
-        "PAR 25/2024 - Relatório": {
+        {
+            "Documento": "PAR 25/2024 - Relatório",
             "Data": "10/09/2024",
             "Autor": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Local": "Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre a Medida Provisória n° 1248, de 2024, que\nAbre crédito extraordinário, em favor dos Ministérios da Educação e da Cultura e de Operações Oficiais de Crédito, no valor de\nR$ 1.454.799.092,00, para os fins que especifica."
         },
-        "OFCN 260/2024\npg\n7\nAtividade Legislativa\nMedida Provisória n° 1248, de 2024\nDOCUMENTOS": {
+        {
+            "Documento": "OFCN 260/2024\npg\n7\nAtividade Legislativa\nMedida Provisória n° 1248, de 2024\nDOCUMENTOS",
             "Data": "11/09/2024",
             "Autor": "Presidente do Congresso Nacional",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Encaminha à Câmara dos Deputados a Medida Provisória n° 1248, de 2024."
         },
-        "ATCN 81/2024": {
+        {
+            "Documento": "ATCN 81/2024",
             "Data": "30/09/2024",
             "Autor": "Presidente da Mesa do Congresso Nacional",
             "Local": "null",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Prorroga o prazo de vigência da Medida Provisória nº 1248/2024, pelo período de sessenta dias."
         },
-        "Autógrafo aprovado na": {
+        {
+            "Documento": "Autógrafo aprovado na",
             "Data": "11/11/2024",
             "Autor": "Câmara dos Deputados",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Abre crédito extraordinário em favor dos Ministérios da Educação e da Cultura e de Operações Oficiais de Crédito, no valor de R$\n1.454.799.092,00 (um bilhão quatrocentos e cinquenta e quatro milhões setecentos e noventa e nove mil e noventa e dois reais),\npara os fins que especifica."
         },
-        "Minuta": {
+        {
+            "Documento": "Avulso inicial da matéria",
+            "Data": "12/11/2024",
+            "Autor": "Senado Federal",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Avulso MPV 1248/2024"
+        },
+        {
+            "Documento": "Minuta",
             "Data": "13/11/2024",
             "Autor": "Senado Federal",
             "Local": "Secretaria de Expediente",
             "Ação Legislativa": "Anexado o texto revisado.",
             "Descrição/Ementa": "MPCN 109/2024"
         },
-        "MPCN 109/2024": {
+        {
+            "Documento": "MPCN 109/2024",
             "Data": "18/11/2024",
             "Autor": "Presidente do Congresso Nacional",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "pg\n8\nAtividade Legislativa\nMedida Provisória n° 1248, de 2024\nDOCUMENTOS\nEncaminha à Presidência da República cópia do autógrafo promulgado da Medida Provisória n° 1.248, de 2024."
         },
-        "OFCN 326/2024": {
+        {
+            "Documento": "OFCN 326/2024",
             "Data": "18/11/2024",
             "Autor": "Primeiro-Secretário do Senado Federal",
             "Local": "Comissão Diretora do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Encaminha a Mensagem da Presidência da Mesa do Congresso Nacional participando a promulgação da Medida Provisória n°\n1.248, de 2024."
         },
-        "OFCN 327/2024": {
+        {
+            "Documento": "OFCN 327/2024",
             "Data": "18/11/2024",
             "Autor": "Presidente do Congresso Nacional",
             "Local": "Mesa Diretora do Congresso Nacional",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Encaminha à Câmara dos Deputados cópia do autógrafo promulgado da Medida Provisória n° 1.248, de 2024."
         },
-        "Autógrafo - MPV 1248/2024": {
+        {
+            "Documento": "Autógrafo - MPV 1248/2024",
             "Data": "18/11/2024",
             "Autor": "Senado Federal",
             "Local": "Secretaria de Expediente",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Abre crédito extraordinário, em favor dos Ministérios da Educação e da Cultura e de Operações Oficiais de Crédito, no valor de\nR$ 1.454.799.092,00, para os fins que especifica."
         }
-    }
+    ]
 }

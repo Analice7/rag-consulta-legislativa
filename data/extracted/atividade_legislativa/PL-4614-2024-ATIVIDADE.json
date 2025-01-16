@@ -12,306 +12,486 @@
         "Último local": "23/12/2024 - Secretaria de Expediente",
         "Último estado": "27/12/2024 - TRANSFORMADA EM\nNORMA JURÍDICA COM VETO PARCIAL"
     },
-    "Tramitação": {
-        "27/12/2024": {
+    "Tramitação": [
+        {
+            "Data": "27/12/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": "TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL",
             "Ação": "(PR) PRESIDÊNCIA DA REPÚBLICA.\nSANCIONADA. LEI 15077 DE 2024. (vetada parcialmente: vide MSG 1699 de 2024).\nDOUE (Diário Oficial da União - Edição Extra) - 27/12/2024 - Seção I - págs. 1 e 1.\nSancionada em 27/12/2024.\nÀ COARQ."
         },
-        "26/12/2024": {
+        {
+            "Data": "26/12/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": "REMETIDA À SANÇÃO",
             "Ação": "Remetido Ofício SF n.º 1598, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,\nencaminhando a Mensagem SF n.º 315/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção\npresidencial autógrafo do Projeto.\nRemetido Ofício SF n.º 1599, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto\nfoi encaminhado à sanção presidencial."
         },
-        "23/12/2024": {
+        {
+            "Data": "23/12/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": null,
             "Ação": "Anexado o texto revisado.\nAção:"
         },
-        "20/12/2024": {
+        {
+            "Data": "20/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": "APROVADA",
+            "Ação": "(Continuação da Sessão Deliberativa Extraordinária iniciada em 19/12/2024)\nEncaminhadas à publicação as Emendas n°s 1 a 15-PLEN.\nEncaminhado à publicação e aprovado o RQS nº 985/2024, solicitando urgência para a matéria.\nProferido pelo Senador Rogério Carvalho e encaminhado à publicação o Parecer n° 262/2024 - PLEN/SF, concluindo pela\naprovação do Projeto, nos termos do Ofício nº 247/2024, do Presidente da Câmara dos Deputados -constatação de inexatidão\nmaterial nos autógrafos enviados ao Senado Federal e solicitação das devidas correções -; pela rejeição das Emendas nºs 1 a 15-\nPLEN e, ainda, com adequação redacional.\nEncaminhado à publicação e, posteriormente retirado pelo autor, o RQS nº 982/2024, da Liderança do PL, solicitando destaque\npara votação em separado da Emenda nº 1-PLEN.\nEncaminhado à publicação e, posteriormente retirado pelo autor, o RQS nº 984/2024, da Liderança do PL, solicitando destaque\npara votação em separado da Emenda nº 2-PLEN.\nEncaminhado à publicação e, posteriormente prejudicado, o RQS nº 983/2024, da Liderança do Republicanos, solicitando\ndestaque para votação em separado da expressão “de grau moderado ou grave, nos termos do regulamento”, constante do § 2º-\nA do art. 20 da Lei nº 8.742, de 1993, na forma do art. 6º do projeto.\nEncerrada a discussão.\nAprovado o projeto, com ajustes e adequação redacional do Relator, nos termos do parecer, com o seguinte resultado: Sim 42,\nNão 31, Presidente 1, Total 74.\nEncaminhado à publicação o Parecer nº 263/2024-PLEN/SF, da Comissão Diretora, apresentando a redação final.\nAprovada a redação final.\nA matéria vai à sanção.\nSerá feita a devida comunicação à Câmara dos Deputados.\n(Encaminhados à publicação os RQS nºs 987 e 988/2024)\n(Encaminhadas à publicação Declarações de Voto dos Senadores Lucas Barreto, Plínio Valério e Eduardo Girão)\n(Encaminhado à publicação o Ofício nº 98/2024, do Senador Márcio Bittar)"
+        },
+        {
+            "Data": "20/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": "APROVADO PARECER NA COMISSÃO",
+            "Ação": "Encerrada a relatoria do Senador Rogério Carvalho por deliberação da matéria."
+        },
+        {
+            "Data": "20/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebida a Emenda nº 15, do Senador Dr. Hiran.\nAção:"
+        },
+        {
+            "Data": "20/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebido o Ofício n° 247/2024, da Câmara dos Deputados, comunicando inexatidão material em autógrafo do Projeto de Lei\nn° 4.614/2024.\nAção:\npg\n2\nAtividade Legislativa\nProjeto de Lei n° 4614, de 2024\nTRAMITAÇÃO"
+        },
+        {
+            "Data": "20/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebida a Emenda nº 14, do Senador Astronauta Marcos Pontes.\nAção:"
+        },
+        {
+            "Data": "20/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebido o Requerimento nº 988, de 2024, da Liderança do Partido Liberal, de retirada do Requerimento nº 982, de 2024.\nAção:"
+        },
+        {
+            "Data": "20/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebidas as Emendas nº 12 e 13, do Senador Astronauta Marcos Pontes.\nAção:"
+        },
+        {
+            "Data": "20/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebida a Emenda nº 11, do Senador Veneziano Vital do Rêgo.\nAção:"
+        },
+        {
+            "Data": "20/12/2024",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": null,
             "Ação": "Recebido o Requerimento n° 987, de 2024, do Senador Nelsinho Trad, de destaque para votação em separado da expressão \"de\ngrau moderado ou grave, nos termos do regulamento\", do § 2-A do art. 20 da Lei 8.742/1993, na forma do artigo 6º.\nAção:"
         },
-        "19/12/2024": {
+        {
+            "Data": "19/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebida a Emenda nº 10, do Senador Alessandro Vieira.\nAção:"
+        },
+        {
+            "Data": "19/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebida a Emenda nº 9, do Senador Sergio Moro.\nAção:"
+        },
+        {
+            "Data": "19/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebida a Emenda nº 8, do Senador Alessandro Vieira.\nAção:"
+        },
+        {
+            "Data": "19/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebido o Requerimento nº 985, de 2024, de Líderes, solicitando urgência para a matéria.\nAção:"
+        },
+        {
+            "Data": "19/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebido o Requerimento n° 984, de 2024, da Liderança do PL, de destaque para votação em separado da Emenda nº 2.\nAção:"
+        },
+        {
+            "Data": "19/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebidas as Emendas nº 3 a 7, do Senador Mecias de Jesus.\nAção:\npg\n3\nAtividade Legislativa\nProjeto de Lei n° 4614, de 2024\nTRAMITAÇÃO"
+        },
+        {
+            "Data": "19/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebido o Relatório do Senador Rogério Carvalho.\nAção:"
+        },
+        {
+            "Data": "19/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebida a Emenda nº 2, do Senador Izalci Lucas.\nAção:"
+        },
+        {
+            "Data": "19/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebido o Requerimento n° 983, de 2024, da Liderança do Republicanos, de destaque para votação em separado da expressão\n\"de grau moderado ou grave, nos termos do regulamento\", do § 2-A do art. 20 da Lei 8.742/1993, na forma do art. 6º.\nAção:"
+        },
+        {
+            "Data": "19/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebido o Requerimento n° 982, de 2024, da Liderança do PL, de destaque para votação em separado da Emenda nº 1.\nAção:"
+        },
+        {
+            "Data": "19/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebida a Emenda nº 1, do Senador Rogerio Marinho.\nAção:"
+        },
+        {
+            "Data": "19/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Designado Relator de Plenário o Senador Rogério Carvalho.\nAção:"
+        },
+        {
+            "Data": "19/12/2024",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": "AGUARDANDO DESPACHO",
             "Ação": "Autuado o Projeto de Lei nº 4614/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação."
         }
-    },
-    "Documentos": {
-        "PL 4614/2024": {
+    ],
+    "Documentos": [
+        {
+            "Documento": "PL 4614/2024",
             "Data": "19/12/2024",
             "Autor": "Câmara dos Deputados",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Autuado o Projeto de Lei nº 4614/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
             "Descrição/Ementa": null
         },
-        "Avulso inicial da matéria": {
+        {
+            "Documento": "Avulso inicial da matéria",
             "Data": "19/12/2024",
             "Autor": "Senado Federal",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "-"
         },
-        "EMENDA 1 PLEN - PL": {
+        {
+            "Documento": "EMENDA 1 PLEN - PL",
             "Data": "19/12/2024",
             "Autor": "Senador Rogerio Marinho (PL/RN)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebida a Emenda nº 1, do Senador Rogerio Marinho.",
             "Descrição/Ementa": "Emenda  ao PL 4614/2024 - salário mínimo"
         },
-        "RQS 984/2024": {
+        {
+            "Documento": "RQS 984/2024",
             "Data": "19/12/2024",
             "Autor": "Líder do PL Carlos Portinho (PL/RJ)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebido o Requerimento n° 984, de 2024, da Liderança do PL, de destaque para votação em separado da Emenda nº 2.",
             "Descrição/Ementa": "Requer, pela Liderança do PL, destaque para votação em separado da Emenda nº 2 ao Projeto de Lei nº 4.614/2024."
         },
-        "RQS 982/2024": {
+        {
+            "Documento": "RQS 982/2024",
             "Data": "19/12/2024",
             "Autor": "Líder do PL Carlos Portinho (PL/RJ)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebido o Requerimento n° 982, de 2024, da Liderança do PL, de destaque para votação em separado da Emenda nº 1.",
             "Descrição/Ementa": "Requer, pela Liderança do PL, destaque para votação em separado da Emenda nº 1 ao Projeto de Lei nº 4.614/2024."
         },
-        "RQS 983/2024": {
+        {
+            "Documento": "RQS 983/2024",
             "Data": "19/12/2024",
             "Autor": "Líder do REPUBLICANOS Mecias de Jesus (REPUBLICANOS/RR)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Requer, pela Liderança do Republicanos, destaque para votação em separado da expressão \"de grau moderado ou grave, nos\ntermos do regulamento\", do § 2-A do artigo 20 da lei 8.742/1993, na forma do artigo 6º do Projeto de Lei nº 4.614/2024."
         },
-        "EMENDA 2 PLEN - PL": {
+        {
+            "Documento": "EMENDA 2 PLEN - PL",
             "Data": "19/12/2024",
             "Autor": "Senador Izalci Lucas (PL/DF)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebida a Emenda nº 2, do Senador Izalci Lucas.",
             "Descrição/Ementa": "Emenda art. 40-B ao PL 4614/2024"
         },
-        "Relatório Legislativo": {
-            "Data": "23/12/2024",
+        {
+            "Documento": "Relatório Legislativo",
+            "Data": "19/12/2024",
             "Autor": "Senador Rogério Carvalho (PT/SE)",
-            "Local": "Plenário do Senado Federal",
-            "Ação Legislativa": null,
-            "Descrição/Ementa": "Complementação de voto do Projeto de Lei nº 4614/2024."
+            "Local": "pg",
+            "Ação Legislativa": "Recebido o Relatório do Senador Rogério Carvalho.",
+            "Descrição/Ementa": "Relatório PL 4614/2024 (pacote de corte de despesas, Plenário)"
         },
-        "EMENDA 3 PLEN - PL": {
+        {
+            "Documento": "EMENDA 3 PLEN - PL",
             "Data": "19/12/2024",
             "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebidas as Emendas nº 3 a 7, do Senador Mecias de Jesus.",
             "Descrição/Ementa": "Emenda 1 cms ao PL 4614/2024"
         },
-        "EMENDA 4 PLEN - PL": {
+        {
+            "Documento": "EMENDA 4 PLEN - PL",
             "Data": "19/12/2024",
             "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebidas as Emendas nº 3 a 7, do Senador Mecias de Jesus.",
             "Descrição/Ementa": "Emenda 1 ao PL 4614/2024"
         },
-        "EMENDA 5 PLEN - PL": {
+        {
+            "Documento": "EMENDA 5 PLEN - PL",
             "Data": "19/12/2024",
             "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebidas as Emendas nº 3 a 7, do Senador Mecias de Jesus.",
             "Descrição/Ementa": "Emenda 2 ao PL 4614/2024"
         },
-        "EMENDA 6 PLEN - PL": {
+        {
+            "Documento": "EMENDA 6 PLEN - PL",
             "Data": "19/12/2024",
             "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebidas as Emendas nº 3 a 7, do Senador Mecias de Jesus.",
             "Descrição/Ementa": "Emenda 3 ao PL 4614/2024"
         },
-        "EMENDA 7 PLEN - PL": {
+        {
+            "Documento": "EMENDA 7 PLEN - PL",
             "Data": "19/12/2024",
             "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebidas as Emendas nº 3 a 7, do Senador Mecias de Jesus.",
             "Descrição/Ementa": "Emenda 4 ao PL 4614/2024"
         },
-        "RQS 985/2024": {
+        {
+            "Documento": "RQS 985/2024",
             "Data": "19/12/2024",
             "Autor": "Líder do Governo Jaques Wagner (PT/BA), Líder do Bloco Parlamentar da Resistência Democrática Eliziane Gama (PSD/MA), Líder",
             "Local": "pg",
             "Ação Legislativa": "Recebido o Requerimento nº 985, de 2024, de Líderes, solicitando urgência para a matéria.",
             "Descrição/Ementa": "Requer urgência para o Projeto de Lei nº 4.614/2024, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado\nFederal."
         },
-        "Requerimento": {
-            "Data": "20/12/2024",
-            "Autor": "Senador Plínio Valério (PSDB/AM)",
+        {
+            "Documento": "Requerimento",
+            "Data": "19/12/2024",
+            "Autor": "Senador Eduardo Girão (NOVO/CE)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Declaração de voto contrário ao PL 4614/2024."
         },
-        "EMENDA 9 PLEN - PL": {
+        {
+            "Documento": "EMENDA 9 PLEN - PL",
             "Data": "19/12/2024",
             "Autor": "Senador Sergio Moro (UNIÃO/PR)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebida a Emenda nº 9, do Senador Sergio Moro.",
             "Descrição/Ementa": "Emenda  ao PL 4614/2024"
         },
-        "EMENDA 8 PLEN - PL": {
+        {
+            "Documento": "EMENDA 8 PLEN - PL",
             "Data": "19/12/2024",
             "Autor": "Senador Alessandro Vieira (MDB/SE)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebida a Emenda nº 8, do Senador Alessandro Vieira.",
             "Descrição/Ementa": "Emenda  ao PL 4614/2024 - BPC - graus de deficiência"
         },
-        "EMENDA 10 PLEN - PL": {
+        {
+            "Documento": "EMENDA 10 PLEN - PL",
             "Data": "19/12/2024",
             "Autor": "Senador Alessandro Vieira (MDB/SE)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebida a Emenda nº 10, do Senador Alessandro Vieira.",
             "Descrição/Ementa": "Emenda  ao PL 4614/2024 (SM)"
         },
-        "RQS 987/2024": {
+        {
+            "Documento": "RQS 987/2024",
             "Data": "20/12/2024",
             "Autor": "Senador Nelsinho Trad (PSD/MS)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Requer destaque para votação em separado da expressão \"de grau moderado ou grave, nos termos do regulamento\", do § 2-A\ndo artigo 20 da Lei 8.742/1993, na forma do artigo 6º do Projeto de Lei nº 4.614/2024."
         },
-        "EMENDA 11 PLEN - PL": {
+        {
+            "Documento": "EMENDA 11 PLEN - PL",
             "Data": "20/12/2024",
             "Autor": "Senador Veneziano Vital do Rêgo (MDB/PB)",
             "Local": "pg",
             "Ação Legislativa": "Recebida a Emenda nº 11, do Senador Veneziano Vital do Rêgo.",
             "Descrição/Ementa": "Emenda  ao PL 4614/2024 - Suprime exigência deficiência moderada"
         },
-        "EMENDA 12 PLEN - PL": {
+        {
+            "Documento": "EMENDA 12 PLEN - PL",
             "Data": "20/12/2024",
             "Autor": "Senador Astronauta Marcos Pontes (PL/SP)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebidas as Emendas nº 12 e 13, do Senador Astronauta Marcos Pontes.",
             "Descrição/Ementa": "Emenda  ao PL 4614/2024 - Conceito de Deficiência"
         },
-        "EMENDA 13 PLEN - PL": {
+        {
+            "Documento": "EMENDA 13 PLEN - PL",
             "Data": "20/12/2024",
             "Autor": "Senador Astronauta Marcos Pontes (PL/SP)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebidas as Emendas nº 12 e 13, do Senador Astronauta Marcos Pontes.",
             "Descrição/Ementa": "Emenda  ao PL 4614/2024 - Limite da renda familiar no Bolsa Família"
         },
-        "RQS 988/2024": {
+        {
+            "Documento": "RQS 988/2024",
             "Data": "20/12/2024",
             "Autor": "Líder do PL Carlos Portinho (PL/RJ)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebido o Requerimento nº 988, de 2024, da Liderança do Partido Liberal, de retirada do Requerimento nº 982, de 2024.",
             "Descrição/Ementa": "Requer, pela Liderança do Partido Liberal, a retirada do Requerimento nº 982, de 2024, ao Projeto de Lei nº 4.614/2024."
         },
-        "EMENDA 14 PLEN - PL": {
+        {
+            "Documento": "EMENDA 14 PLEN - PL",
             "Data": "20/12/2024",
             "Autor": "Senador Astronauta Marcos Pontes (PL/SP)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebida a Emenda nº 14, do Senador Astronauta Marcos Pontes.",
             "Descrição/Ementa": "Emenda  ao PL 4614/2024 - Reajuste do Salário Mínimo"
         },
-        "Declaração de Voto": {
+        {
+            "Documento": "Declaração de Voto",
             "Data": "20/12/2024",
             "Autor": "Senador Lucas Barreto (PSD/AP)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Declaração de voto NÃO ao PL que reduz beneficios sociais do BPC e Bolsa Família"
         },
-        "OFC 247/2024 - Câmara dos": {
+        {
+            "Documento": "OFC 247/2024 - Câmara dos",
             "Data": "20/12/2024",
             "Autor": "Presidente da Câmara dos Deputados",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Comunicação de inexatidão material em autógrafo do Projeto de Lei n° 4.614/2024."
         },
-        "EMENDA 15 PLEN - PL": {
+        {
+            "Documento": "Requerimento",
+            "Data": "20/12/2024",
+            "Autor": "Senador Plínio Valério (PSDB/AM)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Declaração de voto contrário ao PL 4614/2024."
+        },
+        {
+            "Documento": "EMENDA 15 PLEN - PL",
             "Data": "20/12/2024",
             "Autor": "Senador Dr. Hiran (PP/RR)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebida a Emenda nº 15, do Senador Dr. Hiran.",
             "Descrição/Ementa": "Emenda  ao PL 4614/2024 § 6º-B"
         },
-        "Listagem ou relatório": {
+        {
+            "Documento": "Listagem ou relatório",
             "Data": "20/12/2024",
             "Autor": "Senado Federal",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Votação nominal do Projeto de Lei nº 4.614, de 2024, nos termos do parecer."
         },
-        "P.S 263/2024 - PLEN": {
+        {
+            "Documento": "P.S 263/2024 - PLEN",
             "Data": "20/12/2024",
             "Autor": "Comissão Diretora do Senado Federal",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "pg\n9\nAtividade Legislativa\nProjeto de Lei n° 4614, de 2024\nDOCUMENTOS\nParecer nº 263/2024-PLEN/SF, da Comissão Diretora- Redação final."
         },
-        "Avulso de emendas": {
+        {
+            "Documento": "Avulso de emendas",
             "Data": "20/12/2024",
             "Autor": "Senado Federal",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "-"
         },
-        "P.S 262/2024 - PLEN": {
+        {
+            "Documento": "P.S 262/2024 - PLEN",
             "Data": "20/12/2024",
             "Autor": "Senador Rogério Carvalho (PT/SE)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Parecer nº 262/2024-PLEN/SF"
         },
-        "OF 98/2024 - Gabinete do": {
+        {
+            "Documento": "OF 98/2024 - Gabinete do",
             "Data": "20/12/2024",
             "Autor": "Senador Marcio Bittar (UNIÃO/AC)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Retificação de declaração de voto ao PL 4614/2024."
         },
-        "Ofício\npg\n10\nAtividade Legislativa\nProjeto de Lei n° 4614, de 2024\nDOCUMENTOS": {
+        {
+            "Documento": "Relatório Legislativo",
+            "Data": "23/12/2024",
+            "Autor": "Senador Rogério Carvalho (PT/SE)",
+            "Local": "Plenário do Senado Federal",
+            "Ação Legislativa": null,
+            "Descrição/Ementa": "Complementação de voto do Projeto de Lei nº 4614/2024."
+        },
+        {
+            "Documento": "Ofício\npg\n10\nAtividade Legislativa\nProjeto de Lei n° 4614, de 2024\nDOCUMENTOS",
             "Data": "23/12/2024",
             "Autor": "Senador Marcio Bittar (UNIÃO/AC)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Comunicação de Nova Retificação em Votação de Projeto de Lei."
         },
-        "Minuta": {
+        {
+            "Documento": "Minuta",
             "Data": "23/12/2024",
             "Autor": "Senado Federal",
             "Local": "Secretaria de Expediente",
             "Ação Legislativa": "Anexado o texto revisado.",
             "Descrição/Ementa": "OFSF 1598/2024"
         },
-        "OFSF 1598/2024": {
+        {
+            "Documento": "OFSF 1598/2024",
             "Data": "26/12/2024",
             "Autor": "Primeiro-Secretário do Senado Federal",
             "Local": "Comissão Diretora do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°\n4614/2024."
         },
-        "OFSF 1599/2024": {
+        {
+            "Documento": "OFSF 1599/2024",
             "Data": "26/12/2024",
             "Autor": "Primeiro-Secretário do Senado Federal",
             "Local": "Comissão Diretora do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 4614/2024."
         },
-        "MPSF 315/2024": {
+        {
+            "Documento": "MPSF 315/2024",
             "Data": "26/12/2024",
             "Autor": "Presidente do Senado Federal",
             "Local": "Comissão Diretora do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Encaminha à sanção o Projeto de Lei n° 4.614, de 2024."
         },
-        "Autógrafo - PL 4614/2024\npg\n11\nAtividade Legislativa\nProjeto de Lei n° 4614, de 2024\nDOCUMENTOS": {
+        {
+            "Documento": "Autógrafo - PL 4614/2024\npg\n11\nAtividade Legislativa\nProjeto de Lei n° 4614, de 2024\nDOCUMENTOS",
             "Data": "26/12/2024",
             "Autor": "Senado Federal",
             "Local": "Secretaria de Expediente",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Altera as Leis nºs 8.171, de 17 de janeiro de 1991, 8.742, de 7 de dezembro de 1993, 14.601, de 19 de junho de 2023, e 14.995,\nde 10 de outubro de 2024, para dispor sobre políticas públicas; e dá outras providências."
         },
-        "Mensagem": {
+        {
+            "Documento": "Mensagem",
             "Data": "26/12/2024",
             "Autor": "Presidente do Senado Federal",
             "Local": "Comissão Diretora do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Recibo físico da Presidência da República referente à Mensagem SF n° 315/24 (assinada eletronicamente e impressa para recibo)."
         }
-    }
+    ]
 }

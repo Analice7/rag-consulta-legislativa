@@ -107,14 +107,13 @@ def parse_text_to_structure(text):
     tramitation_matches = re.findall(r"TRAMITAÇÃO[\s\S]+?(?=\nDOCUMENTOS|pg \d|$)", text, re.DOTALL)
     if not tramitation_matches:
         print("Nenhuma tramitação encontrada.")
-        return {}
+        return []
     
     combined_tramitation = " ".join(tramitation_matches)
 
-    # Dividir tramitação em blocos por data
     tramitation_blocks = re.findall(r"(\d{2}/\d{2}/\d{4}.*?Ação:.*?(?=\d{2}/\d{2}/\d{4}|$))", combined_tramitation, re.DOTALL)
 
-    organized_tramitation = {}
+    organized_tramitation = []
 
     for block in tramitation_blocks:
         if not block.strip():
@@ -138,12 +137,13 @@ def parse_text_to_structure(text):
             acao = acao_match.group(1).strip() if acao_match else None
 
         tramitation_entry = {
+            "Data": date,
             "Órgão": org,
             "Situação": situacao,
             "Ação": acao
         }
 
-        organized_tramitation[date] = tramitation_entry
+        organized_tramitation.append(tramitation_entry)
 
     structured_data["Tramitação"] = organized_tramitation
 
@@ -159,7 +159,7 @@ def parse_text_to_structure(text):
 
     documents_blocks = re.findall(r"(.*?\d{2}/\d{2}/\d{4}\nData:.*?)(?=\d{2}/\d{2}/\d{4}\nData:|$)", combined_documents, re.DOTALL)
 
-    organized_documents = {}
+    organized_documents = []
 
     next_document = None
     for block in documents_blocks:
@@ -225,7 +225,9 @@ def parse_text_to_structure(text):
 
             next_document = next_document_match.group(2).strip() if next_document_match else None
 
+        # Montar o bloco estruturado
         document_entry = {
+            "Documento" : document,
             "Data": data,
             "Autor": author,
             "Local": place,
@@ -233,7 +235,7 @@ def parse_text_to_structure(text):
             "Descrição/Ementa": describe
         }
 
-        organized_documents[document] = document_entry
+        organized_documents.append(document_entry)
 
     structured_data["Documentos"] = organized_documents
 

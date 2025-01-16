@@ -12,221 +12,332 @@
         "Último local": "05/12/2024 - Secretaria de Expediente",
         "Último estado": "24/12/2024 - TRANSFORMADA EM\nNORMA JURÍDICA COM VETO PARCIAL"
     },
-    "Tramitação": {
-        "24/12/2024": {
+    "Tramitação": [
+        {
+            "Data": "24/12/2024",
+            "Órgão": "SF-SEXPE - Secretaria de Expediente",
+            "Situação": null,
+            "Ação": "(PR) PRESIDÊNCIA DA REPÚBLICA.\nSANCIONADA. LEI 15071 DE 2024. (vetada parcialmente: vide MSG 1693 de 2024).\nDOU (Diário Oficial da União) - 24/12/2024 - Seção I - págs. 5 e 6.\nSancionada em 23/12/2024.\nÀ COARQ.\nAção:"
+        },
+        {
+            "Data": "24/12/2024",
+            "Órgão": "SF-SEXPE - Secretaria de Expediente",
+            "Situação": "TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL",
+            "Ação": "(PR) PRESIDÊNCIA DA REPÚBLICA."
+        },
+        {
+            "Data": "24/12/2024",
             "Órgão": "- Seção I - págs. 5 e 6.",
             "Situação": "Sancionada em 23/12/2024.\nÀ COARQ.\n09/12/2024\nSF-SEXPE - Secretaria de Expediente\nREMETIDA À SANÇÃO",
             "Ação": "Remetido Ofício SF n.º 1345, de 09/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,\nencaminhando a Mensagem SF n.º 249/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção\npresidencial autógrafo do Projeto.\nRemetido Ofício SF n.º 1346, de 09/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto\nfoi encaminhado à sanção presidencial."
         },
-        "05/12/2024": {
+        {
+            "Data": "05/12/2024",
             "Órgão": "SF-SEXPE - Secretaria de Expediente",
             "Situação": null,
             "Ação": "Anexado o texto revisado.\nAção:"
         },
-        "04/12/2024": {
+        {
+            "Data": "04/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "A Presidência declara a prejudicialidade do Requerimento nº 792, de 2024, nos termos no art. 334, I, do Regimento Interno.\nO requerimento vai ao Arquivo.\nAção:"
+        },
+        {
+            "Data": "04/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": "APROVADA",
+            "Ação": "(173ª Sessão Deliberativa Ordinária – realizada em 04/12/2024)\nEncaminhadas à publicação as Emendas nºs 1 a 11, apresentadas perante a Mesa e já disponibilizadas na tramitação da matéria.\nAs Emendas nº 1, 4 e 5 foram retiradas pelo autor.\nAprovado o Requerimento nº 771, de 2024, de líder, que solicita urgência para a matéria.\nEncaminhado à publicação o Parecer nº 198 de 2024-PLEN/SF, proferido pelo Senador Cid Gomes, o qual é favorável ao projeto e\ncontrário às emendas apresentadas.\nEncerrada a discussão da matéria.\nAprovado o projeto, em turno único, nos termos do parecer.\nA matéria vai à sanção.\nSerá feita a devida comunicação à Câmara dos Deputados."
+        },
+        {
+            "Data": "04/12/2024",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": null,
             "Ação": "Recebido o Relatório do Senador Cid Gomes.\nAção:"
         },
-        "03/12/2024": {
+        {
+            "Data": "03/12/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 4/12/2024.\n(Pendente de aprovação do Requerimento nº 771, de 2024, de autoria de Líder, que solicita urgência para a matéria)\nAção:"
+        },
+        {
+            "Data": "03/12/2024",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": null,
             "Ação": "(Sessão Deliberativa Ordinária, realizada em 03/12/2024)\nAção:\npg\n2\nAtividade Legislativa\nProjeto de Lei n° 3449, de 2024\nTRAMITAÇÃO\nApreciação adiada."
         },
-        "01/12/2024": {
+        {
+            "Data": "01/12/2024",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": null,
             "Ação": "Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 3/12/2024.\n(Pendente de aprovação do Requerimento nº 771, de 2024, de autoria de Líder, que solicita urgência para a matéria)\nAção:"
         },
-        "29/11/2024": {
+        {
+            "Data": "29/11/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Encaminhado à publicação e deferido o RQS 831/2024, do Senador Mecias de Jesus, de retirada, em caráter definitivo, das\nEmendas nºs 1, 4 e 5 apresentadas ao Projeto de Lei nº 3.449, de 2024.\nAção:"
+        },
+        {
+            "Data": "29/11/2024",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": null,
             "Ação": "Recebido, em 29/11/2024, o Requerimento nº 831, de 2024, do Senador Mecias de Jesus, solicitando a retirada definitiva das\nEmendas n°s 1, 4 e 5.\nAção:"
         },
-        "18/11/2024": {
+        {
+            "Data": "18/11/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "A Sessão Deliberativa Extraordinária de 19/11/2024 foi convertida em Sessão Não Deliberativa.\nMatéria retirada de pauta.\nAção:"
+        },
+        {
+            "Data": "18/11/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Designado Relator de Plenário o Senador Cid Gomes.\nAção:"
+        },
+        {
+            "Data": "18/11/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebidas as Emenda nºs 3 a 11, do Senador Mecias de Jesus.\nAção:"
+        },
+        {
+            "Data": "18/11/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebida a Emenda nº 2, do Senador Flávio Bolsonaro.\nAção:"
+        },
+        {
+            "Data": "18/11/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebido o Requerimento n° 792, de 2024, da Liderança do Republicanos, de destaque para votação em separado da Emenda nº\n1.\nAção:"
+        },
+        {
+            "Data": "18/11/2024",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": null,
             "Ação": "Recebida a Emenda nº 1, do Senador Mecias de Jesus.\nAção:"
         },
-        "16/11/2024": {
+        {
+            "Data": "16/11/2024",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": "INCLUÍDA EM ORDEM DO DIA",
             "Ação": "pg\n3\nAtividade Legislativa\nProjeto de Lei n° 3449, de 2024\nTRAMITAÇÃO\nIncluído em Ordem do Dia da Sessão Deliberativa Extraordinária Semipresencial de 19/11/2024.\n(Pendente de aprovação do Requerimento nº 771, de 2024, de autoria de Líder, que solicita urgência para a matéria)"
         },
-        "12/11/2024": {
+        {
+            "Data": "12/11/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": "AGUARDANDO INCLUSÃO ORDEM DO DIA DE REQUERIMENTO",
+            "Ação": "Foi apresentado o Requerimento nº 771, de 2024, de autoria de Líder, que solicita urgência para o Projeto de Lei nº 3.449, de\n2024, nos termos dos arts. 336, III, e 338, III, do Regimento Interno.\nO Requerimento será incluído em Ordem do Dia, oportunamente."
+        },
+        {
+            "Data": "12/11/2024",
+            "Órgão": "PLEN - Plenário do Senado Federal",
+            "Situação": null,
+            "Ação": "Recebido o Requerimento nº 771, de 2024, de Líder, solicitando urgência para a matéria.\nAção:\nPublicado no DSF Páginas 646-647 - DSF nº 194"
+        },
+        {
+            "Data": "12/11/2024",
             "Órgão": "PLEN - Plenário do Senado Federal",
             "Situação": "AGUARDANDO DESPACHO",
             "Ação": "Autuado o Projeto de Lei nº 3449/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação."
         }
-    },
-    "Documentos": {
-        "PL 3449/2024": {
+    ],
+    "Documentos": [
+        {
+            "Documento": "PL 3449/2024",
             "Data": "12/11/2024",
             "Autor": "Câmara dos Deputados",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Autuado o Projeto de Lei nº 3449/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
             "Descrição/Ementa": null
         },
-        "Avulso inicial da matéria": {
+        {
+            "Documento": "Avulso inicial da matéria",
             "Data": "12/11/2024",
             "Autor": "Senado Federal",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Autuado o Projeto de Lei nº 3449/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.",
             "Descrição/Ementa": "-"
         },
-        "RQS 771/2024": {
+        {
+            "Documento": "RQS 771/2024",
             "Data": "12/11/2024",
             "Autor": "Líder do Bloco Parlamentar da Resistência Democrática Eliziane Gama (PSD/MA)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Requer urgência para o Projeto de Lei nº 3449/2024, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado\nFederal."
         },
-        "EMENDA 1 PLEN - PL": {
+        {
+            "Documento": "EMENDA 1 PLEN - PL",
             "Data": "18/11/2024",
             "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebida a Emenda nº 1, do Senador Mecias de Jesus.",
             "Descrição/Ementa": "Emenda  ao PL 3449/2024"
         },
-        "RQS 792/2024": {
+        {
+            "Documento": "RQS 792/2024",
             "Data": "18/11/2024",
             "Autor": "Líder do REPUBLICANOS Mecias de Jesus (REPUBLICANOS/RR)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Requer, pela Liderança do Republicanos, destaque para votação em separado da Emenda nº 1 ao Projeto de Lei nº 3.449/2024."
         },
-        "EMENDA 2 PLEN - PL": {
+        {
+            "Documento": "EMENDA 2 PLEN - PL",
             "Data": "18/11/2024",
             "Autor": "Senador Flávio Bolsonaro (PL/RJ)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebida a Emenda nº 2, do Senador Flávio Bolsonaro.",
             "Descrição/Ementa": "Emenda  ao PL 3449/2024"
         },
-        "EMENDA 4 PLEN - PL": {
+        {
+            "Documento": "EMENDA 4 PLEN - PL",
             "Data": "18/11/2024",
             "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebidas as Emenda nºs 3 a 11, do Senador Mecias de Jesus.",
             "Descrição/Ementa": "Emenda 3 ao PL 3449/2024"
         },
-        "EMENDA 5 PLEN - PL": {
+        {
+            "Documento": "EMENDA 5 PLEN - PL",
             "Data": "18/11/2024",
             "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebidas as Emenda nºs 3 a 11, do Senador Mecias de Jesus.",
             "Descrição/Ementa": "Emenda 4 ao PL 3449/2024"
         },
-        "EMENDA 6 PLEN - PL": {
+        {
+            "Documento": "EMENDA 6 PLEN - PL",
             "Data": "18/11/2024",
             "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
             "Local": "pg",
             "Ação Legislativa": "Recebidas as Emenda nºs 3 a 11, do Senador Mecias de Jesus.",
             "Descrição/Ementa": "Emenda 5 ao PL 3449/2024"
         },
-        "EMENDA 3 PLEN - PL": {
+        {
+            "Documento": "EMENDA 3 PLEN - PL",
             "Data": "18/11/2024",
             "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebidas as Emenda nºs 3 a 11, do Senador Mecias de Jesus.",
             "Descrição/Ementa": "Emenda 2 ao PL 3449/2024"
         },
-        "EMENDA 8 PLEN - PL": {
+        {
+            "Documento": "EMENDA 8 PLEN - PL",
             "Data": "18/11/2024",
             "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebidas as Emenda nºs 3 a 11, do Senador Mecias de Jesus.",
             "Descrição/Ementa": "Emenda 7 ao PL 3449/2024"
         },
-        "EMENDA 9 PLEN - PL": {
+        {
+            "Documento": "EMENDA 9 PLEN - PL",
             "Data": "18/11/2024",
             "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebidas as Emenda nºs 3 a 11, do Senador Mecias de Jesus.",
             "Descrição/Ementa": "Emenda 8 ao PL 3449/2024"
         },
-        "EMENDA 10 PLEN - PL": {
+        {
+            "Documento": "EMENDA 10 PLEN - PL",
             "Data": "18/11/2024",
             "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebidas as Emenda nºs 3 a 11, do Senador Mecias de Jesus.",
             "Descrição/Ementa": "Emenda 9 ao PL 3449/2024"
         },
-        "EMENDA 11 PLEN - PL": {
+        {
+            "Documento": "EMENDA 11 PLEN - PL",
             "Data": "18/11/2024",
             "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebidas as Emenda nºs 3 a 11, do Senador Mecias de Jesus.",
             "Descrição/Ementa": "Emenda 10 ao PL 3449/2024"
         },
-        "EMENDA 7 PLEN - PL": {
+        {
+            "Documento": "EMENDA 7 PLEN - PL",
             "Data": "18/11/2024",
             "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
             "Local": "pg",
             "Ação Legislativa": "Recebidas as Emenda nºs 3 a 11, do Senador Mecias de Jesus.",
             "Descrição/Ementa": "Emenda 6 ao PL 3449/2024"
         },
-        "RQS 831/2024": {
+        {
+            "Documento": "RQS 831/2024",
             "Data": "29/11/2024",
             "Autor": "Senador Mecias de Jesus (REPUBLICANOS/RR)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Requer a retirada definitiva das Emendas nºs 1, 4 e 5 ao Projeto de Lei nº 3449/2024."
         },
-        "Relatório Legislativo": {
+        {
+            "Documento": "Relatório Legislativo",
             "Data": "04/12/2024",
             "Autor": "Senador Cid Gomes (PSB/CE)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": "Recebido o Relatório do Senador Cid Gomes.",
             "Descrição/Ementa": "Parecer de Plenário sobre o PL 3449/2024 Tributação simplificada e Programa Mover - Plenário (sem Emenda)"
         },
-        "P.S 198/2024 - PLEN": {
+        {
+            "Documento": "P.S 198/2024 - PLEN",
             "Data": "04/12/2024",
             "Autor": "Senador Cid Gomes (PSB/CE)",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Parecer nº 198 de 2024-PLEN/SF"
         },
-        "Avulso de emendas": {
+        {
+            "Documento": "Avulso de emendas",
             "Data": "04/12/2024",
             "Autor": "Senado Federal",
             "Local": "Plenário do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "-"
         },
-        "Minuta": {
+        {
+            "Documento": "Minuta",
             "Data": "05/12/2024",
             "Autor": "Senado Federal",
             "Local": "Secretaria de Expediente",
             "Ação Legislativa": "Anexado o texto revisado.",
             "Descrição/Ementa": "pg\n7\nAtividade Legislativa\nProjeto de Lei n° 3449, de 2024\nDOCUMENTOS\nOFSF 1346/2024"
         },
-        "pg\n7\nAtividade Legislativa\nProjeto de Lei n° 3449, de 2024\nDOCUMENTOS\nOFSF 1346/2024": {
+        {
+            "Documento": "pg\n7\nAtividade Legislativa\nProjeto de Lei n° 3449, de 2024\nDOCUMENTOS\nOFSF 1346/2024",
             "Data": "09/12/2024",
             "Autor": "Primeiro-Secretário do Senado Federal",
             "Local": "Comissão Diretora do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 3449, de 2024."
         },
-        "MPSF 249/2024": {
+        {
+            "Documento": "MPSF 249/2024",
             "Data": "09/12/2024",
             "Autor": "Presidente do Senado Federal",
             "Local": "Comissão Diretora do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Encaminha à sanção o Projeto de Lei n° 3449, de 2024."
         },
-        "OFSF 1345/2024": {
+        {
+            "Documento": "OFSF 1345/2024",
             "Data": "09/12/2024",
             "Autor": "Primeiro-Secretário do Senado Federal",
             "Local": "Comissão Diretora do Senado Federal",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°\n3449, de 2024."
         },
-        "Autógrafo - PL 3449/2024": {
+        {
+            "Documento": "Autógrafo - PL 3449/2024",
             "Data": "09/12/2024",
             "Autor": "Senado Federal",
             "Local": "Secretaria de Expediente",
             "Ação Legislativa": null,
             "Descrição/Ementa": "Altera o Decreto-Lei nº 1.804, de 3 de setembro de 1980, que trata da tributação simplificada das remessas postais\ninternacionais, e a Lei nº 14.902, de 27 de junho de 2024, que institui o Programa Mobilidade Verde e Inovação (Programa\nMover)."
         }
-    }
+    ]
 }
