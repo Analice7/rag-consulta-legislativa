@@ -20,6 +20,7 @@ def process_texts_in_file(data, remove_chars=r'[^\w\s]'):
             if(key != 'link'):
                 texto = re.sub(remove_chars, '', texto)
                 texto = texto.replace("º", "")
+                texto = texto.replace("\n", " ")
             result[key] = texto
         else:
             result[key] = value
