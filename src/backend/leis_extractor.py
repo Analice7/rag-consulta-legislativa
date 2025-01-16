@@ -31,8 +31,8 @@ def extract_text_from_html(arquivo):
     
     
     dados_extracao = {
-        'titulo': titulo.get_text() if titulo else None,
-        'descricao': descricao.get_text() if descricao else None, 
+        'lei': titulo.get_text() if titulo else None,
+        'ementa': descricao.get_text() if descricao else None, 
         'texto': lei_texto,
         'link': link
     }
