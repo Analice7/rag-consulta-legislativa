@@ -1,7 +1,8 @@
 # Geração de embeddings
-'''
+
 import os
 import json
+from nltk.corpus import Tokenizer
 
 sentences = [
     'This is a text',
@@ -11,7 +12,7 @@ sentences = [
 
 test_data = []
 
-def chucking(sentences):
+def embedding(sentences):
     tokenizer = Tokenizer(num_words = 100, oov_token = '<OOV>')
     tokenizer.fit_on_texts(sentences)
     
@@ -20,6 +21,22 @@ def chucking(sentences):
     
     print(word_index)
     print(codes)
+    
+def recursao(value):
+    result = {}
+    if type(value) == str:
+        result = embedding(value)
+    elif type(value) == dict:
+        for key, value_sub in value.items():
+            result[key] = recursao(value_sub)
+    elif type(value) == list:
+        list_result = []
+        for item in value:
+            list_result.append(recursao(item))
+        result = list_result
+    else:
+        result = value
+    return result
     
 if __name__ == '__main__' :
     directory = "data/extracted"
@@ -30,5 +47,4 @@ if __name__ == '__main__' :
                 data = json.load(file)
             print(f'{arquivo[:-5]}.json aberto')
             for key, value in data.items():
-                chucking(value)
-'''
+                recursao(value)
