@@ -1,0 +1,18 @@
+{
+    "veto": {
+        "número": "35",
+        "ano": "2024"
+    },
+    "ementa": "Veto parcial aposto ao Projeto de Lei nº 5.010, de 2013 (nº 73/2007, no Senado Federal), que \"Dispõe sobre o controle de material genético animal e sobre a obtenção e o fornecimento de clones de animais domésticos destinados à produção de animais domésticos de interesse zootécnico e dá outras providências\"",
+    "mensagem": {
+        "número": "1440",
+        "ano": "2024"
+    },
+    "dispositivos vetados": [
+        {
+            "dispositivo vetado": "Inciso VIII do § 1º do art. 14 do Projeto de Lei",
+            "texto dispositivo": "VIII - perda ou restrição de incentivo e de benefício fiscal concedidos pelo governo;",
+            "razao veto": "A proposição legislativa prevê a perda ou a restrição de incentivos fiscais de forma ampla, sem explicitar qual seria o incentivo fiscal a ser reduzido ou cassado, relegando a regulamento a explicitação do disposto na lei, o que viola o art. 150, § 6º, da Constituição, que exige lei específica para disciplinar benefícios fiscais. Em que pese a boa intenção do legislador, a medida contraria a definição legal de tributo disposta no art. 3º da Lei nº 5.172, de 25 de outubro de 1966 – Código Tributário Nacional, afinada ao conceito constitucional, segundo a qual a tributação é despida de qualquer caráter sancionatório.  Com efeito, a ausência de explicitação dos incentivos e benefícios fiscais passíveis de perda ou de restrição afronta também a segurança jurídica, princípio constitucional, sendo incompatível com a expectativa legítima dos contribuintes titulares de benefícios fiscais legalmente instituídos."
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "veto": {
+        "número": "37",
+        "ano": "2024"
+    },
+    "ementa": "Veto parcial aposto ao Projeto de Lei nº 6.212, de 2023, que \"Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para permitir a consulta pública do nome completo e do número de inscrição no Cadastro de Pessoas Físicas (CPF) das pessoas condenadas por crimes contra a dignidade sexual, garantido o sigilo do processo e das informações relativas à vítima, e a Lei nº 14.069, de 1º de outubro de 2020, para determinar a criação do Cadastro Nacional de Pedófilos e Predadores Sexuais\"",
+    "mensagem": {
+        "número": "1527",
+        "ano": "2024"
+    },
+    "dispositivos vetados": [
+        {
+            "dispositivo vetado": "Art. 2º do Projeto de Lei, na parte em que acrescenta o parágrafo único do art. 2º-A na Lei nº 14.069, de 1º de outubro de 2020",
+            "texto dispositivo": "Parágrafo único. As informações a que se refere o caput deste artigo serão inseridas no Cadastro Nacional de Pedófilos e Predadores Sexuais a partir do trânsito em julgado da sentença condenatória e ficarão disponíveis para consulta pública pelo prazo de 10 (dez) anos após o cumprimento integral da pena, salvo em caso de reabilitação.",
+            "razao veto": "Em que pese a boa intenção do legislador, a medida incorre em vício de inconstitucionalidade, pois a extensão do prazo para manter disponíveis os dados dos condenados no Cadastro Nacional de Pedófilos e Predadores Sexuais, para além do período de cumprimento da pena, viola princípios e normas constitucionais, como a proporcionalidade e o devido processo legal, nos termos do disposto no inciso LIV do caput do art. 5º da Constituição; a dignidade da pessoa humana e a integridade física e moral do condenado, nos termos, respectivamente, do disposto no inciso III do caput do art. 1º e no inciso XLIX do caput do art. 5º da Constituição; e os direitos à intimidade, vida privada, honra e imagem, nos termos do disposto no inciso X do caput do art. 5º da Constituição."
+        }
+    ]
+}

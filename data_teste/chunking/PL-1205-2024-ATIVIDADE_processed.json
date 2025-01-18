@@ -1,7 +1,7 @@
 {
     "atividade legislativa": [
-        "projeto",
         "lei",
+        "projeto",
         "1205",
         "2024"
     ],
@@ -10,56 +10,59 @@
         "barros"
     ],
     "ementa": [
-        "a lei",
-        "junho",
-        "2023 lei geral",
-        "esporte",
-        "os subsistemas esportivos",
-        "14597",
         "14",
-        "2023"
+        "dispor",
+        "esporte",
+        "2023",
+        "14597",
+        "altera",
+        "junho"
     ],
     "assunto": [
+        "lazer",
         "política social   ",
-        "desporto",
-        "lazer"
+        "desporto"
     ],
     "despacho": [
         "10/04/2024 decisão",
         "presidência",
-        "tramitação sucessiva",
         "comissão",
         "esporte",
-        "10/04/2024"
+        "10/04/2024",
+        "tramitação sucessiva"
     ],
     "relatoria": [
-        "comissão",
-        "esporte",
-        "relatores senador",
         "carlos portinho",
-        "deliberação",
+        "comissão",
         "matéria",
+        "encerrado",
+        "esporte",
+        "cesp",
+        "relatores senador",
+        "22/05/2024",
         "cesp  comissão de esporte relatores senador carlos portinho",
-        "22/05/2024"
+        "deliberação"
     ],
     "tramitação encerrada": {
         "decisão": [
+            "aprovada",
             "comissão",
             "decisão"
         ],
         "destino": [
-            "câmara",
-            "deputados"
+            "deputados",
+            "câmara"
         ],
         "último local": [
-            "19/11/2024  secretaria",
             "expediente",
-            "19/11/2024"
+            "19/11/2024",
+            "19/11/2024  secretaria"
         ],
         "último estado": [
-            "norma jurídica",
             "veto parcial",
-            "10/12/2024"
+            "norma jurídica",
+            "10/12/2024",
+            "transformada"
         ]
     },
     "tramitação": [
@@ -68,28 +71,31 @@
                 "10/12/2024"
             ],
             "órgão": [
-                "sfsexpe",
+                "sfsexpe  secretaria de expediente",
                 "expediente",
-                "sfsexpe  secretaria de expediente"
+                "sfsexpe"
             ],
             "situação": [
+                "veto parcial",
                 "norma jurídica",
-                "veto parcial"
+                "transformada"
             ],
             "ação": [
-                "pr presidência",
-                "república",
+                "vide",
                 "união",
-                "10/12/2024  seção",
-                "união  10/12/2024",
-                "15041",
                 "2024",
-                "1590",
-                "2024",
-                "7",
-                "7",
+                "09/12/2024",
+                "dou",
                 "10/12/2024",
-                "09/12/2024"
+                "pr presidência",
+                "10/12/2024  seção",
+                "1590",
+                "união  10/12/2024",
+                "7",
+                "sancionada",
+                "vetada",
+                "república",
+                "15041"
             ]
         },
         {
@@ -102,25 +108,24 @@
             ],
             "situação": null,
             "ação": [
-                "publicação",
-                "o ofício",
-                "câmara",
-                "deputados",
-                "origem",
-                "que",
-                "o envio",
                 "projeto",
-                "lei",
-                "a matéria",
-                "secretaria",
+                "encaminhado",
+                "2024",
                 "expediente",
-                "dsf páginas",
-                "593",
-                "2024",
+                "publicado",
                 "1205",
-                "2024",
+                "origem",
+                "publicação",
+                "deputados",
+                "comunica",
+                "dsf",
+                "lei",
+                "593",
+                "secretaria",
                 "9798",
-                "198"
+                "198",
+                "câmara",
+                "dsf páginas"
             ]
         },
         {
@@ -128,27 +133,31 @@
                 "10/06/2024"
             ],
             "órgão": [
-                "sfsexpe",
+                "sfsexpe  secretaria de expediente",
                 "expediente",
-                "sfsexpe  secretaria de expediente"
+                "sfsexpe"
             ],
             "situação": [
-                "câmara",
-                "deputados"
+                "remetida",
+                "deputados",
+                "câmara"
             ],
             "ação": [
-                "10/06/24",
                 "senhor primeirosecretário",
-                "câmara",
-                "deputados",
-                "autógrafo",
                 "projeto",
-                "revisão",
-                "termos",
-                "art",
                 "constituição federal",
+                "remetido",
+                "65",
+                "termos",
+                "encaminhando",
+                "deputados",
+                "revisão",
+                "autógrafo",
+                "sf",
                 "473",
-                "65"
+                "10/06/24",
+                "art",
+                "câmara"
             ]
         },
         {
@@ -156,21 +165,23 @@
                 "04/06/2024"
             ],
             "órgão": [
-                "sfsexpe",
+                "sfsexpe  secretaria de expediente",
                 "expediente",
-                "sfsexpe  secretaria de expediente"
+                "sfsexpe"
             ],
             "situação": null,
             "ação": [
-                "o texto",
-                "ação",
+                "2024 tramitação",
                 "1 atividade legislativa",
                 "projeto",
-                "lei",
-                "2024 tramitação",
-                "1",
+                "ação",
+                "pg",
                 "1205",
-                "2024"
+                "2024",
+                "lei",
+                "1",
+                "anexado",
+                "revisado"
             ]
         },
         {
@@ -181,23 +192,26 @@
                 "plen  plenário",
                 "senado federal"
             ],
-            "situação": [],
+            "situação": [
+                "aprovada"
+            ],
             "ação": [
-                "junho",
-                "o prazo",
-                "interposição",
-                "recurso",
-                "apreciação",
                 "projeto",
-                "plenário",
-                "o projeto",
-                "lei",
+                "1205",
+                "2024",
+                "apresentado",
+                "apreciação",
                 "cesp",
-                "câmara",
                 "deputados",
                 "3",
-                "1205",
-                "2024"
+                "lei",
+                "encerrouse",
+                "recurso",
+                "plenário",
+                "interposição",
+                "aprovado",
+                "junho",
+                "câmara"
             ]
         },
         {
@@ -210,8 +224,9 @@
             ],
             "situação": null,
             "ação": [
-                "o texto final",
-                "ação"
+                "ação",
+                "revisado",
+                "anexado"
             ]
         },
         {
@@ -224,27 +239,25 @@
             ],
             "situação": null,
             "ação": [
-                "prazo",
-                "interposição",
-                "recurso",
-                "a mesa",
-                "art",
-                "risf",
-                "o dia",
-                "decretação",
-                "ponto facultativo",
-                "dia",
-                "termos",
-                "ato",
-                "primeirosecretário",
                 "ação",
-                "91",
-                "3",
-                "5",
+                "prorrogado",
                 "8",
-                "2024",
+                "termos",
+                "decretação",
+                "5",
+                "91",
+                "ato",
+                "dia",
+                "31/05/2024",
+                "primeirosecretário",
+                "interposição",
+                "prazo",
                 "03/06/2024",
-                "31/05/2024"
+                "2024",
+                "3",
+                "recurso",
+                "risf",
+                "art"
             ]
         },
         {
@@ -257,17 +270,15 @@
             ],
             "situação": null,
             "ação": [
-                "prazo interposição",
-                "recurso",
-                "a decisão terminativa",
                 "comissão",
-                "risf",
-                "a mesa ação",
-                "91",
+                "31/05/2024",
                 "3",
                 "5",
                 "24/05/2024",
-                "31/05/2024"
+                "recurso",
+                "prazo interposição",
+                "91",
+                "risf"
             ]
         },
         {
@@ -280,37 +291,37 @@
             ],
             "situação": [
                 "interposição",
-                "recurso"
+                "recurso",
+                "aguardando"
             ],
             "ação": [
                 "publicação",
-                "o ofício",
-                "comissão",
-                "esporte",
-                "a apreciação",
-                "matéria",
-                "caráter terminativo",
-                "a instrução",
-                "matéria",
-                "o prazo",
-                "cinco dias úteis",
-                "interposição",
-                "recurso",
-                "um décimo",
-                "membros",
-                "casa",
-                "plenário",
-                "termos",
-                "art",
-                "regimento interno",
-                "40",
-                "2024",
-                "cinco",
                 "um",
-                "décimo",
+                "apreciada",
+                "cinco",
+                "matéria",
+                "comissão",
+                "caráter terminativo",
+                "termos",
+                "5",
+                "membros",
                 "91",
+                "comunicando",
+                "aberto",
+                "casa",
+                "regimento interno",
+                "interposição",
+                "décimo",
+                "fica",
+                "encaminhado",
+                "2024",
+                "esporte",
+                "40",
                 "3",
-                "5"
+                "recurso",
+                "plenário",
+                "art",
+                "concluída"
             ]
         },
         {
@@ -318,18 +329,18 @@
                 "22/05/2024"
             ],
             "órgão": [
-                "comissão",
                 "esporte",
+                "cesp",
+                "comissão",
                 "cesp  comissão de esporte"
             ],
             "situação": null,
             "ação": [
-                "a relatoria",
-                "senador",
+                "encerrada",
                 "carlos portinho",
-                "deliberação",
                 "matéria ação",
-                "carlos portinho"
+                "deliberação",
+                "senador"
             ]
         },
         {
@@ -337,57 +348,53 @@
                 "21/05/2024"
             ],
             "órgão": [
-                "comissão",
                 "esporte",
+                "cesp",
+                "comissão",
                 "cesp  comissão de esporte"
             ],
             "situação": [
+                "aprovado",
                 "comissão"
             ],
             "ação": [
-                "7ª reunião extraordinária",
-                "comissão",
-                "esporte",
-                "data",
-                "o projeto",
-                "lei",
-                "as emendas",
-                "a emenda",
-                "sua redação",
-                "complementação",
+                "publicação",
                 "voto",
-                "relator senador",
-                "carlos",
-                "a votação",
-                "o senador",
-                "paulo",
+                "comunica",
+                "1",
+                "votar",
+                "7ª",
+                "diário",
                 "aplicativo motivo",
-                "qual",
-                "a consignação",
-                "voto favorável à matéria anexados",
-                "o texto final",
+                "ciência",
+                "solicitou",
                 "matéria",
-                "o ofício",
-                "40/2024",
-                "a decisão",
                 "comissão",
                 "caráter terminativo",
-                "ciência",
-                "plenário",
-                "publicação",
-                "diário",
-                "senado federal",
-                "carlos portinho",
-                "paulo paim",
-                "7ª",
-                "1205",
-                "2024",
-                "1",
-                "2",
-                "1",
-                "40/2024",
+                "data",
+                "conseguiu",
+                "informou",
+                "lei",
+                "alterada",
                 "91",
-                "2"
+                "1205",
+                "40/2024",
+                "paulo",
+                "carlos",
+                "relator senador",
+                "aprovado",
+                "senado federal",
+                "7ª reunião extraordinária",
+                "encerrada",
+                "2024",
+                "2",
+                "esporte",
+                "cesp",
+                "anexados",
+                "plenário",
+                "realizada",
+                "risf",
+                "complementação"
             ]
         },
         {
@@ -395,20 +402,23 @@
                 "21/05/2024"
             ],
             "órgão": [
-                "comissão",
                 "esporte",
+                "cesp",
+                "comissão",
                 "cesp  comissão de esporte"
             ],
             "situação": null,
             "ação": [
-                "recebido complementação",
-                "voto",
-                "senador",
                 "carlos portinho",
-                "relatório",
-                "dia",
                 "ação",
-                "25/04/2024"
+                "recebido",
+                "relatório",
+                "apresentado",
+                "25/04/2024",
+                "voto",
+                "dia",
+                "recebido complementação",
+                "senador"
             ]
         },
         {
@@ -416,23 +426,25 @@
                 "15/05/2024"
             ],
             "órgão": [
-                "comissão",
                 "esporte",
+                "cesp",
+                "comissão",
                 "cesp  comissão de esporte"
             ],
             "situação": [
+                "incluída",
                 "pauta",
                 "reunião"
             ],
             "ação": [
-                "matéria constante",
-                "pauta",
-                "7ª reunião",
                 "comissão",
+                "reagendada",
                 "esporte",
-                "o dia",
+                "matéria constante",
                 "7ª",
-                "21/05/2024"
+                "21/05/2024",
+                "pauta",
+                "7ª reunião"
             ]
         },
         {
@@ -440,20 +452,20 @@
                 "15/05/2024"
             ],
             "órgão": [
-                "comissão",
                 "esporte",
+                "cesp",
+                "comissão",
                 "cesp  comissão de esporte"
             ],
             "situação": [
-                "a pauta",
                 "comissão"
             ],
             "ação": [
-                "remarcação",
-                "7ª reunião",
                 "comissão",
                 "esporte",
-                "7ª"
+                "7ª",
+                "remarcação",
+                "7ª reunião"
             ]
         },
         {
@@ -461,23 +473,25 @@
                 "14/05/2024"
             ],
             "órgão": [
-                "comissão",
                 "esporte",
+                "cesp",
+                "comissão",
                 "cesp  comissão de esporte"
             ],
             "situação": [
+                "incluída",
                 "pauta",
                 "reunião"
             ],
             "ação": [
-                "matéria constante",
-                "pauta",
-                "7ª reunião",
                 "comissão",
                 "esporte",
-                "o dia",
+                "22/05/2024",
+                "agendada",
+                "matéria constante",
                 "7ª",
-                "22/05/2024"
+                "pauta",
+                "7ª reunião"
             ]
         },
         {
@@ -485,27 +499,25 @@
                 "25/04/2024"
             ],
             "órgão": [
-                "comissão",
                 "esporte",
+                "cesp",
+                "comissão",
                 "cesp  comissão de esporte"
             ],
             "situação": [
-                "a pauta",
                 "comissão"
             ],
             "ação": [
-                "o relatório",
-                "senador",
-                "carlos portinho",
-                "aprovação",
                 "projeto",
-                "lei",
-                "duas emendas",
-                "redação",
-                "que",
-                "carlos portinho",
                 "1205",
-                "2024"
+                "carlos portinho",
+                "recebido",
+                "2024",
+                "lei",
+                "apresenta",
+                "redação",
+                "aprovação",
+                "senador"
             ]
         },
         {
@@ -513,27 +525,25 @@
                 "19/04/2024"
             ],
             "órgão": [
-                "comissão",
                 "esporte",
+                "cesp",
+                "comissão",
                 "cesp  comissão de esporte"
             ],
             "situação": [
-                "matéria",
-                "a relatoria"
+                "matéria"
             ],
             "ação": [
-                "o prazo",
-                "apresentação",
-                "emendas",
-                "a comissão",
-                "esporte",
+                "encerrado",
                 "pl",
+                "esporte",
+                "apresentadas",
+                "122",
+                "emendas",
                 "1205/2024",
                 "terminativo art",
                 "risf",
-                "pl",
-                "1205/2024",
-                "122"
+                "apresentação"
             ]
         },
         {
@@ -541,19 +551,20 @@
                 "17/04/2024"
             ],
             "órgão": [
-                "comissão",
                 "esporte",
+                "cesp",
+                "comissão",
                 "cesp  comissão de esporte"
             ],
             "situação": [
-                "matéria",
-                "a relatoria"
+                "matéria"
             ],
             "ação": [
-                "senador",
                 "carlos portinho",
                 "relatório",
-                "carlos portinho"
+                "distribuído",
+                "senador",
+                "emitir"
             ]
         },
         {
@@ -561,22 +572,22 @@
                 "10/04/2024"
             ],
             "órgão": [
-                "comissão",
                 "esporte",
+                "cesp",
+                "comissão",
                 "cesp  comissão de esporte"
             ],
             "situação": null,
             "ação": [
-                "prazo apresentação",
-                "emendas",
-                "projeto terminativo",
-                "comissão",
-                "art",
-                "ii c do risf",
                 "ação",
+                "comissão",
+                "18/04/2024",
+                "prazo apresentação",
                 "122",
+                "emendas",
                 "12/04/2024",
-                "18/04/2024"
+                "art",
+                "projeto terminativo"
             ]
         },
         {
@@ -589,27 +600,24 @@
             ],
             "situação": [
                 "recebimento",
-                "emendas"
+                "emendas",
+                "aguardando"
             ],
             "ação": [
-                "a matéria",
                 "comissão",
-                "esporte",
                 "decisão terminativa",
                 "termos",
-                "art",
+                "podendo",
+                "esporte",
                 "i",
-                "regimento interno",
+                "122",
                 "emendas",
-                "a comissão",
-                "prazo",
-                "cinco dias úteis",
-                "termos",
-                "art",
                 "regimento interno",
                 "91",
+                "prazo",
+                "art",
                 "cinco",
-                "122"
+                "receber"
             ]
         },
         {
@@ -621,23 +629,20 @@
                 "senado federal"
             ],
             "situação": [
-                "despacho"
+                "despacho",
+                "aguardando"
             ],
             "ação": [
-                "o projeto",
                 "lei",
-                "1205/2024",
-                "o projeto",
                 "publicação",
-                "1205/2024"
+                "1205/2024",
+                "autuado"
             ]
         }
     ],
     "documentos": [
         {
             "documento": [
-                "1205/2024",
-                "pl 1205/2024",
                 "1205/2024"
             ],
             "data": [
@@ -648,32 +653,29 @@
                 "barros"
             ],
             "local": [
-                "plenário",
-                "senado federal"
+                "senado federal",
+                "plenário"
             ],
             "ação legislativa": [
-                "o projeto",
                 "lei",
-                "1205/2024",
-                "o projeto",
                 "publicação",
-                "1205/2024"
+                "1205/2024",
+                "autuado"
             ],
             "descrição/Ementa": [
-                "a lei",
-                "junho",
-                "2023 lei geral",
-                "esporte",
-                "os subsistemas esportivos",
-                "14597",
                 "14",
-                "2023"
+                "dispor",
+                "esporte",
+                "2023",
+                "14597",
+                "altera",
+                "junho"
             ]
         },
         {
             "documento": [
-                "avulso inicial",
-                "matéria"
+                "matéria",
+                "avulso inicial"
             ],
             "data": [
                 "10/04/2024"
@@ -682,16 +684,14 @@
                 "senado federal"
             ],
             "local": [
-                "plenário",
-                "senado federal"
+                "senado federal",
+                "plenário"
             ],
             "ação legislativa": [
-                "o projeto",
                 "lei",
-                "1205/2024",
-                "o projeto",
                 "publicação",
-                "1205/2024"
+                "1205/2024",
+                "autuado"
             ],
             "descrição/Ementa": []
         },
@@ -703,34 +703,28 @@
                 "25/04/2024"
             ],
             "autor": [
-                "senador",
                 "carlos portinho pl",
-                "rj",
-                "senador carlos portinho",
-                "pl/rj"
+                "senador",
+                "rj"
             ],
             "local": [
-                "comissão",
-                "esporte"
+                "esporte",
+                "comissão"
             ],
             "ação legislativa": null,
             "descrição/Ementa": [
-                "comissão",
-                "esporte",
-                "o projeto",
-                "lei",
-                "senadora leila",
-                "que",
-                "a lei",
-                "junho",
-                "2023 lei geral",
-                "esporte",
-                "os subsistemas esportivos",
+                "14",
                 "1205",
                 "2024",
+                "comissão",
+                "dispor",
+                "esporte",
+                "2023",
+                "lei",
+                "senadora leila",
                 "14597",
-                "14",
-                "2023"
+                "altera",
+                "junho"
             ]
         },
         {
@@ -741,43 +735,39 @@
                 "21/05/2024"
             ],
             "autor": [
-                "senador",
                 "carlos portinho pl",
-                "rj",
-                "senador carlos portinho",
-                "pl/rj"
+                "senador",
+                "rj"
             ],
             "local": [
-                "comissão",
-                "esporte"
+                "esporte",
+                "comissão"
             ],
             "ação legislativa": [
-                "recebido complementação",
-                "voto",
-                "senador",
                 "carlos portinho",
+                "recebido",
+                "25/04/2024",
                 "relatório",
+                "apresentado",
+                "voto",
                 "dia",
-                "25/04/2024"
+                "recebido complementação",
+                "senador"
             ],
             "descrição/Ementa": [
+                "14",
+                "1205",
+                "2024",
                 "comissão",
-                "esporte",
                 "decisão terminativa",
-                "o projeto",
+                "dispor",
+                "esporte",
+                "2023",
                 "lei",
                 "senadora leila",
-                "que",
-                "a lei",
-                "junho",
-                "2023 lei geral",
-                "esporte",
-                "os subsistemas esportivos",
-                "1205",
-                "2024",
                 "14597",
-                "14",
-                "2023"
+                "altera",
+                "junho"
             ]
         },
         {
@@ -789,26 +779,27 @@
                 "21/05/2024"
             ],
             "autor": [
-                "comissão",
-                "esporte"
+                "esporte",
+                "comissão"
             ],
             "local": [
-                "comissão",
-                "esporte"
+                "esporte",
+                "comissão"
             ],
             "ação legislativa": null,
             "descrição/Ementa": [
-                "pg 4 atividade legislativa",
                 "projeto",
-                "lei",
                 "documentos",
+                "1205",
+                "2024",
                 "presença",
                 "reunião",
-                "7ª reunião",
+                "listagem",
+                "pg 4 atividade legislativa",
+                "lei",
                 "4",
-                "1205",
-                "2024",
-                "7ª"
+                "7ª",
+                "7ª reunião"
             ]
         },
         {
@@ -820,91 +811,83 @@
                 "21/05/2024"
             ],
             "autor": [
-                "comissão",
-                "esporte"
+                "esporte",
+                "comissão"
             ],
             "local": [
-                "comissão",
-                "esporte"
+                "esporte",
+                "comissão"
             ],
             "ação legislativa": null,
             "descrição/Ementa": [
-                "listagem",
                 "relatório",
-                "votação nominal",
                 "reunião",
-                "7ª reunião",
-                "7ª"
+                "listagem",
+                "votação nominal",
+                "7ª",
+                "7ª reunião"
             ]
         },
         {
             "documento": [
-                "ofício",
                 "ofício"
             ],
             "data": [
                 "21/05/2024"
             ],
             "autor": [
-                "presidente",
                 "comissão",
-                "presidente de comissão"
+                "presidente"
             ],
             "local": [
-                "comissão",
-                "esporte"
+                "esporte",
+                "comissão"
             ],
             "ação legislativa": null,
             "descrição/Ementa": [
                 "comunicação",
-                "decisão terminativa  ",
-                "1205/2024"
+                "1205/2024",
+                "decisão terminativa  "
             ]
         },
         {
             "documento": [
+                "cesp",
                 "7/2024"
             ],
             "data": [
                 "21/05/2024"
             ],
             "autor": [
-                "comissão",
-                "esporte",
-                "carlos portinho pl",
-                "pl",
                 "/rj",
+                "comissão",
+                "pl",
+                "esporte",
                 "rj",
-                "carlos portinho pl/rj senador",
-                "pl/rj senador carlos portinho pl/rj"
+                "carlos portinho pl"
             ],
             "local": [
-                "comissão",
-                "esporte"
+                "esporte",
+                "comissão"
             ],
             "ação legislativa": null,
             "descrição/Ementa": [
-                "comissão",
-                "esporte",
-                "o projeto",
-                "lei",
-                "senadora leila",
-                "que",
-                "a lei",
-                "junho",
-                "2023 lei geral",
-                "esporte",
-                "os subsistemas esportivos",
+                "14",
                 "1205",
                 "2024",
+                "comissão",
+                "dispor",
+                "esporte",
+                "2023",
+                "lei",
+                "senadora leila",
                 "14597",
-                "14",
-                "2023"
+                "altera",
+                "junho"
             ]
         },
         {
             "documento": [
-                "texto final",
                 "comissão"
             ],
             "data": [
@@ -912,60 +895,58 @@
             ],
             "autor": [
                 "senador romário",
-                "pl",
                 "rj",
-                "romário pl/rj"
+                "pl"
             ],
             "local": [
-                "comissão",
-                "esporte"
+                "esporte",
+                "comissão"
             ],
             "ação legislativa": null,
             "descrição/Ementa": [
-                "pg 5 atividade legislativa",
                 "projeto",
-                "lei",
                 "documentos",
-                "a lei",
-                "junho",
-                "2023 lei geral",
-                "esporte",
-                "os subsistemas esportivos",
-                "5",
                 "1205",
                 "2024",
-                "14597",
                 "14",
-                "2023"
+                "dispor",
+                "esporte",
+                "2023",
+                "lei",
+                "5",
+                "14597",
+                "pg 5 atividade legislativa",
+                "altera",
+                "junho"
             ]
         },
         {
             "documento": [
-                "texto final"
+                "revisado"
             ],
             "data": [
                 "04/06/2024"
             ],
             "autor": [
-                "núcleo",
-                "redação legislativa"
+                "redação legislativa",
+                "núcleo"
             ],
             "local": [
-                "plenário",
-                "senado federal"
+                "senado federal",
+                "plenário"
             ],
             "ação legislativa": [
-                "o texto final"
+                "revisado",
+                "anexado"
             ],
             "descrição/Ementa": [
-                "a lei",
-                "junho",
-                "2023 lei geral",
-                "esporte",
-                "os subsistemas esportivos",
-                "14597",
                 "14",
-                "2023"
+                "dispor",
+                "esporte",
+                "2023",
+                "14597",
+                "altera",
+                "junho"
             ]
         },
         {
@@ -979,21 +960,22 @@
                 "senado federal"
             ],
             "local": [
-                "secretaria",
-                "expediente"
+                "expediente",
+                "secretaria"
             ],
             "ação legislativa": [
-                "o texto"
+                "revisado",
+                "anexado"
             ],
             "descrição/Ementa": [
-                "ofsf",
-                "473/2024"
+                "473/2024",
+                "ofsf"
             ]
         },
         {
             "documento": [
-                "ofsf",
-                "473/2024"
+                "473/2024",
+                "ofsf"
             ],
             "data": [
                 "10/06/2024"
@@ -1002,27 +984,25 @@
                 "senado federal"
             ],
             "local": [
+                "comissão diretora do senado",
                 "comissão diretora",
-                "senado federal",
-                "comissão diretora do senado"
+                "senado federal"
             ],
             "ação legislativa": null,
             "descrição/Ementa": [
-                "revisão",
-                "câmara",
+                "1205",
+                "2024",
                 "deputados",
-                "o projeto",
+                "revisão",
                 "lei",
                 "encaminha",
-                "1205",
-                "2024"
+                "câmara"
             ]
         },
         {
             "documento": [
-                "autógrafo",
-                "pl",
-                "1205/2024"
+                "1205/2024",
+                "autógrafo"
             ],
             "data": [
                 "10/06/2024"
@@ -1031,47 +1011,46 @@
                 "senado federal"
             ],
             "local": [
-                "secretaria",
-                "expediente"
+                "expediente",
+                "secretaria"
             ],
             "ação legislativa": null,
             "descrição/Ementa": [
-                "a lei",
-                "junho",
-                "2023 lei geral",
-                "esporte",
-                "os subsistemas esportivos",
-                "14597",
                 "14",
-                "2023"
+                "dispor",
+                "esporte",
+                "2023",
+                "14597",
+                "altera",
+                "junho"
             ]
         },
         {
             "documento": [
-                "câmara",
-                "ofc",
-                "593/2024"
+                "593/2024",
+                "câmara"
             ],
             "data": [
                 "19/11/2024"
             ],
             "autor": [
-                "deputado federal",
                 "união",
-                "união/pe"
+                "união/pe",
+                "deputado federal",
+                "bivar"
             ],
             "local": [
-                "plenário",
-                "senado federal"
+                "senado federal",
+                "plenário"
             ],
             "ação legislativa": null,
             "descrição/Ementa": [
-                "o envio",
-                "sanção",
                 "projeto",
-                "lei",
                 "1205",
-                "2024"
+                "2024",
+                "comunica",
+                "lei",
+                "sanção"
             ]
         }
     ]

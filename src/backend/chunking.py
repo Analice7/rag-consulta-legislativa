@@ -14,6 +14,10 @@ def chunkenizacao(text):
     # Extração de sintagmas nominais, verbos, entidades nomeadas e números
     for chunk in doc.noun_chunks:
         chunking.append(chunk.text)
+
+    for token in doc:
+        if token.pos_ == "VERB":
+            chunking.append(token.text)
         
     for ent in doc.ents:
         if ent.label_ == 'DATE' or ent.label_ == 'CARDINAL':
