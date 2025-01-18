@@ -60,7 +60,7 @@ if __name__ == '__main__':
         # Concatenar
         texto_concatenado = concatenar(dados)
 
-        print(f'{texto_concatenado}')
+        #print(f'{texto_concatenado}')
 
         sentences = texto_concatenado.split("\n")
 
