@@ -1,8 +1,10 @@
-from transformers import AutoTokenizer, AutoModel
+#from transformers import AutoTokenizer, AutoModel
+from transformers import RobertaTokenizer, RobertaModel
 import torch
 import torch.nn.functional as F
 import numpy as np
 import json
+import faiss
 
 def concatenar(dados, nivel=0):
 
@@ -32,11 +34,11 @@ def embeddings(sentences):
         return torch.sum(token_embeddings * input_mask_expanded, 1) / torch.clamp(input_mask_expanded.sum(1), min=1e-9)
 
     # Load model from HuggingFace Hub
-    tokenizer = AutoTokenizer.from_pretrained('sentence-transformers/all-MiniLM-L6-v2')
-    model = AutoModel.from_pretrained('sentence-transformers/all-MiniLM-L6-v2')
-
+    tokenizer = RobertaTokenizer.from_pretrained('roberta-base')
+    model = RobertaModel.from_pretrained('roberta-base')
+    
     # Tokenize sentences
-    encoded_input = tokenizer(sentences, padding=True, truncation=True, return_tensors='pt')
+    encoded_input = tokenizer(sentences, return_tensors='pt', padding=True, truncation=True, max_length=512)
 
     # Compute token embeddings
     with torch.no_grad():
@@ -63,6 +65,7 @@ if __name__ == '__main__':
         #print(f'{texto_concatenado}')
 
         sentences = texto_concatenado.split("\n")
+        np.save("../../data/embeddings/texts.npy", sentences)
 
         # Gerar embeddings
         embedding = embeddings(sentences)
@@ -71,3 +74,11 @@ if __name__ == '__main__':
         np.save('../../data/embeddings/embedding.npy', embedding.numpy())
 
         print("Embeddings gerados e salvos em 'embedding.npy'.")
+
+        # Crie um novo índice FAISS
+        dim = embedding.shape[1]
+        index = faiss.IndexFlatL2(dim)
+        index.add(embedding)
+
+        # Salve o índice
+        faiss.write_index(index, "../../data/embeddings/index.faiss")
