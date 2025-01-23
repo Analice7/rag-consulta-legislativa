@@ -62,5 +62,5 @@ if __name__ == "__main__":
                 
             dictionary = process_texts_in_file(data, remove_stopwords=remove_stopwords, perform_stemming=perform_stemming, normalize=normalize)
             
-            with open(f'../../data/processed/{i}/{arquivo[:-5]}.json', 'w', encoding='utf-8', errors='ignore') as file_processed:
+            with open(f'../../data/processed/{i}/{arquivo[:-5]}.txt', 'w', encoding='utf-8', errors='ignore') as file_processed:
                 json.dump(dictionary, file_processed, ensure_ascii=False, indent=4)
