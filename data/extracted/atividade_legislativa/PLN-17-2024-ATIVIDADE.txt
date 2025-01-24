@@ -1,135 +1,98 @@
-Atividade Legislativa
-Projeto de Lei do Congresso Nacional n° 17, de 2024
-Autoria:
-Presidência da República
-Iniciativa:
-Ementa:
-Abre ao Orçamento Fiscal da União, em favor do Tribunal de Contas da União e das Justiças Federal e Eleitoral, crédito
+Atividade legislativa: Projeto de Lei do Congresso Nacional n° 17, de 2024
+Autoria: Presidência da República
+Ementa: Abre ao Orçamento Fiscal da União, em favor do Tribunal de Contas da União e das Justiças Federal e Eleitoral, crédito
 suplementar no valor de R$ 32.998.452,00, para reforço de dotações constantes da Lei Orçamentária vigente.
-Explicação da Ementa:
-O projeto visa à suplementação de dotações, no âmbito da Justiça Federal de Primeiro Grau
-(94,09% dos recursos), para aquisição de solução de “backup”, por meio de adesão à Ata de
-Registro de Preços CJF nº 009/2024, em favor das unidades orçamentárias da Justiça Federal; e
-na Justiça Eleitoral (5,46% dos recursos), direcionados ao Tribunal Regional Eleitoral da Bahia,
-visando o atendimento de reajuste ao contrato 067/2021, referente aos serviços de reforma no
-Edifício-Sede do TRE-BA; e ao Tribunal Regional Eleitoral de Mato Grosso, para manutenção de
-equipamentos de Tecnologia da Informação e Comunicação. E no âmbito do Tribunal de Contas
-da União (0,45% dos recursos), a fim de viabilizar o pagamento das despesas com a ação
-“Ajuda de Custo para Moradia ou Auxílio-Moradia a Agentes Públicos”, até o final do exercício.
-Assunto:
-Data de Leitura:
-Orçamento Público  - Crédito Adicional
--
-Tramitação encerrada
-Aprovada pelo Plenário
-Decisão:
-18/12/2024 - Secretaria de Expediente
-Último local:
-À sanção
-Destino:
-Último estado:
-23/12/2024 - TRANSFORMADA EM
-NORMA JURÍDICA
-Relatoria:
-CMO - (Comissão Mista de Planos, Orçamentos Públicos e Fiscalização)
-Relator(es):
-Deputado Federal Dal Barreto (encerrado em 17/12/2024 -
-Deliberação da matéria)
-Despacho:
-05/08/2024
+Explicação da ementa: O projeto visa à suplementação de dotações, no âmbito da Justiça Federal de Primeiro Grau
+Assunto: Orçamento Público  - Crédito Adicional
+Despacho: 05/08/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (CN-CMO) Comissão Mista de Planos, Orçamentos Públicos e
 Fiscalização
-TRAMITAÇÃO
-23/12/2024
-SF-SEXPE - Secretaria de Expediente
-TRANSFORMADA EM NORMA JURÍDICA
-Situação:
-(PR) PRESIDÊNCIA DA REPÚBLICA.
+Relatoria: CMO - (Comissão Mista de Planos, Orçamentos Públicos e Fiscalização)
+Relator(es):
+Deputado Federal Dal Barreto (encerrado em 17/12/2024 -
+Deliberação da matéria)
+Tramitação encerrada: 
+  Decisão: Aprovada pelo Plenário
+  Destino: À sanção
+  Último local: 18/12/2024 - Secretaria de Expediente
+  Último estado: 23/12/2024 - TRANSFORMADA EM
+NORMA JURÍDICA
+Tramitação: 
+    Data: 23/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: TRANSFORMADA EM NORMA JURÍDICA
+    Ação: (PR) PRESIDÊNCIA DA REPÚBLICA.
 SANCIONADA. LEI 15056 DE 2024.
 DOUE (Diário Oficial da União - Edição Extra) - 23/12/2024 - Seção I - págs. 9 e 11.
 Sancionada em 23/12/2024.
-Ação:
-19/12/2024
-SF-SEXPE - Secretaria de Expediente
-pg
+    Data: 19/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: pg
 1
 Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 17, de 2024
 TRAMITAÇÃO
 REMETIDA À SANÇÃO
-Situação:
-Remetido Ofício CN nº 372, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a
+    Ação: Remetido Ofício CN nº 372, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a
 Mensagem CN nº 125/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do
 Projeto.
+    Data: 18/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Anexado o texto revisado.
 Ação:
-18/12/2024
-SF-SEXPE - Secretaria de Expediente
-Anexado o texto revisado.
-Ação:
-18/12/2024
-PLEN - Plenário do Congresso Nacional
-APROVADA
-Situação:
-(Sessão Conjunta do Congresso Nacional, realizada em 18/12/2024)
+    Data: 18/12/2024
+    Órgão: PLEN - Plenário do Congresso Nacional
+    Situação: APROVADA
+    Ação: (Sessão Conjunta do Congresso Nacional, realizada em 18/12/2024)
 Encaminhado à publicação e aprovado, na Câmara dos Deputados e no Senado Federal, o RQN nº 28/2024, solicitando a votação
 em globo dos PLN nºs 14 a 20, 27, 28, 30, 32 a 34 e 36 a 39/2024, nos termos dos respectivos pareceres.
 Discussão encerrada.
 Aprovado o Projeto, na Câmara dos Deputados e no Senado Federal.
 À sanção.
+    Data: 18/12/2024
+    Órgão: Mesa - Mesa Diretora do Congresso Nacional
+    Situação: INCLUÍDA EM ORDEM DO DIA
+    Ação: Incluído na Ordem do Dia da Sessão Conjunta - Semipresencial convocada para 18/12/2024, às 10 horas.
+    Data: 17/12/2024
+    Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Situação: Não disponível
+    Ação: Encerrada a relatoria do Deputado Dal Barreto por deliberação da matéria.
 Ação:
-18/12/2024
-Mesa - Mesa Diretora do Congresso Nacional
-INCLUÍDA EM ORDEM DO DIA
-Situação:
-Incluído na Ordem do Dia da Sessão Conjunta - Semipresencial convocada para 18/12/2024, às 10 horas.
-Ação:
-17/12/2024
-CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-Encerrada a relatoria do Deputado Dal Barreto por deliberação da matéria.
-Ação:
-17/12/2024
-CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-APROVADO PARECER NA COMISSÃO
-Situação:
-A COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO - CMO, na continuação da Nona Reunião,
+    Data: 17/12/2024
+    Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Situação: APROVADO PARECER NA COMISSÃO
+    Ação: A COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO - CMO, na continuação da Nona Reunião,
 Extraordinária, realizada em 17 de dezembro de 2024, APROVOU, o Relatório do Deputado DAL BARRETO, favorável ao Projeto
 de Lei nº 17/2024-CN na forma proposta pelo Poder Executivo. Ao projeto não foram apresentadas emendas.
-Ação:
-10/09/2024
-CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Recebido do Relator, Deputado Dal Barreto, relatório com voto pela aprovação do Projeto de Lei na forma apresentada pelo
+    Data: 10/09/2024
+    Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Recebido do Relator, Deputado Dal Barreto, relatório com voto pela aprovação do Projeto de Lei na forma apresentada pelo
 Poder Executivo. Ao Projeto não foram apresentadas emendas.
-Ação:
-20/08/2024
-CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-MATÉRIA COM A RELATORIA
-Situação:
-Encerrado o prazo regimental, ao Projeto, não foram apresentadas emendas.
-Ação:
-06/08/2024
-CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-pg
+    Data: 20/08/2024
+    Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Encerrado o prazo regimental, ao Projeto, não foram apresentadas emendas.
+    Data: 06/08/2024
+    Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Situação: pg
 2
 Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 17, de 2024
 TRAMITAÇÃO
 MATÉRIA COM A RELATORIA
-Situação:
-Distribuído ao Deputado Dal Barreto, para emitir relatório.
-Ação:
-05/08/2024
-Mesa - Mesa Diretora do Congresso Nacional
-MATÉRIA DESPACHADA
-Situação:
-À CMO.
-Ação:
-05/08/2024
-Mesa - Mesa Diretora do Congresso Nacional
-A matéria será publicada no Diário do Congresso Nacional.
+    Ação: Distribuído ao Deputado Dal Barreto, para emitir relatório.
+    Data: 05/08/2024
+    Órgão: Mesa - Mesa Diretora do Congresso Nacional
+    Situação: MATÉRIA DESPACHADA
+    Ação: À CMO.
+    Data: 05/08/2024
+    Órgão: Mesa - Mesa Diretora do Congresso Nacional
+    Situação: Não disponível
+    Ação: A matéria será publicada no Diário do Congresso Nacional.
 Calendário de tramitação de projetos de lei de créditos adicionais - PLN 17/2024 (Art. 112, da Res. 1/2006-CN):
 - Data do despacho: 05/08/2024
 - Publicação em avulso eletrônico: de 05/08/2024 a 09/08/2024
@@ -140,99 +103,54 @@ A matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalizaç
 * O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.
 Ação:
 Publicado no DCN Páginas 549-559 - DCN nº 28
-04/07/2024
-Mesa - Mesa Diretora do Congresso Nacional
-Recebida, em 04/07/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado
+    Data: 04/07/2024
+    Órgão: Mesa - Mesa Diretora do Congresso Nacional
+    Situação: Não disponível
+    Ação: Recebida, em 04/07/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado
 Federal.
 Ação:
-27/06/2024
-Mesa - Mesa Diretora do Congresso Nacional
-AGUARDANDO DESPACHO
-Situação:
-Recebida a matéria em 27/06/2024. A Matéria aguarda despacho do Presidente do Congresso Nacional para envio à Comissão
+    Data: 27/06/2024
+    Órgão: Mesa - Mesa Diretora do Congresso Nacional
+    Situação: AGUARDANDO DESPACHO
+    Ação: Recebida a matéria em 27/06/2024. A Matéria aguarda despacho do Presidente do Congresso Nacional para envio à Comissão
 Mista de Orçamento.
-Ação:
-DOCUMENTOS
-PLN 17/2024
-27/06/2024
-Data:
- Presidência da República
-Autor:
-Mesa Diretora do Congresso Nacional
-Local:
-Abre ao Orçamento Fiscal da União, em favor do Tribunal de Contas da União e das Justiças Federal e Eleitoral, crédito
-suplementar no valor de R$ 32.998.452,00, para reforço de dotações constantes da Lei Orçamentária vigente.
-Descrição/Ementa:
-Nota Informativa
-04/07/2024
-Data:
- Senado Federal
-Autor:
-pg
-3
-Atividade Legislativa
-Projeto de Lei do Congresso Nacional n° 17, de 2024
-DOCUMENTOS
-Mesa Diretora do Congresso Nacional
-Local:
-Recebida, em 04/07/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado
-Federal.
-Ação Legislativa:
-Nota Informativa
-10/07/2024
-Data:
- Senado Federal
-Autor:
-Mesa Diretora do Congresso Nacional
-Local:
-Nota Informativa PLN 17.2024
-Descrição/Ementa:
-Calendário
-05/08/2024
-Data:
- Congresso Nacional
-Autor:
-Mesa Diretora do Congresso Nacional
-Local:
-A matéria será publicada no Diário do Congresso Nacional.
-Calendário de tramitação de projetos de lei de créditos adicionais - PLN 17/2024 (Art. 112, da Res. 1/2006-CN):
-- Data do despacho: 05/08/2024
-- Publicação em avulso eletrônico: de 05/08/2024 a 09/08/2024
-- Apresentação de emendas: de 10/08/2024 a 19/08/2024
-- Publicação em avulso eletrônico das emendas: de 20/08/2024 a 24/08/2024
-- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 25/08/2024 a 08/09/2024
-A matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.
-* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.
-Ação Legislativa:
-Avulso inicial da matéria
-05/08/2024
-Data:
- Senado Federal
-Autor:
-Mesa Diretora do Congresso Nacional
-Local:
-A matéria será publicada no Diário do Congresso Nacional.
-Calendário de tramitação de projetos de lei de créditos adicionais - PLN 17/2024 (Art. 112, da Res. 1/2006-CN):
-- Data do despacho: 05/08/2024
-- Publicação em avulso eletrônico: de 05/08/2024 a 09/08/2024
-- Apresentação de emendas: de 10/08/2024 a 19/08/2024
-- Publicação em avulso eletrônico das emendas: de 20/08/2024 a 24/08/2024
-- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 25/08/2024 a 08/09/2024
-A matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.
-* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.
-Ação Legislativa:
--
-Descrição/Ementa:
-Ofício
-06/08/2024
-Data:
-Deputado Federal Julio Arcoverde (PP/PI)
-Autor:
-Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-Local:
-Distribuído ao Deputado Dal Barreto, para emitir relatório.
-Ação Legislativa:
-pg
+Documentos: 
+    Documento: PLN 17/2024
+    Data: 27/06/2024
+    Autor: Presidência da República
+    Local: Mesa Diretora do Congresso Nacional
+    Ação legislativa: Não disponível
+    Descrição/ementa: Não disponível
+    Documento: Nota Informativa
+    Data: 04/07/2024
+    Autor: Senado Federal
+    Local: pg
+    Ação legislativa: Não disponível
+    Descrição/ementa: Nota Informativa
+    Documento: Nota Informativa
+    Data: 10/07/2024
+    Autor: Senado Federal
+    Local: Mesa Diretora do Congresso Nacional
+    Ação legislativa: Não disponível
+    Descrição/ementa: Nota Informativa PLN 17.2024
+    Documento: Calendário
+    Data: 05/08/2024
+    Autor: Congresso Nacional
+    Local: Mesa Diretora do Congresso Nacional
+    Ação legislativa: Não disponível
+    Descrição/ementa: Avulso inicial da matéria
+    Documento: Avulso inicial da matéria
+    Data: 05/08/2024
+    Autor: Senado Federal
+    Local: Mesa Diretora do Congresso Nacional
+    Ação legislativa: Não disponível
+    Descrição/ementa: -
+    Documento: Ofício
+    Data: 06/08/2024
+    Autor: Deputado Federal Julio Arcoverde (PP/PI)
+    Local: Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Ação legislativa: Distribuído ao Deputado Dal Barreto, para emitir relatório.
+    Descrição/ementa: pg
 4
 Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 17, de 2024
@@ -240,105 +158,57 @@ DOCUMENTOS
 Relator do PLN 17/2024 - da Presidência da República – que “Abre ao Orçamento Fiscal da União, em favor do Tribunal de Contas
 da União e das Justiças Federal e Eleitoral, crédito suplementar no valor de R$ 32.998.452,00, para reforço de dotações
 constantes da Lei Orçamentária vigente”.
-Descrição/Ementa:
-Relatório sobre crédito
-10/09/2024
-Data:
-Deputado Federal Dal Barreto (UNIÃO/BA)
-Autor:
-Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-Local:
-Recebido do Relator, Deputado Dal Barreto, relatório com voto pela aprovação do Projeto de Lei na forma apresentada pelo
-Poder Executivo. Ao Projeto não foram apresentadas emendas.
-Ação Legislativa:
-Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre o Projeto de Lei do Congresso Nacional n° 17,
+    Documento: Relatório sobre crédito
+    Data: 10/09/2024
+    Autor: Deputado Federal Dal Barreto (UNIÃO/BA)
+    Local: Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Ação legislativa: Não disponível
+    Descrição/ementa: Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre o Projeto de Lei do Congresso Nacional n° 17,
 de 2024, que Abre ao Orçamento Fiscal da União, em favor do Tribunal de Contas da União e das Justiças Federal e Eleitoral,
 crédito suplementar no valor de R$ 32.998.452,00, para reforço de dotações constantes da Lei Orçamentária vigente.
-Descrição/Ementa:
-Decisão de Comissão
-17/12/2024
-Data:
-Deputado Federal Julio Arcoverde (PP/PI)
-Autor:
-Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-Local:
-A COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO - CMO, na continuação da Nona Reunião,
-Extraordinária, realizada em 17 de dezembro de 2024, APROVOU, o Relatório do Deputado DAL BARRETO, favorável ao Projeto
-de Lei nº 17/2024-CN na forma proposta pelo Poder Executivo. Ao projeto não foram apresentadas emendas.
-Ação Legislativa:
-APROVA, o Relatório do Deputado DAL BARRETO, favorável ao Projeto de Lei nº 17/2024-CN na forma proposta pelo Poder
+    Documento: Decisão de Comissão
+    Data: 17/12/2024
+    Autor: Deputado Federal Julio Arcoverde (PP/PI)
+    Local: Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Ação legislativa: Não disponível
+    Descrição/ementa: APROVA, o Relatório do Deputado DAL BARRETO, favorável ao Projeto de Lei nº 17/2024-CN na forma proposta pelo Poder
 Executivo.
-Descrição/Ementa:
-PAR 67/2024 - Relatório
-17/12/2024
-Data:
- Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-Autor:
-Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-Local:
-A COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO - CMO, na continuação da Nona Reunião,
-Extraordinária, realizada em 17 de dezembro de 2024, APROVOU, o Relatório do Deputado DAL BARRETO, favorável ao Projeto
-de Lei nº 17/2024-CN na forma proposta pelo Poder Executivo. Ao projeto não foram apresentadas emendas.
-Ação Legislativa:
-Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre o Projeto de Lei do Congresso Nacional n° 17,
+    Documento: PAR 67/2024 - Relatório
+    Data: 17/12/2024
+    Autor: Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Local: Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Ação legislativa: Não disponível
+    Descrição/ementa: Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre o Projeto de Lei do Congresso Nacional n° 17,
 de 2024, que Abre ao Orçamento Fiscal da União, em favor do Tribunal de Contas da União e das Justiças Federal e Eleitoral,
 crédito suplementar no valor de R$ 32.998.452,00, para reforço de dotações constantes da Lei Orçamentária vigente.
-Descrição/Ementa:
-Minuta
-18/12/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Anexado o texto revisado.
-Ação Legislativa:
-MPCN 125/2024
-19/12/2024
-Data:
-Presidente do Congresso Nacional
-Autor:
-Mesa Diretora do Congresso Nacional
-Local:
-Remetido Ofício CN nº 372, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a
-Mensagem CN nº 125/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do
-Projeto.
-Ação Legislativa:
-Encaminha à sanção o Projeto de Lei do Congresso Nacional n° 17, de 2024.
-Descrição/Ementa:
-pg
+    Documento: Minuta
+    Data: 18/12/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Anexado o texto revisado.
+    Descrição/ementa: MPCN 125/2024
+    Documento: MPCN 125/2024
+    Data: 19/12/2024
+    Autor: Presidente do Congresso Nacional
+    Local: Mesa Diretora do Congresso Nacional
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha à sanção o Projeto de Lei do Congresso Nacional n° 17, de 2024.
+    Documento: pg
 5
 Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 17, de 2024
 DOCUMENTOS
 OFCN 372/2024
-19/12/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício CN nº 372, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a
-Mensagem CN nº 125/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do
-Projeto.
-Ação Legislativa:
-Encaminha a Mensagem da Presidência da Mesa do Congresso Nacional submetendo à sanção presidencial autógrafos do
+    Data: 19/12/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha a Mensagem da Presidência da Mesa do Congresso Nacional submetendo à sanção presidencial autógrafos do
 Projeto de Lei do Congresso Nacional n° 17, de 2024.
-Descrição/Ementa:
-Autógrafo - PLN 17/2024
-19/12/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Remetido Ofício CN nº 372, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a
-Mensagem CN nº 125/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do
-Projeto.
-Ação Legislativa:
-Abre ao Orçamento Fiscal da União, em favor do Tribunal de Contas da União e das Justiças Federal e Eleitoral, crédito
+    Documento: Autógrafo - PLN 17/2024
+    Data: 19/12/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Abre ao Orçamento Fiscal da União, em favor do Tribunal de Contas da União e das Justiças Federal e Eleitoral, crédito
 suplementar no valor de R$ 32.998.452,00, para reforço de dotações constantes da Lei Orçamentária vigente.
-Descrição/Ementa:
-pg
-6
-

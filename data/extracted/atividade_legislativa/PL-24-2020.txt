@@ -1,26 +1,13 @@
-Atividade Legislativa
-Projeto de Lei n° 24, de 2020
-Autoria:
-Câmara dos Deputados
+Atividade legislativa: Projeto de Lei n° 24, de 2020
+Autoria: Câmara dos Deputados
 Iniciativa: Deputada Federal Benedita da Silva (PT/RJ)
-Ementa:
-Reconhece as expressões artísticas charge, caricatura, cartum e grafite como manifestações da cultura brasileira.
-Assunto:
-Data de Leitura:
-Política Social  - Cultura
--
-Tramitação encerrada
-Aprovada por Comissão em decisão
-Decisão:
-23/10/2024 - Secretaria de Expediente
-Último local:
-À sanção
-Destino:
-Último estado:
-16/10/2024 - TRANSFORMADA EM
-NORMA JURÍDICA
-Relatoria:
-CE - (Comissão de Educação e Cultura)
+Ementa: Reconhece as expressões artísticas charge, caricatura, cartum e grafite como manifestações da cultura brasileira.
+Assunto: Política Social  - Cultura
+Despacho: 22/05/2024
+Decisão da Presidência
+Análise - Tramitação sucessiva, Instrução da matéria
+(SF-CE) Comissão de Educação e Cultura
+Relatoria: CE - (Comissão de Educação e Cultura)
 Relator(es):
 Senadora Janaína Farias (encerrado em 01/08/2024 - Alteração
 na composição da comissão)
@@ -28,93 +15,80 @@ Senadora Augusta Brito (encerrado em 17/09/2024 -
 Substituído por "ad hoc")
 Senadora Teresa Leitão (Relator Ad hoc) (encerrado em
 17/09/2024 - Deliberação da matéria)
-Despacho:
-22/05/2024
-Decisão da Presidência
-Análise - Tramitação sucessiva, Instrução da matéria
-(SF-CE) Comissão de Educação e Cultura
-TRAMITAÇÃO
-24/10/2024
-SF-SEXPE - Secretaria de Expediente
-Remetido Ofício SF nº 1203, de 24/10/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
+Tramitação encerrada: 
+  Decisão: Aprovada por Comissão em decisão
+  Destino: À sanção
+  Último local: 23/10/2024 - Secretaria de Expediente
+  Último estado: 16/10/2024 - TRANSFORMADA EM
+NORMA JURÍDICA
+Tramitação: 
+    Data: 24/10/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Remetido Ofício SF nº 1203, de 24/10/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
 devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.297, de 2024, na origem,
 restituindo autógrafos do Projeto de Lei n° 24, de 2020, sancionado e transformado na Lei nº 14.996, de 15 de outubro de 2024.
 COARQ.
 Ação:
-23/10/2024
-PLEN - Plenário do Senado Federal
-Encaminhada à publicação a Mensagem da Presidência da República nº 1.297, de 2024, na origem, que restitui autógrafo do
+    Data: 23/10/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Encaminhada à publicação a Mensagem da Presidência da República nº 1.297, de 2024, na origem, que restitui autógrafo do
 Projeto de Lei nº 24, de 2020, sancionado e convertido na Lei nº 14.996, de 15 de outubro de 2024.
 Será feita a devida comunicação à Câmara dos Deputados.
 Ação:
 Publicado no DSF Páginas 41 - DSF nº 183
-16/10/2024
-SF-SEXPE - Secretaria de Expediente
-TRANSFORMADA EM NORMA JURÍDICA
-Situação:
-(PR) PRESIDÊNCIA DA REPÚBLICA.
+    Data: 16/10/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: TRANSFORMADA EM NORMA JURÍDICA
+    Ação: (PR) PRESIDÊNCIA DA REPÚBLICA.
 SANCIONADA. LEI 14996 DE 2024.
 DOU (Diário Oficial da União) - 16/10/2024 - Seção I - págs. 2 e 2.
 Sancionada em 15/10/2024.
-Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 24, de 2020
-TRAMITAÇÃO
-30/09/2024
-SF-SEXPE - Secretaria de Expediente
-REMETIDA À SANÇÃO
-Situação:
-Remetido Ofício SF n.º 1162, de 30/09/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+    Data: 30/09/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: REMETIDA À SANÇÃO
+    Ação: Remetido Ofício SF n.º 1162, de 30/09/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
 encaminhando a Mensagem SF n.º 203/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
 presidencial autógrafo do Projeto.
 Remetido Ofício SF n.º 1163, de 30/09/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
 foi encaminhado à sanção presidencial.
+    Data: 26/09/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Anexado o texto revisado.
 Ação:
-26/09/2024
-SF-SEXPE - Secretaria de Expediente
-Anexado o texto revisado.
-Ação:
-26/09/2024
-PLEN - Plenário do Senado Federal
-APROVADA
-Situação:
-Encerrou-se - em 25 de setembro - o prazo para interposição de recurso para apreciação, pelo Plenário, do presente projeto.
+    Data: 26/09/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: APROVADA
+    Ação: Encerrou-se - em 25 de setembro - o prazo para interposição de recurso para apreciação, pelo Plenário, do presente projeto.
 Não foi apresentado recurso.
 O Projeto, aprovado terminativamente pela Comissão de Educação e Cultura, vai à sanção.
 Será feita a devida comunicação à Câmara dos Deputados.
-Ação:
-Publicado no DSF Páginas 44 - DSF nº 164
-17/09/2024
-PLEN - Plenário do Senado Federal
-Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 19/09/2024 a 25/09/2024.
+    Data: 17/09/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 19/09/2024 a 25/09/2024.
 Perante a Mesa.
 Ação:
 Publicado no DSF Páginas 186 - DSF nº 157
-17/09/2024
-PLEN - Plenário do Senado Federal
-AGUARDANDO INTERPOSIÇÃO DE RECURSO
-Situação:
-Encaminhado à publicação o Ofício nº 362, de 2024, da Comissão de Educação e Cultura, comunicando a apreciação da matéria,
+    Data: 17/09/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
+    Ação: Encaminhado à publicação o Ofício nº 362, de 2024, da Comissão de Educação e Cultura, comunicando a apreciação da matéria,
 em caráter terminativo.
 Concluída a instrução da matéria, fica aberto o prazo de cinco dias úteis para interposição de recurso, por um décimo dos
 membros da Casa, para que seja apreciada pelo Plenário, nos termos do art. 91, §§ 3º a 5º, do Regimento Interno.
-Ação:
-Publicado no DSF Páginas 189 - DSF nº 157
-17/09/2024
-CE - Comissão de Educação e Cultura
-APRECIADA EM DECISÃO TERMINATIVA PELAS COMISSÕES
-Situação:
-Em reunião realizada em 17/09/2024, foi aprovado em decisão terminativa o projeto (Quórum: 15; Sim: 14; Não: 0; Abstenções:
+    Data: 17/09/2024
+    Órgão: CE - Comissão de Educação e Cultura
+    Situação: APRECIADA EM DECISÃO TERMINATIVA PELAS COMISSÕES
+    Ação: Em reunião realizada em 17/09/2024, foi aprovado em decisão terminativa o projeto (Quórum: 15; Sim: 14; Não: 0; Abstenções:
 0).
 À SLSF.
-Ação:
-Publicado no DSF Páginas 189 - DSF nº 157
-Publicado no DSF Páginas 170-178 - DSF nº 157
-17/09/2024
-CE - Comissão de Educação e Cultura
-Em reunião realizada em 17/09/2024, a Presidência designa Relator “ad hoc” a Senadora Teresa Leitão, em substituição à
+    Data: 17/09/2024
+    Órgão: CE - Comissão de Educação e Cultura
+    Situação: Não disponível
+    Ação: Em reunião realizada em 17/09/2024, a Presidência designa Relator “ad hoc” a Senadora Teresa Leitão, em substituição à
 Senadora Augusta Brito.
 Ação:
 pg
@@ -122,197 +96,117 @@ pg
 Atividade Legislativa
 Projeto de Lei n° 24, de 2020
 TRAMITAÇÃO
-13/09/2024
-CE - Comissão de Educação e Cultura
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 53ª Reunião da Comissão de Educação e Cultura, agendada para o dia 17/09/2024.
-Ação:
-29/08/2024
-CE - Comissão de Educação e Cultura
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Recebido o relatório da Senadora Augusta Brito, com voto pela aprovação do projeto.
-Ação:
-06/08/2024
-CE - Comissão de Educação e Cultura
-MATÉRIA COM A RELATORIA
-Situação:
-Redistribuído à Senadora Augusta Brito, para emitir relatório.
-Ação:
-01/08/2024
-CE - Comissão de Educação e Cultura
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Devolvido pela relatora, Senadora Janaína Farias, em virtude de não mais pertencer aos quadros desta Comissão. A matéria será
+    Data: 13/09/2024
+    Órgão: CE - Comissão de Educação e Cultura
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 53ª Reunião da Comissão de Educação e Cultura, agendada para o dia 17/09/2024.
+    Data: 29/08/2024
+    Órgão: CE - Comissão de Educação e Cultura
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Recebido o relatório da Senadora Augusta Brito, com voto pela aprovação do projeto.
+    Data: 06/08/2024
+    Órgão: CE - Comissão de Educação e Cultura
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Redistribuído à Senadora Augusta Brito, para emitir relatório.
+    Data: 01/08/2024
+    Órgão: CE - Comissão de Educação e Cultura
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Devolvido pela relatora, Senadora Janaína Farias, em virtude de não mais pertencer aos quadros desta Comissão. A matéria será
 redistribuída.
-Ação:
-12/06/2024
-CE - Comissão de Educação e Cultura
-MATÉRIA COM A RELATORIA
-Situação:
-Distribuído à Senadora Janaína Farias, para emitir relatório.
-Ação:
-04/06/2024
-CE - Comissão de Educação e Cultura
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Não foram oferecidas emendas no prazo regimental.
+    Data: 12/06/2024
+    Órgão: CE - Comissão de Educação e Cultura
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Distribuído à Senadora Janaína Farias, para emitir relatório.
+    Data: 04/06/2024
+    Órgão: CE - Comissão de Educação e Cultura
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Não foram oferecidas emendas no prazo regimental.
 Matéria aguardando distribuição.
-Ação:
-28/05/2024
-CE - Comissão de Educação e Cultura
-Prazo para apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, “c”, do RISF) prorrogado até o dia
+    Data: 28/05/2024
+    Órgão: CE - Comissão de Educação e Cultura
+    Situação: Não disponível
+    Ação: Prazo para apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, “c”, do RISF) prorrogado até o dia
 03/06/2024 devido à decretação de ponto facultativo no dia 31/05/2024, nos termos do Ato do Primeiro-Secretário nº 8, de
 2024.
 Ação:
-22/05/2024
-CE - Comissão de Educação e Cultura
-Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 24/05/2024 a 31/05/2024.
+    Data: 22/05/2024
+    Órgão: CE - Comissão de Educação e Cultura
+    Situação: Não disponível
+    Ação: Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 24/05/2024 a 31/05/2024.
 Perante a CE.
 Ação:
-22/05/2024
-PLEN - Plenário do Senado Federal
-AGUARDANDO RECEBIMENTO DE EMENDAS
-Situação:
-A presente matéria vai à CE (em decisão terminativa), nos termos do art. 91, § 1º, IV, do Regimento Interno do Senado, podendo
+    Data: 22/05/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
+    Ação: A presente matéria vai à CE (em decisão terminativa), nos termos do art. 91, § 1º, IV, do Regimento Interno do Senado, podendo
 receber emendas perante mencionada comissão pelo prazo de cinco dias úteis, nos termos do art. 122, II, “c”, do mesmo
-Ação:
-pg
-3
-Atividade Legislativa
-Projeto de Lei n° 24, de 2020
-TRAMITAÇÃO
-regimento.
-Publicado no DSF Páginas 135-137 - DSF nº 74
-10/05/2024
-PLEN - Plenário do Senado Federal
-AGUARDANDO DESPACHO
-Situação:
-Autuado o Projeto de Lei nº 24/2020, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação:
-Publicado no DSF Páginas 106-109 - DSF nº 66
-DOCUMENTOS
-PL 24/2020
-10/05/2024
-Data:
- Câmara dos Deputados
-Autor:
-Plenário do Senado Federal
-Local:
-Autuado o Projeto de Lei nº 24/2020, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação Legislativa:
-Reconhece as expressões artísticas charge, caricatura, cartum e grafite como manifestações da cultura brasileira.
-Descrição/Ementa:
-Avulso inicial da matéria
-10/05/2024
-Data:
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-Autuado o Projeto de Lei nº 24/2020, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação Legislativa:
--
-Descrição/Ementa:
-Relatório Legislativo
-29/08/2024
-Data:
-Senadora Augusta Brito (PT/CE)
-Autor:
-Comissão de Educação e Cultura
-Local:
-Recebido o relatório da Senadora Augusta Brito, com voto pela aprovação do projeto.
-Ação Legislativa:
-Da COMISSÃO DE EDUCAÇÃO E CULTURA, sobre o Projeto de Lei n° 24, de 2020, que Reconhece as expressões artísticas charge,
+    Data: 10/05/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO DESPACHO
+    Ação: Autuado o Projeto de Lei nº 24/2020, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+Documentos: 
+    Documento: PL 24/2020
+    Data: 10/05/2024
+    Autor: Câmara dos Deputados
+    Local: Plenário do Senado Federal
+    Ação legislativa: Autuado o Projeto de Lei nº 24/2020, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+    Descrição/ementa: Reconhece as expressões artísticas charge, caricatura, cartum e grafite como manifestações da cultura brasileira.
+    Documento: Avulso inicial da matéria
+    Data: 10/05/2024
+    Autor: Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Autuado o Projeto de Lei nº 24/2020, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+    Descrição/ementa: -
+    Documento: Relatório Legislativo
+    Data: 29/08/2024
+    Autor: Senadora Augusta Brito (PT/CE)
+    Local: Comissão de Educação e Cultura
+    Ação legislativa: Recebido o relatório da Senadora Augusta Brito, com voto pela aprovação do projeto.
+    Descrição/ementa: Da COMISSÃO DE EDUCAÇÃO E CULTURA, sobre o Projeto de Lei n° 24, de 2020, que Reconhece as expressões artísticas charge,
 caricatura, cartum e grafite como manifestações da cultura brasileira.
-Descrição/Ementa:
-Listagem ou relatório
-17/09/2024
-Data:
- Comissão de Educação e Cultura
-Autor:
-Comissão de Educação e Cultura
-Local:
-Listagem ou relatório descritivo-Lista de Presença da reunião da 53ª Reunião CE
-Descrição/Ementa:
-Listagem ou relatório
-17/09/2024
-Data:
- Comissão de Educação e Cultura
-Autor:
-pg
-4
-Atividade Legislativa
-Projeto de Lei n° 24, de 2020
-DOCUMENTOS
-Comissão de Educação e Cultura
-Local:
-Lista de votação
-Descrição/Ementa:
-P.S 109/2024 - CE
-17/09/2024
-Data:
- Comissão de Educação e Cultura
-Autor:
-Comissão de Educação e Cultura
-Local:
-Em reunião realizada em 17/09/2024, foi aprovado em decisão terminativa o projeto (Quórum: 15; Sim: 14; Não: 0; Abstenções:
-0).
-À SLSF.
-Ação Legislativa:
-Da COMISSÃO DE EDUCAÇÃO E CULTURA, sobre o Projeto de Lei n° 24, de 2020, que Reconhece as expressões artísticas charge,
+    Documento: Listagem ou relatório
+    Data: 17/09/2024
+    Autor: Comissão de Educação e Cultura
+    Local: Comissão de Educação e Cultura
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 53ª Reunião CE
+    Documento: Listagem ou relatório
+    Data: 17/09/2024
+    Autor: Comissão de Educação e Cultura
+    Local: pg
+    Ação legislativa: Não disponível
+    Descrição/ementa: Lista de votação
+    Documento: P.S 109/2024 - CE
+    Data: 17/09/2024
+    Autor: Comissão de Educação e Cultura
+    Local: Comissão de Educação e Cultura
+    Ação legislativa: Não disponível
+    Descrição/ementa: Da COMISSÃO DE EDUCAÇÃO E CULTURA, sobre o Projeto de Lei n° 24, de 2020, que Reconhece as expressões artísticas charge,
 caricatura, cartum e grafite como manifestações da cultura brasileira.
-Descrição/Ementa:
-Ofício
-17/09/2024
-Data:
-Presidente de Comissão
-Autor:
-Comissão de Educação e Cultura
-Local:
-Em reunião realizada em 17/09/2024, foi aprovado em decisão terminativa o projeto (Quórum: 15; Sim: 14; Não: 0; Abstenções:
-0).
-À SLSF.
-Ação Legislativa:
-Comunicação de deliberação de matéria.
-Descrição/Ementa:
-Minuta
-26/09/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Anexado o texto revisado.
-Ação Legislativa:
-MPSF 203/2024
-30/09/2024
-Data:
-Presidente do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1162, de 30/09/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 203/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1163, de 30/09/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Encaminha à sanção o Projeto de Lei n° 24, de 2020.
-Descrição/Ementa:
-OFSF 1162/2024
-30/09/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1162, de 30/09/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 203/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Ação Legislativa:
-pg
+    Documento: Ofício
+    Data: 17/09/2024
+    Autor: Presidente de Comissão
+    Local: Comissão de Educação e Cultura
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunicação de deliberação de matéria.
+    Documento: Minuta
+    Data: 26/09/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Anexado o texto revisado.
+    Descrição/ementa: MPSF 203/2024
+    Documento: MPSF 203/2024
+    Data: 30/09/2024
+    Autor: Presidente do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha à sanção o Projeto de Lei n° 24, de 2020.
+    Documento: OFSF 1162/2024
+    Data: 30/09/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: pg
 5
 Atividade Legislativa
 Projeto de Lei n° 24, de 2020
@@ -321,83 +215,44 @@ Remetido Ofício SF n.º 1163, de 30/09/24, ao Senhor Primeiro-Secretário da C�
 foi encaminhado à sanção presidencial.
 Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n° 24,
 de 2020.
-Descrição/Ementa:
-OFSF 1163/2024
-30/09/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1162, de 30/09/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 203/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1163, de 30/09/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n°24, de 2020.
-Descrição/Ementa:
-Autógrafo - PL 24/2020
-30/09/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Remetido Ofício SF n.º 1162, de 30/09/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 203/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1163, de 30/09/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Reconhece as expressões artísticas charge, caricatura, cartum e grafite como manifestações da cultura brasileira.
-Descrição/Ementa:
-MSG 1.297/2024 - Presidência
-22/10/2024
-Data:
- Presidência da República
-Autor:
-Plenário do Senado Federal
-Local:
-Restitui o autógrafo do Projeto de Lei nº 24, de 2020, sancionado e convertido na Lei nº 14.996, de 15 de outubro de 2024.
-Descrição/Ementa:
-OF. 1.419/2024 - Casa Civil
-22/10/2024
-Data:
- Casa Civil
-Autor:
-Plenário do Senado Federal
-Local:
-Comunica a restituição do autógrafo sancionado e a Lei nº 14.996, de 15 de outubro de 2024, promulgada.
-Descrição/Ementa:
-Autógrafo restituído após
-22/10/2024
-Data:
- Presidência da República
-Autor:
-Plenário do Senado Federal
-Local:
-Autógrafo restituído pela Presidência da República ao Senado Federal após sanção.
-Descrição/Ementa:
-pg
+    Documento: OFSF 1163/2024
+    Data: 30/09/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n°24, de 2020.
+    Documento: Autógrafo - PL 24/2020
+    Data: 30/09/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Reconhece as expressões artísticas charge, caricatura, cartum e grafite como manifestações da cultura brasileira.
+    Documento: MSG 1.297/2024 - Presidência
+    Data: 22/10/2024
+    Autor: Presidência da República
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Restitui o autógrafo do Projeto de Lei nº 24, de 2020, sancionado e convertido na Lei nº 14.996, de 15 de outubro de 2024.
+    Documento: OF. 1.419/2024 - Casa Civil
+    Data: 22/10/2024
+    Autor: Casa Civil
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica a restituição do autógrafo sancionado e a Lei nº 14.996, de 15 de outubro de 2024, promulgada.
+    Documento: Autógrafo restituído após
+    Data: 22/10/2024
+    Autor: Presidência da República
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Autógrafo restituído pela Presidência da República ao Senado Federal após sanção.
+    Documento: pg
 6
 Atividade Legislativa
 Projeto de Lei n° 24, de 2020
 DOCUMENTOS
 OFSF 1203/2024
-24/10/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF nº 1203, de 24/10/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
-devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.297, de 2024, na origem,
-restituindo autógrafos do Projeto de Lei n° 24, de 2020, sancionado e transformado na Lei nº 14.996, de 15 de outubro de 2024.
-COARQ.
-Ação Legislativa:
-Comunica à Câmara dos Deputados o recebimento do autógrafo sancionado do Projeto de Lei n° 24, de 2020.
-Descrição/Ementa:
-pg
-7
-
+    Data: 24/10/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica à Câmara dos Deputados o recebimento do autógrafo sancionado do Projeto de Lei n° 24, de 2020.

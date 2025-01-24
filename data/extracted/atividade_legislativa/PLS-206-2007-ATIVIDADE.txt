@@ -1,29 +1,24 @@
+Atividade legislativa: Projeto de Lei do Senado n° 206, de 2007
+Autoria: Senador Valdir Raupp (MDB/RO)
+Ementa: Exclui uma fração da área da Reserva Extrativista do Rio Ouro Preto, localizada nos Municípios de Guajará-Mirim e Vila
+Nova Mamoré, no Estado de Rondônia.
+Assunto: Meio Ambiente -
+Despacho: 24/04/2007 (Despacho inicial)
+null
+Análise - Tramitação sucessiva
+(SF-CAE) Comissão de Assuntos Econômicos
+(SF-CMA) Comissão de Meio Ambiente
+12/03/2015 (Aprovação do Requerimento nº 121, de 2015, de
+Aprovação de requerimento
+Desarquivamento
+Análise - Tramitação sucessiva
+(SF-CAE) Comissão de Assuntos Econômicos
+(SF-CMA) Comissão de Meio Ambiente
+pg
+1
 Atividade Legislativa
 Projeto de Lei do Senado n° 206, de 2007
-Autoria:
-Senador Valdir Raupp (MDB/RO)
-Iniciativa:
-Ementa:
-Exclui uma fração da área da Reserva Extrativista do Rio Ouro Preto, localizada nos Municípios de Guajará-Mirim e Vila
-Nova Mamoré, no Estado de Rondônia.
-Assunto:
-Data de Leitura:
-Meio Ambiente -
-24/04/2007
-Tramitação encerrada
-Aprovada por Comissão em decisão
-Decisão:
-11/12/2024 - Secretaria de Expediente
-Último local:
-À Câmara dos Deputados
-Destino:
-Último estado:
-10/12/2024 - TRANSFORMADA EM
-NORMA JURÍDICA
-Matérias Relacionadas:
-Requerimento nº 121 de 2015
-Relatoria:
-CAE - (Comissão de Assuntos Econômicos)
+Relatoria: CAE - (Comissão de Assuntos Econômicos)
 Relator(es):
 Senador Paulo Paim (encerrado em 31/05/2007 -
 Redistribuição)
@@ -47,133 +42,114 @@ CMA - (Comissão de Meio Ambiente)
 Relator(es):
 Senador Jorge Viana (encerrado em 12/06/2018 - Deliberação
 da matéria)
-Despacho:
-24/04/2007 (Despacho inicial)
-null
-Análise - Tramitação sucessiva
-(SF-CAE) Comissão de Assuntos Econômicos
-(SF-CMA) Comissão de Meio Ambiente
-12/03/2015 (Aprovação do Requerimento nº 121, de 2015, de
-Aprovação de requerimento
-Desarquivamento
-Análise - Tramitação sucessiva
-(SF-CAE) Comissão de Assuntos Econômicos
-(SF-CMA) Comissão de Meio Ambiente
-pg
-1
-Atividade Legislativa
-Projeto de Lei do Senado n° 206, de 2007
-TRAMITAÇÃO
-10/12/2024
-SF-SEXPE - Secretaria de Expediente
-TRANSFORMADA EM NORMA JURÍDICA
-Situação:
-(PR) PRESIDÊNCIA DA REPÚBLICA.
+Tramitação encerrada: 
+  Decisão: Aprovada por Comissão em decisão
+  Destino: À Câmara dos Deputados
+  Último local: 11/12/2024 - Secretaria de Expediente
+  Último estado: 10/12/2024 - TRANSFORMADA EM
+NORMA JURÍDICA
+Tramitação: 
+    Data: 10/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: TRANSFORMADA EM NORMA JURÍDICA
+    Ação: (PR) PRESIDÊNCIA DA REPÚBLICA.
 SANCIONADA. LEI 15039 DE 2024.
 DOU (Diário Oficial da União) - 10/12/2024 - Seção I - págs. 1 e 3.
 Sancionada em 09/12/2024.
-Ação:
-19/11/2024
-PLEN - Plenário do Senado Federal
-Encaminhado à publicação o Ofício da Câmara dos Deputados nº 235, de 2024, na origem, que comunica o envio à sanção do
+    Data: 19/11/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Encaminhado à publicação o Ofício da Câmara dos Deputados nº 235, de 2024, na origem, que comunica o envio à sanção do
 Projeto de Lei do Senado nº 206, de 2007 (nº 10.493, de 2018, na Câmara dos Deputados).
 A matéria vai à Secretaria de Expediente.
 Ação:
 Publicado no DSF Páginas 98 - DSF nº 198
 Publicado no DSF Páginas 95 - DSF nº 198
-11/10/2018
-SF-SEXPE - Secretaria de Expediente
-À COARQ.
+    Data: 11/10/2018
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: À COARQ.
 Ação:
-26/06/2018
-SF-SEXPE - Secretaria de Expediente
-REMETIDA À CÂMARA DOS DEPUTADOS
-Situação:
-Remetido Ofício SF nº 894, de 26/06/2018, ao Senhor Primeiro-Secretário da Câmara dos Deputados, encaminhando autógrafos
+    Data: 26/06/2018
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: REMETIDA À CÂMARA DOS DEPUTADOS
+    Ação: Remetido Ofício SF nº 894, de 26/06/2018, ao Senhor Primeiro-Secretário da Câmara dos Deputados, encaminhando autógrafos
 do projeto para revisão, nos termos do art. 65 da Constituição Federal. (fls. 97 a 108).
+    Data: 26/06/2018
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Anexado o texto revisado (fls.86 a 96 ).
 Ação:
-26/06/2018
-SF-SEXPE - Secretaria de Expediente
-Anexado o texto revisado (fls.86 a 96 ).
-Ação:
-25/06/2018
-SF-SEADI - Secretaria de Atas e Diários
-APROVADA
-Situação:
-Encerrou-se em 21 de junho o prazo para interposição de recurso para apreciação da matéria pelo plenário.
+    Data: 25/06/2018
+    Órgão: SF-SEADI - Secretaria de Atas e Diários
+    Situação: APROVADA
+    Ação: Encerrou-se em 21 de junho o prazo para interposição de recurso para apreciação da matéria pelo plenário.
 Não houve interposição de recurso.
 Tendo sido aprovado pela Comissão competente, o presente Projeto de Lei vai á Câmara dos Deputados.
+    Data: 25/06/2018
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Encaminhado ao Plenário para comunicação do término do prazo para interposição de recurso.
 Ação:
-Publicado no DSF Páginas 714 - DSF nº 93
-25/06/2018
-PLEN - Plenário do Senado Federal
-Encaminhado ao Plenário para comunicação do término do prazo para interposição de recurso.
+    Data: 21/06/2018
+    Órgão: SF-CORELE - Coordenação de Redação Legislativa
+    Situação: Não disponível
+    Ação: Juntado texto final revisado (fls. 75 a 84).
 Ação:
-21/06/2018
-SF-CORELE - Coordenação de Redação Legislativa
-Juntado texto final revisado (fls. 75 a 84).
-Ação:
-15/06/2018
-PLEN - Plenário do Senado Federal
-À Corele para revisão do texto final.
+    Data: 15/06/2018
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: À Corele para revisão do texto final.
 Ação:
 pg
 2
 Atividade Legislativa
 Projeto de Lei do Senado n° 206, de 2007
 TRAMITAÇÃO
-13/06/2018
-PLEN - Plenário do Senado Federal
-Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 15/06/2018 a 21/06/2018.
+    Data: 13/06/2018
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 15/06/2018 a 21/06/2018.
 Perante a Mesa.
 Ação:
-13/06/2018
-PLEN - Plenário do Senado Federal
-AGUARDANDO INTERPOSIÇÃO DE RECURSO
-Situação:
-Encaminhado à publicação o Memorando nº 17/2018-CMA, comunicando a apreciação da matéria, em caráter terminativo, nos
+    Data: 13/06/2018
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
+    Ação: Encaminhado à publicação o Memorando nº 17/2018-CMA, comunicando a apreciação da matéria, em caráter terminativo, nos
 termos de Substitutivo - Emenda nº 1-CAE/CMA.
 Concluída a instrução da matéria.
 Abertura de prazo para interposição de recurso no sentido da apreciação da matéria pelo Plenário.
-Ação:
-Publicado no DSF Páginas 113 - DSF nº 86
-13/06/2018
-PLEN - Plenário do Senado Federal
-Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 15/06/2018 a 21/06/2018.
+    Data: 13/06/2018
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 15/06/2018 a 21/06/2018.
 Perante a/o Mesa.
 Ação:
-12/06/2018
-PLEN - Plenário do Senado Federal
-AGUARDANDO LEITURA PARECER (ES)
-Situação:
-Encaminhado ao Plenário para comunicação da conclusão da instrução da matéria e abertura de prazo para recurso.
-Ação:
-12/06/2018
-CMA - Comissão de Meio Ambiente
-APRECIADA EM DECISÃO TERMINATIVA PELAS COMISSÕES
-Situação:
-Na 8ª reunião da CMA, realizada nesta data, não tendo sido apresentadas emendas até o fim da discussão no turno suplementar,
+    Data: 12/06/2018
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO LEITURA PARECER (ES)
+    Ação: Encaminhado ao Plenário para comunicação da conclusão da instrução da matéria e abertura de prazo para recurso.
+    Data: 12/06/2018
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: APRECIADA EM DECISÃO TERMINATIVA PELAS COMISSÕES
+    Ação: Na 8ª reunião da CMA, realizada nesta data, não tendo sido apresentadas emendas até o fim da discussão no turno suplementar,
 a Comissão adota definitivamente, sem votação, o Substitutivo oferecido ao PLS nº 206 de 2007, relatado pelo senador Jorge
 Viana (art. 284 do RISF).
 Anexado ao processado o Memo.  nº 17/2018/CMA, no qual o presidente eventual da CMA, senador Paulo Rocha, comunica a
 decisão da Comissão em caráter terminativo no turno suplementar (arts. 91 e 92 do RISF) e a Lista de Presença (fls. 72 e 73).
-Ação:
-08/06/2018
-CMA - Comissão de Meio Ambiente
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Substitutivo à matéria constante da Pauta da 8ª Reunião da Comissão de Meio Ambiente, agendada para o dia 12/06/2018.
-Ação:
-07/06/2018
-CMA - Comissão de Meio Ambiente
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Retorna à CMA nesta data.
+    Data: 08/06/2018
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Substitutivo à matéria constante da Pauta da 8ª Reunião da Comissão de Meio Ambiente, agendada para o dia 12/06/2018.
+    Data: 07/06/2018
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Retorna à CMA nesta data.
 A matéria será incluída na Pauta da próxima Reunião deliberativa desta Comissão, para apreciação em Turno Suplementar.
-Ação:
-06/06/2018
-CMA - Comissão de Meio Ambiente
-Prazo: Apresentação de Emendas perante as Comissões durante turno suplementar (Art. 282 combinado com o art. 92 do RISF).
+    Data: 06/06/2018
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: Não disponível
+    Ação: Prazo: Apresentação de Emendas perante as Comissões durante turno suplementar (Art. 282 combinado com o art. 92 do RISF).
 De 06/06/2018 a 13/06/2018. Perante a CMA.
 Ação:
 pg
@@ -181,284 +157,217 @@ pg
 Atividade Legislativa
 Projeto de Lei do Senado n° 206, de 2007
 TRAMITAÇÃO
-06/06/2018
-SF-SEADI - Secretaria de Atas e Diários
-AGUARDANDO RECEBIMENTO DE EMENDAS
-Situação:
-Encaminhado á publicação o Memo nº 12/2018-CMA, comunicando que a Comissão de Meio Ambiente aprovou Substitutivo à
+    Data: 06/06/2018
+    Órgão: SF-SEADI - Secretaria de Atas e Diários
+    Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
+    Ação: Encaminhado á publicação o Memo nº 12/2018-CMA, comunicando que a Comissão de Meio Ambiente aprovou Substitutivo à
 matéria.
 Poderão ser oferecidas emendas ao Substitutivo até o encerramento da discussão, em turno suplementar, na Comissão, nos
 termos do art.282, combinado com o art. 92 do Regimento Interno do Senado Federal.
-Ação:
-Publicado no DSF Páginas 102-103 - DSF nº 81
-06/06/2018
-SF-SEADI - Secretaria de Atas e Diários
-Prazo: Apresentação de Emendas perante as Comissões durante turno suplementar (Art. 282 combinado com o art. 92 do RISF).
+    Data: 06/06/2018
+    Órgão: SF-SEADI - Secretaria de Atas e Diários
+    Situação: Não disponível
+    Ação: Prazo: Apresentação de Emendas perante as Comissões durante turno suplementar (Art. 282 combinado com o art. 92 do RISF).
 A partir de 06/06/2018. Perante a/o CMA.
 Ação:
-06/06/2018
-PLEN - Plenário do Senado Federal
-Encaminhado ao Plenário.
+    Data: 06/06/2018
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Encaminhado ao Plenário.
 Ação:
-06/06/2018
-CMA - Comissão de Meio Ambiente
-À SLSF, para prosseguimento da tramitação.
+    Data: 06/06/2018
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: Não disponível
+    Ação: À SLSF, para prosseguimento da tramitação.
 Ação:
-05/06/2018
-CMA - Comissão de Meio Ambiente
-AGUARDANDO TURNO SUPLEMENTAR EM APRECIAÇÃO TERMINATIVA
-Situação:
-Na 7ª reunião, realizada nesta data, a Comissão de Meio Ambiente aprovou a Emenda nº 1-CAE/CMA (Substitutivo), oferecida ao
+    Data: 05/06/2018
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: AGUARDANDO TURNO SUPLEMENTAR EM APRECIAÇÃO TERMINATIVA
+    Ação: Na 7ª reunião, realizada nesta data, a Comissão de Meio Ambiente aprovou a Emenda nº 1-CAE/CMA (Substitutivo), oferecida ao
 Projeto, por 9 votos favoráveis, nenhum contrário e nenhuma abstenção.
 Anexados ao processado: lista de presença, lista de votação nominal, texto final na CMA, decisão da Comissão e Memo. nº
 12/2018/CMA, que comunica a decisão da Comissão em caráter terminativo, para ciência do Plenário e publicação no Diário do
 Senado Federal, art. 91, § 2º c/c art. 92 do RISF (fls. 55 a 70).
 A matéria será incluída na pauta da próxima reunião, para apreciação em turno suplementar, nos termos do disposto no art. 282
 c/c art. 92 do RISF.
-Ação:
-Publicado no DSF Páginas 355-375 - DSF nº 81
-01/06/2018
-CMA - Comissão de Meio Ambiente
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 7ª Reunião da Comissão de Meio Ambiente, agendada para o dia 05/06/2018.
-Ação:
-28/05/2018
-CMA - Comissão de Meio Ambiente
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Recebido relatório do senador Jorge Viana, com voto pela aprovação do Projeto de Lei do Senado nº 206 de 2007, na forma da
+    Data: 01/06/2018
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 7ª Reunião da Comissão de Meio Ambiente, agendada para o dia 05/06/2018.
+    Data: 28/05/2018
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Recebido relatório do senador Jorge Viana, com voto pela aprovação do Projeto de Lei do Senado nº 206 de 2007, na forma da
 Emenda nº 1-CAE (Substitutivo). (fls. 50 a 54)
-Ação:
-23/05/2018
-CMA - Comissão de Meio Ambiente
-MATÉRIA COM A RELATORIA
-Situação:
-Distribuído ao Senador Jorge Viana, para emitir relatório.
-Ação:
-pg
-4
-Atividade Legislativa
-Projeto de Lei do Senado n° 206, de 2007
-TRAMITAÇÃO
-22/05/2018
-CMA - Comissão de Meio Ambiente
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Recebido na Comissão nesta data.
-Ação:
-22/05/2018
-CAE - Comissão de Assuntos Econômicos
-Incluída matéria extrapauta, em reunião realizada nesta data, a comissão aprova o relatório do senador Jorge Viana, que passa a
+    Data: 23/05/2018
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Distribuído ao Senador Jorge Viana, para emitir relatório.
+    Data: 22/05/2018
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Recebido na Comissão nesta data.
+    Data: 22/05/2018
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: Não disponível
+    Ação: Incluída matéria extrapauta, em reunião realizada nesta data, a comissão aprova o relatório do senador Jorge Viana, que passa a
 constituir o parecer da CAE, favorável ao projeto com a Emenda nº 1-CAE (Substitutivo).
 Ação:
 Publicado no DSF Páginas 558-579 - DSF nº 71
-22/05/2018
-CAE - Comissão de Assuntos Econômicos
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-O relator, senador Jorge Viana, apresentou relatório favorável ao projeto, nos termos do substitutivo de sua autoria (fls. 29-47).
-Ação:
-04/08/2015
-CAE - Comissão de Assuntos Econômicos
-MATÉRIA COM A RELATORIA
-Situação:
-O Presidente da Comissão, Senador Delcídio do Amaral, designa o Senador Jorge Viana relator da matéria.
+    Data: 22/05/2018
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: O relator, senador Jorge Viana, apresentou relatório favorável ao projeto, nos termos do substitutivo de sua autoria (fls. 29-47).
+    Data: 04/08/2015
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: O Presidente da Comissão, Senador Delcídio do Amaral, designa o Senador Jorge Viana relator da matéria.
 Ao relator.
-Ação:
-13/03/2015
-CAE - Comissão de Assuntos Econômicos
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Recebido nesta Comissão, nesta data.
+    Data: 13/03/2015
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Recebido nesta Comissão, nesta data.
 Matéria aguardando distribuição.
-Ação:
-12/03/2015
-SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
-Aprovado o Requerimento nº 121, de 2015, de desarquivamento.
+    Data: 12/03/2015
+    Órgão: SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
+    Situação: Não disponível
+    Ação: Aprovado o Requerimento nº 121, de 2015, de desarquivamento.
 O projeto retorna ao exame da CAE, seguindo posteriormente à CMA, em decisão terminativa.
 Ação:
 Publicado no DSF Páginas 183
-12/03/2015
-SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
-Encaminhado ao Plenário.
+    Data: 12/03/2015
+    Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
+    Situação: Não disponível
+    Ação: Encaminhado ao Plenário.
 Ação:
-04/03/2015
-SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
-Encaminhado à publicação o Requerimento nº 121, de 2015, do Senador Valdir Raupp e outros senadores, solicitando o
+    Data: 04/03/2015
+    Órgão: SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
+    Situação: Não disponível
+    Ação: Encaminhado à publicação o Requerimento nº 121, de 2015, do Senador Valdir Raupp e outros senadores, solicitando o
 desarquivamento da presente matéria.
 Ação:
 Publicado no DSF Páginas 23-24
-04/03/2015
-SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
-pg
+    Data: 04/03/2015
+    Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
+    Situação: pg
 5
 Atividade Legislativa
 Projeto de Lei do Senado n° 206, de 2007
 TRAMITAÇÃO
 DESARQUIVADA - RISF ART 332 § 1º
-Situação:
-Matéria recebida do Arquivo e encaminhada ao Plenário para leitura de requerimento de desarquivamento, do Senador Valdir
+    Ação: Matéria recebida do Arquivo e encaminhada ao Plenário para leitura de requerimento de desarquivamento, do Senador Valdir
 Raupp.
+    Data: 04/03/2015
+    Órgão: SF-SARQ - Secretaria de Arquivo
+    Situação: Não disponível
+    Ação: Encaminhado a SSCLSF por solicitação.
 Ação:
-04/03/2015
-SF-SARQ - Secretaria de Arquivo
-Encaminhado a SSCLSF por solicitação.
-Ação:
-26/12/2014
-SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
-ARQUIVADA AO FINAL DA LEGISLATURA
-Situação:
-Matéria arquivada ao final da 54ª Legislatura, nos termos do art. 332 do Regimento Interno e do Ato da Mesa nº 2, de 2014.
-Ação:
-Publicado no DSF Páginas 23 Suplemento (nº I)
-Publicado no DSF Páginas 88
-17/12/2014
-SF-CAE - Comissão de Assuntos Econômicos
-Devolvido pelo relator, por solicitação desta Secretaria.
+    Data: 26/12/2014
+    Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
+    Situação: ARQUIVADA AO FINAL DA LEGISLATURA
+    Ação: Matéria arquivada ao final da 54ª Legislatura, nos termos do art. 332 do Regimento Interno e do Ato da Mesa nº 2, de 2014.
+    Data: 17/12/2014
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: Não disponível
+    Ação: Devolvido pelo relator, por solicitação desta Secretaria.
 À SCLSF, em atendimento ao art. 332 do Regimento Interno.
 Ação:
-01/08/2014
-SF-CAE - Comissão de Assuntos Econômicos
-A partir de 1º de agosto de 2014 os boletins de ação legislativa não mais serão impressos, nos termos da Instrução Normativa nº
+    Data: 01/08/2014
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: Não disponível
+    Ação: A partir de 1º de agosto de 2014 os boletins de ação legislativa não mais serão impressos, nos termos da Instrução Normativa nº
 1, de 2014, do Secretário-Geral da Mesa. As consultas sobre a tramitação da matéria devem ser realizadas diretamente no
 sistema eletrônico próprio.
 Ação:
-21/05/2013
-SF-CAE - Comissão de Assuntos Econômicos
-MATÉRIA COM A RELATORIA
-Situação:
-Reunida a Comissão nesta data, a Matéria é retirada de pauta a pedido do relator.
+    Data: 21/05/2013
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Reunida a Comissão nesta data, a Matéria é retirada de pauta a pedido do relator.
 Ao relator, Senador Romero Jucá, para reexame.
-Ação:
-16/05/2013
-SF-CAE - Comissão de Assuntos Econômicos
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 24ª Reunião da Comissão de Assuntos Econômicos, agendada para o dia 21/05/2013.
-Ação:
-17/04/2013
-SF-CAE - Comissão de Assuntos Econômicos
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Devolvido pelo Relator, Senador Romero Jucá, com relatório favorável ao Projeto. Anexado ao processado às fls. 18-20.
-Ação:
-01/11/2012
-SF-CAE - Comissão de Assuntos Econômicos
-MATÉRIA COM A RELATORIA
-Situação:
-O Presidente da Comissão, Senador Delcídio do Amaral, designa o Senador Romero Jucá Relator da Matéria.
-Ação:
-pg
-6
-Atividade Legislativa
-Projeto de Lei do Senado n° 206, de 2007
-TRAMITAÇÃO
-Ao Relator.
-18/10/2012
-SF-CAE - Comissão de Assuntos Econômicos
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Devolvido pelo Senador Randolfe Rodrigues para redistribuição.
+    Data: 16/05/2013
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 24ª Reunião da Comissão de Assuntos Econômicos, agendada para o dia 21/05/2013.
+    Data: 17/04/2013
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Devolvido pelo Relator, Senador Romero Jucá, com relatório favorável ao Projeto. Anexado ao processado às fls. 18-20.
+    Data: 01/11/2012
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: O Presidente da Comissão, Senador Delcídio do Amaral, designa o Senador Romero Jucá Relator da Matéria.
+    Data: 18/10/2012
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Devolvido pelo Senador Randolfe Rodrigues para redistribuição.
 Matéria aguardando distribuição.
-Ação:
-26/09/2012
-SF-CAE - Comissão de Assuntos Econômicos
-MATÉRIA COM A RELATORIA
-Situação:
-O Presidente da Comissão, Senador Delcídio do Amaral, designa o Senador Randolfe Rodrigues Relator da Matéria.
+    Data: 26/09/2012
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: O Presidente da Comissão, Senador Delcídio do Amaral, designa o Senador Randolfe Rodrigues Relator da Matéria.
 Ao Relator.
-Ação:
-10/07/2012
-SF-CAE - Comissão de Assuntos Econômicos
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Devolvido pelo Senador Alfredo Nascimento para redistribuição.
+    Data: 10/07/2012
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Devolvido pelo Senador Alfredo Nascimento para redistribuição.
 Matéria aguardando distribuição.
-Ação:
-05/07/2012
-SF-CAE - Comissão de Assuntos Econômicos
-MATÉRIA COM A RELATORIA
-Situação:
-O Presidente da Comissão, Senador Delcídio do Amaral, designa o Senador Alfredo Nascimento relator da matéria.
+    Data: 05/07/2012
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: O Presidente da Comissão, Senador Delcídio do Amaral, designa o Senador Alfredo Nascimento relator da matéria.
 Ao Relator.
-Ação:
-24/05/2012
-SF-CAE - Comissão de Assuntos Econômicos
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Devolvido pela Senadora Ana Amélia para redistribuição.
+    Data: 24/05/2012
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Devolvido pela Senadora Ana Amélia para redistribuição.
 Matéria aguardando distribuição.
-Ação:
-17/05/2012
-SF-CAE - Comissão de Assuntos Econômicos
-MATÉRIA COM A RELATORIA
-Situação:
-O Presidente da Comissão, Senador Delcídio do Amaral, designa a Senadora Ana Amélia relatora da matéria.
+    Data: 17/05/2012
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: O Presidente da Comissão, Senador Delcídio do Amaral, designa a Senadora Ana Amélia relatora da matéria.
 À relatora.
-Ação:
-11/04/2012
-SF-CAE - Comissão de Assuntos Econômicos
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Devolvido pelo Senador Demóstenes Torres, para redistribuição.
+    Data: 11/04/2012
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Devolvido pelo Senador Demóstenes Torres, para redistribuição.
 Matéria aguardando distribuição.
-Ação:
-pg
-7
-Atividade Legislativa
-Projeto de Lei do Senado n° 206, de 2007
-TRAMITAÇÃO
-01/12/2011
-SF-CAE - Comissão de Assuntos Econômicos
-MATÉRIA COM A RELATORIA
-Situação:
-O Presidente da Comissão, Senador Delcídio do Amaral, designa o Senador Demóstenes Torres Relator da matéria.
+    Data: 01/12/2011
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: O Presidente da Comissão, Senador Delcídio do Amaral, designa o Senador Demóstenes Torres Relator da matéria.
 Ao Relator.
-Ação:
-27/10/2011
-SF-CAE - Comissão de Assuntos Econômicos
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Devolvido pelo Senador Aloysio Nunes Ferreira para redistribuição.
+    Data: 27/10/2011
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Devolvido pelo Senador Aloysio Nunes Ferreira para redistribuição.
 Matéria aguardando distribuição.
-Ação:
-25/10/2011
-SF-CAE - Comissão de Assuntos Econômicos
-MATÉRIA COM A RELATORIA
-Situação:
-Reunida a Comissão nesta data, a Matéria é retirada de Pauta, a pedido do Relator, para reexame.
+    Data: 25/10/2011
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Reunida a Comissão nesta data, a Matéria é retirada de Pauta, a pedido do Relator, para reexame.
 Ao Relator, Senador Aloysio Nunes Ferreira.
-Ação:
-20/10/2011
-SF-CAE - Comissão de Assuntos Econômicos
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-A presente Matéria consta da Pauta da 54ª Reunião da CAE, a realizar-se em 25/10/2011.
-Ação:
-13/09/2011
-SF-CAE - Comissão de Assuntos Econômicos
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Devolvido pelo Relator, Senador Aloysio Nunes Ferreira, com relatório favorável ao Projeto. Cópia anexada ao processado às fls.
+    Data: 20/10/2011
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: A presente Matéria consta da Pauta da 54ª Reunião da CAE, a realizar-se em 25/10/2011.
+    Data: 13/09/2011
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Devolvido pelo Relator, Senador Aloysio Nunes Ferreira, com relatório favorável ao Projeto. Cópia anexada ao processado às fls.
 13 a 17.
-Ação:
-05/04/2011
-SF-CAE - Comissão de Assuntos Econômicos
-MATÉRIA COM A RELATORIA
-Situação:
-O Presidente da Comissão, Senador Delcídio do Amaral, designa o Senador Aloysio Nunes Ferreira relator da matéria.
-Ação:
-11/01/2011
-SF-CAE - Comissão de Assuntos Econômicos
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Recebido na Comissão nesta data.
+    Data: 05/04/2011
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: O Presidente da Comissão, Senador Delcídio do Amaral, designa o Senador Aloysio Nunes Ferreira relator da matéria.
+    Data: 11/01/2011
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Recebido na Comissão nesta data.
 Matéria aguardando designação de Relator.
-Ação:
-10/01/2011
-SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
-A presente proposição continua a tramitar, nos termos dos incisos do art. 332 do Regimento Interno e do Ato nº 4, de 2010, da
+    Data: 10/01/2011
+    Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
+    Situação: Não disponível
+    Ação: A presente proposição continua a tramitar, nos termos dos incisos do art. 332 do Regimento Interno e do Ato nº 4, de 2010, da
 Mesa do Senado Federal.
 A matéria volta à CAE.
 Ação:
@@ -467,50 +376,43 @@ pg
 Atividade Legislativa
 Projeto de Lei do Senado n° 206, de 2007
 TRAMITAÇÃO
-21/12/2010
-SF-CAE - Comissão de Assuntos Econômicos
-À SCLSF, em cumprimento ao disposto no art. 332 do Regimento Interno do Senado Federal.
+    Data: 21/12/2010
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: Não disponível
+    Ação: À SCLSF, em cumprimento ao disposto no art. 332 do Regimento Interno do Senado Federal.
 Ação:
-14/11/2008
-SF-CAE - Comissão de Assuntos Econômicos
-** AÇÃO DE SANEAMENTO ** Nesta data foi realizada a verificação de dados nos sistemas informatizados, em atendimento aos
+    Data: 14/11/2008
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: Não disponível
+    Ação: ** AÇÃO DE SANEAMENTO ** Nesta data foi realizada a verificação de dados nos sistemas informatizados, em atendimento aos
 objetivos definidos no Ato nº 24, de 2008, do Presidente do Senado Federal. Este registro não representa um novo andamento
 na tramitação desta matéria.
 Ação:
-13/07/2007
-SF-CAE - Comissão de Assuntos Econômicos
-MATÉRIA COM A RELATORIA
-Situação:
-O Presidente da Comissão, Senador Aloizio Mercadante, designa o Senador Sérgio Guerra Relator da matéria.
-Ação:
-31/05/2007
-SF-CAE - Comissão de Assuntos Econômicos
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Devolvido pelo Relator, Senador Paulo Paim, para redistribuição. Aguardando designação de Relator.
-Ação:
-18/05/2007
-SF-CAE - Comissão de Assuntos Econômicos
-MATÉRIA COM A RELATORIA
-Situação:
-O Presidente da Comissão, Senador Aloizio Mercadante, designa o Senador Paulo Paim relator da matéria.
-Ação:
-04/05/2007
-SF-CAE - Comissão de Assuntos Econômicos
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Findo o prazo regimental, não foram apresentadas emendas.
+    Data: 13/07/2007
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: O Presidente da Comissão, Senador Aloizio Mercadante, designa o Senador Sérgio Guerra Relator da matéria.
+    Data: 31/05/2007
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Devolvido pelo Relator, Senador Paulo Paim, para redistribuição. Aguardando designação de Relator.
+    Data: 18/05/2007
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: O Presidente da Comissão, Senador Aloizio Mercadante, designa o Senador Paulo Paim relator da matéria.
+    Data: 04/05/2007
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Findo o prazo regimental, não foram apresentadas emendas.
 Aguardando designação de Relator.
-Ação:
-25/04/2007
-SF-CAE - Comissão de Assuntos Econômicos
-AGUARDANDO RECEBIMENTO DE EMENDAS
-Situação:
-Aguardando recebimento de emendas, nos termos regimentais, até o dia 03/05/07.
-Ação:
-24/04/2007
-SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
-Leitura.
+    Data: 25/04/2007
+    Órgão: SF-CAE - Comissão de Assuntos Econômicos
+    Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
+    Ação: Aguardando recebimento de emendas, nos termos regimentais, até o dia 03/05/07.
+    Data: 24/04/2007
+    Órgão: SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
+    Situação: Não disponível
+    Ação: Leitura.
 Às Comissões de Assuntos Econômicos e de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle, podendo receber
 emendas perante a primeira Comissão pelo prazo de 5 (cinco) dias úteis, após sua publicação e distribuição em avulsos, cabendo
 à última, decisão terminativa.
@@ -522,212 +424,125 @@ pg
 Atividade Legislativa
 Projeto de Lei do Senado n° 206, de 2007
 TRAMITAÇÃO
-24/04/2007
-SF-PLEG - PROTOCOLO LEGISLATIVO
-Este processo contém 12 (doze)  folhas numeradas e rubricadas.
+    Data: 24/04/2007
+    Órgão: SF-PLEG - PROTOCOLO LEGISLATIVO
+    Situação: Não disponível
+    Ação: Este processo contém 12 (doze)  folhas numeradas e rubricadas.
 Ação:
-DOCUMENTOS
-Texto inicial - PLS 206/2007
-24/04/2007
-Data:
-Senador Valdir Raupp (MDB/RO)
-Autor:
-SUBSECRETARIA DE ATA - PLENÁRIO
-Local:
-Leitura.
-Às Comissões de Assuntos Econômicos e de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle, podendo receber
-emendas perante a primeira Comissão pelo prazo de 5 (cinco) dias úteis, após sua publicação e distribuição em avulsos, cabendo
-à última, decisão terminativa.
-Ao Pleg., com destino a CAE e posteriormente à CMA, em decisão terminativa.
-Ação Legislativa:
-Exclui uma fração da área da Reserva Extrativista do Rio Ouro Preto, localizada nos Municípios de Guajará-Mirim e Vila Nova
+Documentos: 
+    Documento: Texto inicial - PLS 206/2007
+    Data: 24/04/2007
+    Autor: Senador Valdir Raupp (MDB/RO)
+    Local: SUBSECRETARIA DE ATA - PLENÁRIO
+    Ação legislativa: Não disponível
+    Descrição/ementa: Não disponível
+    Documento: Legislação citada
+    Data: 24/04/2007
+    Autor: -
+    Local: SUBSECRETARIA DE ATA - PLENÁRIO
+    Ação legislativa: Não disponível
+    Descrição/ementa: Avulso inicial da matéria
+    Documento: Avulso inicial da matéria
+    Data: 24/04/2007
+    Autor: -
+    Local: null
+    Ação legislativa: Relatório Legislativo
+    Descrição/ementa: Relatório Legislativo
+    Documento: Não disponível
+    Data: 13/09/2011
+    Autor: Senador Aloysio Nunes Ferreira (PSDB/SP)
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Não disponível
+    Descrição/ementa: Relatório Legislativo
+    Documento: Relatório Legislativo
+    Data: 17/04/2013
+    Autor: Senador Romero Jucá (MDB/RR)
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Não disponível
+    Descrição/ementa: Relatório Legislativo
+    Documento: Relatório Legislativo
+    Data: 22/05/2018
+    Autor: Senador Jorge Viana (PT/AC)
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Listagem ou relatório
+    Descrição/ementa: Listagem ou relatório
+    Documento: Não disponível
+    Data: 22/05/2018
+    Autor: Comissão de Assuntos Econômicos
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 16ª Reunião CAE
+    Documento: P.S 43/2018 - CAE
+    Data: 22/05/2018
+    Autor: Comissão de Assuntos Econômicos, Senador Jorge Viana (PT/AC)
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Não disponível
+    Descrição/ementa: Relatório Legislativo
+    Documento: Relatório Legislativo
+    Data: 28/05/2018
+    Autor: Senador Jorge Viana (PT/AC)
+    Local: Comissão de Meio Ambiente
+    Ação legislativa: Listagem ou relatório
+    Descrição/ementa: Listagem ou relatório
+    Documento: Não disponível
+    Data: 05/06/2018
+    Autor: Comissão de Meio Ambiente
+    Local: Comissão de Meio Ambiente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório descritivo-Lista de Votação Nominal da reunião da 7ª Reunião CMA
+    Documento: Listagem ou relatório
+    Data: 05/06/2018
+    Autor: Comissão de Meio Ambiente
+    Local: Comissão de Meio Ambiente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 7ª Reunião CMA
+    Documento: Texto final da Comissão -
+    Data: 05/06/2018
+    Autor: Senador
+    Local: Comissão de Meio Ambiente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Exclui uma fração da área da Reserva Extrativista do Rio Ouro Preto, localizada nos Municípios de Guajará-Mirim e Vila Nova
 Mamoré, no Estado de Rondônia.
-Descrição/Ementa:
-Legislação citada
-24/04/2007
-Data:
--
-Autor:
-SUBSECRETARIA DE ATA - PLENÁRIO
-Local:
-Leitura.
-Às Comissões de Assuntos Econômicos e de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle, podendo receber
-emendas perante a primeira Comissão pelo prazo de 5 (cinco) dias úteis, após sua publicação e distribuição em avulsos, cabendo
-à última, decisão terminativa.
-Ao Pleg., com destino a CAE e posteriormente à CMA, em decisão terminativa.
-Ação Legislativa:
-Avulso inicial da matéria
-24/04/2007
-Data:
--
-Autor:
-null
-Local:
-Relatório Legislativo
-13/09/2011
-Data:
-Senador Aloysio Nunes Ferreira (PSDB/SP)
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-Devolvido pelo Relator, Senador Aloysio Nunes Ferreira, com relatório favorável ao Projeto. Cópia anexada ao processado às fls.
-13 a 17.
-Ação Legislativa:
-Relatório Legislativo
-17/04/2013
-Data:
-Senador Romero Jucá (MDB/RR)
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-pg
-10
-Atividade Legislativa
-Projeto de Lei do Senado n° 206, de 2007
-DOCUMENTOS
-Devolvido pelo Relator, Senador Romero Jucá, com relatório favorável ao Projeto. Anexado ao processado às fls. 18-20.
-Ação Legislativa:
-Relatório Legislativo
-22/05/2018
-Data:
-Senador Jorge Viana (PT/AC)
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-Listagem ou relatório
-22/05/2018
-Data:
- Comissão de Assuntos Econômicos
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-Listagem ou relatório descritivo-Lista de Presença da reunião da 16ª Reunião CAE
-Descrição/Ementa:
-P.S 43/2018 - CAE
-22/05/2018
-Data:
- Comissão de Assuntos Econômicos, Senador Jorge Viana (PT/AC)
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-Incluída matéria extrapauta, em reunião realizada nesta data, a comissão aprova o relatório do senador Jorge Viana, que passa a
-constituir o parecer da CAE, favorável ao projeto com a Emenda nº 1-CAE (Substitutivo).
-Ação Legislativa:
-Relatório Legislativo
-28/05/2018
-Data:
-Senador Jorge Viana (PT/AC)
-Autor:
-Comissão de Meio Ambiente
-Local:
-Listagem ou relatório
-05/06/2018
-Data:
- Comissão de Meio Ambiente
-Autor:
-Comissão de Meio Ambiente
-Local:
-Listagem ou relatório descritivo-Lista de Votação Nominal da reunião da 7ª Reunião CMA
-Descrição/Ementa:
-Listagem ou relatório
-05/06/2018
-Data:
- Comissão de Meio Ambiente
-Autor:
-Comissão de Meio Ambiente
-Local:
-Listagem ou relatório descritivo-Lista de Presença da reunião da 7ª Reunião CMA
-Descrição/Ementa:
-Texto final da Comissão -
-05/06/2018
-Data:
-Senador
-Autor:
-Comissão de Meio Ambiente
-Local:
-Exclui uma fração da área da Reserva Extrativista do Rio Ouro Preto, localizada nos Municípios de Guajará-Mirim e Vila Nova
-Mamoré, no Estado de Rondônia.
-Descrição/Ementa:
-pg
+    Documento: pg
 11
 Atividade Legislativa
 Projeto de Lei do Senado n° 206, de 2007
 DOCUMENTOS
 P.S 15/2018 - CMA - Relatório
-05/06/2018
-Data:
- Comissão de Meio Ambiente
-Autor:
-Comissão de Meio Ambiente
-Local:
-Na 7ª reunião, realizada nesta data, a Comissão de Meio Ambiente aprovou a Emenda nº 1-CAE/CMA (Substitutivo), oferecida ao
-Projeto, por 9 votos favoráveis, nenhum contrário e nenhuma abstenção.
-Anexados ao processado: lista de presença, lista de votação nominal, texto final na CMA, decisão da Comissão e Memo. nº
-12/2018/CMA, que comunica a decisão da Comissão em caráter terminativo, para ciência do Plenário e publicação no Diário do
-Senado Federal, art. 91, § 2º c/c art. 92 do RISF (fls. 55 a 70).
-A matéria será incluída na pauta da próxima reunião, para apreciação em turno suplementar, nos termos do disposto no art. 282
-c/c art. 92 do RISF.
-Ação Legislativa:
-Listagem ou relatório
-12/06/2018
-Data:
- Comissão de Meio Ambiente
-Autor:
-Comissão de Meio Ambiente
-Local:
-Listagem ou relatório descritivo-Lista de Presença da reunião da 8ª Reunião CMA
-Descrição/Ementa:
-Texto final revisado - Projeto
-21/06/2018
-Data:
-Senador
-Autor:
-Plenário do Senado Federal
-Local:
-Juntado texto final revisado (fls. 75 a 84).
-Ação Legislativa:
-Exclui uma fração da área da Reserva Extrativista do Rio Ouro Preto, localizada nos Municípios de Guajará-Mirim e Vila Nova
+    Data: 05/06/2018
+    Autor: Comissão de Meio Ambiente
+    Local: Comissão de Meio Ambiente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório
+    Documento: Listagem ou relatório
+    Data: 12/06/2018
+    Autor: Comissão de Meio Ambiente
+    Local: Comissão de Meio Ambiente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 8ª Reunião CMA
+    Documento: Texto final revisado - Projeto
+    Data: 21/06/2018
+    Autor: Senador
+    Local: Plenário do Senado Federal
+    Ação legislativa: Juntado texto final revisado (fls. 75 a 84).
+    Descrição/ementa: Exclui uma fração da área da Reserva Extrativista do Rio Ouro Preto, localizada nos Municípios de Guajará-Mirim e Vila Nova
 Mamoré, no Estado de Rondônia.
-Descrição/Ementa:
-OFSF 894/2018
-26/06/2018
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF nº 894, de 26/06/2018, ao Senhor Primeiro-Secretário da Câmara dos Deputados, encaminhando autógrafos
-do projeto para revisão, nos termos do art. 65 da Constituição Federal. (fls. 97 a 108).
-Ação Legislativa:
-Encaminha à revisão da Câmara dos Deputados o Projeto de Lei do Senado n°206  , de 2007.
-Descrição/Ementa:
-Autógrafo - PLS 206/2007
-26/06/2018
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Remetido Ofício SF nº 894, de 26/06/2018, ao Senhor Primeiro-Secretário da Câmara dos Deputados, encaminhando autógrafos
-do projeto para revisão, nos termos do art. 65 da Constituição Federal. (fls. 97 a 108).
-Ação Legislativa:
-Exclui uma fração da área da Reserva Extrativista do Rio Ouro Preto, localizada nos Municípios de Guajará-Mirim e Vila Nova
+    Documento: OFSF 894/2018
+    Data: 26/06/2018
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha à revisão da Câmara dos Deputados o Projeto de Lei do Senado n°206  , de 2007.
+    Documento: Autógrafo - PLS 206/2007
+    Data: 26/06/2018
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Exclui uma fração da área da Reserva Extrativista do Rio Ouro Preto, localizada nos Municípios de Guajará-Mirim e Vila Nova
 Mamoré, no Estado de Rondônia.
-Descrição/Ementa:
-OFC 235/2024 - Câmara dos
-19/11/2024
-Data:
-Deputado Federal Luciano Bivar (UNIÃO/PE)
-Autor:
-pg
-12
-Atividade Legislativa
-Projeto de Lei do Senado n° 206, de 2007
-DOCUMENTOS
-Plenário do Senado Federal
-Local:
-Comunica o envio à sanção do Projeto de Lei nº 10.493, de 2018 (PLS nº 206/2007).
-Descrição/Ementa:
-pg
-13
-
+    Documento: OFC 235/2024 - Câmara dos
+    Data: 19/11/2024
+    Autor: Deputado Federal Luciano Bivar (UNIÃO/PE)
+    Local: pg
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica o envio à sanção do Projeto de Lei nº 10.493, de 2018 (PLS nº 206/2007).

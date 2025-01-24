@@ -1,75 +1,50 @@
-Atividade Legislativa
-Projeto de Lei n° 3802, de 2024
-Autoria:
-Câmara dos Deputados
+Atividade legislativa: Projeto de Lei n° 3802, de 2024
+Autoria: Câmara dos Deputados
 Iniciativa: Deputado Federal José Guimarães (PT/CE)
-Ementa:
-Altera a Lei nº 14.467, de 16 de novembro de 2022, que dispõe sobre o tratamento tributário aplicável às perdas
+Ementa: Altera a Lei nº 14.467, de 16 de novembro de 2022, que dispõe sobre o tratamento tributário aplicável às perdas
 incorridas no recebimento de créditos decorrentes das atividades de instituições autorizadas a funcionar pelo Banco
 Central do Brasil.
-Assunto:
-Data de Leitura:
-Economia e Desenvolvimento  - Sistema Financeiro Nacional
--
-Tramitação encerrada
-Aprovada pelo Plenário
-Decisão:
-03/01/2025 - Plenário do Senado
-Federal (Secretaria Legislativa do
-Senado Federal)
-Último local:
-À sanção
-Destino:
-Último estado:
-30/12/2024 - TRANSFORMADA EM
-NORMA JURÍDICA
-Matérias Relacionadas:
-Requerimento nº 986 de 2024
-Requerimento nº 1005 de 2024
-Relatoria:
-PLEN - (Plenário do Senado Federal)
-Relator(es):
-Senador Eduardo Braga (encerrado em 20/12/2024 -
-Deliberação da matéria)
-Despacho:
-19/12/2024
+Assunto: Economia e Desenvolvimento  - Sistema Financeiro Nacional
+Despacho: 19/12/2024
 Leitura da Matéria
 Ao Plenário
 (SF-PLEN) Plenário do Senado Federal
-TRAMITAÇÃO
-30/12/2024
-SF-SEXPE - Secretaria de Expediente
-TRANSFORMADA EM NORMA JURÍDICA
-Situação:
-(PR) PRESIDÊNCIA DA REPÚBLICA.
+Relatoria: PLEN - (Plenário do Senado Federal)
+Relator(es):
+Senador Eduardo Braga (encerrado em 20/12/2024 -
+Deliberação da matéria)
+Tramitação encerrada: 
+  Decisão: Aprovada pelo Plenário
+  Destino: À sanção
+  Último local: 03/01/2025 - Plenário do Senado
+Federal (Secretaria Legislativa do
+Senado Federal)
+  Último estado: 30/12/2024 - TRANSFORMADA EM
+NORMA JURÍDICA
+Tramitação: 
+    Data: 30/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: TRANSFORMADA EM NORMA JURÍDICA
+    Ação: (PR) PRESIDÊNCIA DA REPÚBLICA.
 SANCIONADA. LEI 15078 DE 2024.
 DOU (Diário Oficial da União) - 30/12/2024 - Seção I - págs. 1 e 1.
 Sancionada em 27/12/2024.
-Ação:
-26/12/2024
-SF-SEXPE - Secretaria de Expediente
-REMETIDA À SANÇÃO
-Situação:
-Remetido Ofício SF n.º 1600, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+    Data: 26/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: REMETIDA À SANÇÃO
+    Ação: Remetido Ofício SF n.º 1600, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
 encaminhando a Mensagem SF n.º 317/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
 presidencial autógrafo do Projeto.
 Remetido Ofício SF n.º 1601, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
+    Data: 20/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Anexado o texto revisado.
 Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 3802, de 2024
-TRAMITAÇÃO
-foi encaminhado à sanção presidencial.
-20/12/2024
-SF-SEXPE - Secretaria de Expediente
-Anexado o texto revisado.
-Ação:
-20/12/2024
-PLEN - Plenário do Senado Federal
-APROVADA
-Situação:
-(Continuação da Sessão Deliberativa Extraordinária iniciada em 19/12/2024)
+    Data: 20/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: APROVADA
+    Ação: (Continuação da Sessão Deliberativa Extraordinária iniciada em 19/12/2024)
 Encaminhada à publicação e, posteriormente retirada, pelo autor, a Emendas n° 1-PLEN.
 Encaminhado à publicação e aprovado o RQS nº 986/2024, solicitando urgência para a matéria.
 Proferido pelo Senador Eduardo Braga e encaminhado à publicação o Parecer n° 264/2024 - PLEN/SF, favorável ao Projeto.
@@ -79,277 +54,168 @@ Senadores Izalci Lucas e Magno Malta.
 A matéria vai à sanção.
 Será feita a devida comunicação à Câmara dos Deputados.
 (Encaminhado à publicação o RQS nº 1005/2024)
+    Data: 20/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: APROVADO PARECER NA COMISSÃO
+    Ação: Encerrada a relatoria do Senador Eduardo Braga por deliberação da matéria.
+    Data: 20/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Requerimento nº 1005, de 2024, do Senador Hamilton Mourão, solicitando a retirada definitiva da Emenda n° 1.
 Ação:
-20/12/2024
-PLEN - Plenário do Senado Federal
-APROVADO PARECER NA COMISSÃO
-Situação:
-Encerrada a relatoria do Senador Eduardo Braga por deliberação da matéria.
+    Data: 20/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 1, do Senador Hamilton Mourão.
 Ação:
-20/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Requerimento nº 1005, de 2024, do Senador Hamilton Mourão, solicitando a retirada definitiva da Emenda n° 1.
+    Data: 20/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Requerimento nº 986, de 2024, de Líderes, solicitando urgência para a matéria.
 Ação:
-20/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 1, do Senador Hamilton Mourão.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Relatório do Senador Eduardo Braga.
 Ação:
-20/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Requerimento nº 986, de 2024, de Líderes, solicitando urgência para a matéria.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Designado Relator de Plenário o Senador Eduardo Braga.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Relatório do Senador Eduardo Braga.
-Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Designado Relator de Plenário o Senador Eduardo Braga.
-Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-AGUARDANDO DESPACHO
-Situação:
-pg
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO DESPACHO
+    Ação: pg
 2
 Atividade Legislativa
 Projeto de Lei n° 3802, de 2024
 TRAMITAÇÃO
 Autuado o Projeto de Lei nº 3802/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação:
-DOCUMENTOS
-Relatório Legislativo
-19/12/2024
-Data:
-Senador Eduardo Braga (MDB/AM)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Relatório do Senador Eduardo Braga.
-Ação Legislativa:
-Parecer ao PL 3802/2024
-Descrição/Ementa:
-PL 3802/2024
-19/12/2024
-Data:
- Câmara dos Deputados
-Autor:
-Plenário do Senado Federal
-Local:
-Autuado o Projeto de Lei nº 3802/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação Legislativa:
-Altera a Lei nº 14.467, de 16 de novembro de 2022, que dispõe sobre o tratamento tributário aplicável às perdas incorridas no
+Documentos: 
+    Documento: Relatório Legislativo
+    Data: 19/12/2024
+    Autor: Senador Eduardo Braga (MDB/AM)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebido o Relatório do Senador Eduardo Braga.
+    Descrição/ementa: Parecer ao PL 3802/2024
+    Documento: PL 3802/2024
+    Data: 19/12/2024
+    Autor: Câmara dos Deputados
+    Local: Plenário do Senado Federal
+    Ação legislativa: Autuado o Projeto de Lei nº 3802/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+    Descrição/ementa: Altera a Lei nº 14.467, de 16 de novembro de 2022, que dispõe sobre o tratamento tributário aplicável às perdas incorridas no
 recebimento de créditos decorrentes das atividades de instituições autorizadas a funcionar pelo Banco Central do Brasil.
-Descrição/Ementa:
-Avulso inicial da matéria
-19/12/2024
-Data:
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-Autuado o Projeto de Lei nº 3802/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação Legislativa:
--
-Descrição/Ementa:
-Requerimento
-19/12/2024
-Data:
-Senador Eduardo Girão (NOVO/CE)
-Autor:
-Plenário do Senado Federal
-Local:
-Requer, nos termos do Art. 293, II, do Regimento Interno do Senado Federal, que seja registrado o meu voto contrário ao PL
+    Documento: Avulso inicial da matéria
+    Data: 19/12/2024
+    Autor: Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Autuado o Projeto de Lei nº 3802/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+    Descrição/ementa: -
+    Documento: Requerimento
+    Data: 19/12/2024
+    Autor: Senador Eduardo Girão (NOVO/CE)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Requer, nos termos do Art. 293, II, do Regimento Interno do Senado Federal, que seja registrado o meu voto contrário ao PL
 3802/2024, que "Altera a Lei nº 14.467, de 16 de novembro de 2022, que dispõe sobre o tratamento tributário aplicável às
 perdas incorridas no recebimento de créditos decorrentes das atividades de instituições autorizadas a funcionar pelo Banco
 Central do Brasil."
-Descrição/Ementa:
-RQS 986/2024
-20/12/2024
-Data:
-Líder do Governo Jaques Wagner (PT/BA), Líder do Bloco Parlamentar da Resistência Democrática Eliziane Gama (PSD/MA)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Requerimento nº 986, de 2024, de Líderes, solicitando urgência para a matéria.
-Ação Legislativa:
-Requer urgência para o Projeto de Lei nº 3802/2024, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado
+    Documento: RQS 986/2024
+    Data: 20/12/2024
+    Autor: Líder do Governo Jaques Wagner (PT/BA), Líder do Bloco Parlamentar da Resistência Democrática Eliziane Gama (PSD/MA)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebido o Requerimento nº 986, de 2024, de Líderes, solicitando urgência para a matéria.
+    Descrição/ementa: Requer urgência para o Projeto de Lei nº 3802/2024, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado
 Federal.
-Descrição/Ementa:
-pg
+    Documento: pg
 3
 Atividade Legislativa
 Projeto de Lei n° 3802, de 2024
 DOCUMENTOS
 EMENDA 1 PLEN - PL
-20/12/2024
-Data:
-Senador Hamilton Mourão (REPUBLICANOS/RS)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 1, do Senador Hamilton Mourão.
-Ação Legislativa:
-Emenda  ao PL 3802/2024
-Descrição/Ementa:
-RQS 1005/2024
-20/12/2024
-Data:
-Senador Hamilton Mourão (REPUBLICANOS/RS)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Requerimento nº 1005, de 2024, do Senador Hamilton Mourão, solicitando a retirada definitiva da Emenda n° 1.
-Ação Legislativa:
-Requer a retirada definitiva da Emenda nº 1 ao Projeto de Lei nº 3802/2024.
-Descrição/Ementa:
-Avulso de emendas
-20/12/2024
-Data:
- Senado Federal
-Autor:
-null
-Local:
--
-Descrição/Ementa:
-P.S 264/2024 - PLEN
-20/12/2024
-Data:
-Senador Eduardo Braga (MDB/AM)
-Autor:
-Plenário do Senado Federal
-Local:
-(Continuação da Sessão Deliberativa Extraordinária iniciada em 19/12/2024)
-Encaminhada à publicação e, posteriormente retirada, pelo autor, a Emendas n° 1-PLEN.
-Encaminhado à publicação e aprovado o RQS nº 986/2024, solicitando urgência para a matéria.
-Proferido pelo Senador Eduardo Braga e encaminhado à publicação o Parecer n° 264/2024 - PLEN/SF, favorável ao Projeto.
-Encerrada a discussão.
-Aprovado o projeto, com os votos contrários dos Senadores Eduardo Girão,  Cleitinho, da Senadora Damares Alves e dos
-Senadores Izalci Lucas e Magno Malta.
-A matéria vai à sanção.
-Será feita a devida comunicação à Câmara dos Deputados.
-(Encaminhado à publicação o RQS nº 1005/2024)
-Ação Legislativa:
-Parecer nº 264/2024-PLEN/SF
-Descrição/Ementa:
-Minuta
-20/12/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Anexado o texto revisado.
-Ação Legislativa:
-OFSF 1600/2024
-26/12/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-pg
-4
-Atividade Legislativa
-Projeto de Lei n° 3802, de 2024
-DOCUMENTOS
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1600, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 317/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1601, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
+    Data: 20/12/2024
+    Autor: Senador Hamilton Mourão (REPUBLICANOS/RS)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 1, do Senador Hamilton Mourão.
+    Descrição/ementa: Emenda  ao PL 3802/2024
+    Documento: RQS 1005/2024
+    Data: 20/12/2024
+    Autor: Senador Hamilton Mourão (REPUBLICANOS/RS)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebido o Requerimento nº 1005, de 2024, do Senador Hamilton Mourão, solicitando a retirada definitiva da Emenda n° 1.
+    Descrição/ementa: Requer a retirada definitiva da Emenda nº 1 ao Projeto de Lei nº 3802/2024.
+    Documento: Avulso de emendas
+    Data: 20/12/2024
+    Autor: Senado Federal
+    Local: null
+    Ação legislativa: Não disponível
+    Descrição/ementa: -
+    Documento: P.S 264/2024 - PLEN
+    Data: 20/12/2024
+    Autor: Senador Eduardo Braga (MDB/AM)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Parecer nº 264/2024-PLEN/SF
+    Documento: Minuta
+    Data: 20/12/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Anexado o texto revisado.
+    Descrição/ementa: OFSF 1600/2024
+    Documento: OFSF 1600/2024
+    Data: 26/12/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: pg
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
 3802/2024.
-Descrição/Ementa:
-OFSF 1601/2024
-26/12/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1600, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 317/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1601, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 3802/2024.
-Descrição/Ementa:
-MPSF 317/2024
-26/12/2024
-Data:
-Presidente do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1600, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 317/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1601, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Encaminha à sanção o Projeto de Lei n° 3.802, de 2024.
-Descrição/Ementa:
-Autógrafo - PL 3802/2024
-26/12/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Remetido Ofício SF n.º 1600, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 317/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1601, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Altera a Lei nº 14.467, de 16 de novembro de 2022, que dispõe sobre o tratamento tributário aplicável às perdas incorridas no
+    Documento: OFSF 1601/2024
+    Data: 26/12/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 3802/2024.
+    Documento: MPSF 317/2024
+    Data: 26/12/2024
+    Autor: Presidente do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha à sanção o Projeto de Lei n° 3.802, de 2024.
+    Documento: Autógrafo - PL 3802/2024
+    Data: 26/12/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Altera a Lei nº 14.467, de 16 de novembro de 2022, que dispõe sobre o tratamento tributário aplicável às perdas incorridas no
 recebimento de créditos decorrentes das atividades de instituições autorizadas a funcionar pelo Banco Central do Brasil.
-Descrição/Ementa:
-Mensagem
-26/12/2024
-Data:
-Presidente do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Recibo físico da Presidência da República referente à Mensagem SF n° 317/24 (assinada eletronicamente e impressa para
-Descrição/Ementa:
-pg
+    Documento: Mensagem
+    Data: 26/12/2024
+    Autor: Presidente do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Recibo físico da Presidência da República referente à Mensagem SF n° 317/24 (assinada eletronicamente e impressa para
+    Documento: pg
 5
 Atividade Legislativa
 Projeto de Lei n° 3802, de 2024
 DOCUMENTOS
 recibo).
 Autógrafo restituído após
-03/01/2025
-Data:
- Presidência da República
-Autor:
-Plenário do Senado Federal
-Local:
-Autógrafo restituído pela Presidência da República ao Senado Federal após sanção.
-Descrição/Ementa:
-MSG 1700/2024 - Presidência
-03/01/2025
-Data:
- Presidência da República
-Autor:
-Plenário do Senado Federal
-Local:
-Restitui o autógrafo do Projeto de Lei nº 3.802, de 2024, sancionado e convertido na Lei nº 14.467, de 16 de novembro de 2022.
-Descrição/Ementa:
-OF. 1933/2024 - Casa Civil
-03/01/2025
-Data:
- Casa Civil
-Autor:
-Plenário do Senado Federal
-Local:
-Comunica a restituição do autógrafo sancionado e a Lei nº 15.078, de 27 de dezembro de 2024, promulgada.
-Descrição/Ementa:
-pg
-6
-
+    Data: 03/01/2025
+    Autor: Presidência da República
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Autógrafo restituído pela Presidência da República ao Senado Federal após sanção.
+    Documento: MSG 1700/2024 - Presidência
+    Data: 03/01/2025
+    Autor: Presidência da República
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Restitui o autógrafo do Projeto de Lei nº 3.802, de 2024, sancionado e convertido na Lei nº 14.467, de 16 de novembro de 2022.
+    Documento: OF. 1933/2024 - Casa Civil
+    Data: 03/01/2025
+    Autor: Casa Civil
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica a restituição do autógrafo sancionado e a Lei nº 15.078, de 27 de dezembro de 2024, promulgada.

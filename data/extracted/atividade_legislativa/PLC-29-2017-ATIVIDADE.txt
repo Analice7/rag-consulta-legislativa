@@ -1,51 +1,11 @@
-Atividade Legislativa
-Projeto de Lei da Câmara n° 29, de 2017
-Autoria:
-Câmara dos Deputados
+Atividade legislativa: Projeto de Lei da Câmara n° 29, de 2017
+Autoria: Câmara dos Deputados
 Iniciativa: Deputado Federal José Eduardo Cardozo (PT/SP)
-Ementa:
-Dispõe sobre normas de seguro privado; revoga dispositivos da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil); e
+Ementa: Dispõe sobre normas de seguro privado; revoga dispositivos da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil); e
 dá outras providências.
-Explicação da Ementa:
-Dispõe que a atividade seguradora será exercida de modo que se viabilizem os objetivos da
-República, os fins da ordem econômica e a plena capacidade do mercado interno, nos termos
-da Constituição Federal; estipula que o Poder Executivo da União terá competência para
-expedir atos normativos, atuando em proteção dos interesses dos segurados e seus
-beneficiários; considera integrantes da atividade seguradora, além dos contratos de seguro,
-também os contratos necessários à sua plena viabilidade, como o resseguro e a retrocessão;
-considera instrumentais à atividade seguradora as corretagens de seguros e resseguros.
-Assunto:
-Data de Leitura:
-Jurídico  - Direito Civil
-19/04/2017
-Tramitação encerrada
-Aprovada pelo Plenário
-Decisão:
-11/12/2024 - Secretaria de Expediente
-Último local:
-À Câmara dos Deputados
-Destino:
-Último estado:
-10/12/2024 - TRANSFORMADA EM
-NORMA JURÍDICA
-Matérias Relacionadas:
-Requerimento nº 136 de 2023
-Requerimento nº 449 de 2024
-Requerimento nº 450 de 2024
-Requerimento nº 456 de 2024
-Relatoria:
-CAE - (Comissão de Assuntos Econômicos)
-Relator(es):
-Senador Otto Alencar (encerrado em 18/06/2024 - Deliberação
-da matéria)
-CCJ - (Comissão de Constituição, Justiça e Cidadania)
-Relator(es):
-Senador Armando Monteiro (encerrado em 25/01/2019 -
-Encerramento de mandato)
-Senador Rodrigo Pacheco (encerrado em 18/02/2021 -
-Alteração na composição da comissão)
-Despacho:
-19/04/2017 (Despacho inicial)
+Explicação da ementa: Dispõe que a atividade seguradora será exercida de modo que se viabilizem os objetivos da
+Assunto: Jurídico  - Direito Civil
+Despacho: 19/04/2017 (Despacho inicial)
 null
 Análise - Tramitação sucessiva
 (SF-CCJ) Comissão de Constituição, Justiça e Cidadania
@@ -56,57 +16,54 @@ pg
 1
 Atividade Legislativa
 Projeto de Lei da Câmara n° 29, de 2017
-Relatoria:
+Relatoria: CAE - (Comissão de Assuntos Econômicos)
 Relator(es):
-Senador Jader Barbalho (encerrado em 10/04/2024 -
-Substituído por "ad hoc")
-Senador Marcelo Castro (Relator Ad hoc) (encerrado em
-13/03/2024 - Encerrado por fim de reunião)
-Senador Marcelo Castro (Relator Ad hoc) (encerrado em
-10/04/2024 - Deliberação da matéria)
-PLEN - (Plenário do Senado Federal)
+Senador Otto Alencar (encerrado em 18/06/2024 - Deliberação
+da matéria)
+CCJ - (Comissão de Constituição, Justiça e Cidadania)
 Relator(es):
-Senador Otto Alencar (encerrado em 18/06/2024 - Matéria
-deliberada no plenário)
-Despacho:
-Análise - Tramitação sucessiva, Instrução da matéria
-(SF-CCJ) Comissão de Constituição, Justiça e Cidadania
-(SF-CAE) Comissão de Assuntos Econômicos
-TRAMITAÇÃO
-10/12/2024
-SF-SEXPE - Secretaria de Expediente
-TRANSFORMADA EM NORMA JURÍDICA
-Situação:
-(PR) PRESIDÊNCIA DA REPÚBLICA.
+Senador Armando Monteiro (encerrado em 25/01/2019 -
+Encerramento de mandato)
+Senador Rodrigo Pacheco (encerrado em 18/02/2021 -
+Alteração na composição da comissão)
+Tramitação encerrada: 
+  Decisão: Aprovada pelo Plenário
+  Destino: À Câmara dos Deputados
+  Último local: 11/12/2024 - Secretaria de Expediente
+  Último estado: 10/12/2024 - TRANSFORMADA EM
+NORMA JURÍDICA
+Tramitação: 
+    Data: 10/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: TRANSFORMADA EM NORMA JURÍDICA
+    Ação: (PR) PRESIDÊNCIA DA REPÚBLICA.
 SANCIONADA. LEI 15040 DE 2024.
 DOU (Diário Oficial da União) - 10/12/2024 - Seção I - págs. 3 e 7.
 Sancionada em 09/12/2024.
-Ação:
-19/11/2024
-PLEN - Plenário do Senado Federal
-Encaminhado à publicação o Ofício da Câmara dos Deputados nº 588, de 2024, na origem, que comunica o envio à sanção do
+    Data: 19/11/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Encaminhado à publicação o Ofício da Câmara dos Deputados nº 588, de 2024, na origem, que comunica o envio à sanção do
 Projeto de Lei da Câmara nº 29, de 2017 (nº 2.597, de 2024, na Câmara dos Deputados).
 A matéria vai à Secretaria de Expediente.
 Ação:
 Publicado no DSF Páginas 98 - DSF nº 198
 Publicado no DSF Páginas 96 - DSF nº 198
-26/06/2024
-SF-SEXPE - Secretaria de Expediente
-REMETIDA À CÂMARA DOS DEPUTADOS
-Situação:
-Remetido Ofício SF nº 593 de 26/06/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando que o Senado
+    Data: 26/06/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: REMETIDA À CÂMARA DOS DEPUTADOS
+    Ação: Remetido Ofício SF nº 593 de 26/06/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando que o Senado
 Federal aprovou o presente Projeto, em revisão nos termos do substitutivo em anexo, e encaminhando o autógrafo para
 apreciação.
+    Data: 21/06/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Anexado o texto revisado.
 Ação:
-21/06/2024
-SF-SEXPE - Secretaria de Expediente
-Anexado o texto revisado.
-Ação:
-18/06/2024
-PLEN - Plenário do Senado Federal
-APROVADO O SUBSTITUTIVO
-Situação:
-(Sessão Deliberativa Ordinária, realizada em 18 de junho de 2024)
+    Data: 18/06/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: APROVADO O SUBSTITUTIVO
+    Ação: (Sessão Deliberativa Ordinária, realizada em 18 de junho de 2024)
 Encaminhadas à publicação as Emendas n°s 22 e 23, de Plenário.
 Encaminhado à publicação e aprovado o Requerimento n° 73, de 2024, da CAE, solicitando urgência para a presente matéria.
 Senador Otto Alencar profere o Parecer nº 85, de 2024 – Plen/SF, favorável à Emenda nº 22 e contrário à Emenda nº 23 de
@@ -117,1021 +74,672 @@ Substitutivo e de Emendas.
 Aprovada a Emenda n° 14-CAE (Substitutivo), com Subemendas, nos termos dos Pareceres, ressalvados os destaques.
 Retirado o Requerimento n° 450, de 2024, de destaque para votação em separado da Emenda nº 23.
 Mantido o Capítulo XI do Título I do Substitutivo, destacado pelo Requerimento nº 449, de 2024, com o seguinte resultado: Sim -
+    Data: 18/06/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Requerimento nº 456, de 2024, da liderança do Podemos, de destaque para votação em separado da Emenda nº 22.
 Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei da Câmara n° 29, de 2017
-TRAMITAÇÃO
-41; Não - 27; Abstenção - 0; Total - 69
-Aprovada a Emenda nº 22, destacada pelo Requerimento nº 456, de 2024.
-Prejudicado o Projeto e as demais Emendas.
-Encaminhado à publicação o Parecer n° 86, de 2024 – Plen/SF, oferecendo a redação para o turno suplementar.
-Encerrada a discussão do substitutivo no turno suplementar sem emendas, aquele é dado como definitivamente adotado sem
-votação.
-A matéria retorna à Câmara dos Deputados.
-Publicado no DSF Páginas 350-376 - DSF nº 91
-Publicado no DSF Páginas 190-214 - DSF nº 91
-Publicado no DSF Páginas 180-189 - DSF nº 91
-Publicado no DSF Páginas 36-61 - DSF nº 91
-18/06/2024
-PLEN - Plenário do Senado Federal
-Recebido o Requerimento nº 456, de 2024, da liderança do Podemos, de destaque para votação em separado da Emenda nº 22.
+    Data: 18/06/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Relatório do Senador Otto Alencar.
 Ação:
-18/06/2024
-PLEN - Plenário do Senado Federal
-Recebido o Relatório do Senador Otto Alencar.
-Ação:
-18/06/2024
-PLEN - Plenário do Senado Federal
-Recebidos os Requerimento n°s:
+    Data: 18/06/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebidos os Requerimento n°s:
 - 449, de 2024, da liderança do PL, de destaque para supressão do Capítulo XI, do Título I, na forma do Substitutivo; e
 - 450, de 2024, da liderança do PL, de destaque para votação em separado da Emenda nº 23.
 Ação:
-18/06/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 23, do Senador Carlos Portinho, ao Substitutivo da Comissão de Constituição, Justiça e Cidadania (Emenda
+    Data: 18/06/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 23, do Senador Carlos Portinho, ao Substitutivo da Comissão de Constituição, Justiça e Cidadania (Emenda
 nº 14).
 (Pendente de aprovação da Emenda nº 14, em turno único)
 Ação:
-18/06/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 22, do Senador Carlos Viana.
+    Data: 18/06/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 22, do Senador Carlos Viana.
 Ação:
-18/06/2024
-PLEN - Plenário do Senado Federal
-Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 18/06/2024.
+    Data: 18/06/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 18/06/2024.
 Discussão, em turno único.
 Designado Relator de Plenário o Senador Otto Alencar.
 (Pendente de aprovação do Requerimento nº 73, de 2024, da Comissão de Assuntos Econômicos, que solicita urgência para a
 matéria).
 Ação:
-18/06/2024
-CAE - Comissão de Assuntos Econômicos
-Encerrada a relatoria do Senador Otto Alencar por deliberação da matéria.
+    Data: 18/06/2024
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: Não disponível
+    Ação: Encerrada a relatoria do Senador Otto Alencar por deliberação da matéria.
 Ação:
-18/06/2024
-CAE - Comissão de Assuntos Econômicos
-pg
+    Data: 18/06/2024
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: pg
 3
 Atividade Legislativa
 Projeto de Lei da Câmara n° 29, de 2017
 TRAMITAÇÃO
 APROVADO PARECER NA COMISSÃO
-Situação:
-Em reunião realizada nesta data, a comissão aprova o relatório do senador Otto Alencar, que passa a constituir o parecer da CAE,
+    Ação: Em reunião realizada nesta data, a comissão aprova o relatório do senador Otto Alencar, que passa a constituir o parecer da CAE,
 favorável ao projeto, nos termos da Emenda nº 14-CCJ-CAE(substitutivo), com as subemendas nºs 1 a 3-CAE; e contrário as
 emendas nºs 15 a 21.
 Aprovada, também, a apresentação de requerimento de urgência para a matéria.
 Anexado o parecer da comissão e o requerimento de urgência.
 À SLSF
-Ação:
-Publicado no DSF Páginas 350-376 - DSF nº 91
-18/06/2024
-CAE - Comissão de Assuntos Econômicos
-O relator, senador Otto Alencar, apresentou novo relatório favorável à matéria nos termos da Emenda n° 14 - CCJ (Substitutivo),
+    Data: 18/06/2024
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: Não disponível
+    Ação: O relator, senador Otto Alencar, apresentou novo relatório favorável à matéria nos termos da Emenda n° 14 - CCJ (Substitutivo),
 com três emendas que apresenta; e contrário às emendas n° 15 a 21 – CAE.
 Ação:
-18/06/2024
-CAE - Comissão de Assuntos Econômicos
-Em 18/06/2024, foi apresentada a Emenda nº 21, de autoria da senadora Tereza Cristina.
+    Data: 18/06/2024
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: Não disponível
+    Ação: Em 18/06/2024, foi apresentada a Emenda nº 21, de autoria da senadora Tereza Cristina.
 Ação:
-13/06/2024
-CAE - Comissão de Assuntos Econômicos
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 24ª Reunião da Comissão de Assuntos Econômicos, agendada para o dia 18/06/2024.
-Ação:
-11/06/2024
-CAE - Comissão de Assuntos Econômicos
-PEDIDO DE VISTA CONCEDIDO
-Situação:
-Reunida a comissão nesta data, foi concedida vista coletiva, nos termos regimentais (art. 132).
-Ação:
-11/06/2024
-CAE - Comissão de Assuntos Econômicos
-O relator, senador Otto Alencar, apresentou novo relatório favorável à  Emenda n° 14 - CCJ (Substitutivo), com três emendas que
+    Data: 13/06/2024
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 24ª Reunião da Comissão de Assuntos Econômicos, agendada para o dia 18/06/2024.
+    Data: 11/06/2024
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: PEDIDO DE VISTA CONCEDIDO
+    Ação: Reunida a comissão nesta data, foi concedida vista coletiva, nos termos regimentais (art. 132).
+    Data: 11/06/2024
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: Não disponível
+    Ação: O relator, senador Otto Alencar, apresentou novo relatório favorável à  Emenda n° 14 - CCJ (Substitutivo), com três emendas que
 apresenta e contrário às Emendas n°s 15 a 20.
 Ação:
-11/06/2024
-CAE - Comissão de Assuntos Econômicos
-O relator, senador Otto Alencar, apresentou relatório favorável ao projeto nos termos da Emenda n° 14 - CCJ (Substitutivo), e
+    Data: 11/06/2024
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: Não disponível
+    Ação: O relator, senador Otto Alencar, apresentou relatório favorável ao projeto nos termos da Emenda n° 14 - CCJ (Substitutivo), e
 contrário às Emendas n° 15 a 18.
 Ação:
-11/06/2024
-CAE - Comissão de Assuntos Econômicos
-Em 11/06/2024, foram apresentadas as emendas nºs 19 e 20, de autoria do senador Rogério Marinho e do senador Mecias de
+    Data: 11/06/2024
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: Não disponível
+    Ação: Em 11/06/2024, foram apresentadas as emendas nºs 19 e 20, de autoria do senador Rogério Marinho e do senador Mecias de
 Jesus, respectivamente.
 Ação:
-10/06/2024
-CAE - Comissão de Assuntos Econômicos
-Em 10/06/2024, foi apresentada a emenda nº 18, de autoria do senador Rogério Marinho.
+    Data: 10/06/2024
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: Não disponível
+    Ação: Em 10/06/2024, foi apresentada a emenda nº 18, de autoria do senador Rogério Marinho.
 Ação:
 pg
 4
 Atividade Legislativa
 Projeto de Lei da Câmara n° 29, de 2017
 TRAMITAÇÃO
-05/06/2024
-CAE - Comissão de Assuntos Econômicos
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 23ª Reunião da Comissão de Assuntos Econômicos, agendada para o dia 11/06/2024.
+    Data: 05/06/2024
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 23ª Reunião da Comissão de Assuntos Econômicos, agendada para o dia 11/06/2024.
+    Data: 05/06/2024
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: Não disponível
+    Ação: Em reunião realizada em 04/06/2024, a matéria foi retirada de pauta.
 Ação:
-05/06/2024
-CAE - Comissão de Assuntos Econômicos
-Em reunião realizada em 04/06/2024, a matéria foi retirada de pauta.
+    Data: 04/06/2024
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: O relator, senador Otto Alencar, apresentou relatório favorável ao projeto, nos termos da Emenda nº 14 - CCJ (substitutivo).
+    Data: 04/06/2024
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: Não disponível
+    Ação: Em 04/06/2024, foram apresentadas as emendas nºs 15 a 17, de autoria do senador Mecias de Jesus.
 Ação:
-04/06/2024
-CAE - Comissão de Assuntos Econômicos
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-O relator, senador Otto Alencar, apresentou relatório favorável ao projeto, nos termos da Emenda nº 14 - CCJ (substitutivo).
+    Data: 28/05/2024
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 22ª Reunião da Comissão de Assuntos Econômicos, agendada para o dia 04/06/2024.
+    Data: 16/04/2024
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Distribuído ao Senador Otto Alencar, para emitir relatório.
+    Data: 11/04/2024
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Matéria aguardando distribuição.
+    Data: 10/04/2024
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: Não disponível
+    Ação: À Comissão de Assuntos Econômicos, para prosseguimento da tramitação.
 Ação:
-04/06/2024
-CAE - Comissão de Assuntos Econômicos
-Em 04/06/2024, foram apresentadas as emendas nºs 15 a 17, de autoria do senador Mecias de Jesus.
-Ação:
-28/05/2024
-CAE - Comissão de Assuntos Econômicos
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 22ª Reunião da Comissão de Assuntos Econômicos, agendada para o dia 04/06/2024.
-Ação:
-16/04/2024
-CAE - Comissão de Assuntos Econômicos
-MATÉRIA COM A RELATORIA
-Situação:
-Distribuído ao Senador Otto Alencar, para emitir relatório.
-Ação:
-11/04/2024
-CAE - Comissão de Assuntos Econômicos
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Matéria aguardando distribuição.
-Ação:
-10/04/2024
-CCJ - Comissão de Constituição, Justiça e Cidadania
-À Comissão de Assuntos Econômicos, para prosseguimento da tramitação.
-Ação:
-10/04/2024
-CCJ - Comissão de Constituição, Justiça e Cidadania
-APROVADO PARECER NA COMISSÃO
-Situação:
-Na 6ª Reunião Ordinária, realizada nesta data, o Senador Marcelo Castro é designado Relator "ad hoc" em substituição ao
+    Data: 10/04/2024
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: APROVADO PARECER NA COMISSÃO
+    Ação: Na 6ª Reunião Ordinária, realizada nesta data, o Senador Marcelo Castro é designado Relator "ad hoc" em substituição ao
 Senador Jader Barbalho.
 Durante a discussão, foi apresentado Requerimento de Destaque da Liderança do PL para votação em separado da Emenda nº
 13.
 A Comissão aprova o Relatório, que passa a constituir o Parecer da CCJ, favorável ao Projeto e à Emenda nº 11, nos termos da
 Emenda nº 14-CCJ (Substitutivo), e contrário às Emendas nºs 1 a 10 e 12. A Comissão rejeita a Emenda nº 13 destacada, em
+    Data: 10/04/2024
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: Não disponível
+    Ação: Recebida a Complementação de Voto do Senador Jader Barbalho, contrário à Emenda n° 13.
 Ação:
-pg
-5
-Atividade Legislativa
-Projeto de Lei da Câmara n° 29, de 2017
-TRAMITAÇÃO
-votação nominal, por 14 votos a 12, conforme quadro de votação em anexo.
-Publicado no DSF Páginas 254-344 - DSF nº 44
-10/04/2024
-CCJ - Comissão de Constituição, Justiça e Cidadania
-Recebida a Complementação de Voto do Senador Jader Barbalho, contrário à Emenda n° 13.
-Ação:
-09/04/2024
-CCJ - Comissão de Constituição, Justiça e Cidadania
-Recebida a Emenda nº 13, de autoria do Senador Rogério Marinho.
+    Data: 09/04/2024
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 13, de autoria do Senador Rogério Marinho.
 Encaminhada ao Relator, para análise.
 Ação:
-01/04/2024
-CCJ - Comissão de Constituição, Justiça e Cidadania
-Recebida a Complementação de Voto do Senador Jader Barbalho, contrário à Emenda n° 12.
+    Data: 01/04/2024
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: Não disponível
+    Ação: Recebida a Complementação de Voto do Senador Jader Barbalho, contrário à Emenda n° 12.
 Ação:
-20/03/2024
-CCJ - Comissão de Constituição, Justiça e Cidadania
-Recebida a Emenda nº 12, de autoria do Senador Marcio Bittar.
+    Data: 20/03/2024
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 12, de autoria do Senador Marcio Bittar.
 Encaminhada ao Relator, para análise.
 Ação:
-19/03/2024
-CCJ - Comissão de Constituição, Justiça e Cidadania
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Recebido Relatório do Senador Jader Barbalho, com voto favorável ao Projeto e à Emenda nº 11, nos termos do Substitutivo que
+    Data: 19/03/2024
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Recebido Relatório do Senador Jader Barbalho, com voto favorável ao Projeto e à Emenda nº 11, nos termos do Substitutivo que
 apresenta, e contrário às Emendas nºs 1 a 10.
-Ação:
-19/03/2024
-CCJ - Comissão de Constituição, Justiça e Cidadania
-Recebida a Emenda nº 11, de autoria do Senador Jaques Wagner.
+    Data: 19/03/2024
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 11, de autoria do Senador Jaques Wagner.
 Encaminhada ao Relator, para análise.
 Ação:
-13/03/2024
-CCJ - Comissão de Constituição, Justiça e Cidadania
-Recebidas as Emendas nºs 8, 9 e 10, de autoria do Senador Izalci Lucas.
+    Data: 13/03/2024
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: Não disponível
+    Ação: Recebidas as Emendas nºs 8, 9 e 10, de autoria do Senador Izalci Lucas.
 Encaminhadas ao Relator, para análise.
 Ação:
-13/03/2024
-CCJ - Comissão de Constituição, Justiça e Cidadania
-PEDIDO DE VISTA CONCEDIDO
-Situação:
-Na 4ª Reunião Ordinária, realizada nesta data, a Presidência designa Relator “ad hoc” o Senador Marcelo Castro, em substituição
+    Data: 13/03/2024
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: PEDIDO DE VISTA CONCEDIDO
+    Ação: Na 4ª Reunião Ordinária, realizada nesta data, a Presidência designa Relator “ad hoc” o Senador Marcelo Castro, em substituição
 ao Senador Jader Barbalho.
 O Relator faz a leitura do Relatório e a Presidência concede vista coletiva aos Senadores nos termos regimentais.
+    Data: 13/03/2024
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: Não disponível
+    Ação: Recebida a Complementação de Voto do Senador Jader Barbalho, contrário às Emendas nºs 5 a 7.
 Ação:
-pg
-6
-Atividade Legislativa
-Projeto de Lei da Câmara n° 29, de 2017
-TRAMITAÇÃO
-13/03/2024
-CCJ - Comissão de Constituição, Justiça e Cidadania
-Recebida a Complementação de Voto do Senador Jader Barbalho, contrário às Emendas nºs 5 a 7.
-Ação:
-12/03/2024
-CCJ - Comissão de Constituição, Justiça e Cidadania
-Recebidas as Emendas nºs 5, 6 e 7, de autoria do Senador Mecias de Jesus.
+    Data: 12/03/2024
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: Não disponível
+    Ação: Recebidas as Emendas nºs 5, 6 e 7, de autoria do Senador Mecias de Jesus.
 Encaminhadas ao Relator, para análise.
 Ação:
-11/03/2024
-CCJ - Comissão de Constituição, Justiça e Cidadania
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria incluída na Pauta da Comissão.
-Ação:
-11/03/2024
-CCJ - Comissão de Constituição, Justiça e Cidadania
-Recebido o Relatório do Senador Jader Barbalho, com voto favorável ao Projeto, nos termos da emenda substitutiva que
+    Data: 11/03/2024
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria incluída na Pauta da Comissão.
+    Data: 11/03/2024
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: Não disponível
+    Ação: Recebido o Relatório do Senador Jader Barbalho, com voto favorável ao Projeto, nos termos da emenda substitutiva que
 apresenta, e contrário às Emendas nºs 1 a 4.
 Ação:
-14/12/2023
-CCJ - Comissão de Constituição, Justiça e Cidadania
-Recebida a Emenda nº 4, de autoria do Senador Carlos Portinho.
+    Data: 14/12/2023
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 4, de autoria do Senador Carlos Portinho.
 Encaminhada ao Relator, para análise.
 Ação:
-05/12/2023
-CCJ - Comissão de Constituição, Justiça e Cidadania
-Recebidas as Emendas nº 2 e 3, de autoria do Senador Sergio Moro.
+    Data: 05/12/2023
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: Não disponível
+    Ação: Recebidas as Emendas nº 2 e 3, de autoria do Senador Sergio Moro.
 Encaminhadas ao Relator, para análise.
 Ação:
-28/11/2023
-CCJ - Comissão de Constituição, Justiça e Cidadania
-Recebida a Emenda nº 1, de autoria do Senador Sergio Moro.
+    Data: 28/11/2023
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 1, de autoria do Senador Sergio Moro.
 Encaminhada ao Relator, para análise.
 Ação:
-21/11/2023
-CCJ - Comissão de Constituição, Justiça e Cidadania
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Recebido Relatório do Senador Jader Barbalho, com voto favorável ao Projeto nos termos da Emenda Substitutiva que apresenta.
-Ação:
-12/04/2023
-CCJ - Comissão de Constituição, Justiça e Cidadania
-MATÉRIA COM A RELATORIA
-Situação:
-Redistribuído ao Senador Jader Barbalho, para emitir relatório.
-Ação:
-pg
-7
-Atividade Legislativa
-Projeto de Lei da Câmara n° 29, de 2017
-TRAMITAÇÃO
-22/03/2023
-CCJ - Comissão de Constituição, Justiça e Cidadania
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Matéria aguardando distribuição.
-Ação:
-21/03/2023
-PLEN - Plenário do Senado Federal
-DESARQUIVADA - RISF ART 332 § 1º
-Situação:
-Na Sessão Deliberativa de 21 de março, foi aprovado o Requerimento nº 136, de 2023, do Senador Rodrigo Pacheco, solicitando
+    Data: 21/11/2023
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Recebido Relatório do Senador Jader Barbalho, com voto favorável ao Projeto nos termos da Emenda Substitutiva que apresenta.
+    Data: 12/04/2023
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Redistribuído ao Senador Jader Barbalho, para emitir relatório.
+    Data: 22/03/2023
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Matéria aguardando distribuição.
+    Data: 21/03/2023
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: DESARQUIVADA - RISF ART 332 § 1º
+    Ação: Na Sessão Deliberativa de 21 de março, foi aprovado o Requerimento nº 136, de 2023, do Senador Rodrigo Pacheco, solicitando
 o desarquivamento de proposição.
 O Projeto de Lei da Câmara nº 29, de 2017, retorna ao exame da CCJ, seguindo posteriormente à CAE.
-Ação:
-Publicado no DSF Páginas 77 - DSF nº 38
-Publicado no DSF Páginas 110 - DSF nº 38
-09/03/2023
-PLEN - Plenário do Senado Federal
-AGUARDANDO INCLUSÃO ORDEM DO DIA DE REQUERIMENTO
-Situação:
-Aguardando inclusão em Ordem do Dia do Requerimento nº 136, de 2023, do Senador Rodrigo Pacheco e outros, solicitando o
+    Data: 09/03/2023
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO INCLUSÃO ORDEM DO DIA DE REQUERIMENTO
+    Ação: Aguardando inclusão em Ordem do Dia do Requerimento nº 136, de 2023, do Senador Rodrigo Pacheco e outros, solicitando o
 desarquivamento da matéria.
-Ação:
-08/03/2023
-PLEN - Plenário do Senado Federal
-Encaminhado à publicação o Requerimento nº 136, de 2023, de desarquivamento da presente matéria
+    Data: 08/03/2023
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Encaminhado à publicação o Requerimento nº 136, de 2023, de desarquivamento da presente matéria
 Ação:
 Publicado no DSF Páginas 304-305 - DSF nº 29
-22/12/2022
-PLEN - Plenário do Senado Federal
-ARQUIVADA AO FINAL DA LEGISLATURA
-Situação:
-A proposição é arquivada ao final da legislatura, nos termos do § 1º do art. 332  do Regimento Interno.
+    Data: 22/12/2022
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: ARQUIVADA AO FINAL DA LEGISLATURA
+    Ação: A proposição é arquivada ao final da legislatura, nos termos do § 1º do art. 332  do Regimento Interno.
+    Data: 22/12/2022
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: Não disponível
+    Ação: Encaminhada à SGM para providências relativas ao final de legislatura.
 Ação:
-22/12/2022
-CCJ - Comissão de Constituição, Justiça e Cidadania
-Encaminhada à SGM para providências relativas ao final de legislatura.
-Ação:
-18/02/2021
-CCJ - Comissão de Constituição, Justiça e Cidadania
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Devolvido pelo relator, Senador Rodrigo Pacheco, em virtude de não mais pertencer aos quadros desta Comissão. A matéria será
+    Data: 18/02/2021
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Devolvido pelo relator, Senador Rodrigo Pacheco, em virtude de não mais pertencer aos quadros desta Comissão. A matéria será
 redistribuída.
-Ação:
-16/10/2019
-CCJ - Comissão de Constituição, Justiça e Cidadania
-MATÉRIA COM A RELATORIA
-Situação:
-Na 62ª Reunião Ordinária, realizada nesta data, a matéria é retirada de Pauta e devolvida ao Relator, Senador Rodrigo Pacheco,
+    Data: 16/10/2019
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Na 62ª Reunião Ordinária, realizada nesta data, a matéria é retirada de Pauta e devolvida ao Relator, Senador Rodrigo Pacheco,
 para reexame do Relatório.
-Ação:
-30/09/2019
-CCJ - Comissão de Constituição, Justiça e Cidadania
-pg
+    Data: 30/09/2019
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: pg
 8
 Atividade Legislativa
 Projeto de Lei da Câmara n° 29, de 2017
 TRAMITAÇÃO
 INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria incluída na pauta da Comissão.
-Ação:
-27/08/2019
-CCJ - Comissão de Constituição, Justiça e Cidadania
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Recebido, às 18h52min, o relatório do Senador Rodrigo Pacheco, com voto favorável ao Projeto.
+    Ação: Matéria incluída na pauta da Comissão.
+    Data: 27/08/2019
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Recebido, às 18h52min, o relatório do Senador Rodrigo Pacheco, com voto favorável ao Projeto.
 Matéria pronta para a Pauta na Comissão.
+    Data: 19/02/2019
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Distribuído ao Senador Rodrigo Pacheco, para emitir relatório.
+    Data: 05/02/2019
+    Órgão: SF-SACCJ - Secretaria de Apoio à Comissão de Constituição, Justiça e Cidadania
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Relatoria encerrada por fim de mandato.
+    Data: 21/12/2018
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: Não disponível
+    Ação: A proposição continua a tramitar, nos termos do art. 332 do Regimento Interno.
 Ação:
-19/02/2019
-CCJ - Comissão de Constituição, Justiça e Cidadania
-MATÉRIA COM A RELATORIA
-Situação:
-Distribuído ao Senador Rodrigo Pacheco, para emitir relatório.
-Ação:
-05/02/2019
-SF-SACCJ - Secretaria de Apoio à Comissão de Constituição, Justiça e Cidadania
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Relatoria encerrada por fim de mandato.
-Ação:
-21/12/2018
-CCJ - Comissão de Constituição, Justiça e Cidadania
-A proposição continua a tramitar, nos termos do art. 332 do Regimento Interno.
-Ação:
-07/12/2017
-CCJ - Comissão de Constituição, Justiça e Cidadania
-MATÉRIA COM A RELATORIA
-Situação:
-Na 55ª Reunião Extraordinária, realizada nesta data, é realizada Audiência Pública destinada à instrução da matéria, conforme
+    Data: 07/12/2017
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Na 55ª Reunião Extraordinária, realizada nesta data, é realizada Audiência Pública destinada à instrução da matéria, conforme
 Requerimento nº 85, de 2017-CCJ, de iniciativa do Senador Armando Monteiro, com a presença dos seguintes convidados: Carlos
 Antônio Harten Filho, Ernesto Tzirulnik, Carlos Roberto de Zoppa, representante de Paulo Eduardo de Freitas Botti, João Marcelo
 Máximo Ricardo Dos Santos, representante de Paulo Pereira, e Bruno Miragem, representante de Marilena Lazzarini. Usam da
 palavra os Senhores Gustavo de Medeiros Melo, Moreira Mendes, ex Deputado Federal, e a Senhora Selma Maria Ferreira
 Lemes.
-Ação:
-08/11/2017
-CCJ - Comissão de Constituição, Justiça e Cidadania
-AUDIÊNCIA PÚBLICA
-Situação:
-Na 49ª Reunião Ordinária, realizada nesta data, a Comissão aprova o Requerimento nº 85, de 2017-CCJ, de iniciativa do Senador
+    Data: 08/11/2017
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: AUDIÊNCIA PÚBLICA
+    Ação: Na 49ª Reunião Ordinária, realizada nesta data, a Comissão aprova o Requerimento nº 85, de 2017-CCJ, de iniciativa do Senador
 Armando Monteiro, para a realização de Audiência Pública em data oportuna para instruir a matéria (fl.98).
-Ação:
-31/08/2017
-CCJ - Comissão de Constituição, Justiça e Cidadania
-MATÉRIA COM A RELATORIA
-Situação:
-O Presidente da Comissão de Constituição, Justiça e Cidadania, Senador Edison Lobão, designa Relator da matéria o Senador
+    Data: 31/08/2017
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: O Presidente da Comissão de Constituição, Justiça e Cidadania, Senador Edison Lobão, designa Relator da matéria o Senador
 Armando Monteiro.
-Ação:
-19/04/2017
-CCJ - Comissão de Constituição, Justiça e Cidadania
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-pg
+    Data: 19/04/2017
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: pg
 9
 Atividade Legislativa
 Projeto de Lei da Câmara n° 29, de 2017
 TRAMITAÇÃO
 Matéria aguardando distribuição.
-Ação:
-19/04/2017
-SF-SEADI - Secretaria de Atas e Diários
-MATÉRIA LIDA EM PLENÁRIO.
-Situação:
-Encaminhado à publicação.
+    Data: 19/04/2017
+    Órgão: SF-SEADI - Secretaria de Atas e Diários
+    Situação: MATÉRIA LIDA EM PLENÁRIO.
+    Ação: Encaminhado à publicação.
 Às Comissões de Constituição, Justiça e Cidadania; e de Assuntos Econômicos.
-Ação:
-Publicado no DSF Páginas 157-201
-18/04/2017
-PLEN - Plenário do Senado Federal
-AGUARDANDO LEITURA
-Situação:
-Este processado contém 97 (noventa e sete) folhas numeradas e rubricadas.
+    Data: 18/04/2017
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO LEITURA
+    Ação: Este processado contém 97 (noventa e sete) folhas numeradas e rubricadas.
 Aguardando leitura.
+    Data: 12/04/2017
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Apresentado em 12/04/2017 10:38
 Ação:
-12/04/2017
-PLEN - Plenário do Senado Federal
-Apresentado em 12/04/2017 10:38
-Ação:
-DOCUMENTOS
-PLC 29/2017
-12/04/2017
-Data:
- Câmara dos Deputados
-Autor:
-Plenário do Senado Federal
-Local:
-Dispõe sobre normas de seguro privado; revoga dispositivos da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil); e dá outras
-providências.
-Descrição/Ementa:
-Avulso inicial da matéria
-19/04/2017
-Data:
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-Encaminhado à publicação.
-Às Comissões de Constituição, Justiça e Cidadania; e de Assuntos Econômicos.
-Ação Legislativa:
-Requerimento
-08/11/2017
-Data:
-Senador Armando Monteiro (PTB/PE)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Requeiro, nos termos do artigo 93, inciso I, do Regimento Interno do Senado Federal, que seja realizada Audiência Pública
+Documentos: 
+    Documento: PLC 29/2017
+    Data: 12/04/2017
+    Autor: Câmara dos Deputados
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Não disponível
+    Documento: Avulso inicial da matéria
+    Data: 19/04/2017
+    Autor: Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Requerimento
+    Documento: Requerimento
+    Data: 08/11/2017
+    Autor: Senador Armando Monteiro (PTB/PE)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: Requeiro, nos termos do artigo 93, inciso I, do Regimento Interno do Senado Federal, que seja realizada Audiência Pública
 perante esta Comissão a fim de instruir o Projeto de Lei da Câmara nº 29/2017, que dispõe sobre normas de seguro privado;
 revoga dispositivos da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil); e dá outras providências
-Descrição/Ementa:
-Relatório Legislativo
+    Documento: Relatório Legislativo
 pg
 10
 Atividade Legislativa
 Projeto de Lei da Câmara n° 29, de 2017
 DOCUMENTOS
-27/08/2019
-Data:
-Senador Rodrigo Pacheco (DEM/MG)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebido, às 18h52min, o relatório do Senador Rodrigo Pacheco, com voto favorável ao Projeto.
-Matéria pronta para a Pauta na Comissão.
-Ação Legislativa:
-RQS 136/2023
-21/03/2023
-Data:
-Senador Rodrigo Pacheco (PSD/MG), Senador Vanderlan Cardoso (PSD/GO), Senador Davi Alcolumbre (UNIÃO/AP), Senador
-Angelo Coronel (PSD/BA), Senador Chico Rodrigues (PSB/RR), Senador Otto Alencar (PSD/BA), Senadora Eliziane Gama (PSD/MA),
-Senador Marcio Bittar (UNIÃO/AC), Senador Sérgio Petecão (PSD/AC), Senadora Mara Gabrilli (PSD/SP), Senadora Tereza Cristina
-(PP/MS), Senadora Zenaide Maia (PSD/RN), Senadora Jussara Lima (PSD/PI), Senador Dr. Hiran (PP/RR), Senador Veneziano Vital
-do Rêgo (MDB/PB), Senadora Daniella Ribeiro (PSD/PB), Senadora Margareth Buzetti (PSD/MT), Senador Dr. Samuel Araújo
-(PSD/RO), Senadora Augusta Brito (PT/CE), Senador Irajá (PSD/TO), Senador Jorge Kajuru (PSB/GO), Senador Efraim Filho
-(UNIÃO/PB), Senador Jayme Campos (UNIÃO/MT), Senador Lucas Barreto (PSD/AP), Senador Omar Aziz (PSD/AM), Senador
-Zequinha Marinho (PL/PA), Senador Esperidião Amin (PP/SC), Senador Jaques Wagner (PT/BA), Senador Hamilton Mourão
-(REPUBLICANOS/RS), Senador Eduardo Gomes (PL/TO)
-Autor:
-Plenário do Senado Federal
-Local:
-Na Sessão Deliberativa de 21 de março, foi aprovado o Requerimento nº 136, de 2023, do Senador Rodrigo Pacheco, solicitando
-o desarquivamento de proposição.
-O Projeto de Lei da Câmara nº 29, de 2017, retorna ao exame da CCJ, seguindo posteriormente à CAE.
-Ação Legislativa:
-Requeiro, nos termos do art. 332, § 1º, do Regimento Interno do Senado Federal, o desarquivamento do PLC 29/2017, que
+    Data: 27/08/2019
+    Autor: Senador Rodrigo Pacheco (DEM/MG)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: RQS 136/2023
+    Documento: RQS 136/2023
+    Data: 21/03/2023
+    Autor: Senador Rodrigo Pacheco (PSD/MG), Senador Vanderlan Cardoso (PSD/GO), Senador Davi Alcolumbre (UNIÃO/AP), Senador
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Requeiro, nos termos do art. 332, § 1º, do Regimento Interno do Senado Federal, o desarquivamento do PLC 29/2017, que
 “dispõe sobre normas de seguro privado; revoga dispositivos da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil);e dá outras
 providências”
-Descrição/Ementa:
-Relatório Legislativo
-21/11/2023
-Data:
-Senador Jader Barbalho (MDB/PA)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebido Relatório do Senador Jader Barbalho, com voto favorável ao Projeto nos termos da Emenda Substitutiva que apresenta.
-Ação Legislativa:
-Relatório (parecer) ao PLC 29/2017
-Descrição/Ementa:
-EMENDA 1 - PLC 29/2017
-28/11/2023
-Data:
-Senador Sergio Moro (UNIÃO/PR)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebida a Emenda nº 1, de autoria do Senador Sergio Moro.
-Encaminhada ao Relator, para análise.
-Ação Legislativa:
-PLC 29-2017 - Seguro Privado - Emenda Modificativa Art. 9º
-Descrição/Ementa:
-EMENDA 2 - PLC 29/2017
-05/12/2023
-Data:
-Senador Sergio Moro (UNIÃO/PR)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebidas as Emendas nº 2 e 3, de autoria do Senador Sergio Moro.
-Encaminhadas ao Relator, para análise.
-Ação Legislativa:
-PLC 29-2017 - Seguro Privado - Emenda Supressiva Capítulo XI - Resseguro
-Descrição/Ementa:
-pg
+    Documento: Relatório Legislativo
+    Data: 21/11/2023
+    Autor: Senador Jader Barbalho (MDB/PA)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Recebido Relatório do Senador Jader Barbalho, com voto favorável ao Projeto nos termos da Emenda Substitutiva que apresenta.
+    Descrição/ementa: Relatório (parecer) ao PLC 29/2017
+    Documento: EMENDA 1 - PLC 29/2017
+    Data: 28/11/2023
+    Autor: Senador Sergio Moro (UNIÃO/PR)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: PLC 29-2017 - Seguro Privado - Emenda Modificativa Art. 9º
+    Documento: EMENDA 2 - PLC 29/2017
+    Data: 05/12/2023
+    Autor: Senador Sergio Moro (UNIÃO/PR)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: PLC 29-2017 - Seguro Privado - Emenda Supressiva Capítulo XI - Resseguro
+    Documento: pg
 11
 Atividade Legislativa
 Projeto de Lei da Câmara n° 29, de 2017
 DOCUMENTOS
 EMENDA 3 - PLC 29/2017
-05/12/2023
-Data:
-Senador Sergio Moro (UNIÃO/PR)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebidas as Emendas nº 2 e 3, de autoria do Senador Sergio Moro.
-Encaminhadas ao Relator, para análise.
-Ação Legislativa:
-PLC 29-2017 - Seguro Privado - Emenda Modificativa Art. 64
-Descrição/Ementa:
-EMENDA 4 - PLC 29/2017
-14/12/2023
-Data:
-Senador Carlos Portinho (PL/RJ)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebida a Emenda nº 4, de autoria do Senador Carlos Portinho.
-Encaminhada ao Relator, para análise.
-Ação Legislativa:
-Emenda 01 ao PLC 29/2017
-Descrição/Ementa:
-Relatório Legislativo
-11/03/2024
-Data:
-Senador Jader Barbalho (MDB/PA)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebido o Relatório do Senador Jader Barbalho, com voto favorável ao Projeto, nos termos da emenda substitutiva que
-apresenta, e contrário às Emendas nºs 1 a 4.
-Ação Legislativa:
-Relatório ao PLC 29/2017, com análise das emendas apresentadas
-Descrição/Ementa:
-EMENDA 5 - PLC 29/2017
-12/03/2024
-Data:
-Senador Mecias de Jesus (REPUBLICANOS/RR)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebidas as Emendas nºs 5, 6 e 7, de autoria do Senador Mecias de Jesus.
-Encaminhadas ao Relator, para análise.
-Ação Legislativa:
-Emenda 1 ao PLC 29/2017
-Descrição/Ementa:
-EMENDA 6 - PLC 29/2017
-12/03/2024
-Data:
-Senador Mecias de Jesus (REPUBLICANOS/RR)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebidas as Emendas nºs 5, 6 e 7, de autoria do Senador Mecias de Jesus.
-Encaminhadas ao Relator, para análise.
-Ação Legislativa:
-Emenda 2 ao PLC 29/2017
-Descrição/Ementa:
-EMENDA 7 - PLC 29/2017
-12/03/2024
-Data:
-pg
-12
-Atividade Legislativa
-Projeto de Lei da Câmara n° 29, de 2017
-DOCUMENTOS
-Senador Mecias de Jesus (REPUBLICANOS/RR)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebidas as Emendas nºs 5, 6 e 7, de autoria do Senador Mecias de Jesus.
-Encaminhadas ao Relator, para análise.
-Ação Legislativa:
-Emenda 3 ao PLC 29/2017
-Descrição/Ementa:
-Relatório Legislativo
-13/03/2024
-Data:
-Senador Jader Barbalho (MDB/PA)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Complementação de Voto ao PLC 29/2017, emendas de nºs 5 a 7
-Descrição/Ementa:
-Relatório Legislativo
-13/03/2024
-Data:
-Senador Jader Barbalho (MDB/PA)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebida a Complementação de Voto do Senador Jader Barbalho, contrário às Emendas nºs 5 a 7.
-Ação Legislativa:
-Correção Complementação de Voto ao PLC 29/2017, emendas de 5 a 7
-Descrição/Ementa:
-EMENDA 8 - PLC 29/2017
-13/03/2024
-Data:
-Senador Izalci Lucas (PSDB/DF)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebidas as Emendas nºs 8, 9 e 10, de autoria do Senador Izalci Lucas.
-Encaminhadas ao Relator, para análise.
-Ação Legislativa:
-Emenda 3 ao PLC 29 de 2017
-Descrição/Ementa:
-EMENDA 9 - PLC 29/2017
-13/03/2024
-Data:
-Senador Izalci Lucas (PSDB/DF)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebidas as Emendas nºs 8, 9 e 10, de autoria do Senador Izalci Lucas.
-Encaminhadas ao Relator, para análise.
-Ação Legislativa:
-Emenda 2 ao PLC 29 de 2017
-Descrição/Ementa:
-EMENDA 10 - PLC 29/2017
-13/03/2024
-Data:
-Senador Izalci Lucas (PSDB/DF)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebidas as Emendas nºs 8, 9 e 10, de autoria do Senador Izalci Lucas.
-Encaminhadas ao Relator, para análise.
-Ação Legislativa:
-Emenda 1 ao PLC 29 de 2017
-Descrição/Ementa:
-pg
+    Data: 05/12/2023
+    Autor: Senador Sergio Moro (UNIÃO/PR)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: PLC 29-2017 - Seguro Privado - Emenda Modificativa Art. 64
+    Documento: EMENDA 4 - PLC 29/2017
+    Data: 14/12/2023
+    Autor: Senador Carlos Portinho (PL/RJ)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: Emenda 01 ao PLC 29/2017
+    Documento: Relatório Legislativo
+    Data: 11/03/2024
+    Autor: Senador Jader Barbalho (MDB/PA)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: Relatório ao PLC 29/2017, com análise das emendas apresentadas
+    Documento: EMENDA 5 - PLC 29/2017
+    Data: 12/03/2024
+    Autor: Senador Mecias de Jesus (REPUBLICANOS/RR)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: Emenda 1 ao PLC 29/2017
+    Documento: EMENDA 6 - PLC 29/2017
+    Data: 12/03/2024
+    Autor: Senador Mecias de Jesus (REPUBLICANOS/RR)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: Emenda 2 ao PLC 29/2017
+    Documento: EMENDA 7 - PLC 29/2017
+    Data: 12/03/2024
+    Autor: pg
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: Emenda 3 ao PLC 29/2017
+    Documento: Relatório Legislativo
+    Data: 13/03/2024
+    Autor: Senador Jader Barbalho (MDB/PA)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: Complementação de Voto ao PLC 29/2017, emendas de nºs 5 a 7
+    Documento: Relatório Legislativo
+    Data: 13/03/2024
+    Autor: Senador Jader Barbalho (MDB/PA)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Recebida a Complementação de Voto do Senador Jader Barbalho, contrário às Emendas nºs 5 a 7.
+    Descrição/ementa: Correção Complementação de Voto ao PLC 29/2017, emendas de 5 a 7
+    Documento: EMENDA 8 - PLC 29/2017
+    Data: 13/03/2024
+    Autor: Senador Izalci Lucas (PSDB/DF)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: Emenda 3 ao PLC 29 de 2017
+    Documento: EMENDA 9 - PLC 29/2017
+    Data: 13/03/2024
+    Autor: Senador Izalci Lucas (PSDB/DF)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: Emenda 2 ao PLC 29 de 2017
+    Documento: EMENDA 10 - PLC 29/2017
+    Data: 13/03/2024
+    Autor: Senador Izalci Lucas (PSDB/DF)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: Emenda 1 ao PLC 29 de 2017
+    Documento: pg
 13
 Atividade Legislativa
 Projeto de Lei da Câmara n° 29, de 2017
 DOCUMENTOS
 EMENDA 11 - PLC 29/2017
-19/03/2024
-Data:
-Senador Jaques Wagner (PT/BA)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebida a Emenda nº 11, de autoria do Senador Jaques Wagner.
-Encaminhada ao Relator, para análise.
-Ação Legislativa:
-Emenda ao PLC 29/2017
-Descrição/Ementa:
-Relatório Legislativo
-19/03/2024
-Data:
-Senador Jader Barbalho (MDB/PA)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebido Relatório do Senador Jader Barbalho, com voto favorável ao Projeto e à Emenda nº 11, nos termos do Substitutivo que
-apresenta, e contrário às Emendas nºs 1 a 10.
-Ação Legislativa:
-Da COMISSÃO DE CONSTITUIÇÃO, JUSTIÇA E CIDADANIA, sobre o Projeto de Lei da Câmara n° 29, de 2017, que Dispõe sobre
+    Data: 19/03/2024
+    Autor: Senador Jaques Wagner (PT/BA)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: Emenda ao PLC 29/2017
+    Documento: Relatório Legislativo
+    Data: 19/03/2024
+    Autor: Senador Jader Barbalho (MDB/PA)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: Da COMISSÃO DE CONSTITUIÇÃO, JUSTIÇA E CIDADANIA, sobre o Projeto de Lei da Câmara n° 29, de 2017, que Dispõe sobre
 normas de seguro privado; revoga dispositivos da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil); e dá outras providências.
-Descrição/Ementa:
-EMENDA 12 - PLC 29/2017
-20/03/2024
-Data:
-Senador Marcio Bittar (UNIÃO/AC)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebida a Emenda nº 12, de autoria do Senador Marcio Bittar.
-Encaminhada ao Relator, para análise.
-Ação Legislativa:
-Emenda STC 2024-02123 TT 298951
-Descrição/Ementa:
-OFÍCIO PRESI-042/2024 -
-27/03/2024
-Data:
- Confederação Nacional das Seguradoras - CNseg
-Autor:
-Plenário do Senado Federal
-Local:
-Encaminha sugestões visando contribuir com a elaboração do novo Código Civil.
-Descrição/Ementa:
-Relatório Legislativo -
-01/04/2024
-Data:
-Senador Jader Barbalho (MDB/PA)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebida a Complementação de Voto do Senador Jader Barbalho, contrário à Emenda n° 12.
-Ação Legislativa:
-Complementação de voto ao PLC 29/2017, emenda nº 12.
-Descrição/Ementa:
-EMENDA 13 - PLC 29/2017
-09/04/2024
-Data:
-Senador Rogerio Marinho (PL/RN), Senador Dr. Hiran (PP/RR), Senador Flávio Bolsonaro (PL/RJ), Senador Carlos Viana
-(PODEMOS/MG), Senador Sergio Moro (UNIÃO/PR), Senador Magno Malta (PL/ES), Senador Eduardo Girão (NOVO/CE), Senador
-Jorge Seif (PL/SC), Senador Marcos Rogério (PL/RO), Senador Plínio Valério (PSDB/AM), Senador Carlos Portinho (PL/RJ)
-Autor:
-pg
-14
-Atividade Legislativa
-Projeto de Lei da Câmara n° 29, de 2017
-DOCUMENTOS
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebida a Emenda nº 13, de autoria do Senador Rogério Marinho.
-Encaminhada ao Relator, para análise.
-Ação Legislativa:
-Emenda ao PLC 29/2017 - Autonomia SUSEP
-Descrição/Ementa:
-Relatório Legislativo -
-10/04/2024
-Data:
-Senador Jader Barbalho (MDB/PA)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebida a Complementação de Voto do Senador Jader Barbalho, contrário à Emenda n° 13.
-Ação Legislativa:
-Complementação de Voto ao PLC 29/2017, emenda nº 13.
-Descrição/Ementa:
-Listagem ou relatório
-10/04/2024
-Data:
- Comissão de Constituição, Justiça e Cidadania
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Listagem ou relatório descritivo-Lista de Presença da reunião da 6ª Reunião CCJ
-Descrição/Ementa:
-Listagem ou relatório
-10/04/2024
-Data:
- Comissão de Constituição, Justiça e Cidadania
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Listagem ou relatório descritivo-Lista de Votação Nominal da reunião da 6ª Reunião CCJ
-Descrição/Ementa:
-P.S 11/2024 - CCJ
-10/04/2024
-Data:
- Comissão de Constituição, Justiça e Cidadania, Senador Jader Barbalho (MDB/PA), Senador Davi Alcolumbre (UNIÃO/AP)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Na 6ª Reunião Ordinária, realizada nesta data, o Senador Marcelo Castro é designado Relator "ad hoc" em substituição ao
-Senador Jader Barbalho.
-Durante a discussão, foi apresentado Requerimento de Destaque da Liderança do PL para votação em separado da Emenda nº
-13.
-A Comissão aprova o Relatório, que passa a constituir o Parecer da CCJ, favorável ao Projeto e à Emenda nº 11, nos termos da
-Emenda nº 14-CCJ (Substitutivo), e contrário às Emendas nºs 1 a 10 e 12. A Comissão rejeita a Emenda nº 13 destacada, em
-votação nominal, por 14 votos a 12, conforme quadro de votação em anexo.
-Ação Legislativa:
-Da COMISSÃO DE CONSTITUIÇÃO, JUSTIÇA E CIDADANIA, sobre o Projeto de Lei da Câmara n° 29, de 2017, que Dispõe sobre
+    Documento: EMENDA 12 - PLC 29/2017
+    Data: 20/03/2024
+    Autor: Senador Marcio Bittar (UNIÃO/AC)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: Emenda STC 2024-02123 TT 298951
+    Documento: OFÍCIO PRESI-042/2024 -
+    Data: 27/03/2024
+    Autor: Confederação Nacional das Seguradoras - CNseg
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha sugestões visando contribuir com a elaboração do novo Código Civil.
+    Documento: Relatório Legislativo -
+    Data: 01/04/2024
+    Autor: Senador Jader Barbalho (MDB/PA)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Recebida a Complementação de Voto do Senador Jader Barbalho, contrário à Emenda n° 12.
+    Descrição/ementa: Complementação de voto ao PLC 29/2017, emenda nº 12.
+    Documento: EMENDA 13 - PLC 29/2017
+    Data: 09/04/2024
+    Autor: Senador Rogerio Marinho (PL/RN), Senador Dr. Hiran (PP/RR), Senador Flávio Bolsonaro (PL/RJ), Senador Carlos Viana
+    Local: pg
+    Ação legislativa: Não disponível
+    Descrição/ementa: Emenda ao PLC 29/2017 - Autonomia SUSEP
+    Documento: Relatório Legislativo -
+    Data: 10/04/2024
+    Autor: Senador Jader Barbalho (MDB/PA)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Recebida a Complementação de Voto do Senador Jader Barbalho, contrário à Emenda n° 13.
+    Descrição/ementa: Complementação de Voto ao PLC 29/2017, emenda nº 13.
+    Documento: Listagem ou relatório
+    Data: 10/04/2024
+    Autor: Comissão de Constituição, Justiça e Cidadania
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 6ª Reunião CCJ
+    Documento: Listagem ou relatório
+    Data: 10/04/2024
+    Autor: Comissão de Constituição, Justiça e Cidadania
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório descritivo-Lista de Votação Nominal da reunião da 6ª Reunião CCJ
+    Documento: P.S 11/2024 - CCJ
+    Data: 10/04/2024
+    Autor: Comissão de Constituição, Justiça e Cidadania, Senador Jader Barbalho (MDB/PA), Senador Davi Alcolumbre (UNIÃO/AP)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: Da COMISSÃO DE CONSTITUIÇÃO, JUSTIÇA E CIDADANIA, sobre o Projeto de Lei da Câmara n° 29, de 2017, que Dispõe sobre
 normas de seguro privado; revoga dispositivos da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil); e dá outras providências.
-Descrição/Ementa:
-EMENDA 15 - PLC 29/2017
-04/06/2024
-Data:
-Senador Mecias de Jesus (REPUBLICANOS/RR)
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-Em 04/06/2024, foram apresentadas as emendas nºs 15 a 17, de autoria do senador Mecias de Jesus.
-Ação Legislativa:
-Emenda 1 ao PLC 29/2017
-Descrição/Ementa:
-pg
+    Documento: EMENDA 15 - PLC 29/2017
+    Data: 04/06/2024
+    Autor: Senador Mecias de Jesus (REPUBLICANOS/RR)
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Em 04/06/2024, foram apresentadas as emendas nºs 15 a 17, de autoria do senador Mecias de Jesus.
+    Descrição/ementa: Emenda 1 ao PLC 29/2017
+    Documento: pg
 15
 Atividade Legislativa
 Projeto de Lei da Câmara n° 29, de 2017
 DOCUMENTOS
 EMENDA 16 - PLC 29/2017
-04/06/2024
-Data:
-Senador Mecias de Jesus (REPUBLICANOS/RR)
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-Em 04/06/2024, foram apresentadas as emendas nºs 15 a 17, de autoria do senador Mecias de Jesus.
-Ação Legislativa:
-Emenda 2 ao PLC 29/2017
-Descrição/Ementa:
-EMENDA 17 - PLC 29/2017
-04/06/2024
-Data:
-Senador Mecias de Jesus (REPUBLICANOS/RR)
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-Em 04/06/2024, foram apresentadas as emendas nºs 15 a 17, de autoria do senador Mecias de Jesus.
-Ação Legislativa:
-Emenda 3 ao PLC 29/2017
-Descrição/Ementa:
-Relatório Legislativo
-04/06/2024
-Data:
-Senador Otto Alencar (PSD/BA)
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-O relator, senador Otto Alencar, apresentou relatório favorável ao projeto, nos termos da Emenda nº 14 - CCJ (substitutivo).
-Ação Legislativa:
-Parecer ao PLC 29, de 2017
-Descrição/Ementa:
-EMENDA 18 - PLC 29/2017
-10/06/2024
-Data:
-Senador Rogerio Marinho (PL/RN)
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-Em 10/06/2024, foi apresentada a emenda nº 18, de autoria do senador Rogério Marinho.
-Ação Legislativa:
-Emenda ao PLC 29/2017
-Descrição/Ementa:
-EMENDA 19 - PLC 29/2017
-11/06/2024
-Data:
-Senador Rogerio Marinho (PL/RN)
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-Em 11/06/2024, foram apresentadas as emendas nºs 19 e 20, de autoria do senador Rogério Marinho e do senador Mecias de
-Jesus, respectivamente.
-Ação Legislativa:
-Emenda ao PLC 29/2017 - autonomia SUSEP
-Descrição/Ementa:
-EMENDA 20 - PLC 29/2017
-11/06/2024
-Data:
-Senador Mecias de Jesus (REPUBLICANOS/RR)
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-Em 11/06/2024, foram apresentadas as emendas nºs 19 e 20, de autoria do senador Rogério Marinho e do senador Mecias de
-Jesus, respectivamente.
-Ação Legislativa:
-Emenda ao PLC 29/2017
-Descrição/Ementa:
-pg
+    Data: 04/06/2024
+    Autor: Senador Mecias de Jesus (REPUBLICANOS/RR)
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Em 04/06/2024, foram apresentadas as emendas nºs 15 a 17, de autoria do senador Mecias de Jesus.
+    Descrição/ementa: Emenda 2 ao PLC 29/2017
+    Documento: EMENDA 17 - PLC 29/2017
+    Data: 04/06/2024
+    Autor: Senador Mecias de Jesus (REPUBLICANOS/RR)
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Em 04/06/2024, foram apresentadas as emendas nºs 15 a 17, de autoria do senador Mecias de Jesus.
+    Descrição/ementa: Emenda 3 ao PLC 29/2017
+    Documento: Relatório Legislativo
+    Data: 04/06/2024
+    Autor: Senador Otto Alencar (PSD/BA)
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: O relator, senador Otto Alencar, apresentou relatório favorável ao projeto, nos termos da Emenda nº 14 - CCJ (substitutivo).
+    Descrição/ementa: Parecer ao PLC 29, de 2017
+    Documento: EMENDA 18 - PLC 29/2017
+    Data: 10/06/2024
+    Autor: Senador Rogerio Marinho (PL/RN)
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Em 10/06/2024, foi apresentada a emenda nº 18, de autoria do senador Rogério Marinho.
+    Descrição/ementa: Emenda ao PLC 29/2017
+    Documento: EMENDA 19 - PLC 29/2017
+    Data: 11/06/2024
+    Autor: Senador Rogerio Marinho (PL/RN)
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Não disponível
+    Descrição/ementa: Emenda ao PLC 29/2017 - autonomia SUSEP
+    Documento: EMENDA 20 - PLC 29/2017
+    Data: 11/06/2024
+    Autor: Senador Mecias de Jesus (REPUBLICANOS/RR)
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Não disponível
+    Descrição/ementa: Emenda ao PLC 29/2017
+    Documento: pg
 16
 Atividade Legislativa
 Projeto de Lei da Câmara n° 29, de 2017
 DOCUMENTOS
 Relatório Legislativo
-11/06/2024
-Data:
-Senador Otto Alencar (PSD/BA)
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-O relator, senador Otto Alencar, apresentou relatório favorável ao projeto nos termos da Emenda n° 14 - CCJ (Substitutivo), e
-contrário às Emendas n° 15 a 18.
-Ação Legislativa:
-Parecer ao PLC nº 29, de 2017
-Descrição/Ementa:
-Relatório Legislativo
-11/06/2024
-Data:
-Senador Otto Alencar (PSD/BA)
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-O relator, senador Otto Alencar, apresentou novo relatório favorável à  Emenda n° 14 - CCJ (Substitutivo), com três emendas que
-apresenta e contrário às Emendas n°s 15 a 20.
-Ação Legislativa:
-Parecer PLC 29, de 2017
-Descrição/Ementa:
-Listagem ou relatório
-11/06/2024
-Data:
- Comissão de Assuntos Econômicos
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-Listagem ou relatório descritivo-Lista de Presença da reunião da 23ª Reunião CAE
-Descrição/Ementa:
-EMENDA 21 - PLC 29/2017
-18/06/2024
-Data:
-Senadora Tereza Cristina (PP/MS)
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-Em 18/06/2024, foi apresentada a Emenda nº 21, de autoria da senadora Tereza Cristina.
-Ação Legislativa:
-Emenda ao PLC 29/2017 -  Seguro Rural
-Descrição/Ementa:
-REQ 73/2024 - CAE
-18/06/2024
-Data:
-Senador Otto Alencar (PSD/BA)
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-Em reunião realizada nesta data, a comissão aprova o relatório do senador Otto Alencar, que passa a constituir o parecer da CAE,
-favorável ao projeto, nos termos da Emenda nº 14-CCJ-CAE(substitutivo), com as subemendas nºs 1 a 3-CAE; e contrário as
-emendas nºs 15 a 21.
-Aprovada, também, a apresentação de requerimento de urgência para a matéria.
-Anexado o parecer da comissão e o requerimento de urgência.
-À SLSF
-Ação Legislativa:
-Requer, nos termos dos arts. 336, II, e 338, IV, do Regimento Interno do Senado Federal, urgência para o PLC 29/2017.
-Descrição/Ementa:
-Listagem ou relatório
-18/06/2024
-Data:
- Comissão de Assuntos Econômicos
-Autor:
-pg
-17
-Atividade Legislativa
-Projeto de Lei da Câmara n° 29, de 2017
-DOCUMENTOS
-Comissão de Assuntos Econômicos
-Local:
-Listagem ou relatório descritivo-Lista de Presença da reunião da 24ª Reunião CAE
-Descrição/Ementa:
-Relatório Legislativo
-18/06/2024
-Data:
-Senador Otto Alencar (PSD/BA)
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-O relator, senador Otto Alencar, apresentou novo relatório favorável à matéria nos termos da Emenda n° 14 - CCJ (Substitutivo),
-com três emendas que apresenta; e contrário às emendas n° 15 a 21 – CAE.
-Ação Legislativa:
-Da COMISSÃO DE ASSUNTOS ECONÔMICOS, sobre o Projeto de Lei da Câmara n° 29, de 2017, que Dispõe sobre normas de
+    Data: 11/06/2024
+    Autor: Senador Otto Alencar (PSD/BA)
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Não disponível
+    Descrição/ementa: Parecer ao PLC nº 29, de 2017
+    Documento: Relatório Legislativo
+    Data: 11/06/2024
+    Autor: Senador Otto Alencar (PSD/BA)
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Não disponível
+    Descrição/ementa: Parecer PLC 29, de 2017
+    Documento: Listagem ou relatório
+    Data: 11/06/2024
+    Autor: Comissão de Assuntos Econômicos
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 23ª Reunião CAE
+    Documento: EMENDA 21 - PLC 29/2017
+    Data: 18/06/2024
+    Autor: Senadora Tereza Cristina (PP/MS)
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Em 18/06/2024, foi apresentada a Emenda nº 21, de autoria da senadora Tereza Cristina.
+    Descrição/ementa: Emenda ao PLC 29/2017 -  Seguro Rural
+    Documento: REQ 73/2024 - CAE
+    Data: 18/06/2024
+    Autor: Senador Otto Alencar (PSD/BA)
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Não disponível
+    Descrição/ementa: Requer, nos termos dos arts. 336, II, e 338, IV, do Regimento Interno do Senado Federal, urgência para o PLC 29/2017.
+    Documento: Listagem ou relatório
+    Data: 18/06/2024
+    Autor: Comissão de Assuntos Econômicos
+    Local: pg
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 24ª Reunião CAE
+    Documento: Relatório Legislativo
+    Data: 18/06/2024
+    Autor: Senador Otto Alencar (PSD/BA)
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Não disponível
+    Descrição/ementa: Da COMISSÃO DE ASSUNTOS ECONÔMICOS, sobre o Projeto de Lei da Câmara n° 29, de 2017, que Dispõe sobre normas de
 seguro privado; revoga dispositivos da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil); e dá outras providências.
-Descrição/Ementa:
-P.S 54/2024 - CAE
-18/06/2024
-Data:
- Comissão de Assuntos Econômicos, Senador Otto Alencar (PSD/BA), Senador Vanderlan Cardoso (PSD/GO), Senador Otto
-Alencar (PSD/BA)
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-Em reunião realizada nesta data, a comissão aprova o relatório do senador Otto Alencar, que passa a constituir o parecer da CAE,
-favorável ao projeto, nos termos da Emenda nº 14-CCJ-CAE(substitutivo), com as subemendas nºs 1 a 3-CAE; e contrário as
-emendas nºs 15 a 21.
-Aprovada, também, a apresentação de requerimento de urgência para a matéria.
-Anexado o parecer da comissão e o requerimento de urgência.
-À SLSF
-Ação Legislativa:
-Da COMISSÃO DE ASSUNTOS ECONÔMICOS, sobre o Projeto de Lei da Câmara n° 29, de 2017, que Dispõe sobre normas de
+    Documento: P.S 54/2024 - CAE
+    Data: 18/06/2024
+    Autor: Comissão de Assuntos Econômicos, Senador Otto Alencar (PSD/BA), Senador Vanderlan Cardoso (PSD/GO), Senador Otto
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Não disponível
+    Descrição/ementa: Da COMISSÃO DE ASSUNTOS ECONÔMICOS, sobre o Projeto de Lei da Câmara n° 29, de 2017, que Dispõe sobre normas de
 seguro privado; revoga dispositivos da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil); e dá outras providências.
-Descrição/Ementa:
-EMENDA 22 PLEN - PLC
-18/06/2024
-Data:
-Senador Carlos Viana (PODEMOS/MG)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 22, do Senador Carlos Viana.
-Ação Legislativa:
-Emenda ao PLC 29/2017
-Descrição/Ementa:
-EMENDA 23 PLEN - PLC
-18/06/2024
-Data:
-Senador Carlos Portinho (PL/RJ)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 23, do Senador Carlos Portinho, ao Substitutivo da Comissão de Constituição, Justiça e Cidadania (Emenda
-nº 14).
-(Pendente de aprovação da Emenda nº 14, em turno único)
-Ação Legislativa:
-Emenda de Plenário ao Substitutivo PLC 29/2017
-Descrição/Ementa:
-RQS 449/2024
-18/06/2024
-Data:
-Líder do PL Carlos Portinho (PL/)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebidos os Requerimento n°s:
-Ação Legislativa:
-pg
+    Documento: EMENDA 22 PLEN - PLC
+    Data: 18/06/2024
+    Autor: Senador Carlos Viana (PODEMOS/MG)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 22, do Senador Carlos Viana.
+    Descrição/ementa: Emenda ao PLC 29/2017
+    Documento: EMENDA 23 PLEN - PLC
+    Data: 18/06/2024
+    Autor: Senador Carlos Portinho (PL/RJ)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Emenda de Plenário ao Substitutivo PLC 29/2017
+    Documento: RQS 449/2024
+    Data: 18/06/2024
+    Autor: Líder do PL Carlos Portinho (PL/)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebidos os Requerimento n°s:
+    Descrição/ementa: pg
 18
 Atividade Legislativa
 Projeto de Lei da Câmara n° 29, de 2017
@@ -1140,170 +748,81 @@ DOCUMENTOS
 - 450, de 2024, da liderança do PL, de destaque para votação em separado da Emenda nº 23.
 Requer, pela Liderança do PL, destaque para supressão do Capítulo XI, do Título I, na forma do Substitutivo, do Projeto de Lei da
 Câmara nº 29/2017.
-Descrição/Ementa:
-RQS 450/2024
-18/06/2024
-Data:
-Líder do PL Carlos Portinho (PL/)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebidos os Requerimento n°s:
-- 449, de 2024, da liderança do PL, de destaque para supressão do Capítulo XI, do Título I, na forma do Substitutivo; e
-- 450, de 2024, da liderança do PL, de destaque para votação em separado da Emenda nº 23.
-Ação Legislativa:
-Requer, pela Liderança do PL, destaque para votação em separado da Emenda nº 23 ao Projeto de Lei da Câmara nº 29/2017.
-Descrição/Ementa:
-Relatório Legislativo
-18/06/2024
-Data:
-Senador Otto Alencar (PSD/BA)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Relatório do Senador Otto Alencar.
-Ação Legislativa:
-Parecer ao PLC 29, de 2017
-Descrição/Ementa:
-RQS 456/2024
-18/06/2024
-Data:
-Líder do PODEMOS Rodrigo Cunha (PODEMOS/AL)
-Autor:
-Plenário do Senado Federal
-Local:
-Requer, pela Liderança do Podemos, destaque para votação em separado da Emenda nº 22 ao Projeto de Lei da Câmara nº
+    Documento: RQS 450/2024
+    Data: 18/06/2024
+    Autor: Líder do PL Carlos Portinho (PL/)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Requer, pela Liderança do PL, destaque para votação em separado da Emenda nº 23 ao Projeto de Lei da Câmara nº 29/2017.
+    Documento: Relatório Legislativo
+    Data: 18/06/2024
+    Autor: Senador Otto Alencar (PSD/BA)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebido o Relatório do Senador Otto Alencar.
+    Descrição/ementa: Parecer ao PLC 29, de 2017
+    Documento: RQS 456/2024
+    Data: 18/06/2024
+    Autor: Líder do PODEMOS Rodrigo Cunha (PODEMOS/AL)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Requer, pela Liderança do Podemos, destaque para votação em separado da Emenda nº 22 ao Projeto de Lei da Câmara nº
 29/2017.
-Descrição/Ementa:
-P.S 85/2024 - PLEN
-18/06/2024
-Data:
-Senador Otto Alencar (PSD/BA)
-Autor:
-Plenário do Senado Federal
-Local:
-(Sessão Deliberativa Ordinária, realizada em 18 de junho de 2024)
-Encaminhadas à publicação as Emendas n°s 22 e 23, de Plenário.
-Encaminhado à publicação e aprovado o Requerimento n° 73, de 2024, da CAE, solicitando urgência para a presente matéria.
-Senador Otto Alencar profere o Parecer nº 85, de 2024 – Plen/SF, favorável à Emenda nº 22 e contrário à Emenda nº 23 de
-Plenário.
-Discussão encerrada.
-Encaminhados à publicação os Requerimentos 449, 450 e 456, de 2024, de destaque para votação em separado de trecho do
-Substitutivo e de Emendas.
-Aprovada a Emenda n° 14-CAE (Substitutivo), com Subemendas, nos termos dos Pareceres, ressalvados os destaques.
-Retirado o Requerimento n° 450, de 2024, de destaque para votação em separado da Emenda nº 23.
-Mantido o Capítulo XI do Título I do Substitutivo, destacado pelo Requerimento nº 449, de 2024, com o seguinte resultado: Sim -
-41; Não - 27; Abstenção - 0; Total - 69
-Aprovada a Emenda nº 22, destacada pelo Requerimento nº 456, de 2024.
-Prejudicado o Projeto e as demais Emendas.
-Encaminhado à publicação o Parecer n° 86, de 2024 – Plen/SF, oferecendo a redação para o turno suplementar.
-Encerrada a discussão do substitutivo no turno suplementar sem emendas, aquele é dado como definitivamente adotado sem
-votação.
-A matéria retorna à Câmara dos Deputados.
-Ação Legislativa:
-Parecer nº 85, de 2024-PLEN/SF
-Descrição/Ementa:
-pg
+    Documento: P.S 85/2024 - PLEN
+    Data: 18/06/2024
+    Autor: Senador Otto Alencar (PSD/BA)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Parecer nº 85, de 2024-PLEN/SF
+    Documento: pg
 19
 Atividade Legislativa
 Projeto de Lei da Câmara n° 29, de 2017
 DOCUMENTOS
 Avulso de emendas
-18/06/2024
-Data:
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
--
-Descrição/Ementa:
-Listagem ou relatório
-18/06/2024
-Data:
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-Votação Nominal do Capítulo XI do Tìtulo I do Substitutivo ao Projeto de Lei da Câmara nº 29, de 2017, destacado.
-Descrição/Ementa:
-P.S 86/2024 - PLEN
-18/06/2024
-Data:
- Comissão Diretora do Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-(Sessão Deliberativa Ordinária, realizada em 18 de junho de 2024)
-Encaminhadas à publicação as Emendas n°s 22 e 23, de Plenário.
-Encaminhado à publicação e aprovado o Requerimento n° 73, de 2024, da CAE, solicitando urgência para a presente matéria.
-Senador Otto Alencar profere o Parecer nº 85, de 2024 – Plen/SF, favorável à Emenda nº 22 e contrário à Emenda nº 23 de
-Plenário.
-Discussão encerrada.
-Encaminhados à publicação os Requerimentos 449, 450 e 456, de 2024, de destaque para votação em separado de trecho do
-Substitutivo e de Emendas.
-Aprovada a Emenda n° 14-CAE (Substitutivo), com Subemendas, nos termos dos Pareceres, ressalvados os destaques.
-Retirado o Requerimento n° 450, de 2024, de destaque para votação em separado da Emenda nº 23.
-Mantido o Capítulo XI do Título I do Substitutivo, destacado pelo Requerimento nº 449, de 2024, com o seguinte resultado: Sim -
-41; Não - 27; Abstenção - 0; Total - 69
-Aprovada a Emenda nº 22, destacada pelo Requerimento nº 456, de 2024.
-Prejudicado o Projeto e as demais Emendas.
-Encaminhado à publicação o Parecer n° 86, de 2024 – Plen/SF, oferecendo a redação para o turno suplementar.
-Encerrada a discussão do substitutivo no turno suplementar sem emendas, aquele é dado como definitivamente adotado sem
-votação.
-A matéria retorna à Câmara dos Deputados.
-Ação Legislativa:
-Parecer nº 86/2024-PLEN/SF, da Comissão Diretora
-Descrição/Ementa:
-Minuta
-21/06/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Anexado o texto revisado.
-Ação Legislativa:
-OFSF 593/2024
-26/06/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF nº 593 de 26/06/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando que o Senado
-Federal aprovou o presente Projeto, em revisão nos termos do substitutivo em anexo, e encaminhando o autógrafo para
-apreciação.
-Ação Legislativa:
-pg
+    Data: 18/06/2024
+    Autor: Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: -
+    Documento: Listagem ou relatório
+    Data: 18/06/2024
+    Autor: Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Votação Nominal do Capítulo XI do Tìtulo I do Substitutivo ao Projeto de Lei da Câmara nº 29, de 2017, destacado.
+    Documento: P.S 86/2024 - PLEN
+    Data: 18/06/2024
+    Autor: Comissão Diretora do Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Parecer nº 86/2024-PLEN/SF, da Comissão Diretora
+    Documento: Minuta
+    Data: 21/06/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Anexado o texto revisado.
+    Descrição/ementa: OFSF 593/2024
+    Documento: OFSF 593/2024
+    Data: 26/06/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: pg
 20
 Atividade Legislativa
 Projeto de Lei da Câmara n° 29, de 2017
 DOCUMENTOS
 Encaminha à revisão da Câmara dos Deputados o Substitutivo do Projeto de Lei da Câmara n° 29/2017.
-Descrição/Ementa:
-Autógrafo - PLC 29/2017
-26/06/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Remetido Ofício SF nº 593 de 26/06/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando que o Senado
-Federal aprovou o presente Projeto, em revisão nos termos do substitutivo em anexo, e encaminhando o autógrafo para
-apreciação.
-Ação Legislativa:
-Dispõe sobre normas de seguro privado; revoga dispositivos da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil); e dá outras
+    Documento: Autógrafo - PLC 29/2017
+    Data: 26/06/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Dispõe sobre normas de seguro privado; revoga dispositivos da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil); e dá outras
 providências.
-Descrição/Ementa:
-OFC 588/2024 - Câmara dos
-19/11/2024
-Data:
-Deputado Federal Luciano Bivar (UNIÃO/PE)
-Autor:
-Plenário do Senado Federal
-Local:
-Comunica o envio à sanção do Projeto de Lei da Câmara nº 29, de 2017 (nº 2.597, de 2024, na Câmara dos Deputados).
-Descrição/Ementa:
-pg
-21
-
+    Documento: OFC 588/2024 - Câmara dos
+    Data: 19/11/2024
+    Autor: Deputado Federal Luciano Bivar (UNIÃO/PE)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica o envio à sanção do Projeto de Lei da Câmara nº 29, de 2017 (nº 2.597, de 2024, na Câmara dos Deputados).

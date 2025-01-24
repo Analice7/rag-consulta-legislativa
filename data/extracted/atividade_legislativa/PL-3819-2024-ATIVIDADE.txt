@@ -1,71 +1,48 @@
-Atividade Legislativa
-Projeto de Lei n° 3819, de 2024
-Autoria:
-Câmara dos Deputados
+Atividade legislativa: Projeto de Lei n° 3819, de 2024
+Autoria: Câmara dos Deputados
 Iniciativa: Presidência da República
-Ementa:
-Altera a Lei nº 13.903, de 19 de novembro de 2019, que autoriza a criação da empresa pública NAV Brasil Serviços de
+Ementa: Altera a Lei nº 13.903, de 19 de novembro de 2019, que autoriza a criação da empresa pública NAV Brasil Serviços de
 Navegação Aérea S.A. (NAV Brasil).
-Assunto:
-Data de Leitura:
-Administração Pública  - Organização Administrativa
--
-Tramitação encerrada
-Aprovada pelo Plenário
-Decisão:
-17/12/2024 - Secretaria de Expediente
-Último local:
-À sanção
-Destino:
-Último estado:
-03/01/2025 - TRANSFORMADA EM
-NORMA JURÍDICA
-Matérias Relacionadas:
-Requerimento nº 23 de 2024
-Relatoria:
-CRE - (Comissão de Relações Exteriores e Defesa Nacional)
-Relator(es):
-Senador Esperidião Amin (encerrado em 10/12/2024 -
-Deliberação da matéria)
-Despacho:
-06/12/2024
+Assunto: Administração Pública  - Organização Administrativa
+Despacho: 06/12/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CRE) Comissão de Relações Exteriores e Defesa Nacional
-TRAMITAÇÃO
-03/01/2025
-SF-SEXPE - Secretaria de Expediente
-TRANSFORMADA EM NORMA JURÍDICA
-Situação:
-(PR) PRESIDÊNCIA DA REPÚBLICA.
+Relatoria: CRE - (Comissão de Relações Exteriores e Defesa Nacional)
+Relator(es):
+Senador Esperidião Amin (encerrado em 10/12/2024 -
+Deliberação da matéria)
+Tramitação encerrada: 
+  Decisão: Aprovada pelo Plenário
+  Destino: À sanção
+  Último local: 17/12/2024 - Secretaria de Expediente
+  Último estado: 03/01/2025 - TRANSFORMADA EM
+NORMA JURÍDICA
+Tramitação: 
+    Data: 03/01/2025
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: TRANSFORMADA EM NORMA JURÍDICA
+    Ação: (PR) PRESIDÊNCIA DA REPÚBLICA.
 SANCIONADA. LEI 15083 DE 2025.
 DOU (Diário Oficial da União) - 03/01/2025 - Seção I - págs. 1 e 1.
 Sancionada em 02/01/2025.
-Ação:
-19/12/2024
-SF-SEXPE - Secretaria de Expediente
-REMETIDA À SANÇÃO
-Situação:
-Remetido Ofício SF n.º 1456, de 19/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+    Data: 19/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: REMETIDA À SANÇÃO
+    Ação: Remetido Ofício SF n.º 1456, de 19/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
 encaminhando a Mensagem SF n.º 286/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
 presidencial autógrafo do Projeto.
 Remetido Ofício SF n.º 1457, de 19/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
 foi encaminhado à sanção presidencial.
+    Data: 17/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Anexado o texto revisado.
 Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 3819, de 2024
-TRAMITAÇÃO
-17/12/2024
-SF-SEXPE - Secretaria de Expediente
-Anexado o texto revisado.
-Ação:
-12/12/2024
-PLEN - Plenário do Senado Federal
-APROVADA
-Situação:
-(Sessão Deliberativa Extraordinária, realizada em 12/12/2024)
+    Data: 12/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: APROVADA
+    Ação: (Sessão Deliberativa Extraordinária, realizada em 12/12/2024)
 Aprovado o Requerimento nº 23, de 2024-CRE, que solicita urgência para a matéria.
 Encerrada a discussão.
 Aprovado o projeto, nos termos do Parecer nº 53/2024-CRE, com a Emenda nº 1 (de redação).
@@ -73,269 +50,165 @@ Encaminhado à publicação o Parecer nº 224, de 2024-PLEN/SF, da Comissão Dir
 Aprovada a redação final.
 A matéria vai à sanção.
 Será feita a devida comunicação à Câmara dos Deputados.
-Ação:
-11/12/2024
-PLEN - Plenário do Senado Federal
-Sessão Deliberativa Ordinária de 11/12/2024 encerrada sem abertura da Ordem do Dia.
+    Data: 11/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Sessão Deliberativa Ordinária de 11/12/2024 encerrada sem abertura da Ordem do Dia.
 Incluído em Ordem do Dia da Sessão Deliberativa Extraordinária de 12/12/2024.
 (Pendente de deliberação do Requerimento nº 23, de 2024, da Comissão de Relações Exteriores e Defesa Nacional, que solicita
 urgência para a matéria).
 Ação:
-10/12/2024
-PLEN - Plenário do Senado Federal
-INCLUÍDA EM ORDEM DO DIA
-Situação:
-Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 11/12/2024.
+    Data: 10/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: INCLUÍDA EM ORDEM DO DIA
+    Ação: Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 11/12/2024.
 (Pendente de deliberação do Requerimento nº 23, de 2024, da Comissão de Relações Exteriores e Defesa Nacional, que solicita
 urgência para a matéria,  nos termos dos arts. 336, II, e 338, II, do Regimento Interno).
-Ação:
-10/12/2024
-PLEN - Plenário do Senado Federal
-Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, "d", do RISF). De 12/12/2024
+    Data: 10/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, "d", do RISF). De 12/12/2024
 a 18/12/2024. Perante a Mesa.
 Ação:
-10/12/2024
-PLEN - Plenário do Senado Federal
-AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA
-Situação:
-Concluída a instrução da matéria, fica aberto o prazo de cinco dias úteis para recebimento de emendas, nos termos do art. 235,
+    Data: 10/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA
+    Ação: Concluída a instrução da matéria, fica aberto o prazo de cinco dias úteis para recebimento de emendas, nos termos do art. 235,
 II, "d", do Regimento Interno.
+    Data: 10/12/2024
+    Órgão: CRE - Comissão de Relações Exteriores e Defesa Nacional
+    Situação: Não disponível
+    Ação: Encerrada a relatoria do Senador Esperidião Amin por deliberação da matéria.
 Ação:
-10/12/2024
-CRE - Comissão de Relações Exteriores e Defesa Nacional
-Encerrada a relatoria do Senador Esperidião Amin por deliberação da matéria.
-Ação:
-10/12/2024
-CRE - Comissão de Relações Exteriores e Defesa Nacional
-APROVADO PARECER NA COMISSÃO
-Situação:
-Reunida a Comissão nesta data, é aprovado o relatório, que passa a constituir parecer da Comissão, favorável ao Projeto e à
+    Data: 10/12/2024
+    Órgão: CRE - Comissão de Relações Exteriores e Defesa Nacional
+    Situação: APROVADO PARECER NA COMISSÃO
+    Ação: Reunida a Comissão nesta data, é aprovado o relatório, que passa a constituir parecer da Comissão, favorável ao Projeto e à
 Emenda nº 1-CRE (de Redação).
 Aprovada a apresentação do Requerimento 23/2024-CRE, de urgência para a matéria.
+    Data: 09/12/2024
+    Órgão: CRE - Comissão de Relações Exteriores e Defesa Nacional
+    Situação: Não disponível
+    Ação: Recebido relatório do Senador Esperidião Amin, pela aprovação do projeto, com uma emenda de redação.
 Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei n° 3819, de 2024
-TRAMITAÇÃO
-A matéria vai à Secretaria-Geral da Mesa, para prosseguimento da tramitação.
-Publicado no DSF Páginas 1713-1720 - DSF nº 212
-09/12/2024
-CRE - Comissão de Relações Exteriores e Defesa Nacional
-Recebido relatório do Senador Esperidião Amin, pela aprovação do projeto, com uma emenda de redação.
+    Data: 07/12/2024
+    Órgão: CRE - Comissão de Relações Exteriores e Defesa Nacional
+    Situação: Não disponível
+    Ação: Apresentado requerimento (Urgência para matéria) na Comissão nesta data às 08:28.
 Ação:
-07/12/2024
-CRE - Comissão de Relações Exteriores e Defesa Nacional
-Apresentado requerimento (Urgência para matéria) na Comissão nesta data às 08:28.
-Ação:
-06/12/2024
-CRE - Comissão de Relações Exteriores e Defesa Nacional
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 16ª Reunião da Comissão de Relações Exteriores e Defesa Nacional, agendada para o dia
+    Data: 06/12/2024
+    Órgão: CRE - Comissão de Relações Exteriores e Defesa Nacional
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 16ª Reunião da Comissão de Relações Exteriores e Defesa Nacional, agendada para o dia
 10/12/2024.
-Ação:
-06/12/2024
-CRE - Comissão de Relações Exteriores e Defesa Nacional
-MATÉRIA COM A RELATORIA
-Situação:
-Distribuído ao Senador Esperidião Amin, para emitir relatório.
-Ação:
-06/12/2024
-CRE - Comissão de Relações Exteriores e Defesa Nacional
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Recebido na Comissão na presente data.
-Ação:
-06/12/2024
-PLEN - Plenário do Senado Federal
-MATÉRIA DESPACHADA
-Situação:
-A matéria vai à Comissão de Relações Exteriores e Defesa Nacional.
-Ação:
-06/12/2024
-PLEN - Plenário do Senado Federal
-AGUARDANDO DESPACHO
-Situação:
-Autuado o Projeto de Lei nº 3819/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação:
-pg
-3
-Atividade Legislativa
-Projeto de Lei n° 3819, de 2024
-DOCUMENTOS
-PL 3819/2024
-06/12/2024
-Data:
- Câmara dos Deputados
-Autor:
-Plenário do Senado Federal
-Local:
-Autuado o Projeto de Lei nº 3819/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação Legislativa:
-Altera a Lei nº 13.903, de 19 de novembro de 2019, que autoriza a criação da empresa pública NAV Brasil Serviços de Navegação
-Aérea S.A. (NAV Brasil).
-Descrição/Ementa:
-OFC 183/2024 - Câmara dos
-06/12/2024
-Data:
-Presidente da Câmara dos Deputados
-Autor:
-Plenário do Senado Federal
-Local:
-Encaminhamento da matéria para apreciação do Senado Federal.
-Descrição/Ementa:
-Avulso inicial da matéria
-06/12/2024
-Data:
- Senado Federal
-Autor:
-null
-Local:
--
-Descrição/Ementa:
-Relatório Legislativo
-09/12/2024
-Data:
-Senador Esperidião Amin (PP/SC)
-Autor:
-Comissão de Relações Exteriores e Defesa Nacional
-Local:
-Recebido relatório do Senador Esperidião Amin, pela aprovação do projeto, com uma emenda de redação.
-Ação Legislativa:
-Da COMISSÃO DE RELAÇÕES EXTERIORES E DEFESA NACIONAL, sobre o Projeto de Lei n° 3819, de 2024, que Altera a Lei nº
+    Data: 06/12/2024
+    Órgão: CRE - Comissão de Relações Exteriores e Defesa Nacional
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Distribuído ao Senador Esperidião Amin, para emitir relatório.
+    Data: 06/12/2024
+    Órgão: CRE - Comissão de Relações Exteriores e Defesa Nacional
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Recebido na Comissão na presente data.
+    Data: 06/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: MATÉRIA DESPACHADA
+    Ação: A matéria vai à Comissão de Relações Exteriores e Defesa Nacional.
+    Data: 06/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO DESPACHO
+    Ação: Autuado o Projeto de Lei nº 3819/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+Documentos: 
+    Documento: PL 3819/2024
+    Data: 06/12/2024
+    Autor: Câmara dos Deputados
+    Local: Plenário do Senado Federal
+    Ação legislativa: Autuado o Projeto de Lei nº 3819/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+    Descrição/ementa: Não disponível
+    Documento: OFC 183/2024 - Câmara dos
+    Data: 06/12/2024
+    Autor: Presidente da Câmara dos Deputados
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminhamento da matéria para apreciação do Senado Federal.
+    Documento: Avulso inicial da matéria
+    Data: 06/12/2024
+    Autor: Senado Federal
+    Local: null
+    Ação legislativa: Não disponível
+    Descrição/ementa: -
+    Documento: Relatório Legislativo
+    Data: 09/12/2024
+    Autor: Senador Esperidião Amin (PP/SC)
+    Local: Comissão de Relações Exteriores e Defesa Nacional
+    Ação legislativa: Recebido relatório do Senador Esperidião Amin, pela aprovação do projeto, com uma emenda de redação.
+    Descrição/ementa: Da COMISSÃO DE RELAÇÕES EXTERIORES E DEFESA NACIONAL, sobre o Projeto de Lei n° 3819, de 2024, que Altera a Lei nº
 13.903, de 19 de novembro de 2019, que autoriza a criação da empresa pública NAV Brasil Serviços de Navegação Aérea S.A.
 (NAV Brasil).
-Descrição/Ementa:
-REQ 23/2024 - CRE
-10/12/2024
-Data:
- Comissão de Relações Exteriores e Defesa Nacional
-Autor:
-Comissão de Relações Exteriores e Defesa Nacional
-Local:
-Reunida a Comissão nesta data, é aprovado o relatório, que passa a constituir parecer da Comissão, favorável ao Projeto e à
-Emenda nº 1-CRE (de Redação).
-Aprovada a apresentação do Requerimento 23/2024-CRE, de urgência para a matéria.
-A matéria vai à Secretaria-Geral da Mesa, para prosseguimento da tramitação.
-Ação Legislativa:
-Requer, nos termos dos arts. 336, II, e 338, II, do Regimento Interno do Senado Federal, urgência para o PL 3819/2024.
-Descrição/Ementa:
-Listagem ou relatório
-10/12/2024
-Data:
- Comissão de Relações Exteriores e Defesa Nacional
-Autor:
-Comissão de Relações Exteriores e Defesa Nacional
-Local:
-Listagem ou relatório descritivo-Lista de Presença da reunião da 16ª Reunião CRE
-Descrição/Ementa:
-pg
+    Documento: REQ 23/2024 - CRE
+    Data: 10/12/2024
+    Autor: Comissão de Relações Exteriores e Defesa Nacional
+    Local: Comissão de Relações Exteriores e Defesa Nacional
+    Ação legislativa: Não disponível
+    Descrição/ementa: Requer, nos termos dos arts. 336, II, e 338, II, do Regimento Interno do Senado Federal, urgência para o PL 3819/2024.
+    Documento: Listagem ou relatório
+    Data: 10/12/2024
+    Autor: Comissão de Relações Exteriores e Defesa Nacional
+    Local: Comissão de Relações Exteriores e Defesa Nacional
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 16ª Reunião CRE
+    Documento: pg
 4
 Atividade Legislativa
 Projeto de Lei n° 3819, de 2024
 DOCUMENTOS
 P.S 53/2024 - CRE
-10/12/2024
-Data:
- Comissão de Relações Exteriores e Defesa Nacional, Senador Esperidião Amin (PP/SC), Senador Chico Rodrigues (PSB/RR)
-Autor:
-Comissão de Relações Exteriores e Defesa Nacional
-Local:
-Reunida a Comissão nesta data, é aprovado o relatório, que passa a constituir parecer da Comissão, favorável ao Projeto e à
-Emenda nº 1-CRE (de Redação).
-Aprovada a apresentação do Requerimento 23/2024-CRE, de urgência para a matéria.
-A matéria vai à Secretaria-Geral da Mesa, para prosseguimento da tramitação.
-Ação Legislativa:
-Da COMISSÃO DE RELAÇÕES EXTERIORES E DEFESA NACIONAL, sobre o Projeto de Lei n° 3819, de 2024, que Altera a Lei nº
+    Data: 10/12/2024
+    Autor: Comissão de Relações Exteriores e Defesa Nacional, Senador Esperidião Amin (PP/SC), Senador Chico Rodrigues (PSB/RR)
+    Local: Comissão de Relações Exteriores e Defesa Nacional
+    Ação legislativa: Não disponível
+    Descrição/ementa: Da COMISSÃO DE RELAÇÕES EXTERIORES E DEFESA NACIONAL, sobre o Projeto de Lei n° 3819, de 2024, que Altera a Lei nº
 13.903, de 19 de novembro de 2019, que autoriza a criação da empresa pública NAV Brasil Serviços de Navegação Aérea S.A.
 (NAV Brasil).
-Descrição/Ementa:
-P.S 224/2024 - PLEN
-12/12/2024
-Data:
- Comissão Diretora do Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-Parecer nº 224, de 2024-PLEN/SF, da Comissão Diretora.
-Descrição/Ementa:
-Minuta
-17/12/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Anexado o texto revisado.
-Ação Legislativa:
-MPSF 286/2024
-19/12/2024
-Data:
-Presidente do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1456, de 19/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 286/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1457, de 19/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Encaminha à sanção o Projeto de Lei n° 3.819, de 2024.
-Descrição/Ementa:
-OFSF 1456/2024
-19/12/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1456, de 19/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 286/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1457, de 19/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
+    Documento: P.S 224/2024 - PLEN
+    Data: 12/12/2024
+    Autor: Comissão Diretora do Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Parecer nº 224, de 2024-PLEN/SF, da Comissão Diretora.
+    Documento: Minuta
+    Data: 17/12/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Anexado o texto revisado.
+    Descrição/ementa: MPSF 286/2024
+    Documento: MPSF 286/2024
+    Data: 19/12/2024
+    Autor: Presidente do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha à sanção o Projeto de Lei n° 3.819, de 2024.
+    Documento: OFSF 1456/2024
+    Data: 19/12/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
 3.819, de 2024.
-Descrição/Ementa:
-pg
+    Documento: pg
 5
 Atividade Legislativa
 Projeto de Lei n° 3819, de 2024
 DOCUMENTOS
 OFSF 1457/2024
-19/12/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1456, de 19/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 286/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1457, de 19/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 3.819, de 2024.
-Descrição/Ementa:
-Autógrafo - PL 3819/2024
-19/12/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Remetido Ofício SF n.º 1456, de 19/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 286/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1457, de 19/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Altera a Lei nº 13.903, de 19 de novembro de 2019, que autoriza a criação da empresa pública NAV Brasil Serviços de Navegação
+    Data: 19/12/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 3.819, de 2024.
+    Documento: Autógrafo - PL 3819/2024
+    Data: 19/12/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Altera a Lei nº 13.903, de 19 de novembro de 2019, que autoriza a criação da empresa pública NAV Brasil Serviços de Navegação
 Aérea S.A. (NAV Brasil).
-Descrição/Ementa:
-pg
-6
-

@@ -1,70 +1,43 @@
-Atividade Legislativa
-Projeto de Lei n° 3149, de 2020
-Autoria:
-Câmara dos Deputados
+Atividade legislativa: Projeto de Lei n° 3149, de 2020
+Autoria: Câmara dos Deputados
 Iniciativa: Deputado Federal Efraim Filho (DEM/PB)
-Ementa:
-Altera a Lei nº 13.576, de 26 de dezembro de 2017, que dispõe sobre a Política Nacional de Biocombustíveis
+Ementa: Altera a Lei nº 13.576, de 26 de dezembro de 2017, que dispõe sobre a Política Nacional de Biocombustíveis
 (RenovaBio), para nela incluir os produtores independentes de matéria-prima destinada à produção de biocombustível;
 e altera a Lei nº 9.478, de 6 de agosto de 1997.
-Assunto:
-Data de Leitura:
-Economia e Desenvolvimento  - Tributos
--
-Tramitação encerrada
-Aprovada pelo Plenário
-Decisão:
-05/12/2024 - Secretaria de Expediente
-Último local:
-À sanção
-Destino:
-Último estado:
-31/12/2024 - TRANSFORMADA EM
-NORMA JURÍDICA COM VETO PARCIAL
-Matérias Relacionadas:
-Requerimento nº 825 de 2024
-Requerimento nº 839 de 2024
-Veto nº 00050 de 2024
-Despacho:
-04/12/2024
+Assunto: Economia e Desenvolvimento  - Tributos
+Despacho: 04/12/2024
 Decisão da Presidência
 Ao Plenário
 (SF-PLEN) Plenário do Senado Federal
-TRAMITAÇÃO
-31/12/2024
-SF-SEXPE - Secretaria de Expediente
-TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL
-Situação:
-(PR) PRESIDÊNCIA DA REPÚBLICA.
+Tramitação encerrada: 
+  Decisão: Aprovada pelo Plenário
+  Destino: À sanção
+  Último local: 05/12/2024 - Secretaria de Expediente
+  Último estado: 31/12/2024 - TRANSFORMADA EM
+NORMA JURÍDICA COM VETO PARCIAL
+Tramitação: 
+    Data: 31/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL
+    Ação: (PR) PRESIDÊNCIA DA REPÚBLICA.
 SANCIONADA. LEI 15082 DE 2024. (vetada parcialmente: vide MSG 1709 de 2024).
 DOU (Diário Oficial da União) - 31/12/2024 - Seção I - págs. 868 e 869.
 Sancionada em 30/12/2024.
 À COARQ.
-Ação:
-09/12/2024
-SF-SEXPE - Secretaria de Expediente
-REMETIDA À SANÇÃO
-Situação:
-Remetido Ofício SF n.º 1347, de 09/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+    Data: 09/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: REMETIDA À SANÇÃO
+    Ação: Remetido Ofício SF n.º 1347, de 09/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
 encaminhando a Mensagem SF n.º 250/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
+    Data: 05/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Anexado o texto revisado.
 Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 3149, de 2020
-TRAMITAÇÃO
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1348, de 09/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-05/12/2024
-SF-SEXPE - Secretaria de Expediente
-Anexado o texto revisado.
-Ação:
-04/12/2024
-PLEN - Plenário do Senado Federal
-APROVADA
-Situação:
-(173ª Sessão Deliberativa Ordinária – realizada em 04/12/2024)
+    Data: 04/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: APROVADA
+    Ação: (173ª Sessão Deliberativa Ordinária – realizada em 04/12/2024)
 Encaminhada à publicação a Emenda n° 1, já disponibilizada na tramitação da matéria.
 Retirado pelo autor o Requerimento nº 839, de 2024, dos Senadores Otto Alencar e Eliziane Gama, que solicita a oitiva da
 Comissão de Assuntos Econômicos.
@@ -75,240 +48,139 @@ Encerrada a discussão da matéria.
 Aprovado o projeto, em turno único, nos termos do parecer.
 A matéria vai à sanção.
 Será feita a devida comunicação à Câmara dos Deputados.
-Ação:
-Publicado no DSF Páginas 147-151 - DSF nº 208
-04/12/2024
-PLEN - Plenário do Senado Federal
-Designado Relator de Plenário o Senador Efraim Filho.
+    Data: 04/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Designado Relator de Plenário o Senador Efraim Filho.
 Recebido o Relatório do Senador Efraim Filho.
 Ação:
-04/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 1, do Senador Veneziano Vital do Rêgo.
+    Data: 04/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 1, do Senador Veneziano Vital do Rêgo.
 Ação:
-02/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Requerimento nº 839 de 2024, dos Senadores Otto Alencar e Eliziane Gama, de oitiva da Comissão de Assuntos
+    Data: 02/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Requerimento nº 839 de 2024, dos Senadores Otto Alencar e Eliziane Gama, de oitiva da Comissão de Assuntos
 Econômicos.
 Ação:
-01/12/2024
-PLEN - Plenário do Senado Federal
-INCLUÍDA EM ORDEM DO DIA
-Situação:
-Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 4/12/2024.
+    Data: 01/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: INCLUÍDA EM ORDEM DO DIA
+    Ação: Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 4/12/2024.
 (Pendente de deliberação do Requerimento nº 825, de 2024, de Líderes, solicitando urgência para a matéria, nos termos dos
 arts. 336, III, e 338, III, do Regimento Interno).
-Ação:
-26/11/2024
-PLEN - Plenário do Senado Federal
-Recebido o Requerimento nº 825, de 2024, de Líderes, solicitando urgência para a matéria.
+    Data: 26/11/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Requerimento nº 825, de 2024, de Líderes, solicitando urgência para a matéria.
 Ação:
 pg
 2
 Atividade Legislativa
 Projeto de Lei n° 3149, de 2020
 TRAMITAÇÃO
-12/11/2024
-PLEN - Plenário do Senado Federal
-AGUARDANDO DESPACHO
-Situação:
-Autuado o Projeto de Lei nº 3149/2020, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação:
-Publicado no DSF Páginas 237-251 - DSF nº 194
-DOCUMENTOS
-PL 3149/2020
-12/11/2024
-Data:
- Câmara dos Deputados
-Autor:
-Plenário do Senado Federal
-Local:
-Autuado o Projeto de Lei nº 3149/2020, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação Legislativa:
-Altera a Lei nº 13.576, de 26 de dezembro de 2017, que dispõe sobre a Política Nacional de Biocombustíveis (RenovaBio), para
-nela incluir os produtores independentes de matéria-prima destinada à produção de biocombustível; e altera a Lei nº 9.478, de 6
-de agosto de 1997.
-Descrição/Ementa:
-Avulso inicial da matéria
-12/11/2024
-Data:
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-Autuado o Projeto de Lei nº 3149/2020, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação Legislativa:
--
-Descrição/Ementa:
-RQS 825/2024
-26/11/2024
-Data:
-Líder do Bloco Parlamentar Democracia Efraim Filho (UNIÃO/PB), Líder do PODEMOS Rodrigo Cunha (PODEMOS/AL), Líder do
-Bloco Parlamentar Aliança Laércio Oliveira (PP/SE)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Requerimento nº 825, de 2024, de Líderes, solicitando urgência para a matéria.
-Ação Legislativa:
-Requer urgência para o Projeto de Lei nº 3.149/2020, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado
+    Data: 12/11/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO DESPACHO
+    Ação: Autuado o Projeto de Lei nº 3149/2020, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+Documentos: 
+    Documento: PL 3149/2020
+    Data: 12/11/2024
+    Autor: Câmara dos Deputados
+    Local: Plenário do Senado Federal
+    Ação legislativa: Autuado o Projeto de Lei nº 3149/2020, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+    Descrição/ementa: Não disponível
+    Documento: Avulso inicial da matéria
+    Data: 12/11/2024
+    Autor: Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Autuado o Projeto de Lei nº 3149/2020, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+    Descrição/ementa: -
+    Documento: RQS 825/2024
+    Data: 26/11/2024
+    Autor: Líder do Bloco Parlamentar Democracia Efraim Filho (UNIÃO/PB), Líder do PODEMOS Rodrigo Cunha (PODEMOS/AL), Líder do
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebido o Requerimento nº 825, de 2024, de Líderes, solicitando urgência para a matéria.
+    Descrição/ementa: Requer urgência para o Projeto de Lei nº 3.149/2020, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado
 Federal.
-Descrição/Ementa:
-RQS 839/2024
-02/12/2024
-Data:
-Líder do Governo Otto Alencar (PSD/BA), Líder do Bloco Parlamentar da Resistência Democrática Eliziane Gama (PSD/MA)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Requerimento nº 839 de 2024, dos Senadores Otto Alencar e Eliziane Gama, de oitiva da Comissão de Assuntos
-Econômicos.
-Ação Legislativa:
-Requer a oitiva da Comissão de Assuntos Econômicos sobre o Projeto de Lei nº 3.149/2020.
-Descrição/Ementa:
-EMENDA 1 PLEN - PL
-04/12/2024
-Data:
-Senador Veneziano Vital do Rêgo (MDB/PB)
-Autor:
-Plenário do Senado Federal
-Local:
-pg
-3
-Atividade Legislativa
-Projeto de Lei n° 3149, de 2020
-DOCUMENTOS
-Recebida a Emenda nº 1, do Senador Veneziano Vital do Rêgo.
-Ação Legislativa:
-Emenda  ao PL 3149/2020 - PIS/PASEP Etanol
-Descrição/Ementa:
-Relatório Legislativo
-04/12/2024
-Data:
-Senador Efraim Filho (UNIÃO/PB)
-Autor:
-Plenário do Senado Federal
-Local:
-Designado Relator de Plenário o Senador Efraim Filho.
-Recebido o Relatório do Senador Efraim Filho.
-Ação Legislativa:
-Relatório sobre o PL 3149/2020
-Descrição/Ementa:
-Relatório Legislativo
-04/12/2024
-Data:
-Senador Efraim Filho (UNIÃO/PB)
-Autor:
-Plenário do Senado Federal
-Local:
-Relatório sobre o PL 3149/2020
-Descrição/Ementa:
-P.S 199/2024 - PLEN
-04/12/2024
-Data:
-Senador Efraim Filho (UNIÃO/PB)
-Autor:
-Plenário do Senado Federal
-Local:
-(173ª Sessão Deliberativa Ordinária – realizada em 04/12/2024)
-Encaminhada à publicação a Emenda n° 1, já disponibilizada na tramitação da matéria.
-Retirado pelo autor o Requerimento nº 839, de 2024, dos Senadores Otto Alencar e Eliziane Gama, que solicita a oitiva da
-Comissão de Assuntos Econômicos.
-Aprovado o Requerimento nº 825, de 2024, de iniciativa de Líderes, que solicita urgência para a matéria.
-Encaminhado à publicação o Parecer nº 199, de 2024-PLEN/SF, proferido pelo Senador Efraim Filho, o qual é favorável ao projeto
-e contrário à Emenda nº 1.
-Encerrada a discussão da matéria.
-Aprovado o projeto, em turno único, nos termos do parecer.
-A matéria vai à sanção.
-Será feita a devida comunicação à Câmara dos Deputados.
-Ação Legislativa:
-Parecer nº 199, de 2024-PLEN/SF.
-Descrição/Ementa:
-Avulso de emendas
-04/12/2024
-Data:
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
--
-Descrição/Ementa:
-Minuta
-05/12/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Anexado o texto revisado.
-Ação Legislativa:
-pg
+    Documento: RQS 839/2024
+    Data: 02/12/2024
+    Autor: Líder do Governo Otto Alencar (PSD/BA), Líder do Bloco Parlamentar da Resistência Democrática Eliziane Gama (PSD/MA)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Requer a oitiva da Comissão de Assuntos Econômicos sobre o Projeto de Lei nº 3.149/2020.
+    Documento: EMENDA 1 PLEN - PL
+    Data: 04/12/2024
+    Autor: Senador Veneziano Vital do Rêgo (MDB/PB)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Emenda  ao PL 3149/2020 - PIS/PASEP Etanol
+    Documento: Relatório Legislativo
+    Data: 04/12/2024
+    Autor: Senador Efraim Filho (UNIÃO/PB)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Relatório sobre o PL 3149/2020
+    Documento: Relatório Legislativo
+    Data: 04/12/2024
+    Autor: Senador Efraim Filho (UNIÃO/PB)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Relatório sobre o PL 3149/2020
+    Documento: P.S 199/2024 - PLEN
+    Data: 04/12/2024
+    Autor: Senador Efraim Filho (UNIÃO/PB)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Parecer nº 199, de 2024-PLEN/SF.
+    Documento: Avulso de emendas
+    Data: 04/12/2024
+    Autor: Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: -
+    Documento: Minuta
+    Data: 05/12/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Anexado o texto revisado.
+    Descrição/ementa: pg
 4
 Atividade Legislativa
 Projeto de Lei n° 3149, de 2020
 DOCUMENTOS
 OFSF 1347/2024
-09/12/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1347, de 09/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 250/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1348, de 09/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
+    Documento: pg
+4
+Atividade Legislativa
+Projeto de Lei n° 3149, de 2020
+DOCUMENTOS
+OFSF 1347/2024
+    Data: 09/12/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
 3149, de 2020.
-Descrição/Ementa:
-MPSF 250/2024
-09/12/2024
-Data:
-Presidente do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1347, de 09/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 250/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1348, de 09/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Encaminha à sanção o Projeto de Lei n° 3149, de 2020.
-Descrição/Ementa:
-OFSF 1348/2024
-09/12/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1347, de 09/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 250/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1348, de 09/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 3149, de 2020.
-Descrição/Ementa:
-Autógrafo - PL 3149/2020
-09/12/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Remetido Ofício SF n.º 1347, de 09/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 250/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1348, de 09/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Altera a Lei nº 13.576, de 26 de dezembro de 2017, que dispõe sobre a Política Nacional de Biocombustíveis (RenovaBio), para
+    Documento: MPSF 250/2024
+    Data: 09/12/2024
+    Autor: Presidente do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha à sanção o Projeto de Lei n° 3149, de 2020.
+    Documento: OFSF 1348/2024
+    Data: 09/12/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 3149, de 2020.
+    Documento: Autógrafo - PL 3149/2020
+    Data: 09/12/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Altera a Lei nº 13.576, de 26 de dezembro de 2017, que dispõe sobre a Política Nacional de Biocombustíveis (RenovaBio), para
 nela incluir os produtores independentes de matéria-prima destinada à produção de biocombustível; e altera a Lei nº 9.478, de 6
 de agosto de 1997.
-Descrição/Ementa:
-pg
-5
-

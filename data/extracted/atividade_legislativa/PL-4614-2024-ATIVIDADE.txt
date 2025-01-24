@@ -1,78 +1,49 @@
-Atividade Legislativa
-Projeto de Lei n° 4614, de 2024
-Autoria:
-Câmara dos Deputados
+Atividade legislativa: Projeto de Lei n° 4614, de 2024
+Autoria: Câmara dos Deputados
 Iniciativa: Deputado Federal José Guimarães (PT/CE)
-Ementa:
-Altera as Leis nºs 8.171, de 17 de janeiro de 1991, 8.742, de 7 de dezembro de 1993, 14.601, de 19 de junho de 2023, e
+Ementa: Altera as Leis nºs 8.171, de 17 de janeiro de 1991, 8.742, de 7 de dezembro de 1993, 14.601, de 19 de junho de 2023, e
 14.995, de 10 de outubro de 2024, para dispor sobre políticas públicas; e dá outras providências.
-Assunto:
-Data de Leitura:
-Economia e Desenvolvimento  - Agropecuária e Abastecimento
--
-Tramitação encerrada
-Aprovada pelo Plenário
-Decisão:
-23/12/2024 - Secretaria de Expediente
-Último local:
-À sanção
-Destino:
-Último estado:
-27/12/2024 - TRANSFORMADA EM
-NORMA JURÍDICA COM VETO PARCIAL
-Matérias Relacionadas:
-Requerimento nº 982 de 2024
-Requerimento nº 983 de 2024
-Requerimento nº 984 de 2024
-Requerimento nº 985 de 2024
-Requerimento nº 987 de 2024
-Requerimento nº 988 de 2024
-Veto nº 00046 de 2024
-Relatoria:
-PLEN - (Plenário do Senado Federal)
-Relator(es):
-Senador Rogério Carvalho (encerrado em 20/12/2024 -
-Deliberação da matéria)
-Despacho:
-19/12/2024
+Assunto: Economia e Desenvolvimento  - Agropecuária e Abastecimento
+Despacho: 19/12/2024
 Decisão da Presidência
 Ao Plenário
 (SF-PLEN) Plenário do Senado Federal
-TRAMITAÇÃO
-27/12/2024
-SF-SEXPE - Secretaria de Expediente
-TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL
-Situação:
-(PR) PRESIDÊNCIA DA REPÚBLICA.
+Relatoria: PLEN - (Plenário do Senado Federal)
+Relator(es):
+Senador Rogério Carvalho (encerrado em 20/12/2024 -
+Deliberação da matéria)
+Tramitação encerrada: 
+  Decisão: Aprovada pelo Plenário
+  Destino: À sanção
+  Último local: 23/12/2024 - Secretaria de Expediente
+  Último estado: 27/12/2024 - TRANSFORMADA EM
+NORMA JURÍDICA COM VETO PARCIAL
+Tramitação: 
+    Data: 27/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL
+    Ação: (PR) PRESIDÊNCIA DA REPÚBLICA.
 SANCIONADA. LEI 15077 DE 2024. (vetada parcialmente: vide MSG 1699 de 2024).
 DOUE (Diário Oficial da União - Edição Extra) - 27/12/2024 - Seção I - págs. 1 e 1.
 Sancionada em 27/12/2024.
 À COARQ.
-Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 4614, de 2024
-TRAMITAÇÃO
-26/12/2024
-SF-SEXPE - Secretaria de Expediente
-REMETIDA À SANÇÃO
-Situação:
-Remetido Ofício SF n.º 1598, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+    Data: 26/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: REMETIDA À SANÇÃO
+    Ação: Remetido Ofício SF n.º 1598, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
 encaminhando a Mensagem SF n.º 315/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
 presidencial autógrafo do Projeto.
 Remetido Ofício SF n.º 1599, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
 foi encaminhado à sanção presidencial.
+    Data: 23/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Anexado o texto revisado.
 Ação:
-23/12/2024
-SF-SEXPE - Secretaria de Expediente
-Anexado o texto revisado.
-Ação:
-20/12/2024
-PLEN - Plenário do Senado Federal
-APROVADA
-Situação:
-(Continuação da Sessão Deliberativa Extraordinária iniciada em 19/12/2024)
+    Data: 20/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: APROVADA
+    Ação: (Continuação da Sessão Deliberativa Extraordinária iniciada em 19/12/2024)
 Encaminhadas à publicação as Emendas n°s 1 a 15-PLEN.
 Encaminhado à publicação e aprovado o RQS nº 985/2024, solicitando urgência para a matéria.
 Proferido pelo Senador Rogério Carvalho e encaminhado à publicação o Parecer n° 262/2024 - PLEN/SF, concluindo pela
@@ -96,20 +67,19 @@ Será feita a devida comunicação à Câmara dos Deputados.
 (Encaminhados à publicação os RQS nºs 987 e 988/2024)
 (Encaminhadas à publicação Declarações de Voto dos Senadores Lucas Barreto, Plínio Valério e Eduardo Girão)
 (Encaminhado à publicação o Ofício nº 98/2024, do Senador Márcio Bittar)
+    Data: 20/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: APROVADO PARECER NA COMISSÃO
+    Ação: Encerrada a relatoria do Senador Rogério Carvalho por deliberação da matéria.
+    Data: 20/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 15, do Senador Dr. Hiran.
 Ação:
-20/12/2024
-PLEN - Plenário do Senado Federal
-APROVADO PARECER NA COMISSÃO
-Situação:
-Encerrada a relatoria do Senador Rogério Carvalho por deliberação da matéria.
-Ação:
-20/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 15, do Senador Dr. Hiran.
-Ação:
-20/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Ofício n° 247/2024, da Câmara dos Deputados, comunicando inexatidão material em autógrafo do Projeto de Lei
+    Data: 20/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Ofício n° 247/2024, da Câmara dos Deputados, comunicando inexatidão material em autógrafo do Projeto de Lei
 n° 4.614/2024.
 Ação:
 pg
@@ -117,631 +87,366 @@ pg
 Atividade Legislativa
 Projeto de Lei n° 4614, de 2024
 TRAMITAÇÃO
-20/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 14, do Senador Astronauta Marcos Pontes.
+    Data: 20/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 14, do Senador Astronauta Marcos Pontes.
 Ação:
-20/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Requerimento nº 988, de 2024, da Liderança do Partido Liberal, de retirada do Requerimento nº 982, de 2024.
+    Data: 20/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Requerimento nº 988, de 2024, da Liderança do Partido Liberal, de retirada do Requerimento nº 982, de 2024.
 Ação:
-20/12/2024
-PLEN - Plenário do Senado Federal
-Recebidas as Emendas nº 12 e 13, do Senador Astronauta Marcos Pontes.
+    Data: 20/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebidas as Emendas nº 12 e 13, do Senador Astronauta Marcos Pontes.
 Ação:
-20/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 11, do Senador Veneziano Vital do Rêgo.
+    Data: 20/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 11, do Senador Veneziano Vital do Rêgo.
 Ação:
-20/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Requerimento n° 987, de 2024, do Senador Nelsinho Trad, de destaque para votação em separado da expressão "de
+    Data: 20/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Requerimento n° 987, de 2024, do Senador Nelsinho Trad, de destaque para votação em separado da expressão "de
 grau moderado ou grave, nos termos do regulamento", do § 2-A do art. 20 da Lei 8.742/1993, na forma do artigo 6º.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 10, do Senador Alessandro Vieira.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 10, do Senador Alessandro Vieira.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 9, do Senador Sergio Moro.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 9, do Senador Sergio Moro.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 8, do Senador Alessandro Vieira.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 8, do Senador Alessandro Vieira.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Requerimento nº 985, de 2024, de Líderes, solicitando urgência para a matéria.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Requerimento nº 985, de 2024, de Líderes, solicitando urgência para a matéria.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Requerimento n° 984, de 2024, da Liderança do PL, de destaque para votação em separado da Emenda nº 2.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Requerimento n° 984, de 2024, da Liderança do PL, de destaque para votação em separado da Emenda nº 2.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebidas as Emendas nº 3 a 7, do Senador Mecias de Jesus.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebidas as Emendas nº 3 a 7, do Senador Mecias de Jesus.
 Ação:
 pg
 3
 Atividade Legislativa
 Projeto de Lei n° 4614, de 2024
 TRAMITAÇÃO
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Relatório do Senador Rogério Carvalho.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Relatório do Senador Rogério Carvalho.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 2, do Senador Izalci Lucas.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 2, do Senador Izalci Lucas.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Requerimento n° 983, de 2024, da Liderança do Republicanos, de destaque para votação em separado da expressão
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Requerimento n° 983, de 2024, da Liderança do Republicanos, de destaque para votação em separado da expressão
 "de grau moderado ou grave, nos termos do regulamento", do § 2-A do art. 20 da Lei 8.742/1993, na forma do art. 6º.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Requerimento n° 982, de 2024, da Liderança do PL, de destaque para votação em separado da Emenda nº 1.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Requerimento n° 982, de 2024, da Liderança do PL, de destaque para votação em separado da Emenda nº 1.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 1, do Senador Rogerio Marinho.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 1, do Senador Rogerio Marinho.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Designado Relator de Plenário o Senador Rogério Carvalho.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Designado Relator de Plenário o Senador Rogério Carvalho.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-AGUARDANDO DESPACHO
-Situação:
-Autuado o Projeto de Lei nº 4614/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação:
-DOCUMENTOS
-PL 4614/2024
-19/12/2024
-Data:
- Câmara dos Deputados
-Autor:
-Plenário do Senado Federal
-Local:
-Autuado o Projeto de Lei nº 4614/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação Legislativa:
-Altera as Leis nºs 8.171, de 17 de janeiro de 1991, 8.742, de 7 de dezembro de 1993, 14.601, de 19 de junho de 2023, e 14.995,
-de 10 de outubro de 2024, para dispor sobre políticas públicas; e dá outras providências.
-Descrição/Ementa:
-Avulso inicial da matéria
-19/12/2024
-Data:
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-pg
-4
-Atividade Legislativa
-Projeto de Lei n° 4614, de 2024
-DOCUMENTOS
-Autuado o Projeto de Lei nº 4614/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação Legislativa:
--
-Descrição/Ementa:
-EMENDA 1 PLEN - PL
-19/12/2024
-Data:
-Senador Rogerio Marinho (PL/RN)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 1, do Senador Rogerio Marinho.
-Ação Legislativa:
-Emenda  ao PL 4614/2024 - salário mínimo
-Descrição/Ementa:
-RQS 984/2024
-19/12/2024
-Data:
-Líder do PL Carlos Portinho (PL/RJ)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Requerimento n° 984, de 2024, da Liderança do PL, de destaque para votação em separado da Emenda nº 2.
-Ação Legislativa:
-Requer, pela Liderança do PL, destaque para votação em separado da Emenda nº 2 ao Projeto de Lei nº 4.614/2024.
-Descrição/Ementa:
-RQS 982/2024
-19/12/2024
-Data:
-Líder do PL Carlos Portinho (PL/RJ)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Requerimento n° 982, de 2024, da Liderança do PL, de destaque para votação em separado da Emenda nº 1.
-Ação Legislativa:
-Requer, pela Liderança do PL, destaque para votação em separado da Emenda nº 1 ao Projeto de Lei nº 4.614/2024.
-Descrição/Ementa:
-RQS 983/2024
-19/12/2024
-Data:
-Líder do REPUBLICANOS Mecias de Jesus (REPUBLICANOS/RR)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Requerimento n° 983, de 2024, da Liderança do Republicanos, de destaque para votação em separado da expressão
-"de grau moderado ou grave, nos termos do regulamento", do § 2-A do art. 20 da Lei 8.742/1993, na forma do art. 6º.
-Ação Legislativa:
-Requer, pela Liderança do Republicanos, destaque para votação em separado da expressão "de grau moderado ou grave, nos
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO DESPACHO
+    Ação: Autuado o Projeto de Lei nº 4614/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+Documentos: 
+    Documento: PL 4614/2024
+    Data: 19/12/2024
+    Autor: Câmara dos Deputados
+    Local: Plenário do Senado Federal
+    Ação legislativa: Autuado o Projeto de Lei nº 4614/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+    Descrição/ementa: Não disponível
+    Documento: Avulso inicial da matéria
+    Data: 19/12/2024
+    Autor: Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: -
+    Documento: EMENDA 1 PLEN - PL
+    Data: 19/12/2024
+    Autor: Senador Rogerio Marinho (PL/RN)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 1, do Senador Rogerio Marinho.
+    Descrição/ementa: Emenda  ao PL 4614/2024 - salário mínimo
+    Documento: RQS 984/2024
+    Data: 19/12/2024
+    Autor: Líder do PL Carlos Portinho (PL/RJ)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebido o Requerimento n° 984, de 2024, da Liderança do PL, de destaque para votação em separado da Emenda nº 2.
+    Descrição/ementa: Requer, pela Liderança do PL, destaque para votação em separado da Emenda nº 2 ao Projeto de Lei nº 4.614/2024.
+    Documento: RQS 982/2024
+    Data: 19/12/2024
+    Autor: Líder do PL Carlos Portinho (PL/RJ)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebido o Requerimento n° 982, de 2024, da Liderança do PL, de destaque para votação em separado da Emenda nº 1.
+    Descrição/ementa: Requer, pela Liderança do PL, destaque para votação em separado da Emenda nº 1 ao Projeto de Lei nº 4.614/2024.
+    Documento: RQS 983/2024
+    Data: 19/12/2024
+    Autor: Líder do REPUBLICANOS Mecias de Jesus (REPUBLICANOS/RR)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Requer, pela Liderança do Republicanos, destaque para votação em separado da expressão "de grau moderado ou grave, nos
 termos do regulamento", do § 2-A do artigo 20 da lei 8.742/1993, na forma do artigo 6º do Projeto de Lei nº 4.614/2024.
-Descrição/Ementa:
-EMENDA 2 PLEN - PL
-19/12/2024
-Data:
-Senador Izalci Lucas (PL/DF)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 2, do Senador Izalci Lucas.
-Ação Legislativa:
-Emenda art. 40-B ao PL 4614/2024
-Descrição/Ementa:
-Relatório Legislativo
-19/12/2024
-Data:
-Senador Rogério Carvalho (PT/SE)
-Autor:
-pg
-5
-Atividade Legislativa
-Projeto de Lei n° 4614, de 2024
-DOCUMENTOS
-Plenário do Senado Federal
-Local:
-Recebido o Relatório do Senador Rogério Carvalho.
-Ação Legislativa:
-Relatório PL 4614/2024 (pacote de corte de despesas, Plenário)
-Descrição/Ementa:
-EMENDA 3 PLEN - PL
-19/12/2024
-Data:
-Senador Mecias de Jesus (REPUBLICANOS/RR)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebidas as Emendas nº 3 a 7, do Senador Mecias de Jesus.
-Ação Legislativa:
-Emenda 1 cms ao PL 4614/2024
-Descrição/Ementa:
-EMENDA 4 PLEN - PL
-19/12/2024
-Data:
-Senador Mecias de Jesus (REPUBLICANOS/RR)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebidas as Emendas nº 3 a 7, do Senador Mecias de Jesus.
-Ação Legislativa:
-Emenda 1 ao PL 4614/2024
-Descrição/Ementa:
-EMENDA 5 PLEN - PL
-19/12/2024
-Data:
-Senador Mecias de Jesus (REPUBLICANOS/RR)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebidas as Emendas nº 3 a 7, do Senador Mecias de Jesus.
-Ação Legislativa:
-Emenda 2 ao PL 4614/2024
-Descrição/Ementa:
-EMENDA 6 PLEN - PL
-19/12/2024
-Data:
-Senador Mecias de Jesus (REPUBLICANOS/RR)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebidas as Emendas nº 3 a 7, do Senador Mecias de Jesus.
-Ação Legislativa:
-Emenda 3 ao PL 4614/2024
-Descrição/Ementa:
-EMENDA 7 PLEN - PL
-19/12/2024
-Data:
-Senador Mecias de Jesus (REPUBLICANOS/RR)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebidas as Emendas nº 3 a 7, do Senador Mecias de Jesus.
-Ação Legislativa:
-Emenda 4 ao PL 4614/2024
-Descrição/Ementa:
-RQS 985/2024
-19/12/2024
-Data:
-Líder do Governo Jaques Wagner (PT/BA), Líder do Bloco Parlamentar da Resistência Democrática Eliziane Gama (PSD/MA), Líder
-do PDT Ana Paula Lobato (PDT/MA)
-Autor:
-pg
-6
-Atividade Legislativa
-Projeto de Lei n° 4614, de 2024
-DOCUMENTOS
-Plenário do Senado Federal
-Local:
-Recebido o Requerimento nº 985, de 2024, de Líderes, solicitando urgência para a matéria.
-Ação Legislativa:
-Requer urgência para o Projeto de Lei nº 4.614/2024, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado
+    Documento: EMENDA 2 PLEN - PL
+    Data: 19/12/2024
+    Autor: Senador Izalci Lucas (PL/DF)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 2, do Senador Izalci Lucas.
+    Descrição/ementa: Emenda art. 40-B ao PL 4614/2024
+    Documento: Relatório Legislativo
+    Data: 19/12/2024
+    Autor: Senador Rogério Carvalho (PT/SE)
+    Local: pg
+    Ação legislativa: Recebido o Relatório do Senador Rogério Carvalho.
+    Descrição/ementa: Relatório PL 4614/2024 (pacote de corte de despesas, Plenário)
+    Documento: EMENDA 3 PLEN - PL
+    Data: 19/12/2024
+    Autor: Senador Mecias de Jesus (REPUBLICANOS/RR)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebidas as Emendas nº 3 a 7, do Senador Mecias de Jesus.
+    Descrição/ementa: Emenda 1 cms ao PL 4614/2024
+    Documento: EMENDA 4 PLEN - PL
+    Data: 19/12/2024
+    Autor: Senador Mecias de Jesus (REPUBLICANOS/RR)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebidas as Emendas nº 3 a 7, do Senador Mecias de Jesus.
+    Descrição/ementa: Emenda 1 ao PL 4614/2024
+    Documento: EMENDA 5 PLEN - PL
+    Data: 19/12/2024
+    Autor: Senador Mecias de Jesus (REPUBLICANOS/RR)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebidas as Emendas nº 3 a 7, do Senador Mecias de Jesus.
+    Descrição/ementa: Emenda 2 ao PL 4614/2024
+    Documento: EMENDA 6 PLEN - PL
+    Data: 19/12/2024
+    Autor: Senador Mecias de Jesus (REPUBLICANOS/RR)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebidas as Emendas nº 3 a 7, do Senador Mecias de Jesus.
+    Descrição/ementa: Emenda 3 ao PL 4614/2024
+    Documento: EMENDA 7 PLEN - PL
+    Data: 19/12/2024
+    Autor: Senador Mecias de Jesus (REPUBLICANOS/RR)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebidas as Emendas nº 3 a 7, do Senador Mecias de Jesus.
+    Descrição/ementa: Emenda 4 ao PL 4614/2024
+    Documento: RQS 985/2024
+    Data: 19/12/2024
+    Autor: Líder do Governo Jaques Wagner (PT/BA), Líder do Bloco Parlamentar da Resistência Democrática Eliziane Gama (PSD/MA), Líder
+    Local: pg
+    Ação legislativa: Recebido o Requerimento nº 985, de 2024, de Líderes, solicitando urgência para a matéria.
+    Descrição/ementa: Requer urgência para o Projeto de Lei nº 4.614/2024, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado
 Federal.
-Descrição/Ementa:
-Requerimento
-19/12/2024
-Data:
-Senador Eduardo Girão (NOVO/CE)
-Autor:
-Plenário do Senado Federal
-Local:
-Declaração de voto contrário ao PL 4614/2024.
-Descrição/Ementa:
-EMENDA 9 PLEN - PL
-19/12/2024
-Data:
-Senador Sergio Moro (UNIÃO/PR)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 9, do Senador Sergio Moro.
-Ação Legislativa:
-Emenda  ao PL 4614/2024
-Descrição/Ementa:
-EMENDA 8 PLEN - PL
-19/12/2024
-Data:
-Senador Alessandro Vieira (MDB/SE)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 8, do Senador Alessandro Vieira.
-Ação Legislativa:
-Emenda  ao PL 4614/2024 - BPC - graus de deficiência
-Descrição/Ementa:
-EMENDA 10 PLEN - PL
-19/12/2024
-Data:
-Senador Alessandro Vieira (MDB/SE)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 10, do Senador Alessandro Vieira.
-Ação Legislativa:
-Emenda  ao PL 4614/2024 (SM)
-Descrição/Ementa:
-RQS 987/2024
-20/12/2024
-Data:
-Senador Nelsinho Trad (PSD/MS)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Requerimento n° 987, de 2024, do Senador Nelsinho Trad, de destaque para votação em separado da expressão "de
-grau moderado ou grave, nos termos do regulamento", do § 2-A do art. 20 da Lei 8.742/1993, na forma do artigo 6º.
-Ação Legislativa:
-Requer destaque para votação em separado da expressão "de grau moderado ou grave, nos termos do regulamento", do § 2-A
+    Documento: Requerimento
+    Data: 19/12/2024
+    Autor: Senador Eduardo Girão (NOVO/CE)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Declaração de voto contrário ao PL 4614/2024.
+    Documento: EMENDA 9 PLEN - PL
+    Data: 19/12/2024
+    Autor: Senador Sergio Moro (UNIÃO/PR)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 9, do Senador Sergio Moro.
+    Descrição/ementa: Emenda  ao PL 4614/2024
+    Documento: EMENDA 8 PLEN - PL
+    Data: 19/12/2024
+    Autor: Senador Alessandro Vieira (MDB/SE)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 8, do Senador Alessandro Vieira.
+    Descrição/ementa: Emenda  ao PL 4614/2024 - BPC - graus de deficiência
+    Documento: EMENDA 10 PLEN - PL
+    Data: 19/12/2024
+    Autor: Senador Alessandro Vieira (MDB/SE)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 10, do Senador Alessandro Vieira.
+    Descrição/ementa: Emenda  ao PL 4614/2024 (SM)
+    Documento: RQS 987/2024
+    Data: 20/12/2024
+    Autor: Senador Nelsinho Trad (PSD/MS)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Requer destaque para votação em separado da expressão "de grau moderado ou grave, nos termos do regulamento", do § 2-A
 do artigo 20 da Lei 8.742/1993, na forma do artigo 6º do Projeto de Lei nº 4.614/2024.
-Descrição/Ementa:
-EMENDA 11 PLEN - PL
-20/12/2024
-Data:
-Senador Veneziano Vital do Rêgo (MDB/PB)
-Autor:
-pg
-7
-Atividade Legislativa
-Projeto de Lei n° 4614, de 2024
-DOCUMENTOS
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 11, do Senador Veneziano Vital do Rêgo.
-Ação Legislativa:
-Emenda  ao PL 4614/2024 - Suprime exigência deficiência moderada
-Descrição/Ementa:
-EMENDA 12 PLEN - PL
-20/12/2024
-Data:
-Senador Astronauta Marcos Pontes (PL/SP)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebidas as Emendas nº 12 e 13, do Senador Astronauta Marcos Pontes.
-Ação Legislativa:
-Emenda  ao PL 4614/2024 - Conceito de Deficiência
-Descrição/Ementa:
-EMENDA 13 PLEN - PL
-20/12/2024
-Data:
-Senador Astronauta Marcos Pontes (PL/SP)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebidas as Emendas nº 12 e 13, do Senador Astronauta Marcos Pontes.
-Ação Legislativa:
-Emenda  ao PL 4614/2024 - Limite da renda familiar no Bolsa Família
-Descrição/Ementa:
-RQS 988/2024
-20/12/2024
-Data:
-Líder do PL Carlos Portinho (PL/RJ)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Requerimento nº 988, de 2024, da Liderança do Partido Liberal, de retirada do Requerimento nº 982, de 2024.
-Ação Legislativa:
-Requer, pela Liderança do Partido Liberal, a retirada do Requerimento nº 982, de 2024, ao Projeto de Lei nº 4.614/2024.
-Descrição/Ementa:
-EMENDA 14 PLEN - PL
-20/12/2024
-Data:
-Senador Astronauta Marcos Pontes (PL/SP)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 14, do Senador Astronauta Marcos Pontes.
-Ação Legislativa:
-Emenda  ao PL 4614/2024 - Reajuste do Salário Mínimo
-Descrição/Ementa:
-Declaração de Voto
-20/12/2024
-Data:
-Senador Lucas Barreto (PSD/AP)
-Autor:
-Plenário do Senado Federal
-Local:
-Declaração de voto NÃO ao PL que reduz beneficios sociais do BPC e Bolsa Família
-Descrição/Ementa:
-OFC 247/2024 - Câmara dos
-20/12/2024
-Data:
-Presidente da Câmara dos Deputados
-Autor:
-Plenário do Senado Federal
-Local:
-pg
-8
-Atividade Legislativa
-Projeto de Lei n° 4614, de 2024
-DOCUMENTOS
-Recebido o Ofício n° 247/2024, da Câmara dos Deputados, comunicando inexatidão material em autógrafo do Projeto de Lei
-n° 4.614/2024.
-Ação Legislativa:
-Comunicação de inexatidão material em autógrafo do Projeto de Lei n° 4.614/2024.
-Descrição/Ementa:
-Requerimento
-20/12/2024
-Data:
-Senador Plínio Valério (PSDB/AM)
-Autor:
-Plenário do Senado Federal
-Local:
-Declaração de voto contrário ao PL 4614/2024.
-Descrição/Ementa:
-EMENDA 15 PLEN - PL
-20/12/2024
-Data:
-Senador Dr. Hiran (PP/RR)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 15, do Senador Dr. Hiran.
-Ação Legislativa:
-Emenda  ao PL 4614/2024 § 6º-B
-Descrição/Ementa:
-Listagem ou relatório
-20/12/2024
-Data:
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-Votação nominal do Projeto de Lei nº 4.614, de 2024, nos termos do parecer.
-Descrição/Ementa:
-P.S 263/2024 - PLEN
-20/12/2024
-Data:
- Comissão Diretora do Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-(Continuação da Sessão Deliberativa Extraordinária iniciada em 19/12/2024)
-Encaminhadas à publicação as Emendas n°s 1 a 15-PLEN.
-Encaminhado à publicação e aprovado o RQS nº 985/2024, solicitando urgência para a matéria.
-Proferido pelo Senador Rogério Carvalho e encaminhado à publicação o Parecer n° 262/2024 - PLEN/SF, concluindo pela
-aprovação do Projeto, nos termos do Ofício nº 247/2024, do Presidente da Câmara dos Deputados -constatação de inexatidão
-material nos autógrafos enviados ao Senado Federal e solicitação das devidas correções -; pela rejeição das Emendas nºs 1 a 15-
-PLEN e, ainda, com adequação redacional.
-Encaminhado à publicação e, posteriormente retirado pelo autor, o RQS nº 982/2024, da Liderança do PL, solicitando destaque
-para votação em separado da Emenda nº 1-PLEN.
-Encaminhado à publicação e, posteriormente retirado pelo autor, o RQS nº 984/2024, da Liderança do PL, solicitando destaque
-para votação em separado da Emenda nº 2-PLEN.
-Encaminhado à publicação e, posteriormente prejudicado, o RQS nº 983/2024, da Liderança do Republicanos, solicitando
-destaque para votação em separado da expressão “de grau moderado ou grave, nos termos do regulamento”, constante do § 2º-
-A do art. 20 da Lei nº 8.742, de 1993, na forma do art. 6º do projeto.
-Encerrada a discussão.
-Aprovado o projeto, com ajustes e adequação redacional do Relator, nos termos do parecer, com o seguinte resultado: Sim 42,
-Não 31, Presidente 1, Total 74.
-Encaminhado à publicação o Parecer nº 263/2024-PLEN/SF, da Comissão Diretora, apresentando a redação final.
-Aprovada a redação final.
-A matéria vai à sanção.
-Será feita a devida comunicação à Câmara dos Deputados.
-(Encaminhados à publicação os RQS nºs 987 e 988/2024)
-(Encaminhadas à publicação Declarações de Voto dos Senadores Lucas Barreto, Plínio Valério e Eduardo Girão)
-(Encaminhado à publicação o Ofício nº 98/2024, do Senador Márcio Bittar)
-Ação Legislativa:
-pg
+    Documento: EMENDA 11 PLEN - PL
+    Data: 20/12/2024
+    Autor: Senador Veneziano Vital do Rêgo (MDB/PB)
+    Local: pg
+    Ação legislativa: Recebida a Emenda nº 11, do Senador Veneziano Vital do Rêgo.
+    Descrição/ementa: Emenda  ao PL 4614/2024 - Suprime exigência deficiência moderada
+    Documento: EMENDA 12 PLEN - PL
+    Data: 20/12/2024
+    Autor: Senador Astronauta Marcos Pontes (PL/SP)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebidas as Emendas nº 12 e 13, do Senador Astronauta Marcos Pontes.
+    Descrição/ementa: Emenda  ao PL 4614/2024 - Conceito de Deficiência
+    Documento: EMENDA 13 PLEN - PL
+    Data: 20/12/2024
+    Autor: Senador Astronauta Marcos Pontes (PL/SP)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebidas as Emendas nº 12 e 13, do Senador Astronauta Marcos Pontes.
+    Descrição/ementa: Emenda  ao PL 4614/2024 - Limite da renda familiar no Bolsa Família
+    Documento: RQS 988/2024
+    Data: 20/12/2024
+    Autor: Líder do PL Carlos Portinho (PL/RJ)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebido o Requerimento nº 988, de 2024, da Liderança do Partido Liberal, de retirada do Requerimento nº 982, de 2024.
+    Descrição/ementa: Requer, pela Liderança do Partido Liberal, a retirada do Requerimento nº 982, de 2024, ao Projeto de Lei nº 4.614/2024.
+    Documento: EMENDA 14 PLEN - PL
+    Data: 20/12/2024
+    Autor: Senador Astronauta Marcos Pontes (PL/SP)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 14, do Senador Astronauta Marcos Pontes.
+    Descrição/ementa: Emenda  ao PL 4614/2024 - Reajuste do Salário Mínimo
+    Documento: Declaração de Voto
+    Data: 20/12/2024
+    Autor: Senador Lucas Barreto (PSD/AP)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Declaração de voto NÃO ao PL que reduz beneficios sociais do BPC e Bolsa Família
+    Documento: OFC 247/2024 - Câmara dos
+    Data: 20/12/2024
+    Autor: Presidente da Câmara dos Deputados
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunicação de inexatidão material em autógrafo do Projeto de Lei n° 4.614/2024.
+    Documento: Requerimento
+    Data: 20/12/2024
+    Autor: Senador Plínio Valério (PSDB/AM)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Declaração de voto contrário ao PL 4614/2024.
+    Documento: EMENDA 15 PLEN - PL
+    Data: 20/12/2024
+    Autor: Senador Dr. Hiran (PP/RR)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 15, do Senador Dr. Hiran.
+    Descrição/ementa: Emenda  ao PL 4614/2024 § 6º-B
+    Documento: Listagem ou relatório
+    Data: 20/12/2024
+    Autor: Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Votação nominal do Projeto de Lei nº 4.614, de 2024, nos termos do parecer.
+    Documento: P.S 263/2024 - PLEN
+    Data: 20/12/2024
+    Autor: Comissão Diretora do Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: pg
 9
 Atividade Legislativa
 Projeto de Lei n° 4614, de 2024
 DOCUMENTOS
 Parecer nº 263/2024-PLEN/SF, da Comissão Diretora- Redação final.
-Descrição/Ementa:
-Avulso de emendas
-20/12/2024
-Data:
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
--
-Descrição/Ementa:
-P.S 262/2024 - PLEN
-20/12/2024
-Data:
-Senador Rogério Carvalho (PT/SE)
-Autor:
-Plenário do Senado Federal
-Local:
-(Continuação da Sessão Deliberativa Extraordinária iniciada em 19/12/2024)
-Encaminhadas à publicação as Emendas n°s 1 a 15-PLEN.
-Encaminhado à publicação e aprovado o RQS nº 985/2024, solicitando urgência para a matéria.
-Proferido pelo Senador Rogério Carvalho e encaminhado à publicação o Parecer n° 262/2024 - PLEN/SF, concluindo pela
-aprovação do Projeto, nos termos do Ofício nº 247/2024, do Presidente da Câmara dos Deputados -constatação de inexatidão
-material nos autógrafos enviados ao Senado Federal e solicitação das devidas correções -; pela rejeição das Emendas nºs 1 a 15-
-PLEN e, ainda, com adequação redacional.
-Encaminhado à publicação e, posteriormente retirado pelo autor, o RQS nº 982/2024, da Liderança do PL, solicitando destaque
-para votação em separado da Emenda nº 1-PLEN.
-Encaminhado à publicação e, posteriormente retirado pelo autor, o RQS nº 984/2024, da Liderança do PL, solicitando destaque
-para votação em separado da Emenda nº 2-PLEN.
-Encaminhado à publicação e, posteriormente prejudicado, o RQS nº 983/2024, da Liderança do Republicanos, solicitando
-destaque para votação em separado da expressão “de grau moderado ou grave, nos termos do regulamento”, constante do § 2º-
-A do art. 20 da Lei nº 8.742, de 1993, na forma do art. 6º do projeto.
-Encerrada a discussão.
-Aprovado o projeto, com ajustes e adequação redacional do Relator, nos termos do parecer, com o seguinte resultado: Sim 42,
-Não 31, Presidente 1, Total 74.
-Encaminhado à publicação o Parecer nº 263/2024-PLEN/SF, da Comissão Diretora, apresentando a redação final.
-Aprovada a redação final.
-A matéria vai à sanção.
-Será feita a devida comunicação à Câmara dos Deputados.
-(Encaminhados à publicação os RQS nºs 987 e 988/2024)
-(Encaminhadas à publicação Declarações de Voto dos Senadores Lucas Barreto, Plínio Valério e Eduardo Girão)
-(Encaminhado à publicação o Ofício nº 98/2024, do Senador Márcio Bittar)
-Ação Legislativa:
-Parecer nº 262/2024-PLEN/SF
-Descrição/Ementa:
-OF 98/2024 - Gabinete do
-20/12/2024
-Data:
-Senador Marcio Bittar (UNIÃO/AC)
-Autor:
-Plenário do Senado Federal
-Local:
-Retificação de declaração de voto ao PL 4614/2024.
-Descrição/Ementa:
-Relatório Legislativo
-23/12/2024
-Data:
-Senador Rogério Carvalho (PT/SE)
-Autor:
-Plenário do Senado Federal
-Local:
-Complementação de voto do Projeto de Lei nº 4614/2024.
-Descrição/Ementa:
-Ofício
+    Documento: Avulso de emendas
+    Data: 20/12/2024
+    Autor: Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: -
+    Documento: P.S 262/2024 - PLEN
+    Data: 20/12/2024
+    Autor: Senador Rogério Carvalho (PT/SE)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Parecer nº 262/2024-PLEN/SF
+    Documento: OF 98/2024 - Gabinete do
+    Data: 20/12/2024
+    Autor: Senador Marcio Bittar (UNIÃO/AC)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Retificação de declaração de voto ao PL 4614/2024.
+    Documento: Relatório Legislativo
+    Data: 23/12/2024
+    Autor: Senador Rogério Carvalho (PT/SE)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Complementação de voto do Projeto de Lei nº 4614/2024.
+    Documento: Ofício
 pg
 10
 Atividade Legislativa
 Projeto de Lei n° 4614, de 2024
 DOCUMENTOS
-23/12/2024
-Data:
-Senador Marcio Bittar (UNIÃO/AC)
-Autor:
-Plenário do Senado Federal
-Local:
-Comunicação de Nova Retificação em Votação de Projeto de Lei.
-Descrição/Ementa:
-Minuta
-23/12/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Anexado o texto revisado.
-Ação Legislativa:
-OFSF 1598/2024
-26/12/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1598, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 315/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1599, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
+    Data: 23/12/2024
+    Autor: Senador Marcio Bittar (UNIÃO/AC)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunicação de Nova Retificação em Votação de Projeto de Lei.
+    Documento: Minuta
+    Data: 23/12/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Anexado o texto revisado.
+    Descrição/ementa: OFSF 1598/2024
+    Documento: OFSF 1598/2024
+    Data: 26/12/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
 4614/2024.
-Descrição/Ementa:
-OFSF 1599/2024
-26/12/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1598, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 315/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1599, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 4614/2024.
-Descrição/Ementa:
-MPSF 315/2024
-26/12/2024
-Data:
-Presidente do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1598, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 315/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1599, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Encaminha à sanção o Projeto de Lei n° 4.614, de 2024.
-Descrição/Ementa:
-Autógrafo - PL 4614/2024
+    Documento: OFSF 1599/2024
+    Data: 26/12/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 4614/2024.
+    Documento: MPSF 315/2024
+    Data: 26/12/2024
+    Autor: Presidente do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha à sanção o Projeto de Lei n° 4.614, de 2024.
+    Documento: Autógrafo - PL 4614/2024
 pg
 11
 Atividade Legislativa
 Projeto de Lei n° 4614, de 2024
 DOCUMENTOS
-26/12/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Remetido Ofício SF n.º 1598, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 315/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1599, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Altera as Leis nºs 8.171, de 17 de janeiro de 1991, 8.742, de 7 de dezembro de 1993, 14.601, de 19 de junho de 2023, e 14.995,
+    Data: 26/12/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Altera as Leis nºs 8.171, de 17 de janeiro de 1991, 8.742, de 7 de dezembro de 1993, 14.601, de 19 de junho de 2023, e 14.995,
 de 10 de outubro de 2024, para dispor sobre políticas públicas; e dá outras providências.
-Descrição/Ementa:
-Mensagem
-26/12/2024
-Data:
-Presidente do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Recibo físico da Presidência da República referente à Mensagem SF n° 315/24 (assinada eletronicamente e impressa para recibo).
-Descrição/Ementa:
-pg
-12
-
+    Documento: Mensagem
+    Data: 26/12/2024
+    Autor: Presidente do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Recibo físico da Presidência da República referente à Mensagem SF n° 315/24 (assinada eletronicamente e impressa para recibo).

@@ -1,34 +1,20 @@
+Atividade legislativa: Projeto de Lei do Senado n° 73, de 2007
+Autoria: Senadora Kátia Abreu (PFL/TO)
+Ementa: Regulamenta as atividades de pesquisa, produção, importação, liberação no ambiente e comercialização de clones de
+mamíferos, exceto humanos, peixes, anfíbios, répteis e aves.
+Assunto: Meio Ambiente -
+Despacho: 06/11/2008 (Despacho Inicial)
+null
+Análise - Tramitação sucessiva
+(SF-CCT) Comissão de Ciência, Tecnologia, Inovação e Informática
+(SF-CRA) Comissão de Agricultura e Reforma Agrária
+(SF-CCJ) Comissão de Constituição, Justiça e Cidadania
+(SF-CMA) Comissão de Meio Ambiente
+pg
+1
 Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
-Autoria:
-Senadora Kátia Abreu (PFL/TO)
-Iniciativa:
-Ementa:
-Regulamenta as atividades de pesquisa, produção, importação, liberação no ambiente e comercialização de clones de
-mamíferos, exceto humanos, peixes, anfíbios, répteis e aves.
-Assunto:
-Data de Leitura:
-Meio Ambiente -
-07/03/2007
-Tramitação encerrada
-Aprovada por Comissão em decisão
-Decisão:
-25/10/2024 - Secretaria de Expediente
-Último local:
-À Câmara dos Deputados
-Destino:
-Último estado:
-13/11/2024 - TRANSFORMADA EM
-NORMA JURÍDICA COM VETO PARCIAL
-Matérias Relacionadas:
-Requerimento  da Comissão de Constituição, Justiça
-e Cidadania nº 95 de 2011
-Requerimento da Comissão de Agricultura e
-Reforma Agrária nº 47 de 2011
-Requerimento da Comissão de Agricultura e
-Reforma Agrária nº 74 de 2011
-Relatoria:
-CCJ - (Comissão de Constituição, Justiça e Cidadania)
+Relatoria: CCJ - (Comissão de Constituição, Justiça e Cidadania)
 Relator(es):
 Senador Acir Gurgacz (encerrado em 23/05/2012 - Deliberação
 da matéria)
@@ -50,95 +36,79 @@ Senador Acir Gurgacz (encerrado em 27/11/2012 - Deliberação
 da matéria)
 CRA - (Comissão de Agricultura e Reforma Agrária)
 Relator(es):
-Despacho:
-06/11/2008 (Despacho Inicial)
-null
-Análise - Tramitação sucessiva
-(SF-CCT) Comissão de Ciência, Tecnologia, Inovação e Informática
-(SF-CRA) Comissão de Agricultura e Reforma Agrária
-(SF-CCJ) Comissão de Constituição, Justiça e Cidadania
-(SF-CMA) Comissão de Meio Ambiente
-pg
-1
-Atividade Legislativa
-Projeto de Lei do Senado n° 73, de 2007
-Relatoria:
-Relator(es):
-Senador Acir Gurgacz (encerrado em 15/12/2011 - Deliberação
-da matéria)
-TRAMITAÇÃO
-13/11/2024
-SF-SEXPE - Secretaria de Expediente
-TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL
-Situação:
-(PR) PRESIDÊNCIA DA REPÚBLICA.
+Tramitação encerrada: 
+  Decisão: Aprovada por Comissão em decisão
+  Destino: À Câmara dos Deputados
+  Último local: 25/10/2024 - Secretaria de Expediente
+  Último estado: 13/11/2024 - TRANSFORMADA EM
+NORMA JURÍDICA COM VETO PARCIAL
+Tramitação: 
+    Data: 13/11/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL
+    Ação: (PR) PRESIDÊNCIA DA REPÚBLICA.
 SANCIONADA. LEI 15021 DE 2024. (vetada parcialmente: vide MSG 1440 de 2024).
 DOU (Diário Oficial da União) - 13/11/2024 - Seção I - págs. 9 e 9.
 Sancionada em 12/11/2024.
 À COARQ.
-Ação:
-25/10/2024
-PLEN - Plenário do Senado Federal
-Encaminhado à publicação o Ofício nº 530, de 2024, na origem, comunicando o envio à sanção do Projeto de Lei do Senado nº
+    Data: 25/10/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Encaminhado à publicação o Ofício nº 530, de 2024, na origem, comunicando o envio à sanção do Projeto de Lei do Senado nº
 73, de 2007 (nº 5.010/2013, na Câmara dos Deputados).
 Ação:
 Publicado no DSF Páginas 38-39 - DSF nº 185
-10/10/2018
-SF-SEXPE - Secretaria de Expediente
-À COARQ.
+    Data: 10/10/2018
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: À COARQ.
 Ação:
-01/08/2014
-SF-SEXPE - Secretaria de Expediente
-A partir de 1º de agosto de 2014 os boletins de ação legislativa não mais serão impressos, nos termos da Instrução Normativa nº
+    Data: 01/08/2014
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: A partir de 1º de agosto de 2014 os boletins de ação legislativa não mais serão impressos, nos termos da Instrução Normativa nº
 1, de 2014, do Secretário-Geral da Mesa. As consultas sobre a tramitação da matéria devem ser realizadas diretamente no
 sistema eletrônico próprio.
 Ação:
-20/02/2013
-SF-SEXPE - Secretaria de Expediente
-REMETIDA À CÂMARA DOS DEPUTADOS
-Situação:
-Remessa Ofício SF nº 280 de 20/02/13, ao Primeiro-Secretário da Câmara dos Deputados encaminhando o projeto para revisão,
+    Data: 20/02/2013
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: REMETIDA À CÂMARA DOS DEPUTADOS
+    Ação: Remessa Ofício SF nº 280 de 20/02/13, ao Primeiro-Secretário da Câmara dos Deputados encaminhando o projeto para revisão,
 nos termos do art. 65 da Constituição Federal (fls. 157 a 161).
+    Data: 14/02/2013
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Anexado o texto revisado (fls.153 a 156).
 Ação:
-14/02/2013
-SF-SEXPE - Secretaria de Expediente
-Anexado o texto revisado (fls.153 a 156).
+    Data: 13/02/2013
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Recebido neste órgão às 17h10.
 Ação:
-13/02/2013
-SF-SEXPE - Secretaria de Expediente
-Recebido neste órgão às 17h10.
-Ação:
-13/02/2013
-SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
-APROVADA
-Situação:
-A Presidência comunica que se esgotou, no dia 08 de fevereiro, o prazo previsto no art. 91, §§ 3º ao 5º, RISF, sem que tenha sido
+    Data: 13/02/2013
+    Órgão: SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
+    Situação: APROVADA
+    Ação: A Presidência comunica que se esgotou, no dia 08 de fevereiro, o prazo previsto no art. 91, §§ 3º ao 5º, RISF, sem que tenha sido
 interposto o recurso para apreciação da matéria pelo Plenário.
+    Data: 13/02/2013
+    Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
+    Situação: Não disponível
+    Ação: Encaminhado ao Plenário para comunicação do término do prazo para interposição de recurso.
 Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei do Senado n° 73, de 2007
-TRAMITAÇÃO
-Tendo sido aprovada terminativamente pela comissão competente, a matéria vai à Câmara dos Deputados.
-Publicado no DSF Páginas 2779
-13/02/2013
-SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
-Encaminhado ao Plenário para comunicação do término do prazo para interposição de recurso.
+    Data: 08/02/2013
+    Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
+    Situação: Não disponível
+    Ação: Juntados quadro comparativo (fls. 134 a 145) e texto final revisado (fls. 146 a 149).
 Ação:
-08/02/2013
-SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
-Juntados quadro comparativo (fls. 134 a 145) e texto final revisado (fls. 146 a 149).
+    Data: 28/12/2012
+    Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
+    Situação: Não disponível
+    Ação: Prazo para interposição de recurso: 04/02/2013 a 08/02/2013.
 Ação:
-28/12/2012
-SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
-Prazo para interposição de recurso: 04/02/2013 a 08/02/2013.
-Ação:
-20/12/2012
-SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
-AGUARDANDO INTERPOSIÇÃO DE RECURSO
-Situação:
-Leitura dos seguintes Pareceres:
+    Data: 20/12/2012
+    Órgão: SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
+    Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
+    Ação: Leitura dos seguintes Pareceres:
 -Parecer nº 1.750, de 2012-CCT, relator Senador Gilberto Goellner, favorável, nos termos da Emenda nº 1-CCT(Substitutivo).
 -Parecer nº 1.751, de 2012-CRA, relator Senador Acir Gurgacz, favorável, nos termos da Emenda nº 2-CRA (Substitutivo).
 -Parecer nº 1.752, de 2012-CCJ, relator Senador Acir Gurgacz, favorável, nos termos da Emenda nº 2-CRA/CCJ (Substitutivo).
@@ -148,172 +118,138 @@ A Presidência informa ao Plenário o recebimento do Ofício nº 353/2012-CMA, d
 aprovação da matéria, em caráter terminativo, nos termos de Substitutivo - Emenda nº 2-CRA/CCJ/CMA.
 Fica aberto o prazo de cinco dias úteis para interposição de recurso, por um décimo da composição da Casa, para que a matéria
 seja apreciada pelo Plenário, nos termos do art. 91, §§ 3º a 5º, do RISF.
-Ação:
-Publicado no DSF Páginas 75933
-Publicado no DSF Páginas 75809-75886
-20/12/2012
-SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
-AGUARDANDO LEITURA PARECER (ES)
-Situação:
-Aguardando leitura de pareceres da CCT, CRA, CCJ e CMA.
+    Data: 20/12/2012
+    Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
+    Situação: AGUARDANDO LEITURA PARECER (ES)
+    Ação: Aguardando leitura de pareceres da CCT, CRA, CCJ e CMA.
 Juntada, às fls. 131/132, legislação citada nos pareceres.
+    Data: 19/12/2012
+    Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
+    Situação: Não disponível
+    Ação: Recebido neste Órgão, às 18h22.
 Ação:
-19/12/2012
-SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
-Recebido neste Órgão, às 18h22.
+    Data: 19/12/2012
+    Órgão: SF-CMA - Comissão de Meio Ambiente
+    Situação: Não disponível
+    Ação: À SCLSF.
 Ação:
-19/12/2012
-SF-CMA - Comissão de Meio Ambiente
-À SCLSF.
-Ação:
-19/12/2012
-SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
-pg
+    Data: 19/12/2012
+    Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
+    Situação: Não disponível
+    Ação: pg
 3
 Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
 TRAMITAÇÃO
 Devolvido à CMA, para ajustes na lista de votação.
 Ação:
-18/12/2012
-SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
-Recebido neste Órgão, às 11:12h.
+    Data: 18/12/2012
+    Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
+    Situação: Não disponível
+    Ação: Recebido neste Órgão, às 11:12h.
 Ação:
-11/12/2012
-SF-CMA - Comissão de Meio Ambiente
-APRECIADA EM DECISÃO TERMINATIVA PELAS COMISSÕES
-Situação:
-Reunida a comissão na 52ª reunião ordinária, nesta data, o substitutivo aprovado em 27.11.12 foi colocado em turno
+    Data: 11/12/2012
+    Órgão: SF-CMA - Comissão de Meio Ambiente
+    Situação: APRECIADA EM DECISÃO TERMINATIVA PELAS COMISSÕES
+    Ação: Reunida a comissão na 52ª reunião ordinária, nesta data, o substitutivo aprovado em 27.11.12 foi colocado em turno
 suplementar de discussão. Encerrada a discussão e não tendo sido apresentadas emendas ao substitutivo, o mesmo é
 definitivamente adotado pela CMA sem votação, nos termos do artigo 284 do Regimento Interno do Senado Federal.
 Juntados o texto final (fl. 116 a 121), o Ofício nº 353/2012/CMA (fl. 122), e a ata da reunião com as respectivas notas
 taquigráficas (fls. 123 a 130).
 À SSCLSF.
-Ação:
-07/12/2012
-SF-CMA - Comissão de Meio Ambiente
-Substitutivo à matéria constante da Pauta da 52ª Reunião da Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização
+    Data: 07/12/2012
+    Órgão: SF-CMA - Comissão de Meio Ambiente
+    Situação: Não disponível
+    Ação: Substitutivo à matéria constante da Pauta da 52ª Reunião da Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização
 e Controle, agendada para o dia 11/12/2012.
 Ação:
-05/12/2012
-SF-CMA - Comissão de Meio Ambiente
-A 50ª Reunião Ordinária, do dia 04/12/2012, foi cancelada. A Matéria segue em Pauta.
+    Data: 05/12/2012
+    Órgão: SF-CMA - Comissão de Meio Ambiente
+    Situação: Não disponível
+    Ação: A 50ª Reunião Ordinária, do dia 04/12/2012, foi cancelada. A Matéria segue em Pauta.
 Ação:
-30/11/2012
-SF-CMA - Comissão de Meio Ambiente
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Substitutivo à matéria constante da Pauta da 50ª Reunião da Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização
+    Data: 30/11/2012
+    Órgão: SF-CMA - Comissão de Meio Ambiente
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Substitutivo à matéria constante da Pauta da 50ª Reunião da Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização
 e Controle, agendada para o dia 04/12/2012.
-Ação:
-29/11/2012
-SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
-A Presidência comunica ao Plenário que recebeu o Ofício nº 335, de 2012, da Comissão de Meio Ambiente, Defesa do
+    Data: 29/11/2012
+    Órgão: SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
+    Situação: Não disponível
+    Ação: A Presidência comunica ao Plenário que recebeu o Ofício nº 335, de 2012, da Comissão de Meio Ambiente, Defesa do
 Consumidor e Fiscalização e Controle, comunicando a aprovação de Substitutivo ao presente projeto, e ainda que poderão ser
 oferecidas emendas até o encerramento da discussão, no turno suplementar, perante a Comissão de Meio Ambiente, Defesa do
 Consumidor e Fiscalização e Controle.
 Ação:
 Publicado no DSF Páginas 64843
-29/11/2012
-SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
-Encaminhado ao Plenário.
+    Data: 29/11/2012
+    Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
+    Situação: Não disponível
+    Ação: Encaminhado ao Plenário.
 Ação:
-27/11/2012
-SF-CMA - Comissão de Meio Ambiente
-AGUARDANDO TURNO SUPLEMENTAR EM APRECIAÇÃO TERMINATIVA
-Situação:
-Reunida a comissão nesta data, encerrada a discussão e colocado em votação, foi aprovado o projeto com a emenda nº 2-
+    Data: 27/11/2012
+    Órgão: SF-CMA - Comissão de Meio Ambiente
+    Situação: AGUARDANDO TURNO SUPLEMENTAR EM APRECIAÇÃO TERMINATIVA
+    Ação: Reunida a comissão nesta data, encerrada a discussão e colocado em votação, foi aprovado o projeto com a emenda nº 2-
 CRA/CCJ/CMA (Substitutivo) por unanimidade. A matéria vai a turno suplementar de discussão e votação, nos termos do artigo
-Ação:
-pg
-4
-Atividade Legislativa
-Projeto de Lei do Senado n° 73, de 2007
-TRAMITAÇÃO
-282 do RISF.
-A Presidência da CMA comunica aos Senadores membros a abertura do prazo para apresentação de emendas ao Substitutivo,
-nos termos do art. 282, parágrafo 2º, do RISF.
-Juntados o Parecer da CMA, folha de assinaturas e folhas de votação nominal (fls.105 a 112)
-À SSCLSF, nos termos do Ofício nº 335/2012/CMA. (fl. 113)
-23/11/2012
-SF-CMA - Comissão de Meio Ambiente
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 49ª Reunião da Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle,
+    Data: 23/11/2012
+    Órgão: SF-CMA - Comissão de Meio Ambiente
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 49ª Reunião da Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle,
 agendada para o dia 27/11/2012.
-Ação:
-20/11/2012
-SF-CMA - Comissão de Meio Ambiente
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Matéria devolvida pelo Relator, Senador ACIR GURGACZ, com Relatório favorável, nos termos da Emenda nº 2 – CRA/CCJ
+    Data: 20/11/2012
+    Órgão: SF-CMA - Comissão de Meio Ambiente
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Matéria devolvida pelo Relator, Senador ACIR GURGACZ, com Relatório favorável, nos termos da Emenda nº 2 – CRA/CCJ
 (Substitutivo).
-Ação:
-31/10/2012
-SF-CMA - Comissão de Meio Ambiente
-MATÉRIA COM A RELATORIA
-Situação:
-Matéria distribuída ao Senador Acir Gurgacz, para relatar.
-Ação:
-23/05/2012
-SF-CMA - Comissão de Meio Ambiente
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Recebido na CMA nesta data, aguarda designação de Relatoria.
-Ação:
-23/05/2012
-SF-CCJ - Comissão de Constituição, Justiça e Cidadania
-APROVADO PARECER NA COMISSÃO
-Situação:
-Na 21ª Reunião Ordinária, a Comissão aprova o Relatório do Senador Acir Gurgacz, que passa a constituir Parecer da CCJ
+    Data: 31/10/2012
+    Órgão: SF-CMA - Comissão de Meio Ambiente
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Matéria distribuída ao Senador Acir Gurgacz, para relatar.
+    Data: 23/05/2012
+    Órgão: SF-CMA - Comissão de Meio Ambiente
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Recebido na CMA nesta data, aguarda designação de Relatoria.
+    Data: 23/05/2012
+    Órgão: SF-CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: APROVADO PARECER NA COMISSÃO
+    Ação: Na 21ª Reunião Ordinária, a Comissão aprova o Relatório do Senador Acir Gurgacz, que passa a constituir Parecer da CCJ
 favorável ao Projeto com a Emenda n° 2-CRA-CCJ (Substitutivo).
 À Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle, para prosseguimento da tramitação.
-Ação:
-16/05/2012
-SF-CCJ - Comissão de Constituição, Justiça e Cidadania
-PEDIDO DE VISTA CONCEDIDO
-Situação:
-Na 20ª Reunião Ordinária, realizada nesta data, a Presidência concede vista aos Senadores Pedro Simon e Rodrigo Rollemberg,
+    Data: 16/05/2012
+    Órgão: SF-CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: PEDIDO DE VISTA CONCEDIDO
+    Ação: Na 20ª Reunião Ordinária, realizada nesta data, a Presidência concede vista aos Senadores Pedro Simon e Rodrigo Rollemberg,
 nos termos regimentais.
 Encaminhada cópia do Relatório do Senador Acir Gurgacz e do avulso da matéria aos Senadores Pedro Simon e Rodrigo
 Rollemberg.
-Ação:
-14/05/2012
-SF-CCJ - Comissão de Constituição, Justiça e Cidadania
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-pg
+    Data: 14/05/2012
+    Órgão: SF-CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: pg
 5
 Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
 TRAMITAÇÃO
 Matéria incluída na Pauta da Comissão.
-Ação:
-21/03/2012
-SF-CCJ - Comissão de Constituição, Justiça e Cidadania
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Recebido nesta Comissão, às 16 horas e 16 minutos, o relatório do Senador Acir Gurgacz, com voto favorável ao Projeto, nos
+    Data: 21/03/2012
+    Órgão: SF-CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Recebido nesta Comissão, às 16 horas e 16 minutos, o relatório do Senador Acir Gurgacz, com voto favorável ao Projeto, nos
 termos da Emenda nº 2-CRA.
 Matéria pronta para a Pauta na Comissão.
-Ação:
-15/03/2012
-SF-CCJ - Comissão de Constituição, Justiça e Cidadania
-MATÉRIA COM A RELATORIA
-Situação:
-Distribuído ao Senador Acir Gurgacz, para emitir relatório.
-Ação:
-16/12/2011
-SF-CCJ - Comissão de Constituição, Justiça e Cidadania
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Recebido nesta Comissão. Matéria aguardando distribuição.
-Ação:
-15/12/2011
-SF-CRA - Comissão de Agricultura e Reforma Agrária
-APROVADO PARECER NA COMISSÃO
-Situação:
-Na 53ª Reunião Extraordinária da CRA realizada nesta data, a Comissão, como medida preliminar, aprova o Requerimento nº 74,
+    Data: 15/03/2012
+    Órgão: SF-CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Distribuído ao Senador Acir Gurgacz, para emitir relatório.
+    Data: 16/12/2011
+    Órgão: SF-CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Recebido nesta Comissão. Matéria aguardando distribuição.
+    Data: 15/12/2011
+    Órgão: SF-CRA - Comissão de Agricultura e Reforma Agrária
+    Situação: APROVADO PARECER NA COMISSÃO
+    Ação: Na 53ª Reunião Extraordinária da CRA realizada nesta data, a Comissão, como medida preliminar, aprova o Requerimento nº 74,
 de 2011-CRA, que solicita a retirada, nos termos do art. 256, I, do RISF, do Requerimento nº 47, de 2011-CRA, aprovado em
 18/08/2011, que determinava o estudo em conjunto do PLS nº 73/2007 pelas Comissões de Agricultura e Reforma Agrária - CRA,
 de Constituição, Justiça e Cidadania - CCJ e de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle - CMA (fl. 98).
@@ -330,29 +266,20 @@ Colocado em discussão e votação o PLS nº 73/2007, a Comissão aprova o relat
 constituir Parecer da CRA, favorável ao Projeto nos termos da Emenda nº 2-CRA (Substitutivo), fls. 85/96.
 Juntada a folha de assinatura do Parecer da CRA sobre o PLS nº 73/2007 (fl. 97).
 À CCJ para prosseguimento da tramitação.
-Ação:
-14/12/2011
-SF-CRA - Comissão de Agricultura e Reforma Agrária
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria incluída na pauta da Reunião da Comissão.
-Ação:
-pg
-6
-Atividade Legislativa
-Projeto de Lei do Senado n° 73, de 2007
-TRAMITAÇÃO
-06/12/2011
-SF-CRA - Comissão de Agricultura e Reforma Agrária
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Recebido nesta data, do Senador Acir Gurgacz, o relatório pela aprovação do Projeto, nos termos da Emenda nº 1 (substitutiva),
+    Data: 14/12/2011
+    Órgão: SF-CRA - Comissão de Agricultura e Reforma Agrária
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria incluída na pauta da Reunião da Comissão.
+    Data: 06/12/2011
+    Órgão: SF-CRA - Comissão de Agricultura e Reforma Agrária
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Recebido nesta data, do Senador Acir Gurgacz, o relatório pela aprovação do Projeto, nos termos da Emenda nº 1 (substitutiva),
 fls. 85/96.
 Matéria pronta para a Pauta na Comissão.
-Ação:
-18/08/2011
-SF-CRA - Comissão de Agricultura e Reforma Agrária
-Na 28ª Reunião Extraordinária da CRA realizada nesta data, a Comissão aprova o Requerimento nº 47, de 2011-CRA, de autoria
+    Data: 18/08/2011
+    Órgão: SF-CRA - Comissão de Agricultura e Reforma Agrária
+    Situação: Não disponível
+    Ação: Na 28ª Reunião Extraordinária da CRA realizada nesta data, a Comissão aprova o Requerimento nº 47, de 2011-CRA, de autoria
 do Senador Acir Gurgacz, que solicita, nos termos do art. 113 do Regimento Interno do Senado Federal, que o estudo do PLS
 73/2007 seja feito em reunião conjunta das Comissões de Agricultura e Reforma Agrária - CRA, de Constituição, Justiça e
 Cidadania - CCJ e de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle - CMA (fl. 83).
@@ -364,21 +291,21 @@ do Senador Acir Gurgacz, que solicita, nos termos do art. 113 do Regimento Inter
 Cidadania - CCJ e de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle - CMA (fl. 84).
 Encaminhado ao Relator, Senador Acir Gurgacz, para prosseguimento da tramitação.
 Ação:
-23/02/2011
-SF-CRA - Comissão de Agricultura e Reforma Agrária
-MATÉRIA COM A RELATORIA
-Situação:
-Avocado pelo Presidente da CRA, Senador Acir Gurgacz, para relatar (art. 129 do RISF).
+    Data: 23/02/2011
+    Órgão: SF-CRA - Comissão de Agricultura e Reforma Agrária
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Avocado pelo Presidente da CRA, Senador Acir Gurgacz, para relatar (art. 129 do RISF).
 Encaminhado ao gabinete do Senador Acir Gurgacz.
-Ação:
-06/01/2011
-SF-CRA - Comissão de Agricultura e Reforma Agrária
-Recebido na CRA nesta data.
+    Data: 06/01/2011
+    Órgão: SF-CRA - Comissão de Agricultura e Reforma Agrária
+    Situação: Não disponível
+    Ação: Recebido na CRA nesta data.
 Matéria aguardando designação de relator.
 Ação:
-05/01/2011
-SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
-A presente proposição continua a tramitar, nos termos dos incisos do art. 332 do Regimento Interno e do Ato nº 4, de 2010, da
+    Data: 05/01/2011
+    Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
+    Situação: Não disponível
+    Ação: A presente proposição continua a tramitar, nos termos dos incisos do art. 332 do Regimento Interno e do Ato nº 4, de 2010, da
 Mesa do Senado Federal.
 A matéria volta à Comissão de
 ************* Retificado em 06/01/2011*************
@@ -386,112 +313,84 @@ A presente proposição continua a tramitar, nos termos dos incisos do art. 332 
 Mesa do Senado Federal.
 A matéria volta à Comissão de Reforma Agrária.
 Ação:
-15/12/2010
-SF-CRA - Comissão de Agricultura e Reforma Agrária
-À SSCLSF, em cumprimento ao disposto no art. 332 do Regimento Interno do Senado Federal.
+    Data: 15/12/2010
+    Órgão: SF-CRA - Comissão de Agricultura e Reforma Agrária
+    Situação: Não disponível
+    Ação: À SSCLSF, em cumprimento ao disposto no art. 332 do Regimento Interno do Senado Federal.
 Ação:
-10/12/2010
-SF-CRA - Comissão de Agricultura e Reforma Agrária
-pg
+    Data: 10/12/2010
+    Órgão: SF-CRA - Comissão de Agricultura e Reforma Agrária
+    Situação: pg
 7
 Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
 TRAMITAÇÃO
 AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Recebido nesta data na CRA.
+    Ação: Recebido nesta data na CRA.
  Aguardando designação de relator.
+    Data: 08/12/2010
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: Não disponível
+    Ação: À CRA, para prosseguimento de sua tramitação.
 Ação:
-08/12/2010
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-À CRA, para prosseguimento de sua tramitação.
-Ação:
-08/12/2010
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-APROVADO PARECER NA COMISSÃO
-Situação:
-A Comissão, reunida nesta data, aprova o parecer favorável, de autoria do Senador Gilberto Goellner, na forma da emenda n.º
+    Data: 08/12/2010
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: APROVADO PARECER NA COMISSÃO
+    Ação: A Comissão, reunida nesta data, aprova o parecer favorável, de autoria do Senador Gilberto Goellner, na forma da emenda n.º
 01-CCT (Substitutiva).
-Ação:
-03/12/2010
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria incluída na Pauta da Comissão, na reunião do dia 08/12/2010.
-Ação:
-18/11/2010
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Devolvido pelo relator, Senador Gilberto Goellner, com relatório favorável na forma do substitutivo oferecido, estando em
+    Data: 03/12/2010
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria incluída na Pauta da Comissão, na reunião do dia 08/12/2010.
+    Data: 18/11/2010
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Devolvido pelo relator, Senador Gilberto Goellner, com relatório favorável na forma do substitutivo oferecido, estando em
 condições de ser incluído em pauta.
-Ação:
-06/10/2010
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-MATÉRIA COM A RELATORIA
-Situação:
-Redistribuído ao Senador Gilberto Goellener, para relatar.
+    Data: 06/10/2010
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Redistribuído ao Senador Gilberto Goellener, para relatar.
 Anexado às fls. 59 a 71 parecer oferecido pelo relator, ad hoc, Senador Sérgio Zambiasi.
-Ação:
-06/10/2010
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Devolvido pelo Senador Sérgio Zambiasi, para redistribuição.
-Ação:
-05/05/2010
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-MATÉRIA COM A RELATORIA
-Situação:
-Ao gabinete do relator, atendendo a solicitação de sua Excelência.
-Ação:
-05/05/2010
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Na reunião realizada nesta data, o relator ,ad hoc, Senador Sérgio Zambiasi, solicita a retirada do projeto de pauta para reexame.
-Ação:
-pg
-8
-Atividade Legislativa
-Projeto de Lei do Senado n° 73, de 2007
-TRAMITAÇÃO
-30/04/2010
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria incluída na Pauta da Comissão, na reunião do dia 05/05/2010.
-Ação:
-28/04/2010
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-PEDIDO DE VISTA CONCEDIDO
-Situação:
-O Presidente da Comissão, Senador Flexa Ribeiro, em reunião realizada nesta data, designa relator ad hoc o Senador Sérgio
+    Data: 06/10/2010
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Devolvido pelo Senador Sérgio Zambiasi, para redistribuição.
+    Data: 05/05/2010
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Ao gabinete do relator, atendendo a solicitação de sua Excelência.
+    Data: 05/05/2010
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Na reunião realizada nesta data, o relator ,ad hoc, Senador Sérgio Zambiasi, solicita a retirada do projeto de pauta para reexame.
+    Data: 30/04/2010
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria incluída na Pauta da Comissão, na reunião do dia 05/05/2010.
+    Data: 28/04/2010
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: PEDIDO DE VISTA CONCEDIDO
+    Ação: O Presidente da Comissão, Senador Flexa Ribeiro, em reunião realizada nesta data, designa relator ad hoc o Senador Sérgio
 Zambiasi e concede vista ao Senador Roberto Cavalcanti, pelo prazo regimental de cinco dias.
-Ação:
-23/04/2010
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria incluída na Pauta da Comissão, na reunião do dia 28/04/2010.
-Ação:
-16/04/2010
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Devolvido pelo relator, Senador Gilberto Goellner, com relatório favorável, acatando a emenda oferecida pelo Senador Sérgio
+    Data: 23/04/2010
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria incluída na Pauta da Comissão, na reunião do dia 28/04/2010.
+    Data: 16/04/2010
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Devolvido pelo relator, Senador Gilberto Goellner, com relatório favorável, acatando a emenda oferecida pelo Senador Sérgio
 Zambiasi, com as emendas apresentadas, estando em condições de ser incluído em pauta.
 Anexado às fls. 48 a  58 o primeiro parecer oferecido.
-Ação:
-22/09/2009
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-MATÉRIA COM A RELATORIA
-Situação:
-Ao gabinete do relator, Senador Gilberto Goellner, para prosseguimento de sua tramitação.
-Ação:
-22/09/2009
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-A Comissão, reunida no dia 22/09/09, realizou Audiência Pública, atendendo ao Requerimento nº 17/2009-CCT e Aditamento nº
+    Data: 22/09/2009
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Ao gabinete do relator, Senador Gilberto Goellner, para prosseguimento de sua tramitação.
+    Data: 22/09/2009
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: Não disponível
+    Ação: A Comissão, reunida no dia 22/09/09, realizou Audiência Pública, atendendo ao Requerimento nº 17/2009-CCT e Aditamento nº
 01, de autoria dos Senadores Gilberto Goellner e Cícero Lucena, ao Requerimento nº 24 e  37/2009-CRA, de autoria dos
 Senadores Gilberto Goellner e Kátia Abreu, ao Requerimento nº 49/2009-CMA e Aditamento nº 01, de autoria dos Senadores
 Gilberto Goellner e Renato Casagrande, ao Requerimento nº 72/2009-CCJ, de autoria dos Senadores Jayme Campos e Antonio
@@ -503,16 +402,18 @@ Abastecimento - MAPA; Carlos Cristo, Secretário Interino de Tecnologia Industri
 Comércio Exterior - MDIC; e Cosette Barrabas Xavier da Silva, Diretora Substituta da Diretoria de Biodiversidade e Florestas do
 Instituto Brasileiro de Meio Ambiente e Recursos Naturais Renováveis - IBAMA.
 Ação:
-09/09/2009
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-A Comissão, reunida no dia de hoje, aprova o Aditamento nº 01 ao Requerimento nº 17 de 2009-CCT, anexado à fl. 47, de autoria
+    Data: 09/09/2009
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: Não disponível
+    Ação: A Comissão, reunida no dia de hoje, aprova o Aditamento nº 01 ao Requerimento nº 17 de 2009-CCT, anexado à fl. 47, de autoria
 dos Senadores Gilberto Goellner e Cícero Lucena, propondo a inclusão de nome na Audiência Pública para instruir o presente
 projeto.
 A matéria fica sobrestada na Comissão aguardando realização da Audiência Pública.
 Ação:
-27/05/2009
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-pg
+    Data: 27/05/2009
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: Não disponível
+    Ação: pg
 9
 Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
@@ -521,134 +422,109 @@ A Comissão, reunida no dia de hoje, aprova Requerimento nº 17 de 2009-CCT, ane
 Goellner, propondo a realização de Audiência Pública para instruir o presente projeto.
 A matéria fica sobrestada na Comissão aguardando realização da Audiência Pública.
 Ação:
-22/05/2009
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria Incluida na Pauta da Comissão na Reunião do dia 27/05/09.
-Ação:
-20/05/2009
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Devolvido pelo relator, Senador Gilberto Goellner, com relatório favorável, acatando a emenda oferecida pelo Senador Sérgio
+    Data: 22/05/2009
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria Incluida na Pauta da Comissão na Reunião do dia 27/05/09.
+    Data: 20/05/2009
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Devolvido pelo relator, Senador Gilberto Goellner, com relatório favorável, acatando a emenda oferecida pelo Senador Sérgio
 Zambiasi, com as emendas apresentadas, estando em condições de ser incluído em pauta.
-Ação:
-11/03/2009
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-MATÉRIA COM A RELATORIA
-Situação:
-Redistribuído ao Senador Gilberto Goellner, para relatar.
-Ação:
-10/03/2009
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Devolvido pelo Senador José Agripino, para redistribuição.
-Ação:
-05/03/2009
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-MATÉRIA COM A RELATORIA
-Situação:
-Distribuído ao Senador José Agripino, para relatar.
-Ação:
-18/02/2009
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-A matéria será redistribuída em razão do relator, Senador João Tenório, não mais pertencer aos quadros desta Comissão.
+    Data: 11/03/2009
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Redistribuído ao Senador Gilberto Goellner, para relatar.
+    Data: 10/03/2009
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Devolvido pelo Senador José Agripino, para redistribuição.
+    Data: 05/03/2009
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Distribuído ao Senador José Agripino, para relatar.
+    Data: 18/02/2009
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: A matéria será redistribuída em razão do relator, Senador João Tenório, não mais pertencer aos quadros desta Comissão.
 Anexada às fls. 34 a 44, parecer oferecido.
-Ação:
-16/12/2008
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria Incluida na Pauta da Comissão na Reunião do dia 17/12/08
-Ação:
-16/12/2008
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Devolvido pelo relator, Senador João Tenório, com relatório favorável, acatando a emenda oferecida pelo Senador Sérgio
+    Data: 16/12/2008
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria Incluida na Pauta da Comissão na Reunião do dia 17/12/08
+    Data: 16/12/2008
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Devolvido pelo relator, Senador João Tenório, com relatório favorável, acatando a emenda oferecida pelo Senador Sérgio
 Zambiasi, com as emendas apresentadas, estando em condições de ser incluído em pauta.
-Ação:
-pg
-10
-Atividade Legislativa
-Projeto de Lei do Senado n° 73, de 2007
-TRAMITAÇÃO
-10/12/2008
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-MATÉRIA COM A RELATORIA
-Situação:
-Ao gabinete do relator, Senador João Tenório, para prosseguimento de sua tramitação.
-Ação:
-10/12/2008
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-A Comissão, reunida nesta data, aprova Requerimento n.º 23, de 2008-CCT, de autoria dos Senadores João Tenório e Eduardo
+    Data: 10/12/2008
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Ao gabinete do relator, Senador João Tenório, para prosseguimento de sua tramitação.
+    Data: 10/12/2008
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: Não disponível
+    Ação: A Comissão, reunida nesta data, aprova Requerimento n.º 23, de 2008-CCT, de autoria dos Senadores João Tenório e Eduardo
 Azeredo, anexado à fl. 33, propondo que seja dispensada a realização da 2ª Audiência Pública.
 Ação:
-08/12/2008
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-A Comissão, reunida no dia 27/03/08, realizou Audiência Pública, atendendo ao Requerimento nº 35 - CCT, de 2007, de autoria
+    Data: 08/12/2008
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: Não disponível
+    Ação: A Comissão, reunida no dia 27/03/08, realizou Audiência Pública, atendendo ao Requerimento nº 35 - CCT, de 2007, de autoria
 do Senador João Tenório, para instruir o Projeto de Lei do Senado nº. 73, de 2007, com os seguintes convidados: Rodolfo Rumpf,
 Pesquisador de Recursos Genéticos e Biotecnologia da EMBRAPA -CENARGEN; Flávio Vieira Meirelles, Professor Veterinário da
 Universidade de São Paulo - USP; Luiz Antônio Josahkian, Superintendente Técnico da Associação Brasileira dos Criadores de
 Zebu - ABCZ e Joselito Araújo Barbosa, Veterinário Especialista em Clonagem de Ovinos da Associação Brasileira de Santa Inês de
 Alagoas - ABSI/AL.
 Ação:
-17/11/2008
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-** AÇÃO DE SANEAMENTO ** Nesta data foi realizada a verificação de dados nos sistemas informatizados, em atendimento aos
+    Data: 17/11/2008
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: Não disponível
+    Ação: ** AÇÃO DE SANEAMENTO ** Nesta data foi realizada a verificação de dados nos sistemas informatizados, em atendimento aos
 objetivos definidos no Ato nº 24, de 2008, do Presidente do Senado Federal. Este registro não representa um novo andamento
 na tramitação desta matéria.
 Ação:
-10/04/2008
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-Anexada à fl. 32, Emenda nº 01, de autoria do Senador Sérgio Zambiasi.
+    Data: 10/04/2008
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: Não disponível
+    Ação: Anexada à fl. 32, Emenda nº 01, de autoria do Senador Sérgio Zambiasi.
 A matéria está sobrestada na Comissão aguardando realização de Audiência Pública.
 Ação:
-28/11/2007
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-AUDIÊNCIA PÚBLICA
-Situação:
-A Comissao, reunida nesta data, aprova Requerimento n.º 35, de 2007-CCT, de autoria do Senador João Tenório, anexado às fls.
+    Data: 28/11/2007
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: AUDIÊNCIA PÚBLICA
+    Ação: A Comissao, reunida nesta data, aprova Requerimento n.º 35, de 2007-CCT, de autoria do Senador João Tenório, anexado às fls.
 30 e 31, propondo a realização de Audiências Públicas para instruir o presente projeto.
 A matéria fica sobrestada na Comissão aguardando realização de Audiência Pública.
-Ação:
-14/09/2007
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-Devolvido pelo relator, Senador João Tenório, que apresenta requerimento para realização de Audiências Públicas, destinado a
+    Data: 14/09/2007
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: Não disponível
+    Ação: Devolvido pelo relator, Senador João Tenório, que apresenta requerimento para realização de Audiências Públicas, destinado a
 instruir o presente projeto.
 Ação:
-23/03/2007
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-MATÉRIA COM A RELATORIA
-Situação:
-Distribuído ao Senador João Tenório , para relatar.
-Ação:
-15/03/2007
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-pg
+    Data: 23/03/2007
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Distribuído ao Senador João Tenório , para relatar.
+    Data: 15/03/2007
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: pg
 11
 Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
 TRAMITAÇÃO
 Não foram oferecidas emendas no prazo regimental.
 Aguardando distribuição.
-Ação:
-08/03/2007
-SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
-AGUARDANDO RECEBIMENTO DE EMENDAS
-Situação:
-Recebido nesta Comissão em 08/03/2007.
+    Data: 08/03/2007
+    Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
+    Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
+    Ação: Recebido nesta Comissão em 08/03/2007.
 Aguardando recebimento de emendas.
-Ação:
-07/03/2007
-SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
-Leitura.
+    Data: 07/03/2007
+    Órgão: SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
+    Situação: Não disponível
+    Ação: Leitura.
        Às Comissões de Ciência, Tecnologia, Inovação, Comunicação e Informática; de Agricultura e Reforma Agrária; de
 Constituição, Justiça e Cidadania  e de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle, onde poderá receber
 emendas no prazo de cinco dias úteis, perante a primeira Comissão, após sua publicação e distribuição em avulsos, cabendo à
@@ -656,41 +532,24 @@ emendas no prazo de cinco dias úteis, perante a primeira Comissão, após sua p
      Ao PLEG com destino à CCT, CRA, CCJ,  e posteriormente à CMA, para decisão terminativa.
 Ação:
 Publicado no DSF Páginas 4430-4443
-07/03/2007
-SF-PLEG - PROTOCOLO LEGISLATIVO
-Este processo contém 29 (vinte e nove)  folhas numeradas e rubricadas.
+    Data: 07/03/2007
+    Órgão: SF-PLEG - PROTOCOLO LEGISLATIVO
+    Situação: Não disponível
+    Ação: Este processo contém 29 (vinte e nove)  folhas numeradas e rubricadas.
 Ação:
-DOCUMENTOS
-Texto inicial - PLS 73/2007
-07/03/2007
-Data:
-Senadora Kátia Abreu (PFL/TO)
-Autor:
-SUBSECRETARIA DE ATA - PLENÁRIO
-Local:
-      Leitura.
-       Às Comissões de Ciência, Tecnologia, Inovação, Comunicação e Informática; de Agricultura e Reforma Agrária; de
-Constituição, Justiça e Cidadania  e de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle, onde poderá receber
-emendas no prazo de cinco dias úteis, perante a primeira Comissão, após sua publicação e distribuição em avulsos, cabendo à
-última decisão terminativa.
-     Ao PLEG com destino à CCT, CRA, CCJ,  e posteriormente à CMA, para decisão terminativa.
-Ação Legislativa:
-Regulamenta as atividades de pesquisa, produção, importação, liberação no ambiente e comercialização de clones de
-mamíferos, exceto humanos, peixes, anfíbios, répteis e aves.
-Descrição/Ementa:
-Legislação citada
-07/03/2007
-Data:
--
-Autor:
-SUBSECRETARIA DE ATA - PLENÁRIO
-Local:
-      Leitura.
-       Às Comissões de Ciência, Tecnologia, Inovação, Comunicação e Informática; de Agricultura e Reforma Agrária; de
-Constituição, Justiça e Cidadania  e de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle, onde poderá receber
-emendas no prazo de cinco dias úteis, perante a primeira Comissão, após sua publicação e distribuição em avulsos, cabendo à
-Ação Legislativa:
-pg
+Documentos: 
+    Documento: Texto inicial - PLS 73/2007
+    Data: 07/03/2007
+    Autor: Senadora Kátia Abreu (PFL/TO)
+    Local: SUBSECRETARIA DE ATA - PLENÁRIO
+    Ação legislativa: Não disponível
+    Descrição/ementa: Não disponível
+    Documento: Legislação citada
+    Data: 07/03/2007
+    Autor: -
+    Local: SUBSECRETARIA DE ATA - PLENÁRIO
+    Ação legislativa: Não disponível
+    Descrição/ementa: pg
 12
 Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
@@ -698,228 +557,148 @@ DOCUMENTOS
 última decisão terminativa.
      Ao PLEG com destino à CCT, CRA, CCJ,  e posteriormente à CMA, para decisão terminativa.
 Avulso inicial da matéria
-07/03/2007
-Data:
--
-Autor:
-null
-Local:
-Relatório Legislativo
-16/12/2008
-Data:
-Senador João Tenório (PSDB/AL)
-Autor:
-Comissão de Ciência, Tecnologia, Inovação e Informática
-Local:
-Devolvido pelo relator, Senador João Tenório, com relatório favorável, acatando a emenda oferecida pelo Senador Sérgio
-Zambiasi, com as emendas apresentadas, estando em condições de ser incluído em pauta.
-Ação Legislativa:
-Relatório Legislativo
-16/12/2008
-Data:
-Senador João Tenório (PSDB/AL)
-Autor:
-Comissão de Ciência, Tecnologia, Inovação e Informática
-Local:
-Devolvido pelo relator, Senador João Tenório, com relatório favorável, acatando a emenda oferecida pelo Senador Sérgio
-Zambiasi, com as emendas apresentadas, estando em condições de ser incluído em pauta.
-Ação Legislativa:
-Relatório Legislativo
-16/04/2010
-Data:
-Senador Gilberto Goellner (DEM/MT)
-Autor:
-Comissão de Ciência, Tecnologia, Inovação e Informática
-Local:
-Devolvido pelo relator, Senador Gilberto Goellner, com relatório favorável, acatando a emenda oferecida pelo Senador Sérgio
-Zambiasi, com as emendas apresentadas, estando em condições de ser incluído em pauta.
-Anexado às fls. 48 a  58 o primeiro parecer oferecido.
-Ação Legislativa:
-Relatório Legislativo
-18/11/2010
-Data:
-Senador Gilberto Goellner (DEM/MT)
-Autor:
-Comissão de Ciência, Tecnologia, Inovação e Informática
-Local:
-Devolvido pelo relator, Senador Gilberto Goellner, com relatório favorável na forma do substitutivo oferecido, estando em
-condições de ser incluído em pauta.
-Ação Legislativa:
-Parecer
-08/12/2010
-Data:
--
-Autor:
-Comissão de Ciência, Tecnologia, Inovação e Informática
-Local:
-A Comissão, reunida nesta data, aprova o parecer favorável, de autoria do Senador Gilberto Goellner, na forma da emenda n.º
-01-CCT (Substitutiva).
-Ação Legislativa:
-pg
+    Documento: pg
+12
+Atividade Legislativa
+Projeto de Lei do Senado n° 73, de 2007
+DOCUMENTOS
+última decisão terminativa.
+     Ao PLEG com destino à CCT, CRA, CCJ,  e posteriormente à CMA, para decisão terminativa.
+Avulso inicial da matéria
+    Data: 07/03/2007
+    Autor: -
+    Local: null
+    Ação legislativa: Relatório Legislativo
+    Descrição/ementa: Relatório Legislativo
+    Documento: Não disponível
+    Data: 16/12/2008
+    Autor: Senador João Tenório (PSDB/AL)
+    Local: Comissão de Ciência, Tecnologia, Inovação e Informática
+    Ação legislativa: Não disponível
+    Descrição/ementa: Relatório Legislativo
+    Documento: Relatório Legislativo
+    Data: 16/12/2008
+    Autor: Senador João Tenório (PSDB/AL)
+    Local: Comissão de Ciência, Tecnologia, Inovação e Informática
+    Ação legislativa: Não disponível
+    Descrição/ementa: Relatório Legislativo
+    Documento: Relatório Legislativo
+    Data: 16/04/2010
+    Autor: Senador Gilberto Goellner (DEM/MT)
+    Local: Comissão de Ciência, Tecnologia, Inovação e Informática
+    Ação legislativa: Não disponível
+    Descrição/ementa: Relatório Legislativo
+    Documento: Relatório Legislativo
+    Data: 18/11/2010
+    Autor: Senador Gilberto Goellner (DEM/MT)
+    Local: Comissão de Ciência, Tecnologia, Inovação e Informática
+    Ação legislativa: Não disponível
+    Descrição/ementa: Parecer
+    Documento: Parecer
+    Data: 08/12/2010
+    Autor: -
+    Local: Comissão de Ciência, Tecnologia, Inovação e Informática
+    Ação legislativa: Não disponível
+    Descrição/ementa: pg
 13
 Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
 DOCUMENTOS
 Relatório Legislativo
-06/12/2011
-Data:
-Senador Acir Gurgacz (PDT/RO)
-Autor:
-Comissão de Agricultura e Reforma Agrária
-Local:
-Recebido nesta data, do Senador Acir Gurgacz, o relatório pela aprovação do Projeto, nos termos da Emenda nº 1 (substitutiva),
-fls. 85/96.
-Matéria pronta para a Pauta na Comissão.
-Ação Legislativa:
-Parecer
-15/12/2011
-Data:
--
-Autor:
-Comissão de Agricultura e Reforma Agrária
-Local:
-Na 53ª Reunião Extraordinária da CRA realizada nesta data, a Comissão, como medida preliminar, aprova o Requerimento nº 74,
-de 2011-CRA, que solicita a retirada, nos termos do art. 256, I, do RISF, do Requerimento nº 47, de 2011-CRA, aprovado em
-18/08/2011, que determinava o estudo em conjunto do PLS nº 73/2007 pelas Comissões de Agricultura e Reforma Agrária - CRA,
-de Constituição, Justiça e Cidadania - CCJ e de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle - CMA (fl. 98).
-Colocado em discussão e votação o PLS nº 73/2007, a Comissão aprova o relatório do Senador Acir Gurgacz, que passa a
-constituir Parecer da CRA, favorável ao Projeto nos termos da Emenda nº 1-CRA (Substitutivo), fls. 85/96.
-Juntada a folha de assinatura do Parecer da CRA sobre o PLS nº 73/2007 (fl. 97).
-À CCJ para prosseguimento da tramitação.
-************* Retificado em 20/12/2011*************
-Na 53ª Reunião Extraordinária da CRA realizada nesta data, a Comissão, como medida preliminar, aprova o Requerimento nº 74,
-de 2011-CRA, que solicita a retirada, nos termos do art. 256, I, do RISF, do Requerimento nº 47, de 2011-CRA, aprovado em
-18/08/2011, que determinava o estudo em conjunto do PLS nº 73/2007 pelas Comissões de Agricultura e Reforma Agrária - CRA,
-de Constituição, Justiça e Cidadania - CCJ e de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle - CMA (fl. 98).
-Colocado em discussão e votação o PLS nº 73/2007, a Comissão aprova o relatório do Senador Acir Gurgacz, que passa a
-constituir Parecer da CRA, favorável ao Projeto nos termos da Emenda nº 2-CRA (Substitutivo), fls. 85/96.
-Juntada a folha de assinatura do Parecer da CRA sobre o PLS nº 73/2007 (fl. 97).
-À CCJ para prosseguimento da tramitação.
-Ação Legislativa:
+    Documento: pg
+13
+Atividade Legislativa
+Projeto de Lei do Senado n° 73, de 2007
+DOCUMENTOS
 Relatório Legislativo
-21/03/2012
-Data:
-Senador Acir Gurgacz (PDT/RO)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebido nesta Comissão, às 16 horas e 16 minutos, o relatório do Senador Acir Gurgacz, com voto favorável ao Projeto, nos
-termos da Emenda nº 2-CRA.
-Matéria pronta para a Pauta na Comissão.
-Ação Legislativa:
-Parecer
-23/05/2012
-Data:
--
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Na 21ª Reunião Ordinária, a Comissão aprova o Relatório do Senador Acir Gurgacz, que passa a constituir Parecer da CCJ
-favorável ao Projeto com a Emenda n° 2-CRA-CCJ (Substitutivo).
-À Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle, para prosseguimento da tramitação.
-Ação Legislativa:
-pg
+    Data: 06/12/2011
+    Autor: Senador Acir Gurgacz (PDT/RO)
+    Local: Comissão de Agricultura e Reforma Agrária
+    Ação legislativa: Não disponível
+    Descrição/ementa: Parecer
+    Documento: Parecer
+    Data: 15/12/2011
+    Autor: -
+    Local: Comissão de Agricultura e Reforma Agrária
+    Ação legislativa: Não disponível
+    Descrição/ementa: Relatório Legislativo
+    Documento: Relatório Legislativo
+    Data: 21/03/2012
+    Autor: Senador Acir Gurgacz (PDT/RO)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: Parecer
+    Documento: Parecer
+    Data: 23/05/2012
+    Autor: -
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: pg
 14
 Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
 DOCUMENTOS
 Relatório Legislativo
-20/11/2012
-Data:
-Senador Acir Gurgacz (PDT/RO)
-Autor:
-Comissão de Meio Ambiente
-Local:
-Matéria devolvida pelo Relator, Senador ACIR GURGACZ, com Relatório favorável, nos termos da Emenda nº 2 – CRA/CCJ
-(Substitutivo).
-Ação Legislativa:
-Parecer
-27/11/2012
-Data:
--
-Autor:
-Comissão de Meio Ambiente
-Local:
-Reunida a comissão nesta data, encerrada a discussão e colocado em votação, foi aprovado o projeto com a emenda nº 2-
-CRA/CCJ/CMA (Substitutivo) por unanimidade. A matéria vai a turno suplementar de discussão e votação, nos termos do artigo
-282 do RISF.
-A Presidência da CMA comunica aos Senadores membros a abertura do prazo para apresentação de emendas ao Substitutivo,
-nos termos do art. 282, parágrafo 2º, do RISF.
-Juntados o Parecer da CMA, folha de assinaturas e folhas de votação nominal (fls.105 a 112)
-À SSCLSF, nos termos do Ofício nº 335/2012/CMA. (fl. 113)
-Ação Legislativa:
-P.S 1750/2012
-20/12/2012
-Data:
--
-Autor:
-SUBSECRETARIA DE ATA - PLENÁRIO
-Local:
-Leitura dos seguintes Pareceres:
--Parecer nº 1.750, de 2012-CCT, relator Senador Gilberto Goellner, favorável, nos termos da Emenda nº 1-CCT(Substitutivo).
--Parecer nº 1.751, de 2012-CRA, relator Senador Acir Gurgacz, favorável, nos termos da Emenda nº 2-CRA (Substitutivo).
--Parecer nº 1.752, de 2012-CCJ, relator Senador Acir Gurgacz, favorável, nos termos da Emenda nº 2-CRA/CCJ (Substitutivo).
--Parecer nº 1.753, de 2012-CMA, relator Senador Acir Gurgacz, favorável, nos termos da Emenda nº 2-CRA/CCJ/CMA
-(Substitutivo).
-A Presidência informa ao Plenário o recebimento do Ofício nº 353/2012-CMA, do Presidente da Comissão,  comunicando a
-aprovação da matéria, em caráter terminativo, nos termos de Substitutivo - Emenda nº 2-CRA/CCJ/CMA.
-Fica aberto o prazo de cinco dias úteis para interposição de recurso, por um décimo da composição da Casa, para que a matéria
-seja apreciada pelo Plenário, nos termos do art. 91, §§ 3º a 5º, do RISF.
-Ação Legislativa:
-Quadro Comparativo
-08/02/2013
-Data:
--
-Autor:
-SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
-Local:
-Juntados quadro comparativo (fls. 134 a 145) e texto final revisado (fls. 146 a 149).
-Ação Legislativa:
-PLS x Emenda nº 2 - CRA/CCJ/CMA (Substitutivo)
-Descrição/Ementa:
-Texto final revisado - Projeto
-08/02/2013
-Data:
--
-Autor:
-SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
-Local:
-Juntados quadro comparativo (fls. 134 a 145) e texto final revisado (fls. 146 a 149).
-Ação Legislativa:
-pg
+    Documento: pg
+14
+Atividade Legislativa
+Projeto de Lei do Senado n° 73, de 2007
+DOCUMENTOS
+Relatório Legislativo
+    Data: 20/11/2012
+    Autor: Senador Acir Gurgacz (PDT/RO)
+    Local: Comissão de Meio Ambiente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Parecer
+    Documento: Parecer
+    Data: 27/11/2012
+    Autor: -
+    Local: Comissão de Meio Ambiente
+    Ação legislativa: Não disponível
+    Descrição/ementa: P.S 1750/2012
+    Documento: P.S 1750/2012
+    Data: 20/12/2012
+    Autor: -
+    Local: SUBSECRETARIA DE ATA - PLENÁRIO
+    Ação legislativa: Não disponível
+    Descrição/ementa: Quadro Comparativo
+    Documento: Quadro Comparativo
+    Data: 08/02/2013
+    Autor: -
+    Local: SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
+    Ação legislativa: Juntados quadro comparativo (fls. 134 a 145) e texto final revisado (fls. 146 a 149).
+    Descrição/ementa: PLS x Emenda nº 2 - CRA/CCJ/CMA (Substitutivo)
+    Documento: Texto final revisado - Projeto
+    Data: 08/02/2013
+    Autor: -
+    Local: SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
+    Ação legislativa: Juntados quadro comparativo (fls. 134 a 145) e texto final revisado (fls. 146 a 149).
+    Descrição/ementa: pg
 15
 Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
 DOCUMENTOS
 Autógrafo - PLS 73/2007
-20/02/2013
-Data:
--
-Autor:
-Secretaria de Expediente
-Local:
-Remessa Ofício SF nº 280 de 20/02/13, ao Primeiro-Secretário da Câmara dos Deputados encaminhando o projeto para revisão,
-nos termos do art. 65 da Constituição Federal (fls. 157 a 161).
-Ação Legislativa:
+    Documento: pg
+15
+Atividade Legislativa
+Projeto de Lei do Senado n° 73, de 2007
+DOCUMENTOS
 Autógrafo - PLS 73/2007
-20/02/2013
-Data:
--
-Autor:
-Secretaria de Expediente
-Local:
-Remessa Ofício SF nº 280 de 20/02/13, ao Primeiro-Secretário da Câmara dos Deputados encaminhando o projeto para revisão,
-nos termos do art. 65 da Constituição Federal (fls. 157 a 161).
-Ação Legislativa:
-OFC 530/2024 - Câmara dos
-25/10/2024
-Data:
- Câmara dos Deputados
-Autor:
-Plenário do Senado Federal
-Local:
-Comunica o envio à sanção do Projeto de Lei do Senado nº 73, de 2007 (nº 5.010, de 2013, na Câmara dos Deputados).
-Descrição/Ementa:
-pg
-16
-
+    Data: 20/02/2013
+    Autor: -
+    Local: Secretaria de Expediente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Autógrafo - PLS 73/2007
+    Documento: Autógrafo - PLS 73/2007
+    Data: 20/02/2013
+    Autor: -
+    Local: Secretaria de Expediente
+    Ação legislativa: Não disponível
+    Descrição/ementa: OFC 530/2024 - Câmara dos
+    Documento: OFC 530/2024 - Câmara dos
+    Data: 25/10/2024
+    Autor: Câmara dos Deputados
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica o envio à sanção do Projeto de Lei do Senado nº 73, de 2007 (nº 5.010, de 2013, na Câmara dos Deputados).

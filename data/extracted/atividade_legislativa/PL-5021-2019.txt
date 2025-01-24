@@ -1,52 +1,41 @@
-Atividade Legislativa
-Projeto de Lei n° 5021, de 2019
-Autoria:
-Câmara dos Deputados
+Atividade legislativa: Projeto de Lei n° 5021, de 2019
+Autoria: Câmara dos Deputados
 Iniciativa: Deputado Federal Vicentinho Júnior (PL/TO)
-Ementa:
-Reconhece o artesanato em capim dourado como manifestação da cultura nacional.
-Explicação da Ementa:
-Reconhece o artesanato em capim dourado como manifestação da cultura nacional.
-Assunto:
-Data de Leitura:
-Política Social  - Cultura
+Ementa: Reconhece o artesanato em capim dourado como manifestação da cultura nacional.
+Explicação da ementa: Reconhece o artesanato em capim dourado como manifestação da cultura nacional.
+Assunto: Política Social  - Cultura
+Despacho: 11/09/2019
+Leitura da Matéria
+Análise - Tramitação sucessiva, Instrução da matéria
+(SF-CE) Comissão de Educação e Cultura
 11/09/2019
-Tramitação encerrada
-Aprovada pelo Plenário
-Decisão:
-30/10/2024 - Secretaria de Expediente
-Último local:
-À sanção
-Destino:
-Último estado:
-18/10/2024 - TRANSFORMADA EM
-NORMA JURÍDICA
-Relatoria:
-CE - (Comissão de Educação e Cultura)
+Leitura da Matéria
+Análise - Tramitação sucessiva, Instrução da matéria
+(SF-CE) Comissão de Educação e Cultura
+Relatoria: CE - (Comissão de Educação e Cultura)
 Relator(es):
 Senador Eduardo Gomes (encerrado em 09/08/2021 -
 Deliberação da matéria)
-Despacho:
-11/09/2019
-Leitura da Matéria
-Análise - Tramitação sucessiva, Instrução da matéria
-(SF-CE) Comissão de Educação e Cultura
-11/09/2019
-Leitura da Matéria
-Análise - Tramitação sucessiva, Instrução da matéria
-(SF-CE) Comissão de Educação e Cultura
-TRAMITAÇÃO
-30/10/2024
-SF-SEXPE - Secretaria de Expediente
-Remetido Ofício SF nº 1246, de 30/10/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
+Tramitação encerrada: 
+  Decisão: Aprovada pelo Plenário
+  Destino: À sanção
+  Último local: 30/10/2024 - Secretaria de Expediente
+  Último estado: 18/10/2024 - TRANSFORMADA EM
+NORMA JURÍDICA
+Tramitação: 
+    Data: 30/10/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Remetido Ofício SF nº 1246, de 30/10/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
 devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1305, de 2024, na origem,
 restituindo autógrafos do Projeto de Lei n° 5.021, de 2019, sancionado e transformado na Lei nº 15.005, de 17 de outubro de
 2024.
 À COARQ.
 Ação:
-29/10/2024
-PLEN - Plenário do Senado Federal
-Encaminhada à publicação em 23 de outubro de 2024 a Mensagem da Presidência da República nº 1.305, de 2024, na origem,
+    Data: 29/10/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Encaminhada à publicação em 23 de outubro de 2024 a Mensagem da Presidência da República nº 1.305, de 2024, na origem,
 que restitui autógrafo do Projeto de Lei nº 5.021, de 2019, sancionado e convertido na Lei nº 15.005, de 17 de outubro de 2024.
 Será feita a devida comunicação à Câmara dos Deputados.
 Ação:
@@ -56,54 +45,48 @@ Atividade Legislativa
 Projeto de Lei n° 5021, de 2019
 TRAMITAÇÃO
 Publicado no DSF Páginas 48 - DSF nº 183
-18/10/2024
-SF-SEXPE - Secretaria de Expediente
-TRANSFORMADA EM NORMA JURÍDICA
-Situação:
-(PR) PRESIDÊNCIA DA REPÚBLICA.
+    Data: 18/10/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: TRANSFORMADA EM NORMA JURÍDICA
+    Ação: (PR) PRESIDÊNCIA DA REPÚBLICA.
 SANCIONADA. LEI 15005 DE 2024.
 DOU (Diário Oficial da União) - 18/10/2024 - Seção I - págs. 1 e 1.
 Sancionada em 17/10/2024.
-Ação:
-01/10/2024
-SF-SEXPE - Secretaria de Expediente
-REMETIDA À SANÇÃO
-Situação:
-Remetido Ofício SF n.º 1144, de 30/09/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+    Data: 01/10/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: REMETIDA À SANÇÃO
+    Ação: Remetido Ofício SF n.º 1144, de 30/09/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
 encaminhando a Mensagem SF n.º 194/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
 presidencial autógrafo do Projeto.
 Remetido Ofício SF n.º 1145, de 30/09/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
 foi encaminhado à sanção presidencial.
+    Data: 01/10/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Anexado o texto revisado.
 Ação:
-01/10/2024
-SF-SEXPE - Secretaria de Expediente
-Anexado o texto revisado.
-Ação:
-18/09/2024
-PLEN - Plenário do Senado Federal
-APROVADA
-Situação:
-(Sessão Deliberativa Ordinária, realizada em 18/09/2024)
+    Data: 18/09/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: APROVADA
+    Ação: (Sessão Deliberativa Ordinária, realizada em 18/09/2024)
 Discussão encerrada.
 Aprovado o Projeto.
 À sanção.
 Será feita a devida comunicação à Câmara dos Deputados.
-Ação:
-Publicado no DSF Páginas 37 - DSF nº 158
-15/09/2024
-PLEN - Plenário do Senado Federal
-INCLUÍDA EM ORDEM DO DIA
-Situação:
-Incluído em Ordem do Dia da Sessão Deliberativa Ordinária Semipresencial de 18/09/2024.
+    Data: 15/09/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: INCLUÍDA EM ORDEM DO DIA
+    Ação: Incluído em Ordem do Dia da Sessão Deliberativa Ordinária Semipresencial de 18/09/2024.
 Discussão, em turno único.
+    Data: 21/12/2022
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: A proposição continua a tramitar, nos termos do art. 332 do Regimento Interno.
 Ação:
-21/12/2022
-PLEN - Plenário do Senado Federal
-A proposição continua a tramitar, nos termos do art. 332 do Regimento Interno.
-Ação:
-21/03/2022
-PLEN - Plenário do Senado Federal
-Aguardando inclusão em Ordem do Dia.
+    Data: 21/03/2022
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Aguardando inclusão em Ordem do Dia.
 Discussão, em turno único.
 Ação:
 pg
@@ -111,255 +94,151 @@ pg
 Atividade Legislativa
 Projeto de Lei n° 5021, de 2019
 TRAMITAÇÃO
-19/08/2021
-PLEN - Plenário do Senado Federal
-PRONTO PARA DELIBERAÇÃO DO PLENÁRIO
-Situação:
-Encerrou-se em 18 de agosto o prazo para apresentação de emendas ao presente Projeto.
+    Data: 19/08/2021
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: PRONTO PARA DELIBERAÇÃO DO PLENÁRIO
+    Ação: Encerrou-se em 18 de agosto o prazo para apresentação de emendas ao presente Projeto.
 Não foram apresentadas emendas.
 A matéria será incluída em Ordem do Dia oportunamente.
-Ação:
-Publicado no DSF Páginas 180 - DSF nº 132
-10/08/2021
-PLEN - Plenário do Senado Federal
-Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, "d", do RISF). De 12/08/2021
+    Data: 10/08/2021
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, "d", do RISF). De 12/08/2021
 a 18/08/2021. Perante a Mesa.
 Ação:
-10/08/2021
-PLEN - Plenário do Senado Federal
-AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA
-Situação:
-Concluída a instrução da matéria, fica aberto o prazo de cinco dias úteis para recebimento de emendas, nos termos do art. 235,
+    Data: 10/08/2021
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA
+    Ação: Concluída a instrução da matéria, fica aberto o prazo de cinco dias úteis para recebimento de emendas, nos termos do art. 235,
 II, "d", do Regimento Interno.
+    Data: 09/08/2021
+    Órgão: CE - Comissão de Educação e Cultura
+    Situação: Não disponível
+    Ação: Encerrada a relatoria do Senador Eduardo Gomes por deliberação da matéria.
 Ação:
-Publicado no DSF Páginas 99 - DSF nº 125
-09/08/2021
-CE - Comissão de Educação e Cultura
-Encerrada a relatoria do Senador Eduardo Gomes por deliberação da matéria.
-Ação:
-09/08/2021
-CE - Comissão de Educação e Cultura
-APROVADO PARECER NA COMISSÃO
-Situação:
-Reunida a CE nesta data, é aprovado o Relatório, que passa a constituir o parecer da CE pela aprovação do projeto.
-Ação:
-Publicado no DSF Páginas 479-485 - DSF nº 124
-05/08/2021
-CE - Comissão de Educação e Cultura
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 5ª Reunião da Comissão de Educação, Cultura e Esporte, agendada para o dia 09/08/2021.
-Ação:
-18/02/2020
-CE - Comissão de Educação e Cultura
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Recebido o relatório do Senador Eduardo Gomes, com voto pela aprovação do projeto (fls. 9 a 11).
-Ação:
-26/09/2019
-CE - Comissão de Educação e Cultura
-MATÉRIA COM A RELATORIA
-Situação:
-Distribuído ao Senador Eduardo Gomes, para emitir relatório.
-Ação:
-12/09/2019
-CE - Comissão de Educação e Cultura
-pg
+    Data: 09/08/2021
+    Órgão: CE - Comissão de Educação e Cultura
+    Situação: APROVADO PARECER NA COMISSÃO
+    Ação: Reunida a CE nesta data, é aprovado o Relatório, que passa a constituir o parecer da CE pela aprovação do projeto.
+    Data: 05/08/2021
+    Órgão: CE - Comissão de Educação e Cultura
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 5ª Reunião da Comissão de Educação, Cultura e Esporte, agendada para o dia 09/08/2021.
+    Data: 18/02/2020
+    Órgão: CE - Comissão de Educação e Cultura
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Recebido o relatório do Senador Eduardo Gomes, com voto pela aprovação do projeto (fls. 9 a 11).
+    Data: 26/09/2019
+    Órgão: CE - Comissão de Educação e Cultura
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Distribuído ao Senador Eduardo Gomes, para emitir relatório.
+    Data: 12/09/2019
+    Órgão: CE - Comissão de Educação e Cultura
+    Situação: pg
 3
 Atividade Legislativa
 Projeto de Lei n° 5021, de 2019
 TRAMITAÇÃO
 AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Matéria sobre a Mesa da Comissão de Educação, Cultura e Esporte.
-Ação:
-11/09/2019
-SF-SEADI - Secretaria de Atas e Diários
-MATÉRIA LIDA EM PLENÁRIO.
-Situação:
-Encaminhado à publicação.
+    Ação: Matéria sobre a Mesa da Comissão de Educação, Cultura e Esporte.
+    Data: 11/09/2019
+    Órgão: SF-SEADI - Secretaria de Atas e Diários
+    Situação: MATÉRIA LIDA EM PLENÁRIO.
+    Ação: Encaminhado à publicação.
 À CE.
-Ação:
-Publicado no DSF Páginas 243-245 - DSF nº 135
-11/09/2019
-SF-SLSF - Secretaria Legislativa do Senado Federal
-AGUARDANDO LEITURA
-Situação:
-Este processado contém 8 (oito) fls. numeradas.
+    Data: 11/09/2019
+    Órgão: SF-SLSF - Secretaria Legislativa do Senado Federal
+    Situação: AGUARDANDO LEITURA
+    Ação: Este processado contém 8 (oito) fls. numeradas.
 Aguardando leitura
-Ação:
-Publicado no DSF Páginas 243-244 - DSF nº 135
-DOCUMENTOS
-PL 5021/2019
-21/08/2019
-Data:
- Câmara dos Deputados
-Autor:
-Plenário do Senado Federal
-Local:
-Reconhece o artesanato em capim dourado como manifestação da cultura nacional.
-Descrição/Ementa:
-Avulso inicial da matéria
-11/09/2019
-Data:
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-Este processado contém 8 (oito) fls. numeradas.
-Aguardando leitura
-Ação Legislativa:
--
-Descrição/Ementa:
-Relatório Legislativo
-18/02/2020
-Data:
-Senador Eduardo Gomes (MDB/TO)
-Autor:
-Comissão de Educação e Cultura
-Local:
-Recebido o relatório do Senador Eduardo Gomes, com voto pela aprovação do projeto (fls. 9 a 11).
-Ação Legislativa:
-Listagem ou relatório
-09/08/2021
-Data:
- Comissão de Educação e Cultura
-Autor:
-Comissão de Educação e Cultura
-Local:
-pg
+Documentos: 
+    Documento: PL 5021/2019
+    Data: 21/08/2019
+    Autor: Câmara dos Deputados
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Não disponível
+    Documento: Avulso inicial da matéria
+    Data: 11/09/2019
+    Autor: Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: -
+    Documento: Relatório Legislativo
+    Data: 18/02/2020
+    Autor: Senador Eduardo Gomes (MDB/TO)
+    Local: Comissão de Educação e Cultura
+    Ação legislativa: Recebido o relatório do Senador Eduardo Gomes, com voto pela aprovação do projeto (fls. 9 a 11).
+    Descrição/ementa: Listagem ou relatório
+    Documento: Listagem ou relatório
+    Data: 09/08/2021
+    Autor: Comissão de Educação e Cultura
+    Local: Comissão de Educação e Cultura
+    Ação legislativa: Não disponível
+    Descrição/ementa: pg
 4
 Atividade Legislativa
 Projeto de Lei n° 5021, de 2019
 DOCUMENTOS
 Listagem ou relatório descritivo-Lista de Presença da reunião da 5ª Reunião CE
-Descrição/Ementa:
-P.S 6/2021 - CE
-09/08/2021
-Data:
- Comissão de Educação e Cultura
-Autor:
-Comissão de Educação e Cultura
-Local:
-Reunida a CE nesta data, é aprovado o Relatório, que passa a constituir o parecer da CE pela aprovação do projeto.
-Ação Legislativa:
-OFSF 1144/2024
-01/10/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1144, de 30/09/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 194/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1145, de 30/09/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
+    Documento: P.S 6/2021 - CE
+    Data: 09/08/2021
+    Autor: Comissão de Educação e Cultura
+    Local: Comissão de Educação e Cultura
+    Ação legislativa: Reunida a CE nesta data, é aprovado o Relatório, que passa a constituir o parecer da CE pela aprovação do projeto.
+    Descrição/ementa: OFSF 1144/2024
+    Documento: OFSF 1144/2024
+    Data: 01/10/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
 5021, de 2019.
-Descrição/Ementa:
-OFSF 1145/2024
-01/10/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1144, de 30/09/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 194/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1145, de 30/09/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 5021, de 2019.
-Descrição/Ementa:
-MPSF 194/2024
-01/10/2024
-Data:
-Presidente do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1144, de 30/09/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 194/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1145, de 30/09/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Encaminha à sanção o Projeto de Lei n° 5021, de 2019.
-Descrição/Ementa:
-Minuta
-01/10/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-pg
-5
-Atividade Legislativa
-Projeto de Lei n° 5021, de 2019
-DOCUMENTOS
-Anexado o texto revisado.
-Ação Legislativa:
-Autógrafo - PL 5021/2019
-01/10/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Remetido Ofício SF n.º 1144, de 30/09/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 194/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1145, de 30/09/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Reconhece o artesanato em capim dourado como manifestação da cultura nacional.
-Descrição/Ementa:
-MSG 1305/2024 - Presidência
-23/10/2024
-Data:
- Presidência da República
-Autor:
-Plenário do Senado Federal
-Local:
-Restitui o autógrafo do Projeto de Lei nº 5.021, de 2019, sancionado e convertido na Lei nº 15.005, de 17 de outubro de 2024.
-Descrição/Ementa:
-Autógrafo restituído após
-23/10/2024
-Data:
- Presidência da República
-Autor:
-Plenário do Senado Federal
-Local:
-Autógrafo restituído pela Presidência da República ao Senado Federal após sanção.
-Descrição/Ementa:
-OF. 1458/2024 - Casa Civil
-23/10/2024
-Data:
- Casa Civil
-Autor:
-Plenário do Senado Federal
-Local:
-Comunica a restituição do autógrafo sancionado e a Lei nº 15.005, de 17 de outubro de 2024, promulgada.
-Descrição/Ementa:
-OFSF 1246/2024
-30/10/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF nº 1246, de 30/10/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
-devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1305, de 2024, na origem,
-restituindo autógrafos do Projeto de Lei n° 5.021, de 2019, sancionado e transformado na Lei nº 15.005, de 17 de outubro de
-2024.
-À COARQ.
-Ação Legislativa:
-Comunica à Câmara dos Deputados o recebimento do autógrafo sancionado do Projeto de Lei n° 5021, de 2019.
-Descrição/Ementa:
-pg
-6
-
+    Documento: OFSF 1145/2024
+    Data: 01/10/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 5021, de 2019.
+    Documento: MPSF 194/2024
+    Data: 01/10/2024
+    Autor: Presidente do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha à sanção o Projeto de Lei n° 5021, de 2019.
+    Documento: Minuta
+    Data: 01/10/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Autógrafo - PL 5021/2019
+    Documento: Autógrafo - PL 5021/2019
+    Data: 01/10/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Reconhece o artesanato em capim dourado como manifestação da cultura nacional.
+    Documento: MSG 1305/2024 - Presidência
+    Data: 23/10/2024
+    Autor: Presidência da República
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Restitui o autógrafo do Projeto de Lei nº 5.021, de 2019, sancionado e convertido na Lei nº 15.005, de 17 de outubro de 2024.
+    Documento: Autógrafo restituído após
+    Data: 23/10/2024
+    Autor: Presidência da República
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Autógrafo restituído pela Presidência da República ao Senado Federal após sanção.
+    Documento: OF. 1458/2024 - Casa Civil
+    Data: 23/10/2024
+    Autor: Casa Civil
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica a restituição do autógrafo sancionado e a Lei nº 15.005, de 17 de outubro de 2024, promulgada.
+    Documento: OFSF 1246/2024
+    Data: 30/10/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica à Câmara dos Deputados o recebimento do autógrafo sancionado do Projeto de Lei n° 5021, de 2019.

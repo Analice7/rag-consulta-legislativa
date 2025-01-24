@@ -1,118 +1,79 @@
-Atividade Legislativa
-Projeto de Lei do Congresso Nacional n° 38, de 2024
-Autoria:
-Presidência da República
-Iniciativa:
-Ementa:
-Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e Segurança Pública, dos Transportes, e de
+Atividade legislativa: Projeto de Lei do Congresso Nacional n° 38, de 2024
+Autoria: Presidência da República
+Ementa: Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e Segurança Pública, dos Transportes, e de
 Portos e Aeroportos, e de Operações Oficiais de Crédito, crédito especial no valor de R$ 4.031.223.377,00, para os fins
 que especifica.
-Explicação da Ementa:
-Visa incluir dotação orçamentária para atender as despesas no Fundo Nacional de Aviação Civil
-– FNAC (99,23% dos recursos), a fim de viabilizar o apoio financeiro reembolsável mediante a
-concessão de empréstimos, em reais, a empresas prestadoras de serviços aéreos regulares no
-mercado brasileiro. Além disso, propõe recursos no âmbito do Fundo Nacional de Segurança
-Pública (0,30% dos recursos), para possibilitar a implantação e estruturação de bases
-operacionais do “Plano Amas - Amazônia: Segurança e Soberania com o propósito de ampliar a
-capacidade operacional e a presença territorial da Polícia Rodoviária Federal - PRF no combate
-a crimes ambientais e conexos relacionados ao desmatamento e à degradação florestal. Por
-fim, recursos no âmbito do Ministério de Portos e Aeroportos, da Administração Direta  (0,25%
-dos recursos), para viabilizar a construção de dolfins de proteção nos pilares da Ponte Newton
-Navarro sobre o Rio Potengi, no Rio Grande do Norte.
-Assunto:
-Data de Leitura:
-Orçamento Público  - Crédito Adicional
--
-Tramitação encerrada
-Aprovada pelo Plenário
-Decisão:
-02/01/2025 - Plenário do Senado
-Federal (Secretaria Legislativa do
-Senado Federal)
-Último local:
-À sanção
-Destino:
-Último estado:
-23/12/2024 - TRANSFORMADA EM
-NORMA JURÍDICA
-Relatoria:
-CMO - (Comissão Mista de Planos, Orçamentos Públicos e Fiscalização)
+Explicação da ementa: Visa incluir dotação orçamentária para atender as despesas no Fundo Nacional de Aviação Civil
+Assunto: Orçamento Público  - Crédito Adicional
+Despacho: 25/11/2024
+Decisão da Presidência
+Análise - Tramitação sucessiva, Instrução da matéria
+(CN-CMO) Comissão Mista de Planos, Orçamentos Públicos e
+Fiscalização
+Relatoria: CMO - (Comissão Mista de Planos, Orçamentos Públicos e Fiscalização)
 Relator(es):
 Deputado Federal Dr. Victor Linhalis (encerrado em 11/12/2024
 - Fim de tramitação da matéria)
 Deputado Federal Dr. Victor Linhalis (encerrado em 17/12/2024
 - Deliberação da matéria)
-Despacho:
-25/11/2024
-Decisão da Presidência
-Análise - Tramitação sucessiva, Instrução da matéria
-(CN-CMO) Comissão Mista de Planos, Orçamentos Públicos e
-Fiscalização
-TRAMITAÇÃO
-23/12/2024
-SF-SEXPE - Secretaria de Expediente
-TRANSFORMADA EM NORMA JURÍDICA
-Situação:
-(PR) PRESIDÊNCIA DA REPÚBLICA.
+Tramitação encerrada: 
+  Decisão: Aprovada pelo Plenário
+  Destino: À sanção
+  Último local: 02/01/2025 - Plenário do Senado
+Federal (Secretaria Legislativa do
+Senado Federal)
+  Último estado: 23/12/2024 - TRANSFORMADA EM
+NORMA JURÍDICA
+Tramitação: 
+    Data: 23/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: TRANSFORMADA EM NORMA JURÍDICA
+    Ação: (PR) PRESIDÊNCIA DA REPÚBLICA.
 SANCIONADA. LEI 15066 DE 2024.
 DOUE (Diário Oficial da União - Edição Extra) - 23/12/2024 - Seção I - págs. 35 e 37.
-Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei do Congresso Nacional n° 38, de 2024
-TRAMITAÇÃO
-Sancionada em 23/12/2024.
-19/12/2024
-SF-SEXPE - Secretaria de Expediente
-REMETIDA À SANÇÃO
-Situação:
-Remetido Ofício CN nº 382, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a
+    Data: 23/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: REMETIDA À SANÇÃO
+    Ação: Remetido Ofício CN nº 382, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a
 Mensagem CN nº 135/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do
 Projeto.
+    Data: 18/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Anexado o texto revisado.
 Ação:
-18/12/2024
-SF-SEXPE - Secretaria de Expediente
-Anexado o texto revisado.
-Ação:
-18/12/2024
-PLEN - Plenário do Congresso Nacional
-APROVADA
-Situação:
-(Sessão Conjunta do Congresso Nacional, realizada em 18/12/2024)
+    Data: 18/12/2024
+    Órgão: PLEN - Plenário do Congresso Nacional
+    Situação: APROVADA
+    Ação: (Sessão Conjunta do Congresso Nacional, realizada em 18/12/2024)
 Encaminhado à publicação e aprovado, na Câmara dos Deputados e no Senado Federal, o RQN nº 28/2024, solicitando a votação
 em globo dos PLN nºs 14 a 20, 27, 28, 30, 32 a 34 e 36 a 39/2024, nos termos dos respectivos pareceres.
 Discussão encerrada.
 Aprovado o Projeto, na Câmara dos Deputados e no Senado Federal.
 À sanção.
+    Data: 18/12/2024
+    Órgão: Mesa - Mesa Diretora do Congresso Nacional
+    Situação: INCLUÍDA EM ORDEM DO DIA
+    Ação: Incluído na Ordem do Dia da Sessão Conjunta - Semipresencial convocada para 18/12/2024, às 10 horas.
+    Data: 17/12/2024
+    Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Situação: Não disponível
+    Ação: Encerrada a relatoria do Deputado Dr. Victor Linhalis por deliberação da matéria.
 Ação:
-18/12/2024
-Mesa - Mesa Diretora do Congresso Nacional
-INCLUÍDA EM ORDEM DO DIA
-Situação:
-Incluído na Ordem do Dia da Sessão Conjunta - Semipresencial convocada para 18/12/2024, às 10 horas.
-Ação:
-17/12/2024
-CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-Encerrada a relatoria do Deputado Dr. Victor Linhalis por deliberação da matéria.
-Ação:
-17/12/2024
-CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-APROVADO PARECER NA COMISSÃO
-Situação:
-A COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO - CMO, na continuação da Nona Reunião,
+    Data: 17/12/2024
+    Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Situação: APROVADO PARECER NA COMISSÃO
+    Ação: A COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO - CMO, na continuação da Nona Reunião,
 Extraordinária, realizada em 17 de dezembro de 2024, APROVOU, o Relatório do Deputado DR. VICTOR LINHALIS, favorável ao
 Projeto de Lei nº 38/2024-CN na forma proposta pelo Poder Executivo. Ao projeto não foram apresentadas emendas.
-Ação:
-13/12/2024
-CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-MATÉRIA COM A RELATORIA
-Situação:
-Distribuído ao Deputado Dr. Victor Linhalis, para emitir relatório.
-Ação:
-12/12/2024
-Mesa - Mesa Diretora do Congresso Nacional
-Recebida, em 12/12/2024, a Mensagem nº 1.606, de 2024, do Senhor Presidente da República, solicitando que seja considerada
+    Data: 13/12/2024
+    Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Distribuído ao Deputado Dr. Victor Linhalis, para emitir relatório.
+    Data: 12/12/2024
+    Órgão: Mesa - Mesa Diretora do Congresso Nacional
+    Situação: Não disponível
+    Ação: Recebida, em 12/12/2024, a Mensagem nº 1.606, de 2024, do Senhor Presidente da República, solicitando que seja considerada
 sem efeito a Mensagem nº 1.600, de 2024, referente ao Projeto de Lei nº 38, de 2024 - CN. A Mensagem será publicada no DCN
 de 19/12/2024.
 Ação:
@@ -122,46 +83,38 @@ Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 38, de 2024
 TRAMITAÇÃO
 À CMO.
-11/12/2024
-Mesa - Mesa Diretora do Congresso Nacional
-Recebida, em 11/12/2024, a Mensagem nº 1.600, de 2024, do Senhor Presidente da República solicitando a retirada de
+    Data: 11/12/2024
+    Órgão: Mesa - Mesa Diretora do Congresso Nacional
+    Situação: Não disponível
+    Ação: Recebida, em 11/12/2024, a Mensagem nº 1.600, de 2024, do Senhor Presidente da República solicitando a retirada de
 tramitação do Projeto de Lei nº 38, de 2024 - CN. A Mensagem será publicada no Diário do Congresso Nacional de 19/12/2024.
 Nos termos do art. 42 do RCCN, a matéria aguarda despacho do Presidente do Congresso Nacional.
 Ação:
-05/12/2024
-CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Recebido do Relator, Deputado Dr. Victor Linhalis, relatório com voto pela aprovação do Projeto de Lei na forma apresentada
+    Data: 05/12/2024
+    Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Recebido do Relator, Deputado Dr. Victor Linhalis, relatório com voto pela aprovação do Projeto de Lei na forma apresentada
 pelo Poder Executivo. Ao Projeto não foram apresentadas emendas.
-Ação:
-02/12/2024
-CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-MATÉRIA COM A RELATORIA
-Situação:
-Distribuído ao Deputado Dr. Victor Linhalis, para emitir relatório.
-Ação:
-26/11/2024
-CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Encerrado o prazo regimental, ao Projeto, não foram apresentadas emendas.
-Ação:
-25/11/2024
-CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-AGUARDANDO RECEBIMENTO DE EMENDAS
-Situação:
-Aguardando recebimento de emendas.
-Ação:
-25/11/2024
-Mesa - Mesa Diretora do Congresso Nacional
-MATÉRIA DESPACHADA
-Situação:
-À CMO.
-Ação:
-25/11/2024
-Mesa - Mesa Diretora do Congresso Nacional
-A matéria será publicada no Diário do Congresso Nacional.
+    Data: 02/12/2024
+    Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Distribuído ao Deputado Dr. Victor Linhalis, para emitir relatório.
+    Data: 26/11/2024
+    Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Encerrado o prazo regimental, ao Projeto, não foram apresentadas emendas.
+    Data: 25/11/2024
+    Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
+    Ação: Aguardando recebimento de emendas.
+    Data: 25/11/2024
+    Órgão: Mesa - Mesa Diretora do Congresso Nacional
+    Situação: MATÉRIA DESPACHADA
+    Ação: À CMO.
+    Data: 25/11/2024
+    Órgão: Mesa - Mesa Diretora do Congresso Nacional
+    Situação: Não disponível
+    Ação: A matéria será publicada no Diário do Congresso Nacional.
 Calendário de tramitação de projetos de lei de créditos adicionais - PLN 38/2024 (Art. 112, da Res. 1/2006-CN):
 - Data do despacho: 25/11/2024
 - Publicação em avulso eletrônico: de 25/11/2024 a 25/11/2024
@@ -178,251 +131,140 @@ Projeto de Lei do Congresso Nacional n° 38, de 2024
 TRAMITAÇÃO
 * O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.
 Publicado no DCN Páginas 48 - DCN nº 44
-21/10/2024
-Mesa - Mesa Diretora do Congresso Nacional
-Recebida, em 21/10/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado
+    Data: 21/10/2024
+    Órgão: Mesa - Mesa Diretora do Congresso Nacional
+    Situação: Não disponível
+    Ação: Recebida, em 21/10/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado
 Federal.
 Ação:
-15/10/2024
-Mesa - Mesa Diretora do Congresso Nacional
-AGUARDANDO DESPACHO
-Situação:
-Recebida a matéria em 15/10/2024. A Matéria aguarda despacho do Presidente do Congresso Nacional para envio à Comissão
+    Data: 15/10/2024
+    Órgão: Mesa - Mesa Diretora do Congresso Nacional
+    Situação: AGUARDANDO DESPACHO
+    Ação: Recebida a matéria em 15/10/2024. A Matéria aguarda despacho do Presidente do Congresso Nacional para envio à Comissão
 Mista de Orçamento.
-Ação:
-Publicado no DCN Páginas 453-465 - DCN nº 38
-DOCUMENTOS
-PLN 38/2024
-15/10/2024
-Data:
- Presidência da República
-Autor:
-Mesa Diretora do Congresso Nacional
-Local:
-Recebida a matéria em 15/10/2024. A Matéria aguarda despacho do Presidente do Congresso Nacional para envio à Comissão
-Mista de Orçamento.
-Ação Legislativa:
-Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e Segurança Pública, dos Transportes, e de Portos e
-Aeroportos, e de Operações Oficiais de Crédito, crédito especial no valor de R$ 4.031.223.377,00, para os fins que especifica.
-Descrição/Ementa:
-Avulso inicial da matéria
-15/10/2024
-Data:
- Senado Federal
-Autor:
-Mesa Diretora do Congresso Nacional
-Local:
-Recebida a matéria em 15/10/2024. A Matéria aguarda despacho do Presidente do Congresso Nacional para envio à Comissão
-Mista de Orçamento.
-Ação Legislativa:
--
-Descrição/Ementa:
-Nota Informativa
-21/10/2024
-Data:
- Senado Federal
-Autor:
-Mesa Diretora do Congresso Nacional
-Local:
-Recebida, em 21/10/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado
-Federal.
-Ação Legislativa:
-Calendário
-25/11/2024
-Data:
- Congresso Nacional
-Autor:
-Mesa Diretora do Congresso Nacional
-Local:
-pg
-4
-Atividade Legislativa
-Projeto de Lei do Congresso Nacional n° 38, de 2024
-DOCUMENTOS
-A matéria será publicada no Diário do Congresso Nacional.
-Calendário de tramitação de projetos de lei de créditos adicionais - PLN 38/2024 (Art. 112, da Res. 1/2006-CN):
-- Data do despacho: 25/11/2024
-- Publicação em avulso eletrônico: de 25/11/2024 a 25/11/2024
-- Apresentação de emendas: de 25/11/2024 (15h) a 26/11/2024 (12h)
-- Publicação em avulso eletrônico das emendas: de 26/11/2024 (12h) a 26/11/2024 (14h)
-- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 26/11/2024 (14h) a
-28/11/2024 (14h)
-A matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.
-* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.
-Ação Legislativa:
-Ofício
-02/12/2024
-Data:
-Deputado Federal Julio Arcoverde (PP/PI)
-Autor:
-Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-Local:
-Distribuído ao Deputado Dr. Victor Linhalis, para emitir relatório.
-Ação Legislativa:
-DESIGNA RELATOR - PLN 38/2024 - da Presidência da República – que “Abre ao Orçamento Fiscal da União, em favor dos
+Documentos: 
+    Documento: PLN 38/2024
+    Data: 15/10/2024
+    Autor: Presidência da República
+    Local: Mesa Diretora do Congresso Nacional
+    Ação legislativa: Não disponível
+    Descrição/ementa: Não disponível
+    Documento: Avulso inicial da matéria
+    Data: 15/10/2024
+    Autor: Senado Federal
+    Local: Mesa Diretora do Congresso Nacional
+    Ação legislativa: Não disponível
+    Descrição/ementa: -
+    Documento: Nota Informativa
+    Data: 21/10/2024
+    Autor: Senado Federal
+    Local: Mesa Diretora do Congresso Nacional
+    Ação legislativa: Não disponível
+    Descrição/ementa: Calendário
+    Documento: Calendário
+    Data: 25/11/2024
+    Autor: Congresso Nacional
+    Local: Mesa Diretora do Congresso Nacional
+    Ação legislativa: Não disponível
+    Descrição/ementa: Ofício
+    Documento: Ofício
+    Data: 02/12/2024
+    Autor: Deputado Federal Julio Arcoverde (PP/PI)
+    Local: Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Ação legislativa: Distribuído ao Deputado Dr. Victor Linhalis, para emitir relatório.
+    Descrição/ementa: DESIGNA RELATOR - PLN 38/2024 - da Presidência da República – que “Abre ao Orçamento Fiscal da União, em favor dos
 Ministérios da Justiça e Segurança Pública, dos Transportes, e de Portos e Aeroportos, e de Operações Oficiais de Crédito, crédito
 especial no valor de R$ 4.031.223.377,00, para os fins que especifica”.
-Descrição/Ementa:
-Relatório sobre crédito
-05/12/2024
-Data:
-Deputado Federal Dr. Victor Linhalis (PODEMOS/ES)
-Autor:
-Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-Local:
-Recebido do Relator, Deputado Dr. Victor Linhalis, relatório com voto pela aprovação do Projeto de Lei na forma apresentada
-pelo Poder Executivo. Ao Projeto não foram apresentadas emendas.
-Ação Legislativa:
-Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre o Projeto de Lei do Congresso Nacional n° 38,
+    Documento: Relatório sobre crédito
+    Data: 05/12/2024
+    Autor: Deputado Federal Dr. Victor Linhalis (PODEMOS/ES)
+    Local: Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Ação legislativa: Não disponível
+    Descrição/ementa: Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre o Projeto de Lei do Congresso Nacional n° 38,
 de 2024, que Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e Segurança Pública, dos Transportes, e de
 Portos e Aeroportos, e de Operações Oficiais de Crédito, crédito especial no valor de R$ 4.031.223.377,00, para os fins que
 especifica.
-Descrição/Ementa:
-MSG 1600/2024 - Presidência
-11/12/2024
-Data:
- Presidência da República
-Autor:
-Mesa Diretora do Congresso Nacional
-Local:
-Recebida, em 11/12/2024, a Mensagem nº 1.600, de 2024, do Senhor Presidente da República solicitando a retirada de
-tramitação do Projeto de Lei nº 38, de 2024 - CN. A Mensagem será publicada no Diário do Congresso Nacional de 19/12/2024.
-Nos termos do art. 42 do RCCN, a matéria aguarda despacho do Presidente do Congresso Nacional.
-Ação Legislativa:
-Solicita a retirada de tramitação do Projeto de Lei nº 38, de 2024-CN.
-Descrição/Ementa:
-MSG 1606/2024 - Presidência
-12/12/2024
-Data:
- Presidência da República
-Autor:
-Mesa Diretora do Congresso Nacional
-Local:
-Recebida, em 12/12/2024, a Mensagem nº 1.606, de 2024, do Senhor Presidente da República, solicitando que seja considerada
-sem efeito a Mensagem nº 1.600, de 2024, referente ao Projeto de Lei nº 38, de 2024 - CN. A Mensagem será publicada no DCN
-de 19/12/2024.
-Ação Legislativa:
-pg
+    Documento: MSG 1600/2024 - Presidência
+    Data: 11/12/2024
+    Autor: Presidência da República
+    Local: Mesa Diretora do Congresso Nacional
+    Ação legislativa: Não disponível
+    Descrição/ementa: Solicita a retirada de tramitação do Projeto de Lei nº 38, de 2024-CN.
+    Documento: MSG 1606/2024 - Presidência
+    Data: 12/12/2024
+    Autor: Presidência da República
+    Local: Mesa Diretora do Congresso Nacional
+    Ação legislativa: Não disponível
+    Descrição/ementa: pg
 5
 Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 38, de 2024
 DOCUMENTOS
 À CMO.
 Solicita tornar sem efeito a Mensagem nº 1.600, de 11 de dezembro de 2024.
-Descrição/Ementa:
-Decisão de Comissão
-17/12/2024
-Data:
-Deputado Federal Julio Arcoverde (PP/PI)
-Autor:
-Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-Local:
-A COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO - CMO, na continuação da Nona Reunião,
-Extraordinária, realizada em 17 de dezembro de 2024, APROVOU, o Relatório do Deputado DR. VICTOR LINHALIS, favorável ao
-Projeto de Lei nº 38/2024-CN na forma proposta pelo Poder Executivo. Ao projeto não foram apresentadas emendas.
-Ação Legislativa:
-APROVA, o Relatório do Deputado DR. VICTOR LINHALIS, favorável ao Projeto de Lei nº 38/2024-CN na forma proposta pelo
+    Documento: Decisão de Comissão
+    Data: 17/12/2024
+    Autor: Deputado Federal Julio Arcoverde (PP/PI)
+    Local: Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Ação legislativa: Não disponível
+    Descrição/ementa: APROVA, o Relatório do Deputado DR. VICTOR LINHALIS, favorável ao Projeto de Lei nº 38/2024-CN na forma proposta pelo
 Poder Executivo
-Descrição/Ementa:
-PAR 62/2024 - Relatório
-17/12/2024
-Data:
- Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-Autor:
-Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-Local:
-A COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO - CMO, na continuação da Nona Reunião,
-Extraordinária, realizada em 17 de dezembro de 2024, APROVOU, o Relatório do Deputado DR. VICTOR LINHALIS, favorável ao
-Projeto de Lei nº 38/2024-CN na forma proposta pelo Poder Executivo. Ao projeto não foram apresentadas emendas.
-Ação Legislativa:
-Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre o Projeto de Lei do Congresso Nacional n° 38,
+    Documento: PAR 62/2024 - Relatório
+    Data: 17/12/2024
+    Autor: Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Local: Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
+    Ação legislativa: Não disponível
+    Descrição/ementa: Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre o Projeto de Lei do Congresso Nacional n° 38,
 de 2024, que Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e Segurança Pública, dos Transportes, e de
 Portos e Aeroportos, e de Operações Oficiais de Crédito, crédito especial no valor de R$ 4.031.223.377,00, para os fins que
 especifica.
-Descrição/Ementa:
-Minuta
-18/12/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Anexado o texto revisado.
-Ação Legislativa:
-MPCN 135/2024
-19/12/2024
-Data:
-Presidente do Congresso Nacional
-Autor:
-Mesa Diretora do Congresso Nacional
-Local:
-Remetido Ofício CN nº 382, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a
-Mensagem CN nº 135/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do
-Projeto.
-Ação Legislativa:
-Encaminha à sanção o Projeto de Lei do Congresso Nacional n° 38, de 2024.
-Descrição/Ementa:
-OFCN 382/2024
-19/12/2024
-Data:
-Primeiro-Secretário do Congresso Nacional
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício CN nº 382, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a
-Mensagem CN nº 135/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do
-Projeto.
-Ação Legislativa:
-pg
+    Documento: Minuta
+    Data: 18/12/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Anexado o texto revisado.
+    Descrição/ementa: MPCN 135/2024
+    Documento: MPCN 135/2024
+    Data: 19/12/2024
+    Autor: Presidente do Congresso Nacional
+    Local: Mesa Diretora do Congresso Nacional
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha à sanção o Projeto de Lei do Congresso Nacional n° 38, de 2024.
+    Documento: OFCN 382/2024
+    Data: 19/12/2024
+    Autor: Primeiro-Secretário do Congresso Nacional
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: pg
 6
 Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 38, de 2024
 DOCUMENTOS
 Encaminha a Mensagem da Presidência da Mesa do Congresso Nacional submetendo à sanção presidencial autógrafos do
 Projeto de Lei do Congresso Nacional n° 38, de 2024.
-Descrição/Ementa:
-Autógrafo - PLN 38/2024
-19/12/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Remetido Ofício CN nº 382, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a
-Mensagem CN nº 135/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do
-Projeto.
-Ação Legislativa:
-Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e Segurança Pública, dos Transportes, e de Portos e
+    Documento: Autógrafo - PLN 38/2024
+    Data: 19/12/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e Segurança Pública, dos Transportes, e de Portos e
 Aeroportos, e de Operações Oficiais de Crédito, crédito especial no valor de R$ 4.031.223.377,00, para os fins que especifica.
-Descrição/Ementa:
-MSG 1685/2024 - Presidência
-02/01/2025
-Data:
- Presidência da República
-Autor:
-Plenário do Senado Federal
-Local:
-Restitui o autógrafo do Projeto de Lei do Congresso Nacional n° 38, de 2024, sancionado e convertido na Lei nº 15.066, de 23 de
+    Documento: MSG 1685/2024 - Presidência
+    Data: 02/01/2025
+    Autor: Presidência da República
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Restitui o autógrafo do Projeto de Lei do Congresso Nacional n° 38, de 2024, sancionado e convertido na Lei nº 15.066, de 23 de
 dezembro de 2024.
-Descrição/Ementa:
-Autógrafo restituído após
-02/01/2025
-Data:
- Presidência da República
-Autor:
-Plenário do Senado Federal
-Local:
-Autógrafo restituído pela Presidência da República ao Senado Federal após sanção.
-Descrição/Ementa:
-OF. 1908/2024 - Casa Civil
-02/01/2025
-Data:
- Casa Civil
-Autor:
-Plenário do Senado Federal
-Local:
-Comunica a restituição do autógrafo sancionado e a Lei nº 15.066, de 23 de dezembro de 2024, promulgada.
-Descrição/Ementa:
-pg
-7
-
+    Documento: Autógrafo restituído após
+    Data: 02/01/2025
+    Autor: Presidência da República
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Autógrafo restituído pela Presidência da República ao Senado Federal após sanção.
+    Documento: OF. 1908/2024 - Casa Civil
+    Data: 02/01/2025
+    Autor: Casa Civil
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica a restituição do autógrafo sancionado e a Lei nº 15.066, de 23 de dezembro de 2024, promulgada.

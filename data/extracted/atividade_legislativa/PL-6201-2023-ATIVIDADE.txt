@@ -1,115 +1,94 @@
-Atividade Legislativa
-Projeto de Lei n° 6201, de 2023
-Autoria:
-Câmara dos Deputados
+Atividade legislativa: Projeto de Lei n° 6201, de 2023
+Autoria: Câmara dos Deputados
 Iniciativa: Deputado Federal Eduardo Barbosa (PSDB/MG)
-Ementa:
-Denomina Rodovia Governador Benedito Valadares o trecho da rodovia BR-262 entre o Km 352,5 e o Km 426, no Estado
+Ementa: Denomina Rodovia Governador Benedito Valadares o trecho da rodovia BR-262 entre o Km 352,5 e o Km 426, no Estado
 de Minas Gerais.
-Assunto:
-Data de Leitura:
-Honorífico  - Homenagem
--
-Tramitação encerrada
-Aprovada por Comissão em decisão
-Decisão:
-21/11/2024 - Secretaria de Expediente
-Último local:
-À sanção
-Destino:
-Último estado:
-19/11/2024 - TRANSFORMADA EM
-NORMA JURÍDICA
-Relatoria:
-CI - (Comissão de Serviços de Infraestrutura)
+Assunto: Honorífico  - Homenagem
+Despacho: 07/02/2024
+Decisão da Presidência
+Análise - Tramitação sucessiva, Instrução da matéria
+(SF-CI) Comissão de Serviços de Infraestrutura
+Relatoria: CI - (Comissão de Serviços de Infraestrutura)
 Relator(es):
 Senador Alessandro Vieira (encerrado em 08/10/2024 -
 Substituído por "ad hoc")
 Senador Castellar Neto (Relator Ad hoc) (encerrado em
 08/10/2024 - Deliberação da matéria)
-Despacho:
-07/02/2024
-Decisão da Presidência
-Análise - Tramitação sucessiva, Instrução da matéria
-(SF-CI) Comissão de Serviços de Infraestrutura
-TRAMITAÇÃO
-22/11/2024
-SF-SEXPE - Secretaria de Expediente
-Remetido Ofício SF nº 1300, de 22/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
+Tramitação encerrada: 
+  Decisão: Aprovada por Comissão em decisão
+  Destino: À sanção
+  Último local: 21/11/2024 - Secretaria de Expediente
+  Último estado: 19/11/2024 - TRANSFORMADA EM
+NORMA JURÍDICA
+Tramitação: 
+    Data: 22/11/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Remetido Ofício SF nº 1300, de 22/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
 devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.479, de 2024, na origem,
 restituindo autógrafos do Projeto de Lei n° 6.201, de 2023, sancionado e transformado na Lei nº 15.028, de 18 de novembro de
 2024.
 À COARQ.
 Ação:
-21/11/2024
-PLEN - Plenário do Senado Federal
-Encaminhada à publicação a Mensagem nº 1.479, de 2024, na origem, da Presidência da República, que restitui autógrafo do
+    Data: 21/11/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Encaminhada à publicação a Mensagem nº 1.479, de 2024, na origem, da Presidência da República, que restitui autógrafo do
 Projeto de Lei nº 6.201, de 2023 (nº 6.642/2009, na Câmara dos Deputados), sancionado e convertido na 15.028, de 18 de
 novembro de 2024.
 Será feita a devida comunicação à Câmara dos Deputados.
 Ação:
 Publicado no DSF Páginas 11 - DSF nº 199
-19/11/2024
-SF-SEXPE - Secretaria de Expediente
-TRANSFORMADA EM NORMA JURÍDICA
-Situação:
-(PR) PRESIDÊNCIA DA REPÚBLICA.
+    Data: 19/11/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: TRANSFORMADA EM NORMA JURÍDICA
+    Ação: (PR) PRESIDÊNCIA DA REPÚBLICA.
 SANCIONADA. LEI 15028 DE 2024.
 DOU (Diário Oficial da União) - 19/11/2024 - Seção I - págs. 2 e 2.
 Sancionada em 18/11/2024.
-Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 6201, de 2023
-TRAMITAÇÃO
-29/10/2024
-SF-SEXPE - Secretaria de Expediente
-REMETIDA À SANÇÃO
-Situação:
-Remetido Ofício SF n.º 1221, de 29/10/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+    Data: 29/10/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: REMETIDA À SANÇÃO
+    Ação: Remetido Ofício SF n.º 1221, de 29/10/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
 encaminhando a Mensagem SF n.º 217/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
 presidencial autógrafo do Projeto.
 Remetido Ofício SF n.º 1222, de 29/10/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
 foi encaminhado à sanção presidencial.
+    Data: 24/10/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Anexado o texto revisado.
 Ação:
-24/10/2024
-SF-SEXPE - Secretaria de Expediente
-Anexado o texto revisado.
-Ação:
-24/10/2024
-PLEN - Plenário do Senado Federal
-APROVADA
-Situação:
-Encerrou-se em 23 de outubro o prazo para interposição de recurso para apreciação pelo Plenário do presente Projeto.
+    Data: 24/10/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: APROVADA
+    Ação: Encerrou-se em 23 de outubro o prazo para interposição de recurso para apreciação pelo Plenário do presente Projeto.
 Não foi apresentado recurso.
 O Projeto, aprovado terminativamente pela Comissão de Serviços de Infraestrutura, com emenda de redação, vai à sanção.
 Será feita a devida comunicação à Câmara dos Deputados.
+    Data: 24/10/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Anexado o texto final revisado.
 Ação:
-Publicado no DSF Páginas 109 - DSF nº 184
-24/10/2024
-PLEN - Plenário do Senado Federal
-Anexado o texto final revisado.
-Ação:
-15/10/2024
-PLEN - Plenário do Senado Federal
-Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 17/10/2024 a 23/10/2024.
+    Data: 15/10/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 17/10/2024 a 23/10/2024.
 Perante a Mesa.
 Ação:
 Publicado no DSF Páginas 90 - DSF nº 177
-15/10/2024
-PLEN - Plenário do Senado Federal
-AGUARDANDO INTERPOSIÇÃO DE RECURSO
-Situação:
-Encaminhado à publicação o Ofício nº 217, de 2024, da Comissão de Serviços de Infraestrutura, comunicando a apreciação da
+    Data: 15/10/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
+    Ação: Encaminhado à publicação o Ofício nº 217, de 2024, da Comissão de Serviços de Infraestrutura, comunicando a apreciação da
 matéria, em caráter terminativo.  Concluída a instrução da matéria, fica aberto o prazo de cinco dias úteis para interposição de
 recurso, por um décimo dos membros da Casa, para que seja apreciada pelo Plenário, nos termos do art. 91, §§ 3º a 5º, do
 Regimento Interno.
-Ação:
-Publicado no DSF Páginas 92 - DSF nº 177
-08/10/2024
-CI - Comissão de Serviços de Infraestrutura
-Reunida a Comissão nesta data, tendo sido designado relator ad hoc o Senador Castellar Neto, em substituição ao Senador
+    Data: 08/10/2024
+    Órgão: CI - Comissão de Serviços de Infraestrutura
+    Situação: Não disponível
+    Ação: Reunida a Comissão nesta data, tendo sido designado relator ad hoc o Senador Castellar Neto, em substituição ao Senador
 Alessandro Vieira, é lido o relatório e aprovado terminativamente o projeto, com a emenda nº 1/CI.
 Juntados o parecer da CI, o ofício que comunica ao Plenário a aprovação terminativa da matéria e o texto final.
 À SLSF.
@@ -121,197 +100,119 @@ pg
 Atividade Legislativa
 Projeto de Lei n° 6201, de 2023
 TRAMITAÇÃO
-01/10/2024
-CI - Comissão de Serviços de Infraestrutura
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 27ª Reunião da Comissão de Serviços de Infraestrutura, agendada para o dia 08/10/2024.
+    Data: 01/10/2024
+    Órgão: CI - Comissão de Serviços de Infraestrutura
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 27ª Reunião da Comissão de Serviços de Infraestrutura, agendada para o dia 08/10/2024.
+    Data: 03/09/2024
+    Órgão: CI - Comissão de Serviços de Infraestrutura
+    Situação: Não disponível
+    Ação: Reunida a Comissão nessa data, a apreciação da matéria foi adiada.
 Ação:
-03/09/2024
-CI - Comissão de Serviços de Infraestrutura
-Reunida a Comissão nessa data, a apreciação da matéria foi adiada.
-Ação:
-27/08/2024
-CI - Comissão de Serviços de Infraestrutura
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Devolvido pelo relator, Senador Alessandro Vieira, com relatório pela aprovação da matéria, com emenda que apresenta.
-Ação:
-02/05/2024
-CI - Comissão de Serviços de Infraestrutura
-MATÉRIA COM A RELATORIA
-Situação:
-Distribuído ao Senador Alessandro Vieira, para emitir relatório.
-Ação:
-21/02/2024
-CI - Comissão de Serviços de Infraestrutura
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Decorrido o prazo regimental, não foram apresentadas emendas ao projeto.
-Ação:
-08/02/2024
-CI - Comissão de Serviços de Infraestrutura
-Prazo para apresentação de emendas a projeto terminativo em comissão (art. 122, II, c, do RISF): primeiro dia - 09/02/2024;
+    Data: 27/08/2024
+    Órgão: CI - Comissão de Serviços de Infraestrutura
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Devolvido pelo relator, Senador Alessandro Vieira, com relatório pela aprovação da matéria, com emenda que apresenta.
+    Data: 02/05/2024
+    Órgão: CI - Comissão de Serviços de Infraestrutura
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Distribuído ao Senador Alessandro Vieira, para emitir relatório.
+    Data: 21/02/2024
+    Órgão: CI - Comissão de Serviços de Infraestrutura
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Decorrido o prazo regimental, não foram apresentadas emendas ao projeto.
+    Data: 08/02/2024
+    Órgão: CI - Comissão de Serviços de Infraestrutura
+    Situação: Não disponível
+    Ação: Prazo para apresentação de emendas a projeto terminativo em comissão (art. 122, II, c, do RISF): primeiro dia - 09/02/2024;
 último dia - 20/02/2024.
 Ação:
-07/02/2024
-CI - Comissão de Serviços de Infraestrutura
-Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 09/02/2024 a 20/02/2024.
+    Data: 07/02/2024
+    Órgão: CI - Comissão de Serviços de Infraestrutura
+    Situação: Não disponível
+    Ação: Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 09/02/2024 a 20/02/2024.
 Perante a CI.
 Ação:
-07/02/2024
-PLEN - Plenário do Senado Federal
-AGUARDANDO RECEBIMENTO DE EMENDAS
-Situação:
-A matéria vai à CI, em decisão terminativa, nos termos do art. 91, § 1º, inciso IV, do Regimento Interno, podendo receber
+    Data: 07/02/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
+    Ação: A matéria vai à CI, em decisão terminativa, nos termos do art. 91, § 1º, inciso IV, do Regimento Interno, podendo receber
 emendas perante a Comissão pelo prazo de cinco dias úteis, nos termos do art. 122, II, c, do Regimento Interno.
-Ação:
-Publicado no DSF Páginas 134-137 - DSF nº 4
-22/12/2023
-PLEN - Plenário do Senado Federal
-AGUARDANDO DESPACHO
-Situação:
-Autuado o Projeto de Lei nº 6201/2023, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação:
-Publicado no DSF Páginas 72-74 - DSF nº 225
-pg
-3
-Atividade Legislativa
-Projeto de Lei n° 6201, de 2023
-TRAMITAÇÃO
-DOCUMENTOS
-PL 6201/2023
-22/12/2023
-Data:
- Câmara dos Deputados
-Autor:
-Plenário do Senado Federal
-Local:
-Autuado o Projeto de Lei nº 6201/2023, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação Legislativa:
-Denomina Rodovia Governador Benedito Valadares o trecho da rodovia BR-262 entre o Km 352,5 e o Km 426, no Estado de
-Minas Gerais.
-Descrição/Ementa:
-Avulso inicial da matéria
-22/12/2023
-Data:
- Senado Federal
-Autor:
-null
-Local:
--
-Descrição/Ementa:
-Relatório Legislativo
-27/08/2024
-Data:
-Senador Alessandro Vieira (MDB/SE)
-Autor:
-Comissão de Serviços de Infraestrutura
-Local:
-Devolvido pelo relator, Senador Alessandro Vieira, com relatório pela aprovação da matéria, com emenda que apresenta.
-Ação Legislativa:
-Da COMISSÃO DE SERVIÇOS DE INFRAESTRUTURA, sobre o Projeto de Lei n° 6201, de 2023, que Denomina Rodovia Governador
+    Data: 22/12/2023
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO DESPACHO
+    Ação: Autuado o Projeto de Lei nº 6201/2023, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+Documentos: 
+    Documento: PL 6201/2023
+    Data: 22/12/2023
+    Autor: Câmara dos Deputados
+    Local: Plenário do Senado Federal
+    Ação legislativa: Autuado o Projeto de Lei nº 6201/2023, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+    Descrição/ementa: Não disponível
+    Documento: Avulso inicial da matéria
+    Data: 22/12/2023
+    Autor: Senado Federal
+    Local: null
+    Ação legislativa: Não disponível
+    Descrição/ementa: -
+    Documento: Relatório Legislativo
+    Data: 27/08/2024
+    Autor: Senador Alessandro Vieira (MDB/SE)
+    Local: Comissão de Serviços de Infraestrutura
+    Ação legislativa: Devolvido pelo relator, Senador Alessandro Vieira, com relatório pela aprovação da matéria, com emenda que apresenta.
+    Descrição/ementa: Da COMISSÃO DE SERVIÇOS DE INFRAESTRUTURA, sobre o Projeto de Lei n° 6201, de 2023, que Denomina Rodovia Governador
 Benedito Valadares o trecho da rodovia BR-262 entre o Km 352,5 e o Km 426, no Estado de Minas Gerais.
-Descrição/Ementa:
-Listagem ou relatório
-08/10/2024
-Data:
- Comissão de Serviços de Infraestrutura
-Autor:
-Comissão de Serviços de Infraestrutura
-Local:
-Listagem ou relatório descritivo-Lista de Presença da reunião da 27ª Reunião CI
-Descrição/Ementa:
-Listagem ou relatório
-08/10/2024
-Data:
- Comissão de Serviços de Infraestrutura
-Autor:
-Comissão de Serviços de Infraestrutura
-Local:
-Listagem ou relatório descritivo-Lista de Votação Nominal da reunião da 27ª Reunião CI
-Descrição/Ementa:
-P.S 44/2024 - CI
-08/10/2024
-Data:
- Comissão de Serviços de Infraestrutura, Senador Alessandro Vieira (MDB/SE), Senador Confúcio Moura (MDB/RO)
-Autor:
-Comissão de Serviços de Infraestrutura
-Local:
-pg
-4
-Atividade Legislativa
-Projeto de Lei n° 6201, de 2023
-DOCUMENTOS
-Reunida a Comissão nesta data, tendo sido designado relator ad hoc o Senador Castellar Neto, em substituição ao Senador
-Alessandro Vieira, é lido o relatório e aprovado terminativamente o projeto, com a emenda nº 1/CI.
-Juntados o parecer da CI, o ofício que comunica ao Plenário a aprovação terminativa da matéria e o texto final.
-À SLSF.
-Ação Legislativa:
-Da COMISSÃO DE SERVIÇOS DE INFRAESTRUTURA, sobre o Projeto de Lei n° 6201, de 2023, que Denomina Rodovia Governador
+    Documento: Listagem ou relatório
+    Data: 08/10/2024
+    Autor: Comissão de Serviços de Infraestrutura
+    Local: Comissão de Serviços de Infraestrutura
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 27ª Reunião CI
+    Documento: Listagem ou relatório
+    Data: 08/10/2024
+    Autor: Comissão de Serviços de Infraestrutura
+    Local: Comissão de Serviços de Infraestrutura
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório descritivo-Lista de Votação Nominal da reunião da 27ª Reunião CI
+    Documento: P.S 44/2024 - CI
+    Data: 08/10/2024
+    Autor: Comissão de Serviços de Infraestrutura, Senador Alessandro Vieira (MDB/SE), Senador Confúcio Moura (MDB/RO)
+    Local: Comissão de Serviços de Infraestrutura
+    Ação legislativa: Não disponível
+    Descrição/ementa: Da COMISSÃO DE SERVIÇOS DE INFRAESTRUTURA, sobre o Projeto de Lei n° 6201, de 2023, que Denomina Rodovia Governador
 Benedito Valadares o trecho da rodovia BR-262 entre o Km 352,5 e o Km 426, no Estado de Minas Gerais.
-Descrição/Ementa:
-Texto final da Comissão -
-08/10/2024
-Data:
- Câmara dos Deputados
-Autor:
-Comissão de Serviços de Infraestrutura
-Local:
-Reunida a Comissão nesta data, tendo sido designado relator ad hoc o Senador Castellar Neto, em substituição ao Senador
-Alessandro Vieira, é lido o relatório e aprovado terminativamente o projeto, com a emenda nº 1/CI.
-Juntados o parecer da CI, o ofício que comunica ao Plenário a aprovação terminativa da matéria e o texto final.
-À SLSF.
-Ação Legislativa:
-Denomina Rodovia Governador Benedito Valadares o trecho da rodovia BR-262 entre o Km 352,5 e o Km 426, no Estado de
+    Documento: Texto final da Comissão -
+    Data: 08/10/2024
+    Autor: Câmara dos Deputados
+    Local: Comissão de Serviços de Infraestrutura
+    Ação legislativa: Não disponível
+    Descrição/ementa: Denomina Rodovia Governador Benedito Valadares o trecho da rodovia BR-262 entre o Km 352,5 e o Km 426, no Estado de
 Minas Gerais.
-Descrição/Ementa:
-Ofício
-08/10/2024
-Data:
-Presidente de Comissão
-Autor:
-Comissão de Serviços de Infraestrutura
-Local:
-Reunida a Comissão nesta data, tendo sido designado relator ad hoc o Senador Castellar Neto, em substituição ao Senador
-Alessandro Vieira, é lido o relatório e aprovado terminativamente o projeto, com a emenda nº 1/CI.
-Juntados o parecer da CI, o ofício que comunica ao Plenário a aprovação terminativa da matéria e o texto final.
-À SLSF.
-Ação Legislativa:
-Ofício nº 217/2024-CI/PRES
-Descrição/Ementa:
-Texto final revisado - Projeto
-24/10/2024
-Data:
- Núcleo de Redação Legislativa
-Autor:
-Plenário do Senado Federal
-Local:
-Anexado o texto final revisado.
-Ação Legislativa:
-Denomina Rodovia Governador Benedito Valadares o trecho da rodovia BR-262 entre o Km 352,5 e o Km 426, no Estado de
+    Documento: Ofício
+    Data: 08/10/2024
+    Autor: Presidente de Comissão
+    Local: Comissão de Serviços de Infraestrutura
+    Ação legislativa: Não disponível
+    Descrição/ementa: Ofício nº 217/2024-CI/PRES
+    Documento: Texto final revisado - Projeto
+    Data: 24/10/2024
+    Autor: Núcleo de Redação Legislativa
+    Local: Plenário do Senado Federal
+    Ação legislativa: Anexado o texto final revisado.
+    Descrição/ementa: Denomina Rodovia Governador Benedito Valadares o trecho da rodovia BR-262 entre o Km 352,5 e o Km 426, no Estado de
 Minas Gerais.
-Descrição/Ementa:
-Minuta
-24/10/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Anexado o texto revisado.
-Ação Legislativa:
-MPSF 217/2024
-29/10/2024
-Data:
-Presidente do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1221, de 29/10/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 217/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-Ação Legislativa:
-pg
+    Documento: Minuta
+    Data: 24/10/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Anexado o texto revisado.
+    Descrição/ementa: MPSF 217/2024
+    Documento: MPSF 217/2024
+    Data: 29/10/2024
+    Autor: Presidente do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: pg
 5
 Atividade Legislativa
 Projeto de Lei n° 6201, de 2023
@@ -320,101 +221,52 @@ presidencial autógrafo do Projeto.
 Remetido Ofício SF n.º 1222, de 29/10/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
 foi encaminhado à sanção presidencial.
 Encaminha à sanção o Projeto de Lei n° 6201, de 2023.
-Descrição/Ementa:
-OFSF 1221/2024
-29/10/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1221, de 29/10/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 217/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1222, de 29/10/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
+    Documento: OFSF 1221/2024
+    Data: 29/10/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
 6201, de 2023.
-Descrição/Ementa:
-OFSF 1222/2024
-29/10/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1221, de 29/10/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 217/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1222, de 29/10/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 6201, de 2023.
-Descrição/Ementa:
-Autógrafo - PL 6201/2023
-29/10/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Remetido Ofício SF n.º 1221, de 29/10/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 217/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1222, de 29/10/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Denomina Rodovia Governador Benedito Valadares o trecho da rodovia BR-262 entre o Km 352,5 e o Km 426, no Estado de
+    Documento: OFSF 1222/2024
+    Data: 29/10/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 6201, de 2023.
+    Documento: Autógrafo - PL 6201/2023
+    Data: 29/10/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Denomina Rodovia Governador Benedito Valadares o trecho da rodovia BR-262 entre o Km 352,5 e o Km 426, no Estado de
 Minas Gerais.
-Descrição/Ementa:
-OF. 1670/2024 - Casa Civil
-21/11/2024
-Data:
- Casa Civil
-Autor:
-Plenário do Senado Federal
-Local:
-Comunica a restituição do autógrafo sancionado e a Lei nº 15.028, de 18 de novembro de 2024, promulgada.
-Descrição/Ementa:
-pg
+    Documento: OF. 1670/2024 - Casa Civil
+    Data: 21/11/2024
+    Autor: Casa Civil
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica a restituição do autógrafo sancionado e a Lei nº 15.028, de 18 de novembro de 2024, promulgada.
+    Documento: pg
 6
 Atividade Legislativa
 Projeto de Lei n° 6201, de 2023
 DOCUMENTOS
 Autógrafo restituído após
-21/11/2024
-Data:
- Presidência da República
-Autor:
-Plenário do Senado Federal
-Local:
-Autógrafo restituído pela Presidência da República ao Senado Federal após sanção.
-Descrição/Ementa:
-MSG 1479/2024 - Presidência
-21/11/2024
-Data:
- Presidência da República
-Autor:
-Plenário do Senado Federal
-Local:
-Restitui o autógrafo do Projeto de Lei nº 6.201, de 2023, sancionado e convertido na Lei nº 15.028, de 18 de novembro de 2024.
-Descrição/Ementa:
-OFSF 1300/2024
-22/11/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF nº 1300, de 22/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
-devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.479, de 2024, na origem,
-restituindo autógrafos do Projeto de Lei n° 6.201, de 2023, sancionado e transformado na Lei nº 15.028, de 18 de novembro de
-2024.
-À COARQ.
-Ação Legislativa:
-Comunica à Câmara dos Deputados o recebimento do autógrafo sancionado do Projeto de Lei n° 6201, de 2023.
-Descrição/Ementa:
-pg
-7
-
+    Data: 21/11/2024
+    Autor: Presidência da República
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Autógrafo restituído pela Presidência da República ao Senado Federal após sanção.
+    Documento: MSG 1479/2024 - Presidência
+    Data: 21/11/2024
+    Autor: Presidência da República
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Restitui o autógrafo do Projeto de Lei nº 6.201, de 2023, sancionado e convertido na Lei nº 15.028, de 18 de novembro de 2024.
+    Documento: OFSF 1300/2024
+    Data: 22/11/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica à Câmara dos Deputados o recebimento do autógrafo sancionado do Projeto de Lei n° 6201, de 2023.

@@ -1,80 +1,51 @@
-Atividade Legislativa
-Projeto de Lei Complementar n° 210, de 2024
-Autoria:
-Câmara dos Deputados
+Atividade legislativa: Projeto de Lei Complementar n° 210, de 2024
+Autoria: Câmara dos Deputados
 Iniciativa: Deputado Federal José Guimarães (PT/CE)
-Ementa:
-Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a
+Ementa: Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a
 estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; revoga a Lei
 Complementar nº 207, de 16 de maio de 2024; e dá outras providências.
-Assunto:
-Data de Leitura:
-Economia e Desenvolvimento  - Finanças Públicas
--
-Tramitação encerrada
-Aprovada pelo Plenário
-Decisão:
-20/12/2024 - Secretaria de Expediente
-Último local:
-À sanção
-Destino:
-Último estado:
-31/12/2024 - TRANSFORMADA EM
-NORMA JURÍDICA COM VETO PARCIAL
-Matérias Relacionadas:
-Requerimento nº 968 de 2024
-Requerimento nº 969 de 2024
-Requerimento nº 970 de 2024
-Requerimento nº 971 de 2024
-Requerimento nº 972 de 2024
-Requerimento nº 973 de 2024
-Requerimento nº 974 de 2024
-Veto nº 00048 de 2024
-Relatoria:
-PLEN - (Plenário do Senado Federal)
-Relator(es):
-Senador Jaques Wagner (encerrado em 19/12/2024 - Matéria
-deliberada no plenário)
-Despacho:
-19/12/2024
+Assunto: Economia e Desenvolvimento  - Finanças Públicas
+Despacho: 19/12/2024
 Leitura da Matéria
 Ao Plenário
 (SF-PLEN) Plenário do Senado Federal
-TRAMITAÇÃO
-31/12/2024
-SF-SEXPE - Secretaria de Expediente
-TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL
-Situação:
-(PR) PRESIDÊNCIA DA REPÚBLICA.
+Relatoria: PLEN - (Plenário do Senado Federal)
+Relator(es):
+Senador Jaques Wagner (encerrado em 19/12/2024 - Matéria
+deliberada no plenário)
+Tramitação encerrada: 
+  Decisão: Aprovada pelo Plenário
+  Destino: À sanção
+  Último local: 20/12/2024 - Secretaria de Expediente
+  Último estado: 31/12/2024 - TRANSFORMADA EM
+NORMA JURÍDICA COM VETO PARCIAL
+Tramitação: 
+    Data: 31/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL
+    Ação: (PR) PRESIDÊNCIA DA REPÚBLICA.
 SANCIONADA. LEI COMPLEMENTAR 211 DE 2024. (vetada parcialmente: vide MSG 1707 de 2024).
-Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei Complementar n° 210, de 2024
-TRAMITAÇÃO
-DOU (Diário Oficial da União) - 31/12/2024 - Seção I - págs. 869 e 869.
-Sancionada em 30/12/2024.
+    Data: 31/12/2024
+    Órgão: - Seção I - págs. 869 e 869.
+    Situação: Sancionada em 30/12/2024.
 À COARQ.
 20/12/2024
 SF-SEXPE - Secretaria de Expediente
 REMETIDA À SANÇÃO
-Situação:
-Remetido Ofício SF n.º 1552, de 20/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+    Ação: Remetido Ofício SF n.º 1552, de 20/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
 encaminhando a Mensagem SF n.º 300/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
 presidencial autógrafo do Projeto.
 Remetido Ofício SF n.º 1553, de 20/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
 foi encaminhado à sanção presidencial.
+    Data: 20/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Anexado o texto revisado.
 Ação:
-20/12/2024
-SF-SEXPE - Secretaria de Expediente
-Anexado o texto revisado.
-Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-APROVADA
-Situação:
-(Sessão Deliberativa Extraordinária realizada em 19/12/2024)
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: APROVADA
+    Ação: (Sessão Deliberativa Extraordinária realizada em 19/12/2024)
 Encaminhadas à publicação as Emendas n°s 1 a 25 de Plenário.
 Encaminhado à publicação e aprovado o Requerimento n° 972, de 2024, de autoria de Líderes, que solicita urgência para o
 Projeto.
@@ -94,614 +65,409 @@ Rejeitada a Emenda n° 16, destacada, com o seguinte resultado: Sim - 24, Não -
 Rejeitada a Emenda n° 20, destacada, com o seguinte resultado: Sim - 27, Não - 42, Abstenção - 0, Presidente – 1. Total: 70 .
 A matéria vai à sanção.
 Será feita a devida comunicação à Câmara dos Deputados.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Relatório do Senador Jaques Wagner.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Relatório do Senador Jaques Wagner.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 25, da Senadora Professora Dorinha.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 25, da Senadora Professora Dorinha.
-Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Requerimento n° 974, de 2024, da Liderança do Podemos, de destaque para votação em separado da Emenda nº 21.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Requerimento n° 974, de 2024, da Liderança do Podemos, de destaque para votação em separado da Emenda nº 21.
 Ação:
 pg
 2
 Atividade Legislativa
 Projeto de Lei Complementar n° 210, de 2024
 TRAMITAÇÃO
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebidas as Emendas nºs 23 e 24, do Senador Zequinha Marinho.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebidas as Emendas nºs 23 e 24, do Senador Zequinha Marinho.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Requerimento n° 973, de 2024, da Liderança do Republicanos, de destaque para votação em separado da Emenda nº
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Requerimento n° 973, de 2024, da Liderança do Republicanos, de destaque para votação em separado da Emenda nº
 20.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Requerimento nº 972, de 2024, de Líderes, solicitando urgência para a matéria.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Requerimento nº 972, de 2024, de Líderes, solicitando urgência para a matéria.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 22, do Senador Lucas Barreto.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 22, do Senador Lucas Barreto.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 21, do Senador Carlos Viana.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 21, do Senador Carlos Viana.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Requerimento n° 971, de 2024, da Liderança do PSB, de destaque para votação em separado da Emenda nº 3.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Requerimento n° 971, de 2024, da Liderança do PSB, de destaque para votação em separado da Emenda nº 3.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Requerimento n° 970, de 2024, da Liderança do PDT, de destaque para votação em separado da Emenda nº 1.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Requerimento n° 970, de 2024, da Liderança do PDT, de destaque para votação em separado da Emenda nº 1.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 20, do Senador Hamilton Mourão.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 20, do Senador Hamilton Mourão.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebidas as Emendas nºs 17 a 19, do Senador Mecias de Jesus.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebidas as Emendas nºs 17 a 19, do Senador Mecias de Jesus.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Requerimento n° 969, de 2024, da Liderança do Partido Liberal, de destaque para votação em separado da Emenda
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Requerimento n° 969, de 2024, da Liderança do Partido Liberal, de destaque para votação em separado da Emenda
 nº 16.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Requerimento n° 968, de 2024, da Liderança do PL, de destaque para votação em separado da Emenda nº 14.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Requerimento n° 968, de 2024, da Liderança do PL, de destaque para votação em separado da Emenda nº 14.
 Ação:
 pg
 3
 Atividade Legislativa
 Projeto de Lei Complementar n° 210, de 2024
 TRAMITAÇÃO
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 16, dos Senadores Rogerio Marinho e Carlos Portinho.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 16, dos Senadores Rogerio Marinho e Carlos Portinho.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 15, do Senador Plínio Valério.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 15, do Senador Plínio Valério.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 14, dos Senadores Rogerio Marinho e Carlos Portinho.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 14, dos Senadores Rogerio Marinho e Carlos Portinho.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 13, do Senador Alessandro Vieira.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 13, do Senador Alessandro Vieira.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebidas as Emendas nºs 8 a 12, do Senador Ciro Nogueira.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebidas as Emendas nºs 8 a 12, do Senador Ciro Nogueira.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 7, do Senador Astronauta Marcos Pontes.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 7, do Senador Astronauta Marcos Pontes.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 6, da Senadora Tereza Cristina.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 6, da Senadora Tereza Cristina.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 5, do Senador Plínio Valério.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 5, do Senador Plínio Valério.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebidas as Emendas nºs 3 e 4, do Senador Chico Rodrigues.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebidas as Emendas nºs 3 e 4, do Senador Chico Rodrigues.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 2, do Senador Zequinha Marinho.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 2, do Senador Zequinha Marinho.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-Recebida a Emenda nº 1, da Senadora Leila Barros.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebida a Emenda nº 1, da Senadora Leila Barros.
 Ação:
 pg
 4
 Atividade Legislativa
 Projeto de Lei Complementar n° 210, de 2024
 TRAMITAÇÃO
-19/12/2024
-PLEN - Plenário do Senado Federal
-Designado Relator de Plenário o Senador Jaques Wagner.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Designado Relator de Plenário o Senador Jaques Wagner.
 Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-INCLUÍDA EM ORDEM DO DIA
-Situação:
-Incluído em Ordem do Dia da Sessão Deliberativa Extraordinária Semipresencial de 19/12/2024.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: INCLUÍDA EM ORDEM DO DIA
+    Ação: Incluído em Ordem do Dia da Sessão Deliberativa Extraordinária Semipresencial de 19/12/2024.
 (Pendente de apresentação de requerimento de urgência).
-Ação:
-18/12/2024
-PLEN - Plenário do Senado Federal
-AGUARDANDO DESPACHO
-Situação:
-Autuado o Projeto de Lei nº 210/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação:
-DOCUMENTOS
-PLP 210/2024
-18/12/2024
-Data:
- Câmara dos Deputados
-Autor:
-Plenário do Senado Federal
-Local:
-Autuado o Projeto de Lei nº 210/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação Legislativa:
-Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a estabilidade
-macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; revoga a Lei Complementar nº 207, de
-16 de maio de 2024; e dá outras providências.
-Descrição/Ementa:
-Avulso inicial da matéria
-18/12/2024
-Data:
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-Autuado o Projeto de Lei nº 210/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação Legislativa:
--
-Descrição/Ementa:
-EMENDA 1 PLEN - PLP
-19/12/2024
-Data:
-Senadora Leila Barros (PDT/DF)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 1, da Senadora Leila Barros.
-Ação Legislativa:
-Emenda  ao PLP 210/2024
-Descrição/Ementa:
-EMENDA 2 PLEN - PLP
-19/12/2024
-Data:
-Senador Zequinha Marinho (PODEMOS/PA)
-Autor:
-Plenário do Senado Federal
-Local:
-pg
-5
-Atividade Legislativa
-Projeto de Lei Complementar n° 210, de 2024
-DOCUMENTOS
-Recebida a Emenda nº 2, do Senador Zequinha Marinho.
-Ação Legislativa:
-Emenda  ao PLP 210/2024, acrescentando §§ 1º e 2º ao Art 2º do Projeto.
-Descrição/Ementa:
-EMENDA 3 PLEN - PLP
-19/12/2024
-Data:
-Senador Chico Rodrigues (PSB/RR)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebidas as Emendas nºs 3 e 4, do Senador Chico Rodrigues.
-Ação Legislativa:
-Emenda  ao PLP 210/2024 limita desvinculação de recursos do Fundo Aeronáutico a 25%
-Descrição/Ementa:
-EMENDA 4 PLEN - PLP
-19/12/2024
-Data:
-Senador Chico Rodrigues (PSB/RR)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebidas as Emendas nºs 3 e 4, do Senador Chico Rodrigues.
-Ação Legislativa:
-Emenda  ao PLP 210/2024 - devolução de recursos Fundo Naval a partir de 2031
-Descrição/Ementa:
-EMENDA 5 PLEN - PLP
-19/12/2024
-Data:
-Senador Plínio Valério (PSDB/AM)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 5, do Senador Plínio Valério.
-Ação Legislativa:
-Emenda  ao PLP 210/2024
-Descrição/Ementa:
-EMENDA 6 PLEN - PLP
-19/12/2024
-Data:
-Senadora Tereza Cristina (PP/MS)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 6, da Senadora Tereza Cristina.
-Ação Legislativa:
-Emenda  ao PLP 210/2024 - Pacote de gastos
-Descrição/Ementa:
-EMENDA 7 PLEN - PLP
-19/12/2024
-Data:
-Senador Astronauta Marcos Pontes (PL/SP)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 7, do Senador Astronauta Marcos Pontes.
-Ação Legislativa:
-Emenda  ao PLP 210/2024 - Fundo Aeronáutico
-Descrição/Ementa:
-EMENDA 8 PLEN - PLP
-19/12/2024
-Data:
-Senador Ciro Nogueira (PP/PI)
-Autor:
-Plenário do Senado Federal
-Local:
-pg
-6
-Atividade Legislativa
-Projeto de Lei Complementar n° 210, de 2024
-DOCUMENTOS
-Recebidas as Emendas nºs 8 a 12, do Senador Ciro Nogueira.
-Ação Legislativa:
-Emenda  1 ao PLP 210/2024
-Descrição/Ementa:
-EMENDA 9 PLEN - PLP
-19/12/2024
-Data:
-Senador Ciro Nogueira (PP/PI)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebidas as Emendas nºs 8 a 12, do Senador Ciro Nogueira.
-Ação Legislativa:
-Emenda 2  ao PLP 210/2024
-Descrição/Ementa:
-EMENDA 10 PLEN - PLP
-19/12/2024
-Data:
-Senador Ciro Nogueira (PP/PI)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebidas as Emendas nºs 8 a 12, do Senador Ciro Nogueira.
-Ação Legislativa:
-Emenda 3 ao PLP 210/2024
-Descrição/Ementa:
-EMENDA 11 PLEN - PLP
-19/12/2024
-Data:
-Senador Ciro Nogueira (PP/PI)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebidas as Emendas nºs 8 a 12, do Senador Ciro Nogueira.
-Ação Legislativa:
-Emenda 4 ao PLP 210/2024
-Descrição/Ementa:
-EMENDA 12 PLEN - PLP
-19/12/2024
-Data:
-Senador Ciro Nogueira (PP/PI)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebidas as Emendas nºs 8 a 12, do Senador Ciro Nogueira.
-Ação Legislativa:
-Emenda 5 ao PLP 210/2024
-Descrição/Ementa:
-EMENDA 13 PLEN - PLP
-19/12/2024
-Data:
-Senador Alessandro Vieira (MDB/SE)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 13, do Senador Alessandro Vieira.
-Ação Legislativa:
-Emenda ao PLP 210/2024 (supersalários)
-Descrição/Ementa:
-EMENDA 14 PLEN - PLP
-19/12/2024
-Data:
-Senador Rogerio Marinho (PL/RN), Senador Carlos Portinho (PL/RJ)
-Autor:
-Plenário do Senado Federal
-Local:
-pg
-7
-Atividade Legislativa
-Projeto de Lei Complementar n° 210, de 2024
-DOCUMENTOS
-Recebida a Emenda nº 14, dos Senadores Rogerio Marinho e Carlos Portinho.
-Ação Legislativa:
-Emenda  ao PLP 210/2024 - evita manobras nos fundos
-Descrição/Ementa:
-EMENDA 15 PLEN - PLP
-19/12/2024
-Data:
-Senador Plínio Valério (PSDB/AM)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 15, do Senador Plínio Valério.
-Ação Legislativa:
-Emenda  ao PLP 210/2024  exercícios financeiros de 2025 a 2030
-Descrição/Ementa:
-EMENDA 16 PLEN - PLP
-19/12/2024
-Data:
-Senador Rogerio Marinho (PL/RN), Senador Carlos Portinho (PL/RJ)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 16, dos Senadores Rogerio Marinho e Carlos Portinho.
-Ação Legislativa:
-Emenda  ao PLP 210/2024 - aglutinado arcabouço
-Descrição/Ementa:
-RQS 968/2024
-19/12/2024
-Data:
-Líder do PL Carlos Portinho (PL/RJ)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Requerimento n° 968, de 2024, da Liderança do PL, de destaque para votação em separado da Emenda nº 14.
-Ação Legislativa:
-Requer, pela Liderança do PL, destaque para votação em separado da Emenda nº 14 ao Projeto de Lei Complementar nº
+    Data: 18/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO DESPACHO
+    Ação: Autuado o Projeto de Lei nº 210/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+Documentos: 
+    Documento: PLP 210/2024
+    Data: 18/12/2024
+    Autor: Câmara dos Deputados
+    Local: Plenário do Senado Federal
+    Ação legislativa: Autuado o Projeto de Lei nº 210/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+    Descrição/ementa: Não disponível
+    Documento: Avulso inicial da matéria
+    Data: 18/12/2024
+    Autor: Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Autuado o Projeto de Lei nº 210/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+    Descrição/ementa: -
+    Documento: EMENDA 1 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senadora Leila Barros (PDT/DF)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 1, da Senadora Leila Barros.
+    Descrição/ementa: Emenda  ao PLP 210/2024
+    Documento: EMENDA 2 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Zequinha Marinho (PODEMOS/PA)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Emenda  ao PLP 210/2024, acrescentando §§ 1º e 2º ao Art 2º do Projeto.
+    Documento: EMENDA 3 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Chico Rodrigues (PSB/RR)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebidas as Emendas nºs 3 e 4, do Senador Chico Rodrigues.
+    Descrição/ementa: Emenda  ao PLP 210/2024 limita desvinculação de recursos do Fundo Aeronáutico a 25%
+    Documento: EMENDA 4 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Chico Rodrigues (PSB/RR)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebidas as Emendas nºs 3 e 4, do Senador Chico Rodrigues.
+    Descrição/ementa: Emenda  ao PLP 210/2024 - devolução de recursos Fundo Naval a partir de 2031
+    Documento: EMENDA 5 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Plínio Valério (PSDB/AM)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 5, do Senador Plínio Valério.
+    Descrição/ementa: Emenda  ao PLP 210/2024
+    Documento: EMENDA 6 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senadora Tereza Cristina (PP/MS)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 6, da Senadora Tereza Cristina.
+    Descrição/ementa: Emenda  ao PLP 210/2024 - Pacote de gastos
+    Documento: EMENDA 7 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Astronauta Marcos Pontes (PL/SP)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 7, do Senador Astronauta Marcos Pontes.
+    Descrição/ementa: Emenda  ao PLP 210/2024 - Fundo Aeronáutico
+    Documento: EMENDA 8 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Ciro Nogueira (PP/PI)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Emenda  1 ao PLP 210/2024
+    Documento: EMENDA 9 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Ciro Nogueira (PP/PI)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebidas as Emendas nºs 8 a 12, do Senador Ciro Nogueira.
+    Descrição/ementa: Emenda 2  ao PLP 210/2024
+    Documento: EMENDA 10 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Ciro Nogueira (PP/PI)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebidas as Emendas nºs 8 a 12, do Senador Ciro Nogueira.
+    Descrição/ementa: Emenda 3 ao PLP 210/2024
+    Documento: EMENDA 11 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Ciro Nogueira (PP/PI)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebidas as Emendas nºs 8 a 12, do Senador Ciro Nogueira.
+    Descrição/ementa: Emenda 4 ao PLP 210/2024
+    Documento: EMENDA 12 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Ciro Nogueira (PP/PI)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebidas as Emendas nºs 8 a 12, do Senador Ciro Nogueira.
+    Descrição/ementa: Emenda 5 ao PLP 210/2024
+    Documento: EMENDA 13 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Alessandro Vieira (MDB/SE)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 13, do Senador Alessandro Vieira.
+    Descrição/ementa: Emenda ao PLP 210/2024 (supersalários)
+    Documento: EMENDA 14 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Rogerio Marinho (PL/RN), Senador Carlos Portinho (PL/RJ)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Emenda  ao PLP 210/2024 - evita manobras nos fundos
+    Documento: EMENDA 15 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Plínio Valério (PSDB/AM)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 15, do Senador Plínio Valério.
+    Descrição/ementa: Emenda  ao PLP 210/2024  exercícios financeiros de 2025 a 2030
+    Documento: EMENDA 16 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Rogerio Marinho (PL/RN), Senador Carlos Portinho (PL/RJ)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 16, dos Senadores Rogerio Marinho e Carlos Portinho.
+    Descrição/ementa: Emenda  ao PLP 210/2024 - aglutinado arcabouço
+    Documento: RQS 968/2024
+    Data: 19/12/2024
+    Autor: Líder do PL Carlos Portinho (PL/RJ)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebido o Requerimento n° 968, de 2024, da Liderança do PL, de destaque para votação em separado da Emenda nº 14.
+    Descrição/ementa: Requer, pela Liderança do PL, destaque para votação em separado da Emenda nº 14 ao Projeto de Lei Complementar nº
 210/2024.
-Descrição/Ementa:
-RQS 969/2024
-19/12/2024
-Data:
-Líder do PL Carlos Portinho (PL/RJ)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Requerimento n° 969, de 2024, da Liderança do Partido Liberal, de destaque para votação em separado da Emenda
-nº 16.
-Ação Legislativa:
-Requer, pela Liderança do Partido Liberal, destaque para votação em separado da Emenda nº 16 ao Projeto de Lei
+    Documento: RQS 969/2024
+    Data: 19/12/2024
+    Autor: Líder do PL Carlos Portinho (PL/RJ)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Requer, pela Liderança do Partido Liberal, destaque para votação em separado da Emenda nº 16 ao Projeto de Lei
 Complementar nº 210/2024.
-Descrição/Ementa:
-EMENDA 17 PLEN - PLP
-19/12/2024
-Data:
-Senador Mecias de Jesus (REPUBLICANOS/RR)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebidas as Emendas nºs 17 a 19, do Senador Mecias de Jesus.
-Ação Legislativa:
-Emenda ao PLP 210/2024
-Descrição/Ementa:
-EMENDA 18 PLEN - PLP
-19/12/2024
-Data:
-Senador Mecias de Jesus (REPUBLICANOS/RR)
-Autor:
-pg
-8
-Atividade Legislativa
-Projeto de Lei Complementar n° 210, de 2024
-DOCUMENTOS
-Plenário do Senado Federal
-Local:
-Recebidas as Emendas nºs 17 a 19, do Senador Mecias de Jesus.
-Ação Legislativa:
-Emenda 1 ao PLP 210/2024
-Descrição/Ementa:
-EMENDA 19 PLEN - PLP
-19/12/2024
-Data:
-Senador Mecias de Jesus (REPUBLICANOS/RR)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebidas as Emendas nºs 17 a 19, do Senador Mecias de Jesus.
-Ação Legislativa:
-Emenda 2 ao PLP 210/2024
-Descrição/Ementa:
-EMENDA 20 PLEN - PLP
-19/12/2024
-Data:
-Senador Hamilton Mourão (REPUBLICANOS/RS)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 20, do Senador Hamilton Mourão.
-Ação Legislativa:
-Emenda  ao PLP 210/2024
-Descrição/Ementa:
-RQS 970/2024
-19/12/2024
-Data:
-Líder do PDT Ana Paula Lobato (PDT/MA)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Requerimento n° 970, de 2024, da Liderança do PDT, de destaque para votação em separado da Emenda nº 1.
-Ação Legislativa:
-Requer, pela Liderança do PDT, destaque para votação em separado da Emenda nº 1 ao Projeto de Lei Complementar nº
+    Documento: EMENDA 17 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Mecias de Jesus (REPUBLICANOS/RR)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebidas as Emendas nºs 17 a 19, do Senador Mecias de Jesus.
+    Descrição/ementa: Emenda ao PLP 210/2024
+    Documento: EMENDA 18 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Mecias de Jesus (REPUBLICANOS/RR)
+    Local: pg
+    Ação legislativa: Recebidas as Emendas nºs 17 a 19, do Senador Mecias de Jesus.
+    Descrição/ementa: Emenda 1 ao PLP 210/2024
+    Documento: EMENDA 19 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Mecias de Jesus (REPUBLICANOS/RR)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebidas as Emendas nºs 17 a 19, do Senador Mecias de Jesus.
+    Descrição/ementa: Emenda 2 ao PLP 210/2024
+    Documento: EMENDA 20 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Hamilton Mourão (REPUBLICANOS/RS)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 20, do Senador Hamilton Mourão.
+    Descrição/ementa: Emenda  ao PLP 210/2024
+    Documento: RQS 970/2024
+    Data: 19/12/2024
+    Autor: Líder do PDT Ana Paula Lobato (PDT/MA)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebido o Requerimento n° 970, de 2024, da Liderança do PDT, de destaque para votação em separado da Emenda nº 1.
+    Descrição/ementa: Requer, pela Liderança do PDT, destaque para votação em separado da Emenda nº 1 ao Projeto de Lei Complementar nº
 210/2024.
-Descrição/Ementa:
-RQS 971/2024
-19/12/2024
-Data:
-Líder do PSB Jorge Kajuru (PSB/GO)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Requerimento n° 971, de 2024, da Liderança do PSB, de destaque para votação em separado da Emenda nº 3.
-Ação Legislativa:
-Requer, pela Liderança do PSB, destaque para votação em separado da Emenda nº 3 ao Projeto de Lei Complementar nº
+    Documento: RQS 971/2024
+    Data: 19/12/2024
+    Autor: Líder do PSB Jorge Kajuru (PSB/GO)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebido o Requerimento n° 971, de 2024, da Liderança do PSB, de destaque para votação em separado da Emenda nº 3.
+    Descrição/ementa: Requer, pela Liderança do PSB, destaque para votação em separado da Emenda nº 3 ao Projeto de Lei Complementar nº
 210/2024.
-Descrição/Ementa:
-EMENDA 21 PLEN - PLP
-19/12/2024
-Data:
-Senador Carlos Viana (PODEMOS/MG)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 21, do Senador Carlos Viana.
-Ação Legislativa:
-Emenda  ao PLP 210/2024 - Lei de Incentivo ao Esporte
-Descrição/Ementa:
-EMENDA 22 PLEN - PLP
-19/12/2024
-Data:
-pg
-9
-Atividade Legislativa
-Projeto de Lei Complementar n° 210, de 2024
-DOCUMENTOS
-Senador Lucas Barreto (PSD/AP)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 22, do Senador Lucas Barreto.
-Ação Legislativa:
-Emenda  ao PLP 210/2024 Fundo Aeronáutico
-Descrição/Ementa:
-RQS 972/2024
-19/12/2024
-Data:
-Líder do Governo Jaques Wagner (PT/BA), Líder do Bloco Parlamentar da Resistência Democrática Eliziane Gama (PSD/MA), Líder
-do PDT Ana Paula Lobato (PDT/MA)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Requerimento nº 972, de 2024, de Líderes, solicitando urgência para a matéria.
-Ação Legislativa:
-Requer urgência para o Projeto de Lei Complementar nº 210/2024, nos termos dos arts. 336, III, e 338, III, do Regimento Interno
+    Documento: EMENDA 21 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Carlos Viana (PODEMOS/MG)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 21, do Senador Carlos Viana.
+    Descrição/ementa: Emenda  ao PLP 210/2024 - Lei de Incentivo ao Esporte
+    Documento: EMENDA 22 PLEN - PLP
+    Data: 19/12/2024
+    Autor: pg
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 22, do Senador Lucas Barreto.
+    Descrição/ementa: Emenda  ao PLP 210/2024 Fundo Aeronáutico
+    Documento: RQS 972/2024
+    Data: 19/12/2024
+    Autor: Líder do Governo Jaques Wagner (PT/BA), Líder do Bloco Parlamentar da Resistência Democrática Eliziane Gama (PSD/MA), Líder
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebido o Requerimento nº 972, de 2024, de Líderes, solicitando urgência para a matéria.
+    Descrição/ementa: Requer urgência para o Projeto de Lei Complementar nº 210/2024, nos termos dos arts. 336, III, e 338, III, do Regimento Interno
 do Senado Federal.
-Descrição/Ementa:
-RQS 973/2024
-19/12/2024
-Data:
-Líder do REPUBLICANOS Mecias de Jesus (REPUBLICANOS/RR)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Requerimento n° 973, de 2024, da Liderança do Republicanos, de destaque para votação em separado da Emenda nº
-20.
-Ação Legislativa:
-Requer, pela Liderança do Republicanos, destaque para votação em separado da Emenda nº 20 ao Projeto de Lei Complementar
+    Documento: RQS 973/2024
+    Data: 19/12/2024
+    Autor: Líder do REPUBLICANOS Mecias de Jesus (REPUBLICANOS/RR)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Requer, pela Liderança do Republicanos, destaque para votação em separado da Emenda nº 20 ao Projeto de Lei Complementar
 nº 210/2024.
-Descrição/Ementa:
-EMENDA 23 PLEN - PLP
-19/12/2024
-Data:
-Senador Zequinha Marinho (PODEMOS/PA)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebidas as Emendas nºs 23 e 24, do Senador Zequinha Marinho.
-Ação Legislativa:
-ZM-PLP-210/2024-EmendaArt-2
-Descrição/Ementa:
-EMENDA 24 PLEN - PLP
-19/12/2024
-Data:
-Senador Zequinha Marinho (PODEMOS/PA)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebidas as Emendas nºs 23 e 24, do Senador Zequinha Marinho.
-Ação Legislativa:
-Emenda  ao PLP 210/2024 - Aeronáutica
-Descrição/Ementa:
-RQS 974/2024
-19/12/2024
-Data:
-Líder do PODEMOS Rodrigo Cunha (PODEMOS/AL)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Requerimento n° 974, de 2024, da Liderança do Podemos, de destaque para votação em separado da Emenda nº 21.
-Ação Legislativa:
-Requer, pela Liderança do Podemos, destaque para votação em separado da Emenda nº 21 ao Projeto de Lei Complementar nº
+    Documento: EMENDA 23 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Zequinha Marinho (PODEMOS/PA)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebidas as Emendas nºs 23 e 24, do Senador Zequinha Marinho.
+    Descrição/ementa: ZM-PLP-210/2024-EmendaArt-2
+    Documento: EMENDA 24 PLEN - PLP
+    Data: 19/12/2024
+    Autor: Senador Zequinha Marinho (PODEMOS/PA)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebidas as Emendas nºs 23 e 24, do Senador Zequinha Marinho.
+    Descrição/ementa: Emenda  ao PLP 210/2024 - Aeronáutica
+    Documento: RQS 974/2024
+    Data: 19/12/2024
+    Autor: Líder do PODEMOS Rodrigo Cunha (PODEMOS/AL)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebido o Requerimento n° 974, de 2024, da Liderança do Podemos, de destaque para votação em separado da Emenda nº 21.
+    Descrição/ementa: Requer, pela Liderança do Podemos, destaque para votação em separado da Emenda nº 21 ao Projeto de Lei Complementar nº
 210, de 2024.
-Descrição/Ementa:
-pg
+    Documento: pg
 10
 Atividade Legislativa
 Projeto de Lei Complementar n° 210, de 2024
 DOCUMENTOS
 EMENDA 25 PLEN - PLP
-19/12/2024
-Data:
-Senadora Professora Dorinha Seabra (UNIÃO/TO)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 25, da Senadora Professora Dorinha.
-Ação Legislativa:
-Emenda  ao PLP 210/2024 - Devolução de recursos aos Fundos das Forças Armadas
-Descrição/Ementa:
-Relatório Legislativo
-19/12/2024
-Data:
-Senador Jaques Wagner (PT/BA)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Relatório do Senador Jaques Wagner.
-Ação Legislativa:
-Relatório ao PLP 210/2024
-Descrição/Ementa:
-Listagem ou relatório
-19/12/2024
-Data:
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-Votação nominal do Projeto de Lei Complementar nº 210, de 2024, nos termos do parecer, ressalvados os destaques.
-Descrição/Ementa:
-Listagem ou relatório
-19/12/2024
-Data:
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-Votação nominal da Emenda nº 14 ao Projeto de Lei nº 210, de 2024, destacada.
-Descrição/Ementa:
-Listagem ou relatório
-19/12/2024
-Data:
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-Votação nominal da Emenda nº 16 ao Projeto de Lei nº 210, de 2024, destacada.
-Descrição/Ementa:
-P.S 259/2024 - PLEN
-19/12/2024
-Data:
-Senador Jaques Wagner (PT/BA)
-Autor:
-Plenário do Senado Federal
-Local:
-(Sessão Deliberativa Extraordinária realizada em 19/12/2024)
-Encaminhadas à publicação as Emendas n°s 1 a 25 de Plenário.
-Encaminhado à publicação e aprovado o Requerimento n° 972, de 2024, de autoria de Líderes, que solicita urgência para o
-Projeto.
-Senador Jaques Wagner profere o Parecer n° 259/2024 - Plen/SF, favorável ao Projeto e contrário às Emendas 1 a 25 de Plenário.
-Aprovado o Projeto, nos termos do Parecer de Plenário, ressalvadas as Emendas n°s 14, 16 e 20, destacadas, com o seguinte
-resultado: Sim - 72, Não - 1, Abstenção - 0, Presidente – 1. Total: 74.
-Encaminhados à publicação os seguintes Requerimentos:
-- nº 968, de 2024, da Liderança do PL, de destaque para votação em separado da Emenda nº 14;
-Ação Legislativa:
-pg
+    Data: 19/12/2024
+    Autor: Senadora Professora Dorinha Seabra (UNIÃO/TO)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 25, da Senadora Professora Dorinha.
+    Descrição/ementa: Emenda  ao PLP 210/2024 - Devolução de recursos aos Fundos das Forças Armadas
+    Documento: Relatório Legislativo
+    Data: 19/12/2024
+    Autor: Senador Jaques Wagner (PT/BA)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebido o Relatório do Senador Jaques Wagner.
+    Descrição/ementa: Relatório ao PLP 210/2024
+    Documento: Listagem ou relatório
+    Data: 19/12/2024
+    Autor: Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Votação nominal do Projeto de Lei Complementar nº 210, de 2024, nos termos do parecer, ressalvados os destaques.
+    Documento: Listagem ou relatório
+    Data: 19/12/2024
+    Autor: Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Votação nominal da Emenda nº 14 ao Projeto de Lei nº 210, de 2024, destacada.
+    Documento: Listagem ou relatório
+    Data: 19/12/2024
+    Autor: Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Votação nominal da Emenda nº 16 ao Projeto de Lei nº 210, de 2024, destacada.
+    Documento: P.S 259/2024 - PLEN
+    Data: 19/12/2024
+    Autor: Senador Jaques Wagner (PT/BA)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: pg
 11
 Atividade Legislativa
 Projeto de Lei Complementar n° 210, de 2024
@@ -718,104 +484,53 @@ Rejeitada a Emenda n° 20, destacada, com o seguinte resultado: Sim - 27, Não -
 A matéria vai à sanção.
 Será feita a devida comunicação à Câmara dos Deputados.
 Parecer nº 259, de 2024-PLEN/SF
-Descrição/Ementa:
-Avulso de emendas
-19/12/2024
-Data:
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-Recebida a Emenda nº 25, da Senadora Professora Dorinha.
-Ação Legislativa:
--
-Descrição/Ementa:
-Listagem ou relatório
-19/12/2024
-Data:
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-Votação nominal da Emenda nº 20 ao Projeto de Lei nº 210, de 2024, destacada.
-Descrição/Ementa:
-MPSF 300/2024
-20/12/2024
-Data:
-Presidente do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1552, de 20/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 300/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1553, de 20/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Encaminha à Sanção o Projeto de Lei Complementar n° 210/2024.
-Descrição/Ementa:
-OFSF 1552/2024
-20/12/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1552, de 20/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 300/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1553, de 20/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Encaminha a Mensagem do Excelentíssimo Senhor Presidente do Senado Federal submetendo à sanção presidencial autógrafos
+    Documento: Avulso de emendas
+    Data: 19/12/2024
+    Autor: Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebida a Emenda nº 25, da Senadora Professora Dorinha.
+    Descrição/ementa: -
+    Documento: Listagem ou relatório
+    Data: 19/12/2024
+    Autor: Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Votação nominal da Emenda nº 20 ao Projeto de Lei nº 210, de 2024, destacada.
+    Documento: MPSF 300/2024
+    Data: 20/12/2024
+    Autor: Presidente do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha à Sanção o Projeto de Lei Complementar n° 210/2024.
+    Documento: OFSF 1552/2024
+    Data: 20/12/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha a Mensagem do Excelentíssimo Senhor Presidente do Senado Federal submetendo à sanção presidencial autógrafos
 do Projeto de Lei Complementar n° 210/2024.
-Descrição/Ementa:
-pg
+    Documento: pg
 12
 Atividade Legislativa
 Projeto de Lei Complementar n° 210, de 2024
 DOCUMENTOS
 OFSF 1553/2024
-20/12/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1552, de 20/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 300/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1553, de 20/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei Complementar n° 210/2024.
-Descrição/Ementa:
-Minuta
-20/12/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Anexado o texto revisado.
-Ação Legislativa:
-Autógrafo - PLP 210/2024
-20/12/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Remetido Ofício SF n.º 1552, de 20/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 300/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1553, de 20/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a estabilidade
+    Data: 20/12/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei Complementar n° 210/2024.
+    Documento: Minuta
+    Data: 20/12/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Anexado o texto revisado.
+    Descrição/ementa: Autógrafo - PLP 210/2024
+    Documento: Autógrafo - PLP 210/2024
+    Data: 20/12/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Altera a Lei Complementar nº 200, de 30 de agosto de 2023, que institui regime fiscal sustentável para garantir a estabilidade
 macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; revoga a Lei Complementar nº 207, de
 16 de maio de 2024; e dá outras providências.
-Descrição/Ementa:
-pg
-13
-

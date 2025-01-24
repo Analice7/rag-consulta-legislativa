@@ -1,30 +1,14 @@
-Atividade Legislativa
-Projeto de Lei n° 5791, de 2019
-Autoria:
-Câmara dos Deputados
+Atividade legislativa: Projeto de Lei n° 5791, de 2019
+Autoria: Câmara dos Deputados
 Iniciativa: Deputada Federal Leandre (PV/PR)
-Ementa:
-Institui a Política Nacional de Cuidados.
-Assunto:
-Data de Leitura:
-Política Social  - Proteção Social
--
-Tramitação encerrada
-Aprovada pelo Plenário
-Decisão:
-03/01/2025 - Plenário do Senado
-Federal (Secretaria Legislativa do
-Senado Federal)
-Último local:
-À sanção
-Destino:
-Último estado:
-24/12/2024 - TRANSFORMADA EM
-NORMA JURÍDICA
-Matérias Relacionadas:
-Requerimento nº 68 de 2024
-Relatoria:
-CDH - (Comissão de Direitos Humanos e Legislação Participativa)
+Ementa: Institui a Política Nacional de Cuidados.
+Assunto: Política Social  - Proteção Social
+Despacho: 26/11/2024
+Decisão da Presidência
+Análise - Tramitação sucessiva, Instrução da matéria
+(SF-CDH) Comissão de Direitos Humanos e Legislação Participativa
+(SF-CAS) Comissão de Assuntos Sociais
+Relatoria: CDH - (Comissão de Direitos Humanos e Legislação Participativa)
 Relator(es):
 Senador Paulo Paim (encerrado em 04/12/2024 - Deliberação
 da matéria)
@@ -32,46 +16,38 @@ PLEN - (Plenário do Senado Federal)
 Relator(es):
 Senador Paulo Paim (encerrado em 05/12/2024 - Deliberação
 da matéria)
-Despacho:
-26/11/2024
-Decisão da Presidência
-Análise - Tramitação sucessiva, Instrução da matéria
-(SF-CDH) Comissão de Direitos Humanos e Legislação Participativa
-(SF-CAS) Comissão de Assuntos Sociais
-TRAMITAÇÃO
-24/12/2024
-SF-SEXPE - Secretaria de Expediente
-TRANSFORMADA EM NORMA JURÍDICA
-Situação:
-(PR) PRESIDÊNCIA DA REPÚBLICA.
+Tramitação encerrada: 
+  Decisão: Aprovada pelo Plenário
+  Destino: À sanção
+  Último local: 03/01/2025 - Plenário do Senado
+Federal (Secretaria Legislativa do
+Senado Federal)
+  Último estado: 24/12/2024 - TRANSFORMADA EM
+NORMA JURÍDICA
+Tramitação: 
+    Data: 24/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: TRANSFORMADA EM NORMA JURÍDICA
+    Ação: (PR) PRESIDÊNCIA DA REPÚBLICA.
 SANCIONADA. LEI 15069 DE 2024.
 DOU (Diário Oficial da União) - 24/12/2024 - Seção I - págs. 2 e 3.
 Sancionada em 23/12/2024.
-Ação:
-09/12/2024
-SF-SEXPE - Secretaria de Expediente
-REMETIDA À SANÇÃO
-Situação:
-Remetido Ofício SF n.º 1335, de 09/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+    Data: 09/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: REMETIDA À SANÇÃO
+    Ação: Remetido Ofício SF n.º 1335, de 09/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
 encaminhando a Mensagem SF n.º 244/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
 presidencial autógrafo do Projeto.
 Remetido Ofício SF n.º 1336, de 09/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
+    Data: 05/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Anexado o texto revisado.
 Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 5791, de 2019
-TRAMITAÇÃO
-foi encaminhado à sanção presidencial.
-05/12/2024
-SF-SEXPE - Secretaria de Expediente
-Anexado o texto revisado.
-Ação:
-05/12/2024
-PLEN - Plenário do Senado Federal
-APROVADA
-Situação:
-(Sessão Deliberativa Extraordinária – realizada em 05/12/2024)
+    Data: 05/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: APROVADA
+    Ação: (Sessão Deliberativa Extraordinária – realizada em 05/12/2024)
 Aprovado o REQ nº 68/2024-CDH, de urgência para a matéria.
 Proferido pelo Senador Paulo Paim e encaminhado à publicação o Parecer nº 202/2024-PLEN/SF, em substituição à CAS,
 concluindo favoravelmente ao projeto.
@@ -79,295 +55,161 @@ Discussão encerrada.
 Aprovado o Projeto.
 À sanção.
 Será feita a devida comunicação à Câmara dos Deputados.
+    Data: 05/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: APROVADO PARECER NA COMISSÃO
+    Ação: Encerrada a relatoria do Senador Paulo Paim por deliberação da matéria.
+    Data: 05/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Relatório do Senador Paulo Paim.
 Ação:
-Publicado no DSF Páginas 204-209 - DSF nº 209
-05/12/2024
-PLEN - Plenário do Senado Federal
-APROVADO PARECER NA COMISSÃO
-Situação:
-Encerrada a relatoria do Senador Paulo Paim por deliberação da matéria.
+    Data: 05/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Designado o Senador Paulo Paim Relator de Plenário.
 Ação:
-05/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Relatório do Senador Paulo Paim.
-Ação:
-05/12/2024
-PLEN - Plenário do Senado Federal
-Designado o Senador Paulo Paim Relator de Plenário.
-Ação:
-04/12/2024
-PLEN - Plenário do Senado Federal
-INCLUÍDA EM ORDEM DO DIA
-Situação:
-Incluído em Ordem do Dia da Sessão Deliberativa Extraordinária de 5/12/2024.
+    Data: 04/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: INCLUÍDA EM ORDEM DO DIA
+    Ação: Incluído em Ordem do Dia da Sessão Deliberativa Extraordinária de 5/12/2024.
 (Pendente de deliberação do Requerimento nº 68, de 2024, de iniciativa da Comissão de Direitos Humanos e Legislação
 Participativa, solicitando urgência para a matéria, nos termos dos arts. 336, III, e 338, IV, do Regimento Interno)
-Ação:
-04/12/2024
-CDH - Comissão de Direitos Humanos e Legislação Participativa
-Encerrada a relatoria do Senador Paulo Paim por deliberação da matéria.
+    Data: 04/12/2024
+    Órgão: CDH - Comissão de Direitos Humanos e Legislação Participativa
+    Situação: Não disponível
+    Ação: Encerrada a relatoria do Senador Paulo Paim por deliberação da matéria.
 À SLSF para prosseguimento da tramitação.
 Ação:
-04/12/2024
-CDH - Comissão de Direitos Humanos e Legislação Participativa
-APROVADO PARECER NA COMISSÃO
-Situação:
-Na 53ª Reunião, Extraordinária, realizada nesta data, o Senador Paulo Paim passa a presidência à Senadora Zenaide Maia. Na
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei n° 5791, de 2019
-TRAMITAÇÃO
-sequência, a Comissão aprova o relatório, que passa a constituir o parecer da CDH favorável ao Projeto. A Comissão aprova
-também o req. 68-2024-CDH, que solicita urgência para o PL 5791/2019.
-Publicado no DSF Páginas 354-361 - DSF nº 208
-03/12/2024
-CDH - Comissão de Direitos Humanos e Legislação Participativa
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Recebido o relatório do Senador Paulo Paim com voto favorável ao Projeto.
-Ação:
-29/11/2024
-CDH - Comissão de Direitos Humanos e Legislação Participativa
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 53ª Reunião da Comissão de Direitos Humanos e Legislação Participativa, agendada para o dia
+    Data: 04/12/2024
+    Órgão: CDH - Comissão de Direitos Humanos e Legislação Participativa
+    Situação: APROVADO PARECER NA COMISSÃO
+    Ação: Na 53ª Reunião, Extraordinária, realizada nesta data, o Senador Paulo Paim passa a presidência à Senadora Zenaide Maia. Na
+    Data: 03/12/2024
+    Órgão: CDH - Comissão de Direitos Humanos e Legislação Participativa
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Recebido o relatório do Senador Paulo Paim com voto favorável ao Projeto.
+    Data: 29/11/2024
+    Órgão: CDH - Comissão de Direitos Humanos e Legislação Participativa
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 53ª Reunião da Comissão de Direitos Humanos e Legislação Participativa, agendada para o dia
 04/12/2024.
-Ação:
-27/11/2024
-CDH - Comissão de Direitos Humanos e Legislação Participativa
-MATÉRIA COM A RELATORIA
-Situação:
-Avocada a relatoria pelo Presidente da Comissão, Senador Paulo Paim (art. 129 do RISF).
+    Data: 27/11/2024
+    Órgão: CDH - Comissão de Direitos Humanos e Legislação Participativa
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Avocada a relatoria pelo Presidente da Comissão, Senador Paulo Paim (art. 129 do RISF).
 Comissão de Direitos Humanos e Legislação Participativa.
-Ação:
-26/11/2024
-PLEN - Plenário do Senado Federal
-MATÉRIA DESPACHADA
-Situação:
-A matéria vai à Comissão de Direitos Humanos e Legislação Participativa, seguindo posteriormente à Comissão de Assuntos
+    Data: 26/11/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: MATÉRIA DESPACHADA
+    Ação: A matéria vai à Comissão de Direitos Humanos e Legislação Participativa, seguindo posteriormente à Comissão de Assuntos
 Sociais.
-Ação:
-19/11/2024
-PLEN - Plenário do Senado Federal
-AGUARDANDO DESPACHO
-Situação:
-Autuado o Projeto de Lei nº 5791/2019, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação:
-Publicado no DSF Páginas 69-81 - DSF nº 198
-DOCUMENTOS
-PL 5791/2019
-19/11/2024
-Data:
- Câmara dos Deputados
-Autor:
-Plenário do Senado Federal
-Local:
-Autuado o Projeto de Lei nº 5791/2019, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação Legislativa:
-Institui a Política Nacional de Cuidados.
-Descrição/Ementa:
-Avulso inicial da matéria
-19/11/2024
-Data:
-pg
-3
-Atividade Legislativa
-Projeto de Lei n° 5791, de 2019
-DOCUMENTOS
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-Autuado o Projeto de Lei nº 5791/2019, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação Legislativa:
--
-Descrição/Ementa:
-Relatório Legislativo
-03/12/2024
-Data:
-Senador Paulo Paim (PT/RS)
-Autor:
-Comissão de Direitos Humanos e Legislação Participativa
-Local:
-Recebido o relatório do Senador Paulo Paim com voto favorável ao Projeto.
-Ação Legislativa:
-Da COMISSÃO DE DIREITOS HUMANOS E LEGISLAÇÃO PARTICIPATIVA, sobre o Projeto de Lei n° 5791, de 2019, que Institui a
+    Data: 19/11/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO DESPACHO
+    Ação: Autuado o Projeto de Lei nº 5791/2019, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+Documentos: 
+    Documento: PL 5791/2019
+    Data: 19/11/2024
+    Autor: Câmara dos Deputados
+    Local: Plenário do Senado Federal
+    Ação legislativa: Autuado o Projeto de Lei nº 5791/2019, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+    Descrição/ementa: Institui a Política Nacional de Cuidados.
+    Documento: Avulso inicial da matéria
+    Data: 19/11/2024
+    Autor: pg
+    Local: Plenário do Senado Federal
+    Ação legislativa: Autuado o Projeto de Lei nº 5791/2019, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+    Descrição/ementa: -
+    Documento: Relatório Legislativo
+    Data: 03/12/2024
+    Autor: Senador Paulo Paim (PT/RS)
+    Local: Comissão de Direitos Humanos e Legislação Participativa
+    Ação legislativa: Recebido o relatório do Senador Paulo Paim com voto favorável ao Projeto.
+    Descrição/ementa: Da COMISSÃO DE DIREITOS HUMANOS E LEGISLAÇÃO PARTICIPATIVA, sobre o Projeto de Lei n° 5791, de 2019, que Institui a
 Política Nacional de Cuidados.
-Descrição/Ementa:
-REQ 68/2024 - CDH
-04/12/2024
-Data:
- Comissão de Direitos Humanos e Legislação Participativa
-Autor:
-Comissão de Direitos Humanos e Legislação Participativa
-Local:
-Na 53ª Reunião, Extraordinária, realizada nesta data, o Senador Paulo Paim passa a presidência à Senadora Zenaide Maia. Na
-sequência, a Comissão aprova o relatório, que passa a constituir o parecer da CDH favorável ao Projeto. A Comissão aprova
-também o req. 68-2024-CDH, que solicita urgência para o PL 5791/2019.
-Ação Legislativa:
-Requer, nos termos dos arts. 336, III, e 338, IV, do Regimento Interno do Senado Federal, urgência para o PL 5791/2019.
-Descrição/Ementa:
-Listagem ou relatório
-04/12/2024
-Data:
- Comissão de Direitos Humanos e Legislação Participativa
-Autor:
-Comissão de Direitos Humanos e Legislação Participativa
-Local:
-Listagem ou relatório descritivo-Lista de Presença da reunião da 53ª Reunião CDH
-Descrição/Ementa:
-P.S 105/2024 - CDH
-04/12/2024
-Data:
- Comissão de Direitos Humanos e Legislação Participativa
-Autor:
-Comissão de Direitos Humanos e Legislação Participativa
-Local:
-Na 53ª Reunião, Extraordinária, realizada nesta data, o Senador Paulo Paim passa a presidência à Senadora Zenaide Maia. Na
-sequência, a Comissão aprova o relatório, que passa a constituir o parecer da CDH favorável ao Projeto. A Comissão aprova
-também o req. 68-2024-CDH, que solicita urgência para o PL 5791/2019.
-Ação Legislativa:
-Da COMISSÃO DE DIREITOS HUMANOS E LEGISLAÇÃO PARTICIPATIVA, sobre o Projeto de Lei n° 5791, de 2019, que Institui a
+    Documento: REQ 68/2024 - CDH
+    Data: 04/12/2024
+    Autor: Comissão de Direitos Humanos e Legislação Participativa
+    Local: Comissão de Direitos Humanos e Legislação Participativa
+    Ação legislativa: Não disponível
+    Descrição/ementa: Requer, nos termos dos arts. 336, III, e 338, IV, do Regimento Interno do Senado Federal, urgência para o PL 5791/2019.
+    Documento: Listagem ou relatório
+    Data: 04/12/2024
+    Autor: Comissão de Direitos Humanos e Legislação Participativa
+    Local: Comissão de Direitos Humanos e Legislação Participativa
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 53ª Reunião CDH
+    Documento: P.S 105/2024 - CDH
+    Data: 04/12/2024
+    Autor: Comissão de Direitos Humanos e Legislação Participativa
+    Local: Comissão de Direitos Humanos e Legislação Participativa
+    Ação legislativa: Não disponível
+    Descrição/ementa: Da COMISSÃO DE DIREITOS HUMANOS E LEGISLAÇÃO PARTICIPATIVA, sobre o Projeto de Lei n° 5791, de 2019, que Institui a
 Política Nacional de Cuidados.
-Descrição/Ementa:
-Relatório Legislativo
-05/12/2024
-Data:
-Senador Paulo Paim (PT/RS)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Relatório do Senador Paulo Paim.
-Ação Legislativa:
-Parecer sobre o Projeto de Lei nº 5.791, de 2019, da Deputada Leandre, que institui a Política Nacional de Cuidados
-Descrição/Ementa:
-pg
+    Documento: Relatório Legislativo
+    Data: 05/12/2024
+    Autor: Senador Paulo Paim (PT/RS)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebido o Relatório do Senador Paulo Paim.
+    Descrição/ementa: Parecer sobre o Projeto de Lei nº 5.791, de 2019, da Deputada Leandre, que institui a Política Nacional de Cuidados
+    Documento: pg
 4
 Atividade Legislativa
 Projeto de Lei n° 5791, de 2019
 DOCUMENTOS
 P.S 202/2024 - PLEN
-05/12/2024
-Data:
-Senador Paulo Paim (PT/RS)
-Autor:
-Plenário do Senado Federal
-Local:
-(Sessão Deliberativa Extraordinária – realizada em 05/12/2024)
-Aprovado o REQ nº 68/2024-CDH, de urgência para a matéria.
-Proferido pelo Senador Paulo Paim e encaminhado à publicação o Parecer nº 202/2024-PLEN/SF, em substituição à CAS,
-concluindo favoravelmente ao projeto.
-Discussão encerrada.
-Aprovado o Projeto.
-À sanção.
-Será feita a devida comunicação à Câmara dos Deputados.
-Ação Legislativa:
-Parecer nº 202/2024-PLEN/SF
-Descrição/Ementa:
-Minuta
-05/12/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Anexado o texto revisado.
-Ação Legislativa:
-OFSF 1335/2024
-09/12/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1335, de 09/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 244/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1336, de 09/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
+    Data: 05/12/2024
+    Autor: Senador Paulo Paim (PT/RS)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Parecer nº 202/2024-PLEN/SF
+    Documento: Minuta
+    Data: 05/12/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Anexado o texto revisado.
+    Descrição/ementa: OFSF 1335/2024
+    Documento: OFSF 1335/2024
+    Data: 09/12/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
 5791/2019.
-Descrição/Ementa:
-MPSF 244/2024
-09/12/2024
-Data:
-Presidente do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1335, de 09/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 244/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1336, de 09/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Encaminha à sanção o Projeto de Lei n° 5791/2019.
-Descrição/Ementa:
-OFSF 1336/2024
-09/12/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-pg
-5
-Atividade Legislativa
-Projeto de Lei n° 5791, de 2019
-DOCUMENTOS
-Remetido Ofício SF n.º 1335, de 09/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 244/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1336, de 09/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 5791/2019.
-Descrição/Ementa:
-Autógrafo - PL 5791/2019
-09/12/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Remetido Ofício SF n.º 1335, de 09/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 244/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1336, de 09/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Institui a Política Nacional de Cuidados.
-Descrição/Ementa:
-Autógrafo restituído após
-03/01/2025
-Data:
- Presidência da República
-Autor:
-Plenário do Senado Federal
-Local:
-Autógrafo restituído pela Presidência da República ao Senado Federal após sanção.
-Descrição/Ementa:
-MSG 1691/2024 - Presidência
-03/01/2025
-Data:
- Presidência da República
-Autor:
-Plenário do Senado Federal
-Local:
-Restitui o autógrafo do Projeto de Lei nº 5.791, de 2019, sancionado e convertido na Lei nº 15.069, de 23 de dezembro de 2024.
-Descrição/Ementa:
-OF. 1911/2024 - Casa Civil
-03/01/2025
-Data:
- Casa Civil
-Autor:
-Plenário do Senado Federal
-Local:
-Comunica a restituição do autógrafo sancionado e a Lei nº 15.069, de 23 de dezembro de 2024, promulgada.
-Descrição/Ementa:
-pg
-6
-
+    Documento: MPSF 244/2024
+    Data: 09/12/2024
+    Autor: Presidente do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha à sanção o Projeto de Lei n° 5791/2019.
+    Documento: OFSF 1336/2024
+    Data: 09/12/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 5791/2019.
+    Documento: Autógrafo - PL 5791/2019
+    Data: 09/12/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Institui a Política Nacional de Cuidados.
+    Documento: Autógrafo restituído após
+    Data: 03/01/2025
+    Autor: Presidência da República
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Autógrafo restituído pela Presidência da República ao Senado Federal após sanção.
+    Documento: MSG 1691/2024 - Presidência
+    Data: 03/01/2025
+    Autor: Presidência da República
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Restitui o autógrafo do Projeto de Lei nº 5.791, de 2019, sancionado e convertido na Lei nº 15.069, de 23 de dezembro de 2024.
+    Documento: OF. 1911/2024 - Casa Civil
+    Data: 03/01/2025
+    Autor: Casa Civil
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica a restituição do autógrafo sancionado e a Lei nº 15.069, de 23 de dezembro de 2024, promulgada.

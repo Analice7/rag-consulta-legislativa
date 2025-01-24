@@ -1,26 +1,13 @@
-Atividade Legislativa
-Projeto de Lei n° 4214, de 2021
-Autoria:
-Câmara dos Deputados
+Atividade legislativa: Projeto de Lei n° 4214, de 2021
+Autoria: Câmara dos Deputados
 Iniciativa: Deputado Federal Pedro Westphalen (PP/RS)
-Ementa:
-Institui o Dia Nacional do Medicamento Biossimilar.
-Assunto:
-Data de Leitura:
-Honorífico  - Data Comemorativa
--
-Tramitação encerrada
-Aprovada por Comissão em decisão
-Decisão:
-16/12/2024 - Secretaria de Expediente
-Último local:
-À sanção
-Destino:
-Último estado:
-06/01/2025 - TRANSFORMADA EM
-NORMA JURÍDICA
-Relatoria:
-CAS - (Comissão de Assuntos Sociais)
+Ementa: Institui o Dia Nacional do Medicamento Biossimilar.
+Assunto: Honorífico  - Data Comemorativa
+Despacho: 07/02/2024
+Decisão da Presidência
+Análise - Tramitação sucessiva, Instrução da matéria
+(SF-CAS) Comissão de Assuntos Sociais
+Relatoria: CAS - (Comissão de Assuntos Sociais)
 Relator(es):
 Senador Otto Alencar (encerrado em 04/09/2024 -
 Redistribuição)
@@ -28,336 +15,218 @@ Senadora Mara Gabrilli (encerrado em 04/12/2024 - Substituído
 por "ad hoc")
 Senador Dr. Hiran (Relator Ad hoc) (encerrado em 04/12/2024 -
 Deliberação da matéria)
-Despacho:
-07/02/2024
-Decisão da Presidência
-Análise - Tramitação sucessiva, Instrução da matéria
-(SF-CAS) Comissão de Assuntos Sociais
-TRAMITAÇÃO
-06/01/2025
-SF-SEXPE - Secretaria de Expediente
-TRANSFORMADA EM NORMA JURÍDICA
-Situação:
-(PR) PRESIDÊNCIA DA REPÚBLICA.
+Tramitação encerrada: 
+  Decisão: Aprovada por Comissão em decisão
+  Destino: À sanção
+  Último local: 16/12/2024 - Secretaria de Expediente
+  Último estado: 06/01/2025 - TRANSFORMADA EM
+NORMA JURÍDICA
+Tramitação: 
+    Data: 06/01/2025
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: TRANSFORMADA EM NORMA JURÍDICA
+    Ação: (PR) PRESIDÊNCIA DA REPÚBLICA.
 SANCIONADA. LEI 15087 DE 2025.
 DOU (Diário Oficial da União) - 06/01/2025 - Seção I - págs. 1 e 1.
 Sancionada em 03/01/2025.
-Ação:
-19/12/2024
-SF-SEXPE - Secretaria de Expediente
-REMETIDA À SANÇÃO
-Situação:
-Remetido Ofício SF n.º 1462, de 19/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+    Data: 19/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: REMETIDA À SANÇÃO
+    Ação: Remetido Ofício SF n.º 1462, de 19/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
 encaminhando a Mensagem SF n.º 289/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
 presidencial autógrafo do Projeto.
 Remetido Ofício SF n.º 1463, de 19/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
 foi encaminhado à sanção presidencial.
-Ação:
-16/12/2024
-SF-SEXPE - Secretaria de Expediente
-Anexado o texto revisado.
+    Data: 16/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Anexado o texto revisado.
 Ação:
 pg
 1
 Atividade Legislativa
 Projeto de Lei n° 4214, de 2021
 TRAMITAÇÃO
-13/12/2024
-PLEN - Plenário do Senado Federal
-APROVADA
-Situação:
-Encerrou-se em 12 de dezembro o prazo para interposição de recurso para apreciação pelo Plenário do presente Projeto de Lei.
+    Data: 13/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: APROVADA
+    Ação: Encerrou-se em 12 de dezembro o prazo para interposição de recurso para apreciação pelo Plenário do presente Projeto de Lei.
 Não foi apresentado recurso.
 A matéria, aprovada terminativamente pela comissão competente, vai à sanção. Será feita a devida comunicação à Câmara dos
 Deputados.
-Ação:
-04/12/2024
-PLEN - Plenário do Senado Federal
-Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 06/12/2024 a 12/12/2024.
+    Data: 04/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 06/12/2024 a 12/12/2024.
 Perante a Mesa.
 Ação:
-04/12/2024
-PLEN - Plenário do Senado Federal
-AGUARDANDO INTERPOSIÇÃO DE RECURSO
-Situação:
-Encaminhado à publicação o Ofício nº 23, de 2024, da Comissão de Assuntos Sociais, comunicando a apreciação da matéria, em
+    Data: 04/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
+    Ação: Encaminhado à publicação o Ofício nº 23, de 2024, da Comissão de Assuntos Sociais, comunicando a apreciação da matéria, em
 caráter terminativo.
 Concluída a instrução da matéria, fica aberto o prazo de cinco dias úteis para interposição de recurso, por um décimo dos
 membros da Casa, para que seja apreciada pelo Plenário, nos termos do art. 91, §§ 3º a 5º, do Regimento Interno.
-Ação:
-04/12/2024
-CAS - Comissão de Assuntos Sociais
-APRECIADA EM DECISÃO TERMINATIVA PELAS COMISSÕES
-Situação:
-Na 40ª Reunião, Extraordinária, realizada nesta data, a presidência designa relator "ad hoc" o Senador Dr. Hiran em substituição
+    Data: 04/12/2024
+    Órgão: CAS - Comissão de Assuntos Sociais
+    Situação: APRECIADA EM DECISÃO TERMINATIVA PELAS COMISSÕES
+    Ação: Na 40ª Reunião, Extraordinária, realizada nesta data, a presidência designa relator "ad hoc" o Senador Dr. Hiran em substituição
 à Senadora Mara Gabrilli, e a Comissão de Assuntos Sociais aprova o Projeto.
 Anexado o Ofício nº 23/2024-CAS, que comunica a decisão da Comissão em caráter terminativo, para ciência do Plenário e
 publicação no Diário do Senado Federal, art. 91, § 2º c/c art. 92 do RISF.
-Ação:
-Publicado no DSF Páginas 274-281 - DSF nº 208
-Publicado no DSF Páginas 283 - DSF nº 208
-03/12/2024
-CAS - Comissão de Assuntos Sociais
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 40ª Reunião da Comissão de Assuntos Sociais, agendada para o dia 04/12/2024.
-Ação:
-11/11/2024
-CAS - Comissão de Assuntos Sociais
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Recebido o Relatório da Senadora Mara Gabrilli, com voto pela aprovação do Projeto.
-Ação:
-22/10/2024
-CAS - Comissão de Assuntos Sociais
-MATÉRIA COM A RELATORIA
-Situação:
-Redistribuído à Senadora Mara Gabrilli, para emitir relatório.
-Ação:
-04/09/2024
-CAS - Comissão de Assuntos Sociais
-pg
+    Data: 03/12/2024
+    Órgão: CAS - Comissão de Assuntos Sociais
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 40ª Reunião da Comissão de Assuntos Sociais, agendada para o dia 04/12/2024.
+    Data: 11/11/2024
+    Órgão: CAS - Comissão de Assuntos Sociais
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Recebido o Relatório da Senadora Mara Gabrilli, com voto pela aprovação do Projeto.
+    Data: 22/10/2024
+    Órgão: CAS - Comissão de Assuntos Sociais
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Redistribuído à Senadora Mara Gabrilli, para emitir relatório.
+    Data: 04/09/2024
+    Órgão: CAS - Comissão de Assuntos Sociais
+    Situação: pg
 2
 Atividade Legislativa
 Projeto de Lei n° 4214, de 2021
 TRAMITAÇÃO
 AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Devolvido pelo Senador Otto Alencar, para redistribuição.
-Ação:
-04/09/2024
-CAS - Comissão de Assuntos Sociais
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Em reunião realizada em 04/09/2024, a matéria foi retirada de pauta.
-Ação:
-02/09/2024
-CAS - Comissão de Assuntos Sociais
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 29ª Reunião da Comissão de Assuntos Sociais, agendada para o dia 04/09/2024.
-Ação:
-27/08/2024
-CAS - Comissão de Assuntos Sociais
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Recebido o Relatório do Senador Otto Alencar, com voto pela aprovação do Projeto.
-Ação:
-09/07/2024
-CAS - Comissão de Assuntos Sociais
-MATÉRIA COM A RELATORIA
-Situação:
-Distribuído ao Senador Otto Alencar, para emitir relatório.
-Ação:
-21/02/2024
-CAS - Comissão de Assuntos Sociais
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Não foram oferecidas emendas no prazo regimental.
+    Ação: Devolvido pelo Senador Otto Alencar, para redistribuição.
+    Data: 04/09/2024
+    Órgão: CAS - Comissão de Assuntos Sociais
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Em reunião realizada em 04/09/2024, a matéria foi retirada de pauta.
+    Data: 02/09/2024
+    Órgão: CAS - Comissão de Assuntos Sociais
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 29ª Reunião da Comissão de Assuntos Sociais, agendada para o dia 04/09/2024.
+    Data: 27/08/2024
+    Órgão: CAS - Comissão de Assuntos Sociais
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Recebido o Relatório do Senador Otto Alencar, com voto pela aprovação do Projeto.
+    Data: 09/07/2024
+    Órgão: CAS - Comissão de Assuntos Sociais
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Distribuído ao Senador Otto Alencar, para emitir relatório.
+    Data: 21/02/2024
+    Órgão: CAS - Comissão de Assuntos Sociais
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Não foram oferecidas emendas no prazo regimental.
 Matéria aguardando distribuição.
-Ação:
-09/02/2024
-CAS - Comissão de Assuntos Sociais
-Prazo para apresentação de emendas:
+    Data: 09/02/2024
+    Órgão: CAS - Comissão de Assuntos Sociais
+    Situação: Não disponível
+    Ação: Prazo para apresentação de emendas:
 Primeiro dia: 09/02/2024.
 Último dia: 20/02/2024.
 Ação:
-07/02/2024
-CAS - Comissão de Assuntos Sociais
-Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 09/02/2024 a 20/02/2024.
+    Data: 07/02/2024
+    Órgão: CAS - Comissão de Assuntos Sociais
+    Situação: Não disponível
+    Ação: Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 09/02/2024 a 20/02/2024.
 Perante a CAS.
 Ação:
-07/02/2024
-PLEN - Plenário do Senado Federal
-AGUARDANDO RECEBIMENTO DE EMENDAS
-Situação:
-A matéria vai à CAS, em decisão terminativa, nos termos do art. 91, § 1º, inciso IV, do Regimento Interno, podendo receber
+    Data: 07/02/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
+    Ação: A matéria vai à CAS, em decisão terminativa, nos termos do art. 91, § 1º, inciso IV, do Regimento Interno, podendo receber
 emendas perante a Comissão pelo prazo de cinco dias úteis, nos termos do art. 122, II, c, do Regimento Interno
-Ação:
-Publicado no DSF Páginas 134-137 - DSF nº 4
-pg
-3
-Atividade Legislativa
-Projeto de Lei n° 4214, de 2021
-TRAMITAÇÃO
-22/12/2023
-PLEN - Plenário do Senado Federal
-AGUARDANDO DESPACHO
-Situação:
-Autuado o Projeto de Lei nº 4214/2021, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação:
-Publicado no DSF Páginas 48-50 - DSF nº 225
-DOCUMENTOS
-PL 4214/2021
-22/12/2023
-Data:
- Câmara dos Deputados
-Autor:
-Plenário do Senado Federal
-Local:
-Autuado o Projeto de Lei nº 4214/2021, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação Legislativa:
-Institui o Dia Nacional do Medicamento Biossimilar.
-Descrição/Ementa:
-Avulso inicial da matéria
-22/12/2023
-Data:
- Senado Federal
-Autor:
-null
-Local:
--
-Descrição/Ementa:
-Relatório Legislativo
-27/08/2024
-Data:
-Senador Otto Alencar (PSD/BA)
-Autor:
-Comissão de Assuntos Sociais
-Local:
-Recebido o Relatório do Senador Otto Alencar, com voto pela aprovação do Projeto.
-Ação Legislativa:
-Parecer ao PL 4214/2021
-Descrição/Ementa:
-Relatório Legislativo
-11/11/2024
-Data:
-Senadora Mara Gabrilli (PSD/SP)
-Autor:
-Comissão de Assuntos Sociais
-Local:
-Recebido o Relatório da Senadora Mara Gabrilli, com voto pela aprovação do Projeto.
-Ação Legislativa:
-Da COMISSÃO DE ASSUNTOS SOCIAIS, sobre o Projeto de Lei n° 4214, de 2021, que Institui o Dia Nacional do Medicamento
+    Data: 22/12/2023
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO DESPACHO
+    Ação: Autuado o Projeto de Lei nº 4214/2021, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+Documentos: 
+    Documento: PL 4214/2021
+    Data: 22/12/2023
+    Autor: Câmara dos Deputados
+    Local: Plenário do Senado Federal
+    Ação legislativa: Autuado o Projeto de Lei nº 4214/2021, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+    Descrição/ementa: Institui o Dia Nacional do Medicamento Biossimilar.
+    Documento: Avulso inicial da matéria
+    Data: 22/12/2023
+    Autor: Senado Federal
+    Local: null
+    Ação legislativa: Não disponível
+    Descrição/ementa: -
+    Documento: Relatório Legislativo
+    Data: 27/08/2024
+    Autor: Senador Otto Alencar (PSD/BA)
+    Local: Comissão de Assuntos Sociais
+    Ação legislativa: Recebido o Relatório do Senador Otto Alencar, com voto pela aprovação do Projeto.
+    Descrição/ementa: Parecer ao PL 4214/2021
+    Documento: Relatório Legislativo
+    Data: 11/11/2024
+    Autor: Senadora Mara Gabrilli (PSD/SP)
+    Local: Comissão de Assuntos Sociais
+    Ação legislativa: Recebido o Relatório da Senadora Mara Gabrilli, com voto pela aprovação do Projeto.
+    Descrição/ementa: Da COMISSÃO DE ASSUNTOS SOCIAIS, sobre o Projeto de Lei n° 4214, de 2021, que Institui o Dia Nacional do Medicamento
 Biossimilar.
-Descrição/Ementa:
-Listagem ou relatório
-04/12/2024
-Data:
- Comissão de Assuntos Sociais
-Autor:
-Comissão de Assuntos Sociais
-Local:
-Listagem ou relatório descritivo-Lista de Presença da reunião da 40ª Reunião CAS
-Descrição/Ementa:
-pg
+    Documento: Listagem ou relatório
+    Data: 04/12/2024
+    Autor: Comissão de Assuntos Sociais
+    Local: Comissão de Assuntos Sociais
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 40ª Reunião CAS
+    Documento: pg
 4
 Atividade Legislativa
 Projeto de Lei n° 4214, de 2021
 DOCUMENTOS
 Listagem ou relatório
-04/12/2024
-Data:
- Comissão de Assuntos Sociais
-Autor:
-Comissão de Assuntos Sociais
-Local:
-Listagem ou relatório descritivo-Lista de Votação Nominal da reunião da 40ª Reunião CAS
-Descrição/Ementa:
-Ofício
-04/12/2024
-Data:
-Presidente de Comissão
-Autor:
-Comissão de Assuntos Sociais
-Local:
-Na 40ª Reunião, Extraordinária, realizada nesta data, a presidência designa relator "ad hoc" o Senador Dr. Hiran em substituição
-à Senadora Mara Gabrilli, e a Comissão de Assuntos Sociais aprova o Projeto.
-Anexado o Ofício nº 23/2024-CAS, que comunica a decisão da Comissão em caráter terminativo, para ciência do Plenário e
-publicação no Diário do Senado Federal, art. 91, § 2º c/c art. 92 do RISF.
-Ação Legislativa:
-Comunicação de deliberação do PL em decisão terminativa.
-Descrição/Ementa:
-P.S 63/2024 - CAS
-04/12/2024
-Data:
- Comissão de Assuntos Sociais
-Autor:
-Comissão de Assuntos Sociais
-Local:
-Na 40ª Reunião, Extraordinária, realizada nesta data, a presidência designa relator "ad hoc" o Senador Dr. Hiran em substituição
-à Senadora Mara Gabrilli, e a Comissão de Assuntos Sociais aprova o Projeto.
-Anexado o Ofício nº 23/2024-CAS, que comunica a decisão da Comissão em caráter terminativo, para ciência do Plenário e
-publicação no Diário do Senado Federal, art. 91, § 2º c/c art. 92 do RISF.
-Ação Legislativa:
-Da COMISSÃO DE ASSUNTOS SOCIAIS, sobre o Projeto de Lei n° 4214, de 2021, que Institui o Dia Nacional do Medicamento
+    Data: 04/12/2024
+    Autor: Comissão de Assuntos Sociais
+    Local: Comissão de Assuntos Sociais
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório descritivo-Lista de Votação Nominal da reunião da 40ª Reunião CAS
+    Documento: Ofício
+    Data: 04/12/2024
+    Autor: Presidente de Comissão
+    Local: Comissão de Assuntos Sociais
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunicação de deliberação do PL em decisão terminativa.
+    Documento: P.S 63/2024 - CAS
+    Data: 04/12/2024
+    Autor: Comissão de Assuntos Sociais
+    Local: Comissão de Assuntos Sociais
+    Ação legislativa: Não disponível
+    Descrição/ementa: Da COMISSÃO DE ASSUNTOS SOCIAIS, sobre o Projeto de Lei n° 4214, de 2021, que Institui o Dia Nacional do Medicamento
 Biossimilar.
-Descrição/Ementa:
-Minuta
-16/12/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Anexado o texto revisado.
-Ação Legislativa:
-OFSF 1463/2024
-19/12/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1462, de 19/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 289/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1463, de 19/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 4214, de 2021.
-Descrição/Ementa:
-MPSF 289/2024
+    Documento: Minuta
+    Data: 16/12/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Anexado o texto revisado.
+    Descrição/ementa: OFSF 1463/2024
+    Documento: OFSF 1463/2024
+    Data: 19/12/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 4214, de 2021.
+    Documento: MPSF 289/2024
 pg
 5
 Atividade Legislativa
 Projeto de Lei n° 4214, de 2021
 DOCUMENTOS
-19/12/2024
-Data:
-Presidente do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1462, de 19/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 289/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1463, de 19/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Encaminha à sanção o Projeto de Lei n° 4214, de 2021.
-Descrição/Ementa:
-OFSF 1462/2024
-19/12/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1462, de 19/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 289/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1463, de 19/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
+    Data: 19/12/2024
+    Autor: Presidente do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha à sanção o Projeto de Lei n° 4214, de 2021.
+    Documento: OFSF 1462/2024
+    Data: 19/12/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
 4214, de 2021.
-Descrição/Ementa:
-Autógrafo - PL 4214/2021
-19/12/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Remetido Ofício SF n.º 1462, de 19/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 289/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1463, de 19/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Institui o Dia Nacional do Medicamento Biossimilar.
-Descrição/Ementa:
-pg
-6
-
+    Documento: Autógrafo - PL 4214/2021
+    Data: 19/12/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Institui o Dia Nacional do Medicamento Biossimilar.

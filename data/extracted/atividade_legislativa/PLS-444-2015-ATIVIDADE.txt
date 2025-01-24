@@ -1,41 +1,10 @@
-Atividade Legislativa
-Projeto de Lei do Senado n° 444, de 2015
-Autoria:
-Senador Jorge Viana (PT/AC)
-Iniciativa:
-Ementa:
-Altera a Lei nº 11.445, de 5 de janeiro de 2007, para instituir como direito da população o acesso a relatórios periódicos
+Atividade legislativa: Projeto de Lei do Senado n° 444, de 2015
+Autoria: Senador Jorge Viana (PT/AC)
+Ementa: Altera a Lei nº 11.445, de 5 de janeiro de 2007, para instituir como direito da população o acesso a relatórios periódicos
 sobre o nível dos reservatórios de água para abastecimento público e outros dados relativos à segurança hídrica.
-Explicação da Ementa:
-Altera a Lei de Saneamento Básico (Lei nº 1.445/2007), para tornar obrigatória a divulgação de
-relatórios periódicos sobre o nível dos reservatórios de água e outros dados relativos à
-segurança hídrica.
-Assunto:
-Data de Leitura:
-Meio Ambiente -
-07/07/2015
-Tramitação encerrada
-Aprovada por Comissão em decisão
-Decisão:
-22/11/2024 - Secretaria de Atas e
-Diários
-Último local:
-À Câmara dos Deputados
-Destino:
-Último estado:
-05/11/2024 - TRANSFORMADA EM
-NORMA JURÍDICA
-Relatoria:
-CMA - (Comissão de Meio Ambiente)
-Relator(es):
-Senador Ataídes Oliveira (encerrado em 07/04/2017 -
-Redistribuição)
-CTFC - (Comissão de Transparência, Governança, Fiscalização e Controle e
-Relator(es):
-Senador Ataídes Oliveira (encerrado em 09/08/2017 -
-Deliberação da matéria)
-Despacho:
-07/07/2015 (Despacho inicial)
+Explicação da ementa: Altera a Lei de Saneamento Básico (Lei nº 1.445/2007), para tornar obrigatória a divulgação de
+Assunto: Meio Ambiente -
+Despacho: 07/07/2015 (Despacho inicial)
 null
 Análise - Tramitação sucessiva
 (SF-CMA) Comissão de Meio Ambiente
@@ -44,14 +13,31 @@ null
 Análise
 (SF-CTFC) Comissão de Transparência, Governança, Fiscalização e
 Controle e Defesa do Consumidor
-TRAMITAÇÃO
-22/11/2024
-SF-SEADI - Secretaria de Atas e Diários
-A matéria vai ao arquivo.
+Relatoria: CMA - (Comissão de Meio Ambiente)
+Relator(es):
+Senador Ataídes Oliveira (encerrado em 07/04/2017 -
+Redistribuição)
+CTFC - (Comissão de Transparência, Governança, Fiscalização e Controle e
+Relator(es):
+Senador Ataídes Oliveira (encerrado em 09/08/2017 -
+Deliberação da matéria)
+Tramitação encerrada: 
+  Decisão: Aprovada por Comissão em decisão
+  Destino: À Câmara dos Deputados
+  Último local: 22/11/2024 - Secretaria de Atas e
+Diários
+  Último estado: 05/11/2024 - TRANSFORMADA EM
+NORMA JURÍDICA
+Tramitação: 
+    Data: 22/11/2024
+    Órgão: SF-SEADI - Secretaria de Atas e Diários
+    Situação: Não disponível
+    Ação: A matéria vai ao arquivo.
 Ação:
-22/11/2024
-PLEN - Plenário do Senado Federal
-Encaminhado à publicação o Ofício da Câmara dos Deputados nº 589, de 2024, na origem, que comunica a restituição do
+    Data: 22/11/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Encaminhado à publicação o Ofício da Câmara dos Deputados nº 589, de 2024, na origem, que comunica a restituição do
 autógrafo do Projeto de Lei do Senado nº 444, de 2015 (nº 8.448/2017, na Câmara dos Deputados), sancionado e convertido na
 Lei nº 15.012, de 4 de novembro de 2024.
 A matéria vai ao Arquivo.
@@ -61,531 +47,400 @@ pg
 Atividade Legislativa
 Projeto de Lei do Senado n° 444, de 2015
 TRAMITAÇÃO
-05/11/2024
-SF-SEXPE - Secretaria de Expediente
-TRANSFORMADA EM NORMA JURÍDICA
-Situação:
-(PR) PRESIDÊNCIA DA REPÚBLICA.
+    Data: 05/11/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: TRANSFORMADA EM NORMA JURÍDICA
+    Ação: (PR) PRESIDÊNCIA DA REPÚBLICA.
 SANCIONADA. LEI 15012 DE 2024.
 DOU (Diário Oficial da União) - 05/11/2024 - Seção I - págs. 5 e 5.
 Sancionada em 04/11/2024.
-Ação:
-17/10/2024
-PLEN - Plenário do Senado Federal
-Encaminhado à publicação o Ofício. nº 179, de 2024, na origem, que comunica o envio à sanção do Projeto de Lei do Senado nº
+    Data: 17/10/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Encaminhado à publicação o Ofício. nº 179, de 2024, na origem, que comunica o envio à sanção do Projeto de Lei do Senado nº
 444, de 2015 (nº 8.448/2017, na Câmara dos Deputados).
 A matéria vai à Secretaria de Expediente.
 Ação:
 Publicado no DSF Páginas 80-81 - DSF nº 179
-21/11/2018
-SF-SEXPE - Secretaria de Expediente
-À COARQ
+    Data: 21/11/2018
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: À COARQ
 Ação:
-31/08/2017
-SF-SEXPE - Secretaria de Expediente
-REMETIDA À CÂMARA DOS DEPUTADOS
-Situação:
-Remetido Ofício SF n.º 909, de 31/08/17, ao Primeiro-Secretário da Câmara dos Deputados, encaminhando autógrafos do
+    Data: 31/08/2017
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: REMETIDA À CÂMARA DOS DEPUTADOS
+    Ação: Remetido Ofício SF n.º 909, de 31/08/17, ao Primeiro-Secretário da Câmara dos Deputados, encaminhando autógrafos do
 projeto para revisão, nos termos do art. 65 da Constituição Federal (fls. 29 a 30).
+    Data: 29/08/2017
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Anexado o texto revisado (fl. 28).
 Ação:
-29/08/2017
-SF-SEXPE - Secretaria de Expediente
-Anexado o texto revisado (fl. 28).
-Ação:
-28/08/2017
-SF-SEADI - Secretaria de Atas e Diários
-APROVADA
-Situação:
-Encerrou-se no dia 23 de agosto o prazo sem interposição do recurso no sentido da continuação da tramitação da matéria.
+    Data: 28/08/2017
+    Órgão: SF-SEADI - Secretaria de Atas e Diários
+    Situação: APROVADA
+    Ação: Encerrou-se no dia 23 de agosto o prazo sem interposição do recurso no sentido da continuação da tramitação da matéria.
 Tendo sido aprovado terminativamente pela Comissão competente, o presente Projeto de Lei vai à Câmara dos Deputados.
+    Data: 24/08/2017
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Encaminhado ao Plenário para comunicação do término do prazo para interposição de recurso.
 Ação:
-Publicado no DSF Páginas 545
-24/08/2017
-PLEN - Plenário do Senado Federal
-Encaminhado ao Plenário para comunicação do término do prazo para interposição de recurso.
+    Data: 23/08/2017
+    Órgão: SF-CORELE - Coordenação de Redação Legislativa
+    Situação: Não disponível
+    Ação: Juntado texto final revisado (fls. 24 e 25).
 Ação:
-23/08/2017
-SF-CORELE - Coordenação de Redação Legislativa
-Juntado texto final revisado (fls. 24 e 25).
-Ação:
-18/08/2017
-PLEN - Plenário do Senado Federal
-À Corele.
+    Data: 18/08/2017
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: À Corele.
 Ação:
 pg
 2
 Atividade Legislativa
 Projeto de Lei do Senado n° 444, de 2015
 TRAMITAÇÃO
-16/08/2017
-PLEN - Plenário do Senado Federal
-Prazo: Interposição de recurso (Art. 91, §§ 3º ao 5º, do RISF)
+    Data: 16/08/2017
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Prazo: Interposição de recurso (Art. 91, §§ 3º ao 5º, do RISF)
 De 17/08/2017 a 23/08/2017
 Ação:
-15/08/2017
-SF-SEADI - Secretaria de Atas e Diários
-AGUARDANDO INTERPOSIÇÃO DE RECURSO
-Situação:
-Encaminhado à publicação o Parecer nº 18, de 2017 - CTFC, relator Senador Ataídes Oliveira, pela aprovação da matéria, com as
+    Data: 15/08/2017
+    Órgão: SF-SEADI - Secretaria de Atas e Diários
+    Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
+    Ação: Encaminhado à publicação o Parecer nº 18, de 2017 - CTFC, relator Senador Ataídes Oliveira, pela aprovação da matéria, com as
 Emendas nºs 1 e 2 - CTFC.
 Anunciado o recebimento do Memo. nº 27, do Presidente da Comissão de Transparência, Governança, Fiscalização, Controle e
 Defesa do Consumidor, comunicando a aprovação da matéria, com as duas emendas oferecidas.
 Abertura do prazo de cinco dias úteis para interposição de recurso, por um décimo da composição da Casa, para que a matéria
 em referência seja apreciada pelo Plenário, nos termos do art. 91, §§ 3º a 5º, do Regimento Interno.
-Ação:
-Publicado no DSF Páginas 153
-Publicado no DSF Páginas 109-120
-10/08/2017
-PLEN - Plenário do Senado Federal
-AGUARDANDO LEITURA PARECER (ES)
-Situação:
-Aguardando leitura do Parecer nº 18, 2017, da CTFC.
-Ação:
-10/08/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-Juntados às fls. 11 a 22: o parecer da CTFC; lista de presença da reunião; folha de votação; texto final do PLS nº 444, de 2015;
+    Data: 10/08/2017
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO LEITURA PARECER (ES)
+    Ação: Aguardando leitura do Parecer nº 18, 2017, da CTFC.
+    Data: 10/08/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: Não disponível
+    Ação: Juntados às fls. 11 a 22: o parecer da CTFC; lista de presença da reunião; folha de votação; texto final do PLS nº 444, de 2015;
 Decisão da Comissão; e Memo nº 27/2017/CTFC, que comunica aprovação do projeto nos termos dos artigo 91, §2º, do RISF.
 À SLSF.
 Ação:
-09/08/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-APRECIADA EM DECISÃO TERMINATIVA PELAS COMISSÕES
-Situação:
-Reunida a CTFC nesta data, encerrada a discussão e colocado em votação, o projeto foi aprovado com as emendas nºs 1 e 2 -
+    Data: 09/08/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: APRECIADA EM DECISÃO TERMINATIVA PELAS COMISSÕES
+    Ação: Reunida a CTFC nesta data, encerrada a discussão e colocado em votação, o projeto foi aprovado com as emendas nºs 1 e 2 -
 CTFC, por oito votos favoráveis, nenhum voto contrário e nenhuma abstenção.
-Ação:
-04/08/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 12ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
+    Data: 04/08/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 12ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
 Consumidor, agendada para o dia 09/08/2017.
-Ação:
-02/08/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Em reunião realizada em 02/08/2017, a apreciação da matéria foi adiada.
-Ação:
-28/07/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-pg
+    Data: 02/08/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Em reunião realizada em 02/08/2017, a apreciação da matéria foi adiada.
+    Data: 28/07/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: pg
 3
 Atividade Legislativa
 Projeto de Lei do Senado n° 444, de 2015
 TRAMITAÇÃO
 Matéria constante da Pauta da 11ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
 Consumidor, agendada para o dia 02/08/2017.
-Ação:
-13/07/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-Recebido relatório atualizado do Senador ATAÍDES OLIVEIRA pela aprovação do projeto, com duas emendas que apresenta.
+    Data: 13/07/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: Não disponível
+    Ação: Recebido relatório atualizado do Senador ATAÍDES OLIVEIRA pela aprovação do projeto, com duas emendas que apresenta.
 Anexo às fls. 11 a 16.
 Ação:
-12/07/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Em reunião realizada em 12/07/2017, a apreciação da matéria foi adiada.
-Ação:
-07/07/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 10ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
+    Data: 12/07/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Em reunião realizada em 12/07/2017, a apreciação da matéria foi adiada.
+    Data: 07/07/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 10ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
 Consumidor, agendada para o dia 12/07/2017.
-Ação:
-05/07/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Em reunião realizada em 05/07/2017, a apreciação da matéria foi adiada.
-Ação:
-30/06/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 9ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
+    Data: 05/07/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Em reunião realizada em 05/07/2017, a apreciação da matéria foi adiada.
+    Data: 30/06/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 9ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
 Consumidor, agendada para o dia 05/07/2017.
-Ação:
-28/06/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Matéria não apreciada devido ao cancelamento da 9ª reunião da Comissão de Transparência, Governança, Fiscalização e
+    Data: 28/06/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Matéria não apreciada devido ao cancelamento da 9ª reunião da Comissão de Transparência, Governança, Fiscalização e
 Controle e Defesa do Consumidor.
-Ação:
-22/06/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 9ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
+    Data: 22/06/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 9ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
 Consumidor, agendada para o dia 28/06/2017.
-Ação:
-21/06/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Matéria não apreciada devido ao cancelamento da 9ª reunião da Comissão de Transparência, Governança, Fiscalização e
+    Data: 21/06/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Matéria não apreciada devido ao cancelamento da 9ª reunião da Comissão de Transparência, Governança, Fiscalização e
 Controle e Defesa do Consumidor.
-Ação:
-pg
-4
-Atividade Legislativa
-Projeto de Lei do Senado n° 444, de 2015
-TRAMITAÇÃO
-19/06/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 9ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
+    Data: 19/06/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 9ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
 Consumidor, agendada para o dia 21/06/2017.
-Ação:
-14/06/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Matéria não apreciada devido ao cancelamento da 9ª reunião da Comissão de Transparência, Governança, Fiscalização e
+    Data: 14/06/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Matéria não apreciada devido ao cancelamento da 9ª reunião da Comissão de Transparência, Governança, Fiscalização e
 Controle e Defesa do Consumidor.
-Ação:
-09/06/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 9ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
+    Data: 09/06/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 9ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
 Consumidor, agendada para o dia 14/06/2017.
-Ação:
-07/06/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Em reunião realizada em 07/06/2017, a apreciação da matéria foi adiada.
-Ação:
-01/06/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 8ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
+    Data: 07/06/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Em reunião realizada em 07/06/2017, a apreciação da matéria foi adiada.
+    Data: 01/06/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 8ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
 Consumidor, agendada para o dia 07/06/2017.
-Ação:
-31/05/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Em reunião realizada em 31/05/2017, a apreciação da matéria foi adiada.
-Ação:
-25/05/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 7ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
+    Data: 31/05/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Em reunião realizada em 31/05/2017, a apreciação da matéria foi adiada.
+    Data: 25/05/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 7ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
 Consumidor, agendada para o dia 31/05/2017.
-Ação:
-25/05/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Matéria não apreciada devido ao cancelamento da 7ª reunião da Comissão de Transparência, Governança, Fiscalização e
+    Data: 25/05/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Matéria não apreciada devido ao cancelamento da 7ª reunião da Comissão de Transparência, Governança, Fiscalização e
 Controle e Defesa do Consumidor.
-Ação:
-19/05/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-pg
+    Data: 19/05/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: pg
 5
 Atividade Legislativa
 Projeto de Lei do Senado n° 444, de 2015
 TRAMITAÇÃO
 INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 7ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
+    Ação: Matéria constante da Pauta da 7ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
 Consumidor, agendada para o dia 24/05/2017.
-Ação:
-03/05/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Em reunião realizada em 03/05/2017, a apreciação da matéria foi adiada.
-Ação:
-28/04/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 4ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
+    Data: 03/05/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Em reunião realizada em 03/05/2017, a apreciação da matéria foi adiada.
+    Data: 28/04/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 4ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
 Consumidor, agendada para o dia 03/05/2017.
-Ação:
-26/04/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Em reunião realizada em 26/04/2017, a apreciação da matéria foi adiada.
-Ação:
-24/04/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 3ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
+    Data: 26/04/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Em reunião realizada em 26/04/2017, a apreciação da matéria foi adiada.
+    Data: 24/04/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 3ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
 Consumidor, agendada para o dia 26/04/2017.
-Ação:
-24/04/2017
-CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-Recebido na Comissão. O Presidente da CTFC, Senador ATAÍDES OLIVEIRA, avoca a relatoria da matéria.
+    Data: 24/04/2017
+    Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Situação: Não disponível
+    Ação: Recebido na Comissão. O Presidente da CTFC, Senador ATAÍDES OLIVEIRA, avoca a relatoria da matéria.
 Será aproveitado o relatório apresentado na Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle cuja
 competência foi atribuída à CTFC.
 A matéria encontra-se pronta para pauta.
 Ação:
-17/04/2017
-SF-SEADI - Secretaria de Atas e Diários
-Tendo em vista a promulgação da Resolução nº 3, de 2017, que redefiniu as atribuições e as denominações da Comissão de Meio
+    Data: 17/04/2017
+    Órgão: SF-SEADI - Secretaria de Atas e Diários
+    Situação: Não disponível
+    Ação: Tendo em vista a promulgação da Resolução nº 3, de 2017, que redefiniu as atribuições e as denominações da Comissão de Meio
 Ambiente (CMA) e da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor (CTFC), a
 presente matéria é despachada à CTFC (DT).
 Ação:
 Publicado no DSF Páginas 144-153
-17/04/2017
-PLEN - Plenário do Senado Federal
-Encaminhado ao Plenário.
+    Data: 17/04/2017
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Encaminhado ao Plenário.
 Ação:
-06/04/2017
-CMA - Comissão de Meio Ambiente
-À SLSF, em virtude da promulgação da Resolução nº 3, de 2017.
+    Data: 06/04/2017
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: Não disponível
+    Ação: À SLSF, em virtude da promulgação da Resolução nº 3, de 2017.
 Ação:
 pg
 6
 Atividade Legislativa
 Projeto de Lei do Senado n° 444, de 2015
 TRAMITAÇÃO
-28/11/2016
-CMA - Comissão de Meio Ambiente
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Processado físico devolvido pelo relator, Senador ATAÍDES OLIVEIRA, sem alterações no relatório.
-Ação:
-04/11/2016
-CMA - Comissão de Meio Ambiente
-MATÉRIA COM A RELATORIA
-Situação:
-Matéria devolvida ao Relator, Senador Ataídes Oliveira, para reexame do Relatório (fls 04 a 08). Processado físico encaminhado
+    Data: 28/11/2016
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Processado físico devolvido pelo relator, Senador ATAÍDES OLIVEIRA, sem alterações no relatório.
+    Data: 04/11/2016
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Matéria devolvida ao Relator, Senador Ataídes Oliveira, para reexame do Relatório (fls 04 a 08). Processado físico encaminhado
 ao gabinete do relator, por solicitação.
-Ação:
-01/11/2016
-CMA - Comissão de Meio Ambiente
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Matéria não apreciada devido ao cancelamento da 19ª Reunião da Comissão de Meio Ambiente, Defesa do Consumidor e
+    Data: 01/11/2016
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Matéria não apreciada devido ao cancelamento da 19ª Reunião da Comissão de Meio Ambiente, Defesa do Consumidor e
 Fiscalização e Controle.
-Ação:
-27/10/2016
-CMA - Comissão de Meio Ambiente
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 19ª Reunião da Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle,
+    Data: 27/10/2016
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 19ª Reunião da Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle,
 agendada para o dia 01/11/2016.
-Ação:
-18/10/2016
-CMA - Comissão de Meio Ambiente
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Em reunião realizada em 18/10/2016, a apreciação da matéria foi adiada.
-Ação:
-14/10/2016
-CMA - Comissão de Meio Ambiente
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 17ª Reunião da Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle,
+    Data: 18/10/2016
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Em reunião realizada em 18/10/2016, a apreciação da matéria foi adiada.
+    Data: 14/10/2016
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 17ª Reunião da Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle,
 agendada para o dia 18/10/2016.
-Ação:
-05/10/2016
-CMA - Comissão de Meio Ambiente
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Recebido relatório do Senador ATAÍDES OLIVEIRA pela aprovação do projeto, com duas emendas que apresenta (fls 04 a 08).
-Ação:
-12/08/2015
-CMA - Comissão de Meio Ambiente
-MATÉRIA COM A RELATORIA
-Situação:
-Ao Senhor Senador ATAÍDES DE OLIVEIRA, para relatar.
-Ação:
-16/07/2015
-CMA - Comissão de Meio Ambiente
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-pg
+    Data: 05/10/2016
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Recebido relatório do Senador ATAÍDES OLIVEIRA pela aprovação do projeto, com duas emendas que apresenta (fls 04 a 08).
+    Data: 12/08/2015
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Ao Senhor Senador ATAÍDES DE OLIVEIRA, para relatar.
+    Data: 16/07/2015
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: pg
 7
 Atividade Legislativa
 Projeto de Lei do Senado n° 444, de 2015
 TRAMITAÇÃO
 Esgotado o prazo regimental sem a apresentação de emendas, a matéria aguarda designação de Relatoria.
-Ação:
-09/07/2015
-CMA - Comissão de Meio Ambiente
-Aberto o prazo para apresentação de emendas ao projeto.
+    Data: 09/07/2015
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: Não disponível
+    Ação: Aberto o prazo para apresentação de emendas ao projeto.
 Primeiro dia: 09.07.2015
 Último dia: 15.07.2015
 Ação:
-08/07/2015
-CMA - Comissão de Meio Ambiente
-Recebido na Comissão, nesta data.
+    Data: 08/07/2015
+    Órgão: CMA - Comissão de Meio Ambiente
+    Situação: Não disponível
+    Ação: Recebido na Comissão, nesta data.
 Aguardando a abertura do prazo para a apresentação de emendas ao Projeto.
 Ação:
-07/07/2015
-SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
-AGUARDANDO RECEBIMENTO DE EMENDAS
-Situação:
-Encaminhado à publicação.
+    Data: 07/07/2015
+    Órgão: SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
+    Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
+    Ação: Encaminhado à publicação.
 À Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle, em decisão terminativa, onde poderá receber
 emendas pelo prazo de cinco dias úteis, após sua publicação e distribuição em avulsos.
+    Data: 07/07/2015
+    Órgão: SF-PLEG - PROTOCOLO LEGISLATIVO
+    Situação: Não disponível
+    Ação: Este processo contém 03 (três)  folhas numeradas e rubricadas.
 Ação:
-Publicado no DSF Páginas 90-92
-07/07/2015
-SF-PLEG - PROTOCOLO LEGISLATIVO
-Este processo contém 03 (três)  folhas numeradas e rubricadas.
-Ação:
-DOCUMENTOS
-Texto inicial - PLS 444/2015
-07/07/2015
-Data:
-Senador Jorge Viana (PT/AC)
-Autor:
-null
-Local:
-Altera a Lei nº 11.445, de 5 de janeiro de 2007, para instituir como direito da população o acesso a relatórios periódicos sobre o
+Documentos: 
+    Documento: Texto inicial - PLS 444/2015
+    Data: 07/07/2015
+    Autor: Senador Jorge Viana (PT/AC)
+    Local: null
+    Ação legislativa: Não disponível
+    Descrição/ementa: Não disponível
+    Documento: Avulso inicial da matéria
+    Data: 07/07/2015
+    Autor: -
+    Local: SUBSECRETARIA DE ATA - PLENÁRIO
+    Ação legislativa: Não disponível
+    Descrição/ementa: Relatório Legislativo
+    Documento: Relatório Legislativo
+    Data: 05/10/2016
+    Autor: Senador Ataídes Oliveira (PSDB/TO)
+    Local: pg
+    Ação legislativa: Recebido relatório do Senador ATAÍDES OLIVEIRA pela aprovação do projeto, com duas emendas que apresenta (fls 04 a 08).
+    Descrição/ementa: Relatório Legislativo
+    Documento: Relatório Legislativo
+    Data: 13/07/2017
+    Autor: Senador Ataídes Oliveira (PSDB/TO)
+    Local: Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório
+    Documento: Listagem ou relatório
+    Data: 09/08/2017
+    Autor: Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Local: Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 12ª Reunião CTFC
+    Documento: P.S 18/2017 - CTFC
+    Data: 09/08/2017
+    Autor: Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor, Senador Ataídes Oliveira (PSDB/TO)
+    Local: Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório
+    Documento: Listagem ou relatório
+    Data: 09/08/2017
+    Autor: Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Local: Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório descritivo-Lista de Votação Nominal da reunião da 12ª Reunião CTFC
+    Documento: Texto final da Comissão -
+    Data: 10/08/2017
+    Autor: Senador
+    Local: Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
+    Ação legislativa: Não disponível
+    Descrição/ementa: Altera a Lei nº 11.445, de 5 de janeiro de 2007, para instituir como direito da população o acesso a relatórios periódicos sobre o
 nível dos reservatórios de água para abastecimento público e outros dados relativos à segurança hídrica.
-Descrição/Ementa:
-Avulso inicial da matéria
-07/07/2015
-Data:
--
-Autor:
-SUBSECRETARIA DE ATA - PLENÁRIO
-Local:
-Encaminhado à publicação.
-À Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle, em decisão terminativa, onde poderá receber
-emendas pelo prazo de cinco dias úteis, após sua publicação e distribuição em avulsos.
-Ação Legislativa:
-Relatório Legislativo
-05/10/2016
-Data:
-Senador Ataídes Oliveira (PSDB/TO)
-Autor:
-pg
-8
-Atividade Legislativa
-Projeto de Lei do Senado n° 444, de 2015
-DOCUMENTOS
-Comissão de Meio Ambiente
-Local:
-Recebido relatório do Senador ATAÍDES OLIVEIRA pela aprovação do projeto, com duas emendas que apresenta (fls 04 a 08).
-Ação Legislativa:
-Relatório Legislativo
-13/07/2017
-Data:
-Senador Ataídes Oliveira (PSDB/TO)
-Autor:
-Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-Local:
-Recebido relatório atualizado do Senador ATAÍDES OLIVEIRA pela aprovação do projeto, com duas emendas que apresenta.
-Anexo às fls. 11 a 16.
-Ação Legislativa:
-Listagem ou relatório
-09/08/2017
-Data:
- Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-Autor:
-Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-Local:
-Listagem ou relatório descritivo-Lista de Presença da reunião da 12ª Reunião CTFC
-Descrição/Ementa:
-P.S 18/2017 - CTFC
-09/08/2017
-Data:
- Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor, Senador Ataídes Oliveira (PSDB/TO)
-Autor:
-Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-Local:
-Reunida a CTFC nesta data, encerrada a discussão e colocado em votação, o projeto foi aprovado com as emendas nºs 1 e 2 -
-CTFC, por oito votos favoráveis, nenhum voto contrário e nenhuma abstenção.
-Ação Legislativa:
-Listagem ou relatório
-09/08/2017
-Data:
- Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-Autor:
-Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-Local:
-Listagem ou relatório descritivo-Lista de Votação Nominal da reunião da 12ª Reunião CTFC
-Descrição/Ementa:
-Texto final da Comissão -
-10/08/2017
-Data:
-Senador
-Autor:
-Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-Local:
-Altera a Lei nº 11.445, de 5 de janeiro de 2007, para instituir como direito da população o acesso a relatórios periódicos sobre o
-nível dos reservatórios de água para abastecimento público e outros dados relativos à segurança hídrica.
-Descrição/Ementa:
-Texto final revisado - Projeto
-23/08/2017
-Data:
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-Juntado texto final revisado (fls. 24 e 25).
-Ação Legislativa:
-Juntado texto final revisado (fls. 24 e 25).
-Descrição/Ementa:
-pg
+    Documento: Texto final revisado - Projeto
+    Data: 23/08/2017
+    Autor: Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Juntado texto final revisado (fls. 24 e 25).
+    Descrição/ementa: Juntado texto final revisado (fls. 24 e 25).
+    Documento: pg
 9
 Atividade Legislativa
 Projeto de Lei do Senado n° 444, de 2015
 DOCUMENTOS
 OFSF 909/2017
-31/08/2017
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 909, de 31/08/17, ao Primeiro-Secretário da Câmara dos Deputados, encaminhando autógrafos do
-projeto para revisão, nos termos do art. 65 da Constituição Federal (fls. 29 a 30).
-Ação Legislativa:
-Encaminha à revisão da Câmara dos Deputados o Projeto de Lei do Senado nº 444, de 2015.
-Descrição/Ementa:
-Autógrafo - PLS 444/2015
-31/08/2017
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Remetido Ofício SF n.º 909, de 31/08/17, ao Primeiro-Secretário da Câmara dos Deputados, encaminhando autógrafos do
-projeto para revisão, nos termos do art. 65 da Constituição Federal (fls. 29 a 30).
-Ação Legislativa:
-Altera a Lei nº 11.445, de 5 de janeiro de 2007, para instituir como direito da população o acesso a relatórios periódicos sobre o
+    Data: 31/08/2017
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha à revisão da Câmara dos Deputados o Projeto de Lei do Senado nº 444, de 2015.
+    Documento: Autógrafo - PLS 444/2015
+    Data: 31/08/2017
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Altera a Lei nº 11.445, de 5 de janeiro de 2007, para instituir como direito da população o acesso a relatórios periódicos sobre o
 nível dos reservatórios de água para abastecimento público e outros dados relativos à segurança hídrica.
-Descrição/Ementa:
-OFC 179/2024 - Câmara dos
-17/10/2024
-Data:
-Primeiro-Secretário da Câmara dos Deputados
-Autor:
-Plenário do Senado Federal
-Local:
-Comunica o envio à sanção do Projeto de Lei do Senado nº 444, de 2015 (nº 8.448/2017, na Câmara dos Deputados).
-Descrição/Ementa:
-OFC 589/2024 - Câmara dos
-22/11/2024
-Data:
-Primeiro-Secretário da Câmara dos Deputados
-Autor:
-Plenário do Senado Federal
-Local:
-Comunica a restituição de autógrafo do Projeto de Lei do Senado nº 444, de 2015 (nº 8.448/2017, na Câmara dos Deputados),
+    Documento: OFC 179/2024 - Câmara dos
+    Data: 17/10/2024
+    Autor: Primeiro-Secretário da Câmara dos Deputados
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica o envio à sanção do Projeto de Lei do Senado nº 444, de 2015 (nº 8.448/2017, na Câmara dos Deputados).
+    Documento: OFC 589/2024 - Câmara dos
+    Data: 22/11/2024
+    Autor: Primeiro-Secretário da Câmara dos Deputados
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica a restituição de autógrafo do Projeto de Lei do Senado nº 444, de 2015 (nº 8.448/2017, na Câmara dos Deputados),
 sancionado e convertido na Lei nº 15.012, de 4 de novembro de 2024.
-Descrição/Ementa:
-pg
-10
-

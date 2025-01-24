@@ -1,33 +1,21 @@
+Atividade legislativa: Projeto de Lei da Câmara n° 137, de 2017
+Autoria: Câmara dos Deputados
+Iniciativa: Deputado Federal Paulo Teixeira (PT/SP)
+Ementa: Dispõe sobre a Política Nacional de Economia Solidária e os empreendimentos econômicos solidários, cria o Sistema
+Nacional de Economia Solidária e dá outras providências.
+Explicação da ementa: Estabelece a Política Nacional de Economia Solidária, integrada às estratégias de
+Assunto: Política Social  - Proteção Social
+Despacho: 09/11/2017 (Despacho inicial)
+null
+Análise - Tramitação sucessiva
+(SF-CCJ) Comissão de Constituição, Justiça e Cidadania
+(SF-CDR) Comissão de Desenvolvimento Regional e Turismo
+(SF-CAE) Comissão de Assuntos Econômicos
+pg
+1
 Atividade Legislativa
 Projeto de Lei da Câmara n° 137, de 2017
-Autoria:
-Câmara dos Deputados
-Iniciativa: Deputado Federal Paulo Teixeira (PT/SP)
-Ementa:
-Dispõe sobre a Política Nacional de Economia Solidária e os empreendimentos econômicos solidários, cria o Sistema
-Nacional de Economia Solidária e dá outras providências.
-Explicação da Ementa:
-Estabelece a Política Nacional de Economia Solidária, integrada às estratégias de
-desenvolvimento sustentável, para promover empreendimentos econômicos solidários e
-autogestionários e o trabalho associado e cooperativado. Define os empreendimentos
-beneficiários e prevê cadastro nacional. Dispõe sobre ações de educação, assistência técnica e
-crédito subvencionado. Autoriza a criação do Fundo Nacional de Economia Solidária.
-Assunto:
-Data de Leitura:
-Política Social  - Proteção Social
-09/11/2017
-Tramitação encerrada
-Aprovada pelo Plenário
-Decisão:
-09/12/2024 - Secretaria de Expediente
-Último local:
-À Câmara dos Deputados
-Destino:
-Último estado:
-24/12/2024 - TRANSFORMADA EM
-NORMA JURÍDICA
-Relatoria:
-CAE - (Comissão de Assuntos Econômicos)
+Relatoria: CAE - (Comissão de Assuntos Econômicos)
 Relator(es):
 Senador Jaques Wagner (encerrado em 17/09/2019 -
 Deliberação da matéria)
@@ -49,49 +37,41 @@ Senador Jaques Wagner (encerrado em 10/07/2019 -
 Deliberação da matéria)
 Senadora Zenaide Maia (encerrado em 07/03/2019 -
 Redistribuição)
-Despacho:
-09/11/2017 (Despacho inicial)
-null
-Análise - Tramitação sucessiva
-(SF-CCJ) Comissão de Constituição, Justiça e Cidadania
-(SF-CDR) Comissão de Desenvolvimento Regional e Turismo
-(SF-CAE) Comissão de Assuntos Econômicos
-pg
-1
-Atividade Legislativa
-Projeto de Lei da Câmara n° 137, de 2017
-TRAMITAÇÃO
-24/12/2024
-SF-SEXPE - Secretaria de Expediente
-TRANSFORMADA EM NORMA JURÍDICA
-Situação:
-(PR) PRESIDÊNCIA DA REPÚBLICA.
+Tramitação encerrada: 
+  Decisão: Aprovada pelo Plenário
+  Destino: À Câmara dos Deputados
+  Último local: 09/12/2024 - Secretaria de Expediente
+  Último estado: 24/12/2024 - TRANSFORMADA EM
+NORMA JURÍDICA
+Tramitação: 
+    Data: 24/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: TRANSFORMADA EM NORMA JURÍDICA
+    Ação: (PR) PRESIDÊNCIA DA REPÚBLICA.
 SANCIONADA. LEI 15068 DE 2024.
 DOU (Diário Oficial da União) - 24/12/2024 - Seção I - págs. 1 e 2.
 Sancionada em 23/12/2024.
-Ação:
-09/12/2024
-PLEN - Plenário do Senado Federal
-Encaminhado à publicação o Ofício da Câmara dos Deputados nº 606, de 2024, na origem, que comunica o envio à sanção do
+    Data: 09/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Encaminhado à publicação o Ofício da Câmara dos Deputados nº 606, de 2024, na origem, que comunica o envio à sanção do
 Projeto de Lei da Câmara nº 137, de 2017.
 A matéria vai à Secretaria de Expediente.
 Ação:
-19/12/2019
-SF-SEXPE - Secretaria de Expediente
-REMETIDA À CÂMARA DOS DEPUTADOS
-Situação:
-Remetido Ofício SF nº 1115, de 19/12/19, à Senhora Primeira-Secretária da Câmara dos Deputados, comunicando que o Senado
+    Data: 19/12/2019
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: REMETIDA À CÂMARA DOS DEPUTADOS
+    Ação: Remetido Ofício SF nº 1115, de 19/12/19, à Senhora Primeira-Secretária da Câmara dos Deputados, comunicando que o Senado
 Federal aprovou, em revisão, nos termos do substitutivo, o Projeto. (fls. 92 a 98).
+    Data: 13/12/2019
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Anexado o texto revisado (fls. 86 a 91).
 Ação:
-13/12/2019
-SF-SEXPE - Secretaria de Expediente
-Anexado o texto revisado (fls. 86 a 91).
-Ação:
-11/12/2019
-SF-SEADI - Secretaria de Atas e Diários
-APROVADO O SUBSTITUTIVO
-Situação:
-Aprovado o Substitutivo com subemendas.
+    Data: 11/12/2019
+    Órgão: SF-SEADI - Secretaria de Atas e Diários
+    Situação: APROVADO O SUBSTITUTIVO
+    Ação: Aprovado o Substitutivo com subemendas.
 À Câmara dos Deputados.
 **DETALHAMENTO DA AÇÃO LEGISLATIVA**
 Discussão encerrada.
@@ -99,24 +79,20 @@ Aprovadas a Emenda nº 1 – CCJ/CDR/CAE (Substitutivo) com Subemendas nºs 1 a 
 Encaminhado à publicação o Parecer nº 287, de 2019 - PLEN-SF, da CDIR, oferecendo a redação para o turno suplementar.
 Discussão encerrada, sem emendas, a matéria é dada como definitivamente adotada, nos termos do art. 284, do RISF.
 À Câmara dos Deputados.
-Ação:
-Publicado no DSF Páginas 751-757 - DSF nº 193
-Publicado no DSF Páginas 167-168 - DSF nº 193
-25/11/2019
-SF-SLSF - Secretaria Legislativa do Senado Federal
-INCLUÍDA EM ORDEM DO DIA
-Situação:
-Incluído em Ordem do Dia da sessão deliberativa de 26/11/2019.
+    Data: 25/11/2019
+    Órgão: SF-SLSF - Secretaria Legislativa do Senado Federal
+    Situação: INCLUÍDA EM ORDEM DO DIA
+    Ação: Incluído em Ordem do Dia da sessão deliberativa de 26/11/2019.
 Discussão, em turno único.
 Matéria não apreciada em 26/11/2019, transferida para a sessão deliberativa de 27/11/2019.
 Matéria não apreciada em 27/11/2019, transferida para a sessão deliberativa de 03/12/2019.
 Matéria não apreciada em 03/12/2019, transferida para a sessão deliberativa de 04/12/2019.
 Matéria não apreciada sessão deliberativa de 04/12/2019, transferida para a sessão deliberativa de 10/12/2019.
 Matéria não apreciada em 10/12/2019, transferida para a sessão deliberativa de 11/12/2019.
-Ação:
-26/09/2019
-PLEN - Plenário do Senado Federal
-Aguardando inclusão em Ordem do Dia.
+    Data: 26/09/2019
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Aguardando inclusão em Ordem do Dia.
 Discussão, em turno único.
 Ação:
 pg
@@ -124,233 +100,179 @@ pg
 Atividade Legislativa
 Projeto de Lei da Câmara n° 137, de 2017
 TRAMITAÇÃO
-26/09/2019
-PLEN - Plenário do Senado Federal
-PRONTO PARA DELIBERAÇÃO DO PLENÁRIO
-Situação:
-Encerrou-se em 25 de setembro o prazo para apresentação de emendas.
+    Data: 26/09/2019
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: PRONTO PARA DELIBERAÇÃO DO PLENÁRIO
+    Ação: Encerrou-se em 25 de setembro o prazo para apresentação de emendas.
 Não foram oferecidas emendas.
 A matéria será incluída em Ordem do Dia oportunamente.
+    Data: 25/09/2019
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Encaminhado ao Plenário para comunicação de término de prazo para apresentação de emendas.
 Ação:
-Publicado no DSF Páginas 91 - DSF nº 146
-25/09/2019
-PLEN - Plenário do Senado Federal
-Encaminhado ao Plenário para comunicação de término de prazo para apresentação de emendas.
-Ação:
-17/09/2019
-PLEN - Plenário do Senado Federal
-AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA
-Situação:
-Concluída a instrução da matéria.
-Ação:
-Publicado no DSF Páginas 104 - DSF nº 139
-17/09/2019
-PLEN - Plenário do Senado Federal
-Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, "d", do RISF). De 19/09/2019
+    Data: 17/09/2019
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA
+    Ação: Concluída a instrução da matéria.
+    Data: 17/09/2019
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, "d", do RISF). De 19/09/2019
 a 25/09/2019. Perante a Mesa.
 Ação:
-17/09/2019
-PLEN - Plenário do Senado Federal
-AGUARDANDO LEITURA PARECER (ES)
-Situação:
-Encaminhado ao Plenário para comunicação de conclusão da instrução da matéria e abertura de prazo para apresentação de
+    Data: 17/09/2019
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO LEITURA PARECER (ES)
+    Ação: Encaminhado ao Plenário para comunicação de conclusão da instrução da matéria e abertura de prazo para apresentação de
 emenda.
-Ação:
-17/09/2019
-CAE - Comissão de Assuntos Econômicos
-Em reunião realizada nesta data, a comissão aprova o relatório do senador Jaques Wagner, que passa a constituir o parecer da
+    Data: 17/09/2019
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: Não disponível
+    Ação: Em reunião realizada nesta data, a comissão aprova o relatório do senador Jaques Wagner, que passa a constituir o parecer da
 CAE, favorável ao projeto, nos termos da Emenda nº 1-CCJ-CDR-CAE (Substitutivo), com as Subemendas nºs 1 a 7-CDR-CAE e a
 Subemenda nº 9-CAE, e pela prejudicialidade da Subemenda nº 8-CDR.
 Anexado o parecer da comissão.
 À SLSF.
 Ação:
 Publicado no DSF Páginas 1459-1469 - DSF nº 139
-17/09/2019
-CAE - Comissão de Assuntos Econômicos
-APROVADO PARECER NA COMISSÃO
-Situação:
-Encerrada a relatoria do Senador Jaques Wagner por deliberação da matéria.
-Ação:
-12/09/2019
-CAE - Comissão de Assuntos Econômicos
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 35ª Reunião da Comissão de Assuntos Econômicos, agendada para o dia 17/09/2019.
-Ação:
-pg
-3
-Atividade Legislativa
-Projeto de Lei da Câmara n° 137, de 2017
-TRAMITAÇÃO
-10/09/2019
-CAE - Comissão de Assuntos Econômicos
-PEDIDO DE VISTA CONCEDIDO
-Situação:
-Reunida a comissão nesta data, após a leitura do relatório, é solicitada vista pelo senador Esperedião Amin. O vice-presidente da
+    Data: 17/09/2019
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: APROVADO PARECER NA COMISSÃO
+    Ação: Encerrada a relatoria do Senador Jaques Wagner por deliberação da matéria.
+    Data: 12/09/2019
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 35ª Reunião da Comissão de Assuntos Econômicos, agendada para o dia 17/09/2019.
+    Data: 10/09/2019
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: PEDIDO DE VISTA CONCEDIDO
+    Ação: Reunida a comissão nesta data, após a leitura do relatório, é solicitada vista pelo senador Esperedião Amin. O vice-presidente da
 comissão, senador Plínio Valério, concede vista ao senador Esperedião Amin, nos termos regimentais (art. 132).
-Ação:
-05/09/2019
-CAE - Comissão de Assuntos Econômicos
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 34ª Reunião da Comissão de Assuntos Econômicos, agendada para o dia 10/09/2019.
-Ação:
-20/08/2019
-CAE - Comissão de Assuntos Econômicos
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Reunida a comissão nesta data, a apreciação da matéria é adiada.
-Ação:
-15/08/2019
-CAE - Comissão de Assuntos Econômicos
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 31ª Reunião da Comissão de Assuntos Econômicos, agendada para o dia 20/08/2019.
-Ação:
-14/08/2019
-CAE - Comissão de Assuntos Econômicos
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-O relator, senador Jaques Wagner, apresentou relatório favorável ao projeto, nos termos da Emenda nº 1-CCJ-CDR (Substitutivo),
+    Data: 05/09/2019
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 34ª Reunião da Comissão de Assuntos Econômicos, agendada para o dia 10/09/2019.
+    Data: 20/08/2019
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Reunida a comissão nesta data, a apreciação da matéria é adiada.
+    Data: 15/08/2019
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 31ª Reunião da Comissão de Assuntos Econômicos, agendada para o dia 20/08/2019.
+    Data: 14/08/2019
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: O relator, senador Jaques Wagner, apresentou relatório favorável ao projeto, nos termos da Emenda nº 1-CCJ-CDR (Substitutivo),
 com as Subemendas nºs 1 a 7-CDR e uma subemenda de sua autoria, e pela prejudicialidade da Subemenda nº 8-CDR (fls. 68-74).
+    Data: 11/07/2019
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Distribuído ao Senador Jaques Wagner, para emitir relatório.
+    Data: 10/07/2019
+    Órgão: CAE - Comissão de Assuntos Econômicos
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Matéria aguardando distribuição.
+    Data: 10/07/2019
+    Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
+    Situação: Não disponível
+    Ação: À CAE, em prosseguimento da tramitação.
 Ação:
-11/07/2019
-CAE - Comissão de Assuntos Econômicos
-MATÉRIA COM A RELATORIA
-Situação:
-Distribuído ao Senador Jaques Wagner, para emitir relatório.
-Ação:
-10/07/2019
-CAE - Comissão de Assuntos Econômicos
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Matéria aguardando distribuição.
-Ação:
-10/07/2019
-CDR - Comissão de Desenvolvimento Regional e Turismo
-À CAE, em prosseguimento da tramitação.
-Ação:
-10/07/2019
-CDR - Comissão de Desenvolvimento Regional e Turismo
-Encerrada a relatoria do Senador Jaques Wagner por deliberação da matéria.
+    Data: 10/07/2019
+    Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
+    Situação: Não disponível
+    Ação: Encerrada a relatoria do Senador Jaques Wagner por deliberação da matéria.
 Ação:
 pg
 4
 Atividade Legislativa
 Projeto de Lei da Câmara n° 137, de 2017
 TRAMITAÇÃO
-10/07/2019
-CDR - Comissão de Desenvolvimento Regional e Turismo
-APROVADO PARECER NA COMISSÃO
-Situação:
-Reunida a Comissão nesta data, é aprovado o relatório que passa a constituir Parecer da CDR pela aprovação da Matéria, na
+    Data: 10/07/2019
+    Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
+    Situação: APROVADO PARECER NA COMISSÃO
+    Ação: Reunida a Comissão nesta data, é aprovado o relatório que passa a constituir Parecer da CDR pela aprovação da Matéria, na
 forma da Emenda n°01 -CCJ/CDR (Substitutivo), e das Subemendas de 1 a 8 - CDR.
-Ação:
-Publicado no DSF Páginas 513-523 - DSF nº 103
-05/07/2019
-CDR - Comissão de Desenvolvimento Regional e Turismo
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria constante da Pauta da 25ª Reunião da Comissão de Desenvolvimento Regional e Turismo, agendada para o dia
+    Data: 05/07/2019
+    Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria constante da Pauta da 25ª Reunião da Comissão de Desenvolvimento Regional e Turismo, agendada para o dia
 10/07/2019.
-Ação:
-04/07/2019
-CDR - Comissão de Desenvolvimento Regional e Turismo
-É recebido relatório reformulado do Senador Jaques Wagner com voto pela aprovação do Projeto, na forma da Emenda nº 1-CCJ
+    Data: 04/07/2019
+    Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
+    Situação: Não disponível
+    Ação: É recebido relatório reformulado do Senador Jaques Wagner com voto pela aprovação do Projeto, na forma da Emenda nº 1-CCJ
 (Substitutivo), com 8 (oito) subemendas que apresenta (anexado às fls. 58 a 65).
 Ação:
-21/05/2019
-CDR - Comissão de Desenvolvimento Regional e Turismo
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-É recebido relatório do Senador Jaques Wagner com voto pela aprovação do Projeto, na forma da Emenda nº 1-CCJ
+    Data: 21/05/2019
+    Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: É recebido relatório do Senador Jaques Wagner com voto pela aprovação do Projeto, na forma da Emenda nº 1-CCJ
 (Substitutivo), com 9 (nove) subemendas que apresenta (anexado às fls. 50 a 57).
-Ação:
-07/03/2019
-CDR - Comissão de Desenvolvimento Regional e Turismo
-MATÉRIA COM A RELATORIA
-Situação:
-Redistribuído ao Senador Jaques Wagner, para emitir relatório.
-Ação:
-07/03/2019
-CDR - Comissão de Desenvolvimento Regional e Turismo
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Devolvido pela Senadora Zenaide Maia, para redistribuição.
-Ação:
-07/03/2019
-CDR - Comissão de Desenvolvimento Regional e Turismo
-MATÉRIA COM A RELATORIA
-Situação:
-Redistribuído à Senadora Zenaide Maia, para emitir relatório.
-Ação:
-14/02/2019
-CDR - Comissão de Desenvolvimento Regional e Turismo
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Devolvido pelo relator, Senador Paulo Paim, em virtude de não mais pertencer aos quadros desta Comissão. A matéria será
+    Data: 07/03/2019
+    Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Redistribuído ao Senador Jaques Wagner, para emitir relatório.
+    Data: 07/03/2019
+    Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Devolvido pela Senadora Zenaide Maia, para redistribuição.
+    Data: 07/03/2019
+    Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Redistribuído à Senadora Zenaide Maia, para emitir relatório.
+    Data: 14/02/2019
+    Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Devolvido pelo relator, Senador Paulo Paim, em virtude de não mais pertencer aos quadros desta Comissão. A matéria será
 redistribuída.
-Ação:
-20/12/2018
-CDR - Comissão de Desenvolvimento Regional e Turismo
-A proposição continua a tramitar, nos termos do art. 332 do Regimento Interno.
+    Data: 20/12/2018
+    Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
+    Situação: Não disponível
+    Ação: A proposição continua a tramitar, nos termos do art. 332 do Regimento Interno.
 Ação:
 pg
 5
 Atividade Legislativa
 Projeto de Lei da Câmara n° 137, de 2017
 TRAMITAÇÃO
-27/11/2018
-CDR - Comissão de Desenvolvimento Regional e Turismo
-MATÉRIA COM A RELATORIA
-Situação:
-Redistribuído ao Senador Paulo Paim, para emitir relatório.
-Ação:
-27/11/2018
-CDR - Comissão de Desenvolvimento Regional e Turismo
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Devolvido pela Senadora Fátima Bezerra, para redistribuição.
-Ação:
-08/11/2018
-CDR - Comissão de Desenvolvimento Regional e Turismo
-MATÉRIA COM A RELATORIA
-Situação:
-Avocada a relatoria pela Presidente da Comissão, Senadora Fátima Bezerra (art. 129 do RISF).
-Ação:
-08/11/2018
-CDR - Comissão de Desenvolvimento Regional e Turismo
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Devolvido pelo Senador Paulo Rocha, para redistribuição.
-Ação:
-06/11/2018
-CDR - Comissão de Desenvolvimento Regional e Turismo
-MATÉRIA COM A RELATORIA
-Situação:
-Redistribuído ao Senador Paulo Rocha, para emitir relatório.
-Ação:
-06/11/2018
-CDR - Comissão de Desenvolvimento Regional e Turismo
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Devolvido pela Senadora Fátima Bezerra, para redistribuição.
-Ação:
-17/10/2018
-CDR - Comissão de Desenvolvimento Regional e Turismo
-MATÉRIA COM A RELATORIA
-Situação:
-Avocada a relatoria pela Presidente da Comissão, Senadora Fátima Bezerra (art. 129 do RISF).
-Ação:
-10/10/2018
-CDR - Comissão de Desenvolvimento Regional e Turismo
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Matéria recebida na CDR nesta data. Aguardando designação de relator.
-Ação:
-10/10/2018
-CCJ - Comissão de Constituição, Justiça e Cidadania
-Encerrada a relatoria da Senadora Ana Amélia por deliberação da matéria.
+    Data: 27/11/2018
+    Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Redistribuído ao Senador Paulo Paim, para emitir relatório.
+    Data: 27/11/2018
+    Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Devolvido pela Senadora Fátima Bezerra, para redistribuição.
+    Data: 08/11/2018
+    Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Avocada a relatoria pela Presidente da Comissão, Senadora Fátima Bezerra (art. 129 do RISF).
+    Data: 08/11/2018
+    Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Devolvido pelo Senador Paulo Rocha, para redistribuição.
+    Data: 06/11/2018
+    Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Redistribuído ao Senador Paulo Rocha, para emitir relatório.
+    Data: 06/11/2018
+    Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Devolvido pela Senadora Fátima Bezerra, para redistribuição.
+    Data: 17/10/2018
+    Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: Avocada a relatoria pela Presidente da Comissão, Senadora Fátima Bezerra (art. 129 do RISF).
+    Data: 10/10/2018
+    Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Matéria recebida na CDR nesta data. Aguardando designação de relator.
+    Data: 10/10/2018
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: Não disponível
+    Ação: Encerrada a relatoria da Senadora Ana Amélia por deliberação da matéria.
 À CDR, para prosseguimento da tramitação.
 Ação:
 pg
@@ -358,199 +280,127 @@ pg
 Atividade Legislativa
 Projeto de Lei da Câmara n° 137, de 2017
 TRAMITAÇÃO
-10/10/2018
-CCJ - Comissão de Constituição, Justiça e Cidadania
-APROVADO PARECER NA COMISSÃO
-Situação:
-Na 28ª Reunião Ordinária, realizada nesta data, a Comissão aprova o Relatório da Senadora Ana Amélia, que passa a constituir o
+    Data: 10/10/2018
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: APROVADO PARECER NA COMISSÃO
+    Ação: Na 28ª Reunião Ordinária, realizada nesta data, a Comissão aprova o Relatório da Senadora Ana Amélia, que passa a constituir o
 Parecer da CCJ, favorável ao Projeto, nos termos da Emenda n° 1-CCJ (Substitutivo).
-Ação:
-Publicado no DSF Páginas 258-274 - DSF nº 117
-31/08/2018
-CCJ - Comissão de Constituição, Justiça e Cidadania
-INCLUÍDA NA PAUTA DA REUNIÃO
-Situação:
-Matéria incluída na Pauta da Comissão.
-Ação:
-05/07/2018
-CCJ - Comissão de Constituição, Justiça e Cidadania
-PRONTA PARA A PAUTA NA COMISSÃO
-Situação:
-Recebido às 09h10 o relatório da Senadora Ana Amélia, com voto favorável ao Projeto nos termos do substitutivo que apresenta.
+    Data: 31/08/2018
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: INCLUÍDA NA PAUTA DA REUNIÃO
+    Ação: Matéria incluída na Pauta da Comissão.
+    Data: 05/07/2018
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: PRONTA PARA A PAUTA NA COMISSÃO
+    Ação: Recebido às 09h10 o relatório da Senadora Ana Amélia, com voto favorável ao Projeto nos termos do substitutivo que apresenta.
 Matéria pronta para a Pauta na Comissão.
-Ação:
-30/11/2017
-CCJ - Comissão de Constituição, Justiça e Cidadania
-MATÉRIA COM A RELATORIA
-Situação:
-O Presidente da Comissão de Constituição, Justiça e Cidadania, Senador Edison Lobão, designa Relatora da matéria a Senadora
+    Data: 30/11/2017
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: MATÉRIA COM A RELATORIA
+    Ação: O Presidente da Comissão de Constituição, Justiça e Cidadania, Senador Edison Lobão, designa Relatora da matéria a Senadora
 Ana Amélia.
-Ação:
-09/11/2017
-CCJ - Comissão de Constituição, Justiça e Cidadania
-AGUARDANDO DESIGNAÇÃO DO RELATOR
-Situação:
-Matéria aguardando distribuição.
-Ação:
-09/11/2017
-SF-SEADI - Secretaria de Atas e Diários
-MATÉRIA LIDA EM PLENÁRIO.
-Situação:
-Encaminhado à publicação.
+    Data: 09/11/2017
+    Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
+    Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
+    Ação: Matéria aguardando distribuição.
+    Data: 09/11/2017
+    Órgão: SF-SEADI - Secretaria de Atas e Diários
+    Situação: MATÉRIA LIDA EM PLENÁRIO.
+    Ação: Encaminhado à publicação.
 À CCJ, CDR e CAE..
-Ação:
-Publicado no DSF Páginas 67-82
-09/11/2017
-SF-SLSF - Secretaria Legislativa do Senado Federal
-AGUARDANDO LEITURA
-Situação:
-Este processado contém 34 (trinta de quatro) folhas numeradas.
+    Data: 09/11/2017
+    Órgão: SF-SLSF - Secretaria Legislativa do Senado Federal
+    Situação: AGUARDANDO LEITURA
+    Ação: Este processado contém 34 (trinta de quatro) folhas numeradas.
 Aguardando leitura.
-Ação:
-08/11/2017
-PLEN - Plenário do Senado Federal
-Apresentado em 08/11/2017 11:44
+    Data: 08/11/2017
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Apresentado em 08/11/2017 11:44
 Ação:
 pg
 7
 Atividade Legislativa
 Projeto de Lei da Câmara n° 137, de 2017
-DOCUMENTOS
-PLC 137/2017
-08/11/2017
-Data:
- Câmara dos Deputados
-Autor:
-Plenário do Senado Federal
-Local:
-Dispõe sobre a Política Nacional de Economia Solidária e os empreendimentos econômicos solidários, cria o Sistema Nacional de
-Economia Solidária e dá outras providências.
-Descrição/Ementa:
-Avulso inicial da matéria
-09/11/2017
-Data:
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-Este processado contém 34 (trinta de quatro) folhas numeradas.
-Aguardando leitura.
-Ação Legislativa:
-Relatório Legislativo
-05/07/2018
-Data:
-Senadora Ana Amélia (PP/RS)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Recebido às 09h10 o relatório da Senadora Ana Amélia, com voto favorável ao Projeto nos termos do substitutivo que apresenta.
-Matéria pronta para a Pauta na Comissão.
-Ação Legislativa:
-Listagem ou relatório
-10/10/2018
-Data:
- Comissão de Constituição, Justiça e Cidadania
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Listagem ou relatório descritivo-Lista de Presença da reunião da 28ª Reunião CCJ
-Descrição/Ementa:
-P.S 97/2018 - CCJ
-10/10/2018
-Data:
- Comissão de Constituição, Justiça e Cidadania, Senadora Ana Amélia (PP/RS)
-Autor:
-Comissão de Constituição, Justiça e Cidadania
-Local:
-Na 28ª Reunião Ordinária, realizada nesta data, a Comissão aprova o Relatório da Senadora Ana Amélia, que passa a constituir o
-Parecer da CCJ, favorável ao Projeto, nos termos da Emenda n° 1-CCJ (Substitutivo).
-Ação Legislativa:
-Relatório Legislativo
-21/05/2019
-Data:
-Senador Jaques Wagner (PT/BA)
-Autor:
-Comissão de Desenvolvimento Regional e Turismo
-Local:
-É recebido relatório do Senador Jaques Wagner com voto pela aprovação do Projeto, na forma da Emenda nº 1-CCJ
-(Substitutivo), com 9 (nove) subemendas que apresenta (anexado às fls. 50 a 57).
-Ação Legislativa:
-Relatório Legislativo
-04/07/2019
-Data:
-Senador Jaques Wagner (PT/BA)
-Autor:
-pg
-8
-Atividade Legislativa
-Projeto de Lei da Câmara n° 137, de 2017
-DOCUMENTOS
-Comissão de Desenvolvimento Regional e Turismo
-Local:
-É recebido relatório reformulado do Senador Jaques Wagner com voto pela aprovação do Projeto, na forma da Emenda nº 1-CCJ
-(Substitutivo), com 8 (oito) subemendas que apresenta (anexado às fls. 58 a 65).
-Ação Legislativa:
-Listagem ou relatório
-10/07/2019
-Data:
- Comissão de Desenvolvimento Regional e Turismo
-Autor:
-Comissão de Desenvolvimento Regional e Turismo
-Local:
-Listagem ou relatório descritivo-Lista de Presença da reunião da 25ª Reunião CDR
-Descrição/Ementa:
-P.S 18/2019 - CDR
-10/07/2019
-Data:
- Comissão de Desenvolvimento Regional e Turismo, Senador Jaques Wagner (PT/BA)
-Autor:
-Comissão de Desenvolvimento Regional e Turismo
-Local:
-Reunida a Comissão nesta data, é aprovado o relatório que passa a constituir Parecer da CDR pela aprovação da Matéria, na
-forma da Emenda n°01 -CCJ/CDR (Substitutivo), e das Subemendas de 1 a 8 - CDR.
-Ação Legislativa:
-Relatório Legislativo
-14/08/2019
-Data:
-Senador Jaques Wagner (PT/BA)
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-O relator, senador Jaques Wagner, apresentou relatório favorável ao projeto, nos termos da Emenda nº 1-CCJ-CDR (Substitutivo),
-com as Subemendas nºs 1 a 7-CDR e uma subemenda de sua autoria, e pela prejudicialidade da Subemenda nº 8-CDR (fls. 68-74).
-Ação Legislativa:
-Listagem ou relatório
-17/09/2019
-Data:
- Comissão de Assuntos Econômicos
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-Listagem ou relatório descritivo-Lista de Presença da reunião da 35ª Reunião CAE
-Descrição/Ementa:
-P.S 54/2019 - CAE
-17/09/2019
-Data:
- Comissão de Assuntos Econômicos, Senador Jaques Wagner (PT/BA)
-Autor:
-Comissão de Assuntos Econômicos
-Local:
-Em reunião realizada nesta data, a comissão aprova o relatório do senador Jaques Wagner, que passa a constituir o parecer da
-CAE, favorável ao projeto, nos termos da Emenda nº 1-CCJ-CDR-CAE (Substitutivo), com as Subemendas nºs 1 a 7-CDR-CAE e a
-Subemenda nº 9-CAE, e pela prejudicialidade da Subemenda nº 8-CDR.
-Anexado o parecer da comissão.
-À SLSF.
-Ação Legislativa:
-P.S 287/2019 - PLEN
-11/12/2019
-Data:
- Comissão Diretora do Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-Aprovado o Substitutivo com subemendas.
-Ação Legislativa:
-pg
+Documentos: 
+    Documento: PLC 137/2017
+    Data: 08/11/2017
+    Autor: Câmara dos Deputados
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Não disponível
+    Documento: Avulso inicial da matéria
+    Data: 09/11/2017
+    Autor: Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Relatório Legislativo
+    Documento: Relatório Legislativo
+    Data: 05/07/2018
+    Autor: Senadora Ana Amélia (PP/RS)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório
+    Documento: Listagem ou relatório
+    Data: 10/10/2018
+    Autor: Comissão de Constituição, Justiça e Cidadania
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 28ª Reunião CCJ
+    Documento: P.S 97/2018 - CCJ
+    Data: 10/10/2018
+    Autor: Comissão de Constituição, Justiça e Cidadania, Senadora Ana Amélia (PP/RS)
+    Local: Comissão de Constituição, Justiça e Cidadania
+    Ação legislativa: Não disponível
+    Descrição/ementa: Relatório Legislativo
+    Documento: Relatório Legislativo
+    Data: 21/05/2019
+    Autor: Senador Jaques Wagner (PT/BA)
+    Local: Comissão de Desenvolvimento Regional e Turismo
+    Ação legislativa: Não disponível
+    Descrição/ementa: Relatório Legislativo
+    Documento: Relatório Legislativo
+    Data: 04/07/2019
+    Autor: Senador Jaques Wagner (PT/BA)
+    Local: pg
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório
+    Documento: Listagem ou relatório
+    Data: 10/07/2019
+    Autor: Comissão de Desenvolvimento Regional e Turismo
+    Local: Comissão de Desenvolvimento Regional e Turismo
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 25ª Reunião CDR
+    Documento: P.S 18/2019 - CDR
+    Data: 10/07/2019
+    Autor: Comissão de Desenvolvimento Regional e Turismo, Senador Jaques Wagner (PT/BA)
+    Local: Comissão de Desenvolvimento Regional e Turismo
+    Ação legislativa: Não disponível
+    Descrição/ementa: Relatório Legislativo
+    Documento: Relatório Legislativo
+    Data: 14/08/2019
+    Autor: Senador Jaques Wagner (PT/BA)
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório
+    Documento: Listagem ou relatório
+    Data: 17/09/2019
+    Autor: Comissão de Assuntos Econômicos
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Não disponível
+    Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 35ª Reunião CAE
+    Documento: P.S 54/2019 - CAE
+    Data: 17/09/2019
+    Autor: Comissão de Assuntos Econômicos, Senador Jaques Wagner (PT/BA)
+    Local: Comissão de Assuntos Econômicos
+    Ação legislativa: Não disponível
+    Descrição/ementa: P.S 287/2019 - PLEN
+    Documento: P.S 287/2019 - PLEN
+    Data: 11/12/2019
+    Autor: Comissão Diretora do Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Aprovado o Substitutivo com subemendas.
+    Descrição/ementa: pg
 9
 Atividade Legislativa
 Projeto de Lei da Câmara n° 137, de 2017
@@ -563,41 +413,22 @@ Encaminhado à publicação o Parecer nº 287, de 2019 - PLEN-SF, da CDIR, ofere
 Discussão encerrada, sem emendas, a matéria é dada como definitivamente adotada, nos termos do art. 284, do RISF.
 À Câmara dos Deputados.
 Parecer nº 287, de 2019 - PLEN/SF, da CDIR.
-Descrição/Ementa:
-OFSF 1115/2019
-19/12/2019
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF nº 1115, de 19/12/19, à Senhora Primeira-Secretária da Câmara dos Deputados, comunicando que o Senado
-Federal aprovou, em revisão, nos termos do substitutivo, o Projeto. (fls. 92 a 98).
-Ação Legislativa:
-Encaminha à revisão da Câmara dos Deputados o Substitutivo do Projeto de Lei da Câmara n° 137, de 2017.
-Descrição/Ementa:
-Autógrafo - PLC 137/2017
-19/12/2019
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Remetido Ofício SF nº 1115, de 19/12/19, à Senhora Primeira-Secretária da Câmara dos Deputados, comunicando que o Senado
-Federal aprovou, em revisão, nos termos do substitutivo, o Projeto. (fls. 92 a 98).
-Ação Legislativa:
-Dispõe sobre a Política Nacional de Economia Solidária e os empreendimentos econômicos solidários, cria o Sistema Nacional de
+    Documento: OFSF 1115/2019
+    Data: 19/12/2019
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha à revisão da Câmara dos Deputados o Substitutivo do Projeto de Lei da Câmara n° 137, de 2017.
+    Documento: Autógrafo - PLC 137/2017
+    Data: 19/12/2019
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Dispõe sobre a Política Nacional de Economia Solidária e os empreendimentos econômicos solidários, cria o Sistema Nacional de
 Economia Solidária e dá outras providências.
-Descrição/Ementa:
-OFC 606/2024 - Câmara dos
-09/12/2024
-Data:
-Primeiro-Secretário da Câmara dos Deputados
-Autor:
-Plenário do Senado Federal
-Local:
-Comunica o envio à sanção do Projeto de Lei da Câmara nº 137, de 2017.
-Descrição/Ementa:
-pg
-10
-
+    Documento: OFC 606/2024 - Câmara dos
+    Data: 09/12/2024
+    Autor: Primeiro-Secretário da Câmara dos Deputados
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica o envio à sanção do Projeto de Lei da Câmara nº 137, de 2017.

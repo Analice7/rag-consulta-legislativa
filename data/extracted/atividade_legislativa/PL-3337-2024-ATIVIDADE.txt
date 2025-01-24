@@ -1,73 +1,50 @@
-Atividade Legislativa
-Projeto de Lei n° 3337, de 2024
-Autoria:
-Câmara dos Deputados
+Atividade legislativa: Projeto de Lei n° 3337, de 2024
+Autoria: Câmara dos Deputados
 Iniciativa: Presidência da República
-Ementa:
-Altera a Lei nº 9.478, de 6 de agosto de 1997, para autorizar a transferência de excedentes de conteúdo local entre
+Ementa: Altera a Lei nº 9.478, de 6 de agosto de 1997, para autorizar a transferência de excedentes de conteúdo local entre
 contratos para exploração e produção de petróleo e gás natural vigentes, para fins do disposto no inciso X do caput do
 seu art. 2º; altera as Leis nºs 12.304, de 2 de agosto de 2010, 12.351, de 22 de dezembro de 2010, e 14.871, de 28 de
 maio de 2024; e revoga a Medida Provisória nº 1.255, de 26 de agosto de 2024.
-Assunto:
-Data de Leitura:
-Administração Pública  - Organização Administrativa
--
-Tramitação encerrada
-Aprovada pelo Plenário
-Decisão:
-23/12/2024 - Secretaria de Expediente
-Último local:
-À sanção
-Destino:
-Último estado:
-27/12/2024 - TRANSFORMADA EM
-NORMA JURÍDICA
-Matérias Relacionadas:
-Requerimento nº 965 de 2024
-Relatoria:
-PLEN - (Plenário do Senado Federal)
-Relator(es):
-Senador Jaques Wagner (encerrado em 19/12/2024 - Matéria
-deliberada no plenário)
-Despacho:
-18/12/2024
+Assunto: Administração Pública  - Organização Administrativa
+Despacho: 18/12/2024
 Decisão da Presidência
 Ao Plenário
 (SF-PLEN) Plenário do Senado Federal
-TRAMITAÇÃO
-27/12/2024
-SF-SEXPE - Secretaria de Expediente
-TRANSFORMADA EM NORMA JURÍDICA
-Situação:
-(PR) PRESIDÊNCIA DA REPÚBLICA.
+Relatoria: PLEN - (Plenário do Senado Federal)
+Relator(es):
+Senador Jaques Wagner (encerrado em 19/12/2024 - Matéria
+deliberada no plenário)
+Tramitação encerrada: 
+  Decisão: Aprovada pelo Plenário
+  Destino: À sanção
+  Último local: 23/12/2024 - Secretaria de Expediente
+  Último estado: 27/12/2024 - TRANSFORMADA EM
+NORMA JURÍDICA
+Tramitação: 
+    Data: 27/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: TRANSFORMADA EM NORMA JURÍDICA
+    Ação: (PR) PRESIDÊNCIA DA REPÚBLICA.
 SANCIONADA. LEI 15075 DE 2024.
 DOU (Diário Oficial da União) - 27/12/2024 - Seção I - págs. 2 e 3.
 Sancionada em 26/12/2024.
-Ação:
-26/12/2024
-SF-SEXPE - Secretaria de Expediente
-REMETIDA À SANÇÃO
-Situação:
-Remetido Ofício SF n.º 1602, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+    Data: 26/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: REMETIDA À SANÇÃO
+    Ação: Remetido Ofício SF n.º 1602, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
 encaminhando a Mensagem SF n.º 319/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
 presidencial autógrafo do Projeto.
 Remetido Ofício SF n.º 1603, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
 foi encaminhado à sanção presidencial.
+    Data: 23/12/2024
+    Órgão: SF-SEXPE - Secretaria de Expediente
+    Situação: Não disponível
+    Ação: Anexado o texto revisado.
 Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 3337, de 2024
-TRAMITAÇÃO
-23/12/2024
-SF-SEXPE - Secretaria de Expediente
-Anexado o texto revisado.
-Ação:
-19/12/2024
-PLEN - Plenário do Senado Federal
-APROVADA
-Situação:
-(Sessão Deliberativa Extraordinária realizada em 19/12/2024)
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: APROVADA
+    Ação: (Sessão Deliberativa Extraordinária realizada em 19/12/2024)
 Senador Jaques Wagner profere o Parecer n° 257/2024 - Plen/SF, favorável ao Projeto, com a Emenda n° 1, de redação, que
 apresenta.
 Discussão encerrada.
@@ -76,259 +53,130 @@ Encaminhado à publicação e aprovado o Parecer n° 258/2024 - Plen/SF, oferece
 A matéria vai à sanção.
 Será feita a devida comunicação à Câmara dos Deputados.
 (Encaminhada à publicação Declaração de voto do Senador Eduardo Girão)
-Ação:
-Publicado no DSF Páginas 120-126 - DSF nº 219
-Publicado no DSF Páginas 116-119 - DSF nº 219
-19/12/2024
-PLEN - Plenário do Senado Federal
-INCLUÍDA EM ORDEM DO DIA
-Situação:
-Incluído em Ordem do Dia da Sessão Deliberativa Extraordinária Semipresencial de 19/12/2024.
+    Data: 19/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: INCLUÍDA EM ORDEM DO DIA
+    Ação: Incluído em Ordem do Dia da Sessão Deliberativa Extraordinária Semipresencial de 19/12/2024.
 (Matéria em regime de urgência, nos termos do Requerimento nº 965, de 2024, de Líderes, aprovado na Sessão Deliberativa
 Ordinária de 18/12/2024).
-Ação:
-18/12/2024
-PLEN - Plenário do Senado Federal
-(186ª Sessão Deliberativa Ordinária – realizada em 18/12/2024)
+    Data: 18/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: (186ª Sessão Deliberativa Ordinária – realizada em 18/12/2024)
 Aprovado o Requerimento nº 965, de 2024.
 Será cumprida a deliberação do Plenário.
 Ação:
-18/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Relatório do Senador Jaques Wagner.
+    Data: 18/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Relatório do Senador Jaques Wagner.
 Ação:
-18/12/2024
-PLEN - Plenário do Senado Federal
-Designado Relator de Plenário o Senador Jaques Wagner.
+    Data: 18/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Designado Relator de Plenário o Senador Jaques Wagner.
 Ação:
-18/12/2024
-PLEN - Plenário do Senado Federal
-Recebido o Requerimento nº 965, de 2024, de Líder, solicitando urgência para a matéria.
+    Data: 18/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: Não disponível
+    Ação: Recebido o Requerimento nº 965, de 2024, de Líder, solicitando urgência para a matéria.
 Ação:
-18/12/2024
-PLEN - Plenário do Senado Federal
-AGUARDANDO DESPACHO
-Situação:
-Autuado o Projeto de Lei nº 3337/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação:
-Publicado no DSF Páginas 384-395 - DSF nº 218
-pg
-2
-Atividade Legislativa
-Projeto de Lei n° 3337, de 2024
-TRAMITAÇÃO
-DOCUMENTOS
-PL 3337/2024
-18/12/2024
-Data:
- Câmara dos Deputados
-Autor:
-Plenário do Senado Federal
-Local:
-Autuado o Projeto de Lei nº 3337/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação Legislativa:
-Altera a Lei nº 9.478, de 6 de agosto de 1997, para autorizar a transferência de excedentes de conteúdo local entre contratos
-para exploração e produção de petróleo e gás natural vigentes, para fins do disposto no inciso X do caput do seu art. 2º; altera as
-Leis nºs 12.304, de 2 de agosto de 2010, 12.351, de 22 de dezembro de 2010, e 14.871, de 28 de maio de 2024; e revoga a
-Medida Provisória nº 1.255, de 26 de agosto de 2024.
-Descrição/Ementa:
-RQS 965/2024
-18/12/2024
-Data:
-Líder do Bloco Parlamentar da Resistência Democrática Eliziane Gama (PSD/MA)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Requerimento nº 965, de 2024, de Líder, solicitando urgência para a matéria.
-Ação Legislativa:
-Requer urgência para o Projeto de Lei nº 3337/2024, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado
+    Data: 18/12/2024
+    Órgão: PLEN - Plenário do Senado Federal
+    Situação: AGUARDANDO DESPACHO
+    Ação: Autuado o Projeto de Lei nº 3337/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+Documentos: 
+    Documento: PL 3337/2024
+    Data: 18/12/2024
+    Autor: Câmara dos Deputados
+    Local: Plenário do Senado Federal
+    Ação legislativa: Autuado o Projeto de Lei nº 3337/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+    Descrição/ementa: Não disponível
+    Documento: RQS 965/2024
+    Data: 18/12/2024
+    Autor: Líder do Bloco Parlamentar da Resistência Democrática Eliziane Gama (PSD/MA)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebido o Requerimento nº 965, de 2024, de Líder, solicitando urgência para a matéria.
+    Descrição/ementa: Requer urgência para o Projeto de Lei nº 3337/2024, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado
 Federal.
-Descrição/Ementa:
-Avulso inicial da matéria
-18/12/2024
-Data:
- Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-Autuado o Projeto de Lei nº 3337/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-Ação Legislativa:
--
-Descrição/Ementa:
-Relatório Legislativo
-18/12/2024
-Data:
-Senador Jaques Wagner (PT/BA)
-Autor:
-Plenário do Senado Federal
-Local:
-Recebido o Relatório do Senador Jaques Wagner.
-Ação Legislativa:
-Parecer ao PL 3337/2024
-Descrição/Ementa:
-Requerimento
-19/12/2024
-Data:
-Senador Eduardo Girão (NOVO/CE)
-Autor:
-Plenário do Senado Federal
-Local:
-Requer que seja registrado o meu voto contrário ao PL 3337/ 2024,
-Descrição/Ementa:
-P.S 257/2024 - PLEN
+    Documento: Avulso inicial da matéria
+    Data: 18/12/2024
+    Autor: Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Autuado o Projeto de Lei nº 3337/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
+    Descrição/ementa: -
+    Documento: Relatório Legislativo
+    Data: 18/12/2024
+    Autor: Senador Jaques Wagner (PT/BA)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Recebido o Relatório do Senador Jaques Wagner.
+    Descrição/ementa: Parecer ao PL 3337/2024
+    Documento: Requerimento
+    Data: 19/12/2024
+    Autor: Senador Eduardo Girão (NOVO/CE)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Requer que seja registrado o meu voto contrário ao PL 3337/ 2024,
+    Documento: P.S 257/2024 - PLEN
 pg
 3
 Atividade Legislativa
 Projeto de Lei n° 3337, de 2024
 DOCUMENTOS
-19/12/2024
-Data:
-Senador Jaques Wagner (PT/BA)
-Autor:
-Plenário do Senado Federal
-Local:
-(Sessão Deliberativa Extraordinária realizada em 19/12/2024)
-Senador Jaques Wagner profere o Parecer n° 257/2024 - Plen/SF, favorável ao Projeto, com a Emenda n° 1, de redação, que
-apresenta.
-Discussão encerrada.
-Aprovado o Projeto, com a Emenda n° 1, de redação, com votos contrários dos Senadores Eduardo Girão e Cleitinho.
-Encaminhado à publicação e aprovado o Parecer n° 258/2024 - Plen/SF, oferecendo a Redação Final.
-A matéria vai à sanção.
-Será feita a devida comunicação à Câmara dos Deputados.
-(Encaminhada à publicação Declaração de voto do Senador Eduardo Girão)
-Ação Legislativa:
-Parecer nº 257, de 2024-PLEN/SF
-Descrição/Ementa:
-P.S 258/2024 - PLEN
-19/12/2024
-Data:
- Comissão Diretora do Senado Federal
-Autor:
-Plenário do Senado Federal
-Local:
-(Sessão Deliberativa Extraordinária realizada em 19/12/2024)
-Senador Jaques Wagner profere o Parecer n° 257/2024 - Plen/SF, favorável ao Projeto, com a Emenda n° 1, de redação, que
-apresenta.
-Discussão encerrada.
-Aprovado o Projeto, com a Emenda n° 1, de redação, com votos contrários dos Senadores Eduardo Girão e Cleitinho.
-Encaminhado à publicação e aprovado o Parecer n° 258/2024 - Plen/SF, oferecendo a Redação Final.
-A matéria vai à sanção.
-Será feita a devida comunicação à Câmara dos Deputados.
-(Encaminhada à publicação Declaração de voto do Senador Eduardo Girão)
-Ação Legislativa:
-Parecer n° 258/2024 - Plen/SF, oferecendo a Redação Final.
-Descrição/Ementa:
-EMENDA 1 PLEN - PL
-19/12/2024
-Data:
-Senador Jaques Wagner (PT/BA)
-Autor:
-Plenário do Senado Federal
-Local:
-(Sessão Deliberativa Extraordinária realizada em 19/12/2024)
-Senador Jaques Wagner profere o Parecer n° 257/2024 - Plen/SF, favorável ao Projeto, com a Emenda n° 1, de redação, que
-apresenta.
-Discussão encerrada.
-Aprovado o Projeto, com a Emenda n° 1, de redação, com votos contrários dos Senadores Eduardo Girão e Cleitinho.
-Encaminhado à publicação e aprovado o Parecer n° 258/2024 - Plen/SF, oferecendo a Redação Final.
-A matéria vai à sanção.
-Será feita a devida comunicação à Câmara dos Deputados.
-(Encaminhada à publicação Declaração de voto do Senador Eduardo Girão)
-Ação Legislativa:
-Emenda nº 1-PLEN, de redação, do Relator
-Descrição/Ementa:
-Minuta
-23/12/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Anexado o texto revisado.
-Ação Legislativa:
-OFSF 1603/2024
-26/12/2024
-Data:
-pg
-4
-Atividade Legislativa
-Projeto de Lei n° 3337, de 2024
-DOCUMENTOS
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1602, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 319/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1603, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 3337/2024.
-Descrição/Ementa:
-OFSF 1602/2024
-26/12/2024
-Data:
-Primeiro-Secretário do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1602, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 319/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1603, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
+    Data: 19/12/2024
+    Autor: Senador Jaques Wagner (PT/BA)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Parecer nº 257, de 2024-PLEN/SF
+    Documento: P.S 258/2024 - PLEN
+    Data: 19/12/2024
+    Autor: Comissão Diretora do Senado Federal
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Parecer n° 258/2024 - Plen/SF, oferecendo a Redação Final.
+    Documento: EMENDA 1 PLEN - PL
+    Data: 19/12/2024
+    Autor: Senador Jaques Wagner (PT/BA)
+    Local: Plenário do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Emenda nº 1-PLEN, de redação, do Relator
+    Documento: Minuta
+    Data: 23/12/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Anexado o texto revisado.
+    Descrição/ementa: OFSF 1603/2024
+    Documento: OFSF 1603/2024
+    Data: 26/12/2024
+    Autor: pg
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 3337/2024.
+    Documento: OFSF 1602/2024
+    Data: 26/12/2024
+    Autor: Primeiro-Secretário do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
 3337/2024.
-Descrição/Ementa:
-MPSF 319/2024
-26/12/2024
-Data:
-Presidente do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Remetido Ofício SF n.º 1602, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 319/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1603, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Encaminha à sanção o Projeto de Lei n° 3.337, de 2024.
-Descrição/Ementa:
-Autógrafo - PL 3337/2024
-26/12/2024
-Data:
- Senado Federal
-Autor:
-Secretaria de Expediente
-Local:
-Remetido Ofício SF n.º 1602, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 319/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
-presidencial autógrafo do Projeto.
-Remetido Ofício SF n.º 1603, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
-foi encaminhado à sanção presidencial.
-Ação Legislativa:
-Altera a Lei nº 9.478, de 6 de agosto de 1997, para autorizar a transferência de excedentes de conteúdo local entre contratos
+    Documento: MPSF 319/2024
+    Data: 26/12/2024
+    Autor: Presidente do Senado Federal
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Encaminha à sanção o Projeto de Lei n° 3.337, de 2024.
+    Documento: Autógrafo - PL 3337/2024
+    Data: 26/12/2024
+    Autor: Senado Federal
+    Local: Secretaria de Expediente
+    Ação legislativa: Não disponível
+    Descrição/ementa: Altera a Lei nº 9.478, de 6 de agosto de 1997, para autorizar a transferência de excedentes de conteúdo local entre contratos
 para exploração e produção de petróleo e gás natural vigentes, para fins do disposto no inciso X do caput do seu art. 2º; altera as
 Leis nºs 12.304, de 2 de agosto de 2010, 12.351, de 22 de dezembro de 2010, e 14.871, de 28 de maio de 2024; e revoga a
 Medida Provisória nº 1.255, de 26 de agosto de 2024.
-Descrição/Ementa:
-Mensagem
-26/12/2024
-Data:
-pg
-5
-Atividade Legislativa
-Projeto de Lei n° 3337, de 2024
-DOCUMENTOS
-Presidente do Senado Federal
-Autor:
-Comissão Diretora do Senado Federal
-Local:
-Recibo físico da Presidência da República referente à Mensagem SF n° 319/24 (assinada eletronicamente e impressa para recibo).
-Descrição/Ementa:
-pg
-6
-
+    Documento: Mensagem
+    Data: 26/12/2024
+    Autor: pg
+    Local: Comissão Diretora do Senado Federal
+    Ação legislativa: Não disponível
+    Descrição/ementa: Recibo físico da Presidência da República referente à Mensagem SF n° 319/24 (assinada eletronicamente e impressa para recibo).
