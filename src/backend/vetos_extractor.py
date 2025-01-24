@@ -1,5 +1,4 @@
 import fitz  # PyMuPDF
-import json
 import os
 import re  # Biblioteca para expressões regulares
 
@@ -16,7 +15,10 @@ def extract_veto_details(pdf_path):
 
     # Extraindo a ementa
     ementa_match = re.search(r"(Veto [Pp]arcial aposto.*?\".*?\")", text, re.DOTALL)
-    ementa = ementa_match.group(1).replace("\n", " ").strip() if ementa_match else None
+    ementa_match = re.sub(r'(\d)\.(\d)', r'\1\2', ementa_match.group(1))
+    ementa_match = re.sub(r'(?i)\bart\.', 'artigo', ementa_match)
+    ementa_match = re.sub(r'§', 'parágrafo', ementa_match)
+    ementa = ementa_match.replace("\n", " ").strip() if ementa_match else None
 
     # Extraindo número e ano da mensagem
     mensagem_match = re.search(r"Mensagem nº (\d+) de (\d{4})", text)
@@ -30,6 +32,11 @@ def extract_veto_details(pdf_path):
     dispositivos_text = re.sub(r"Ouvi.*?:", "", dispositivos_text, flags=re.DOTALL)
     dispositivos_text = re.sub(r"Avulso do VET.*?]", "", dispositivos_text, flags=re.DOTALL)
     dispositivos_text = re.sub(r"^\d+\s*$", "", dispositivos_text, flags=re.MULTILINE)
+    dispositivos_text = re.sub(r'“(.)”', r'"\1"', dispositivos_text)
+    dispositivos_text = re.sub(r'(\d)\.(\d)', r'\1\2', dispositivos_text)
+    dispositivos_text = re.sub(r'(?i)\bart\.', 'artigo', dispositivos_text)
+    dispositivos_text = re.sub(r'§', 'parágrafo', dispositivos_text)
+    dispositivos_text = re.sub(r'\.{4,}', '', dispositivos_text)
 
     # Regex para capturar os dispositivos, seus textos e as razões do veto
     padrao = r'\n(.*?)\n(“.*?)(?:Raz|ANEXO).*?\n(“.*?”)'
@@ -47,8 +54,8 @@ def extract_veto_details(pdf_path):
         
         dispositivos.append({
             'dispositivo vetado': dispositivo_vetado,
-            'texto dispositivo': texto_dispositivo,
-            'razao veto': razao_veto
+            'texto do dispositivo': texto_dispositivo,
+            'razao do veto': razao_veto
         })
 
     # Montando o dicionário final
@@ -65,6 +72,34 @@ def extract_veto_details(pdf_path):
         "dispositivos vetados": dispositivos
     }
 
+def save_as_txt(data, output_file):
+    def format_dict(d, level=0):
+        result = []
+        indent = "\t" * level
+        
+        if "veto" in d and d["veto"]["número"] and d["veto"]["ano"]:
+            result.append(f"{indent}Veto: Veto número {d['veto']['número']}, de {d['veto']['ano']}")
+        
+        if "ementa" in d and d["ementa"]:
+            result.append(f"{indent}Ementa: {d['ementa']}")
+        
+        if "mensagem" in d and d["mensagem"]["número"] and d["mensagem"]["ano"]:
+            result.append(f"{indent}Mensagem: Mensagem número {d['mensagem']['número']}, de {d['mensagem']['ano']}")
+        
+        if "dispositivos vetados" in d:
+            result.append(f"{indent}Dispositivos vetados:")
+            for item in d["dispositivos vetados"]:
+                result.append(f"{indent}\tDispositivo vetado: {item['dispositivo vetado']}")
+                result.append(f"{indent}\tTexto do dispositivo: {item['texto do dispositivo']}")
+                result.append(f"{indent}\tRazão do veto: {item['razao do veto']}")
+                result.append("")  # Adiciona uma linha em branco após cada dispositivo
+        
+        return result
+
+    formatted_text = "\n".join(format_dict(data))
+    with open(output_file, "w", encoding="utf-8") as txt_file:
+        txt_file.write(formatted_text)
+
 def process_vetos(input_folder, output_folder):
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
@@ -72,13 +107,12 @@ def process_vetos(input_folder, output_folder):
     for file_name in os.listdir(input_folder):
         if file_name.endswith(".pdf"):
             input_file = os.path.join(input_folder, file_name)
-            output_file = os.path.join(output_folder, file_name.replace(".pdf", ".json"))
+            output_file = os.path.join(output_folder, file_name.replace(".pdf", ".txt"))
             
             print(f"Processando: {file_name}")
             try:
                 veto_data = extract_veto_details(input_file)
-                with open(output_file, "w", encoding="utf-8") as json_file:
-                    json.dump(veto_data, json_file, ensure_ascii=False, indent=4)
+                save_as_txt(veto_data, output_file)
                 print(f"Salvo: {output_file}")
             except Exception as e:
                 print(f"Erro ao processar {file_name}: {e}")
