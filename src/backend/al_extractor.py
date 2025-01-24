@@ -6,6 +6,26 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import nltk
 
+def concatenar(dados, nivel=0):
+
+    texto = ""
+    indentacao = "  " * nivel
+
+    if isinstance(dados, dict):
+        for chave, valor in dados.items():
+            texto += f"{indentacao}{chave.capitalize()}: "
+            if isinstance(valor, (dict, list)):
+                texto += "\n" + concatenar(valor, nivel + 1)
+            else:
+                texto += f"{valor}\n"
+    elif isinstance(dados, list):
+        for item in dados:
+            texto += concatenar(item, nivel + 1)
+    else:
+        texto += f"{indentacao}{dados}\n"
+
+    return texto
+
 # Extrai texto de todas as páginas de um arquivo PDF.
 def extract_text_from_pdf(pdf_path):
     
@@ -241,39 +261,40 @@ def parse_text_to_structure(text):
 
     return structured_data
 
-# Salva o dicionário estruturado em um arquivo JSON.
-def save_to_json(data, output_path):
-    
-    with open(output_path, "w", encoding="utf-8") as json_file:
-        json.dump(data, json_file, ensure_ascii=False, indent=4)
+def save_to_txt(text, txt_output_path):
+    with open(txt_output_path, "w", encoding="utf-8") as file:
+        file.write(text)
 
-# Processo completo: extrai texto do PDF, estrutura os dados e salva no JSON.
-def process_pdf(pdf_path, json_output_path):
- 
+# Processo completo: extrai texto do PDF, aplica a função concatenar e salva no TXT.
+def process_pdf(pdf_path, txt_output_path):
     print(f"Processando o arquivo: {pdf_path}...")
     try:
         text = extract_text_from_pdf(pdf_path)
-        structured_data = parse_text_to_structure(text)
-        save_to_json(structured_data, json_output_path)
-        print(f"Dados extraídos e salvos em {json_output_path}")
+        
+        # Aplicar a função concatenar ao texto extraído
+        text = concatenar(text)
+        
+        save_to_txt(text, txt_output_path)
+        print(f"Texto extraído e salvo em {txt_output_path}")
     except Exception as e:
         print(f"Erro ao processar {pdf_path}: {e}")
 
-# Processa todos os PDFs em uma pasta de entrada e salva os JSONs na pasta de saída.
+
+# Processa todos os PDFs em uma pasta de entrada e salva os TXTs na pasta de saída.
 def process_all_pdfs(input_folder, output_folder):
-   
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
 
     for file_name in os.listdir(input_folder):
         if file_name.endswith(".pdf"):
             pdf_path = os.path.join(input_folder, file_name)
-            json_output_path = os.path.join(
-                output_folder, os.path.splitext(file_name)[0] + ".json"
+            txt_output_path = os.path.join(
+                output_folder, os.path.splitext(file_name)[0] + ".txt"
             )
-            process_pdf(pdf_path, json_output_path)
+            process_pdf(pdf_path, txt_output_path)
 
-if __name__ == "__main__":
-    input_folder = "../../data/raw/atividade_legislativa/"
-    output_folder = "../../data/extracted/atividade_legislativa/"
-    process_all_pdfs(input_folder, output_folder)
+# Main:
+input_folder = "../../data/raw/atividade_legislativa/"
+output_folder = "../../data/extracted/atividade_legislativa/"
+
+process_all_pdfs(input_folder, output_folder)
