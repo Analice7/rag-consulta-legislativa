@@ -13,6 +13,19 @@ Despacho: 27/11/2024
 Decisão da Presidência
 Ao Plenário
 (SF-PLEN) Plenário do Senado Federal
+TRAMITAÇÃO
+04/12/2024
+SF-SEXPE - Secretaria de Expediente
+Remetido Ofício SF nº 1333, de 03/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
+devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.564, de 2024, na origem,
+restituindo autógrafos do Projeto de Lei n° 4.448, de 2024, sancionado e transformado na Lei nº 15.038, de 29 de novembro de
+2024.
+À COARQ.
+Ação:
+03/12/2024
+PLEN - Plenário do Senado Federal
+Encaminhada à publicação a Mensagem da Presidência da República nº 1.564, de 2024, na origem, que restitui autógrafo do
+Ação:
 Relatoria: PLEN - (Plenário do Senado Federal)
 Relator(es):
 Senador Paulo Paim (encerrado em 27/11/2024 - Matéria
@@ -27,24 +40,11 @@ Tramitação:
     Data: 04/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Remetido Ofício SF nº 1333, de 03/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
-devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.564, de 2024, na origem,
-restituindo autógrafos do Projeto de Lei n° 4.448, de 2024, sancionado e transformado na Lei nº 15.038, de 29 de novembro de
-2024.
-À COARQ.
-Ação:
+    Ação: Não disponível
     Data: 03/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhada à publicação a Mensagem da Presidência da República nº 1.564, de 2024, na origem, que restitui autógrafo do
-Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 4448, de 2024
-TRAMITAÇÃO
-Projeto de Lei nº 4.448, de 2024, sancionado e convertido na Lei nº 15.038, de 29 de novembro de 2024.
-Será feita a devida comunicação à Câmara dos Deputados.
+    Ação: Não disponível
     Data: 02/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: TRANSFORMADA EM NORMA JURÍDICA
@@ -63,8 +63,7 @@ foi encaminhado à sanção presidencial.
     Data: 27/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 27/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -78,23 +77,15 @@ Será feita a devida comunicação à Câmara dos Deputados.
     Data: 27/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Relatório do Senador Paulo Paim.
-Ação:
+    Ação: Não disponível
     Data: 27/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Designado Relator de Plenário o Senador Paulo Paim.
-Ação:
+    Ação: Não disponível
     Data: 27/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento nº 829, de 2024, de Líder, solicitando urgência para a matéria.
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei n° 4448, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 27/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO DESPACHO
@@ -126,8 +117,7 @@ Federal.
     Ação legislativa: Recebido o Relatório do Senador Paulo Paim.
     Descrição/ementa: PARECER PL 4448 de 2024 crédito rural
     Documento: P.S 193/2024 - PLEN
-pg
-3
+
 Atividade Legislativa
 Projeto de Lei n° 4448, de 2024
 DOCUMENTOS
@@ -157,7 +147,7 @@ DOCUMENTOS
 4448/2024.
     Documento: Minuta
     Data: 27/11/2024
-    Autor: pg
+    Autor: Atividade Legislativa
     Local: Secretaria de Expediente
     Ação legislativa: Anexado o texto revisado.
     Descrição/ementa: Autógrafo - PL 4448/2024
@@ -197,9 +187,7 @@ de julho de 2024, e 1.272, de 25 de outubro de 2024.
     Autor: Primeiro-Secretário do Senado Federal
     Local: Comissão Diretora do Senado Federal
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-5
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 4448, de 2024
 DOCUMENTOS
 2024.

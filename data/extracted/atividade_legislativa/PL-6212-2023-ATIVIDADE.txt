@@ -10,6 +10,24 @@ Despacho: 29/10/2024
 Decisão da Presidência
 Ao Plenário
 (SF-PLEN) Plenário do Senado Federal
+TRAMITAÇÃO
+28/11/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15035 DE 2024. (vetada parcialmente: vide MSG 1527 de 2024).
+DOU (Diário Oficial da União) - 28/11/2024 - Seção I - págs. 2 e 2.
+Sancionada em 27/11/2024.
+Ação:
+05/11/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício SF n.º 1264, de 05/11/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+encaminhando a Mensagem SF n.º 231/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
+presidencial autógrafo do Projeto.
+Ação:
 Relatoria: PLEN - (Plenário do Senado Federal)
 Relator(es):
 Senador Marcos Rogério (encerrado em 30/10/2024 - Matéria
@@ -37,8 +55,7 @@ presidencial autógrafo do Projeto.
     Data: 31/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 30/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -53,13 +70,11 @@ Será feita a devida comunicação à Câmara dos Deputados.
     Data: 30/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o relatório do Senador Marcos Rogério.
-Ação:
+    Ação: Não disponível
     Data: 29/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Designado Relator de Plenário o Senador Marcos Rogério.
-Ação:
+    Ação: Não disponível
     Data: 28/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: INCLUÍDA EM ORDEM DO DIA
@@ -75,13 +90,7 @@ O Requerimento será incluído em Ordem do Dia oportunamente.
     Data: 22/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento nº 708, de 2024, de Líderes, solicitando urgência para a matéria.
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei n° 6212, de 2023 (Substitutivo da Câmara dos Deputados)
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 17/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO DESPACHO
@@ -115,7 +124,7 @@ Interno do Senado Federal.
 do número de inscrição no Cadastro de Pessoas Físicas (CPF) das pessoas cond
     Documento: P.S 181/2024 - PLEN
     Data: 30/10/2024
-    Autor: pg
+    Autor: Atividade Legislativa
     Local: Plenário do Senado Federal
     Ação legislativa: Não disponível
     Descrição/ementa: Parecer nº 181, de 2024-PLEN/SF.
@@ -143,9 +152,7 @@ do número de inscrição no Cadastro de Pessoas Físicas (CPF) das pessoas cond
     Autor: Primeiro-Secretário do Senado Federal
     Local: Comissão Diretora do Senado Federal
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-4
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 6212, de 2023 (Substitutivo da Câmara dos Deputados)
 DOCUMENTOS
 Remetido Ofício SF n.º 1265, de 05/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto

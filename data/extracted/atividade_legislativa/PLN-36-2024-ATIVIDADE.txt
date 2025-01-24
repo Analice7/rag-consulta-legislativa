@@ -3,12 +3,33 @@ Autoria: Presidência da República
 Ementa: Abre ao Orçamento Fiscal da União, em favor do Ministério de Portos e Aeroportos, crédito especial no valor de R$
 15.400.839,00, para o fim que especifica.
 Explicação da ementa: Propõe, no âmbito do Ministério de Portos e Aeroportos, recursos ao Fundo Nacional de
+Aviação Civil – FNAC (100% dos recursos), com o objetivo de viabilizar a adequação do
+Aeroporto de Caruaru, no Estado de Pernambuco, à operação de aeronaves tipo 3C (Embraer
+195 E2), prevendo a operação instrumentada (IFR) e o aumento da demanda de passageiros.
 Assunto: Orçamento Público  - Crédito Adicional
 Despacho: 25/11/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (CN-CMO) Comissão Mista de Planos, Orçamentos Públicos e
 Fiscalização
+TRAMITAÇÃO
+23/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15064 DE 2024.
+DOUE (Diário Oficial da União - Edição Extra) - 23/12/2024 - Seção I - págs. 26 e 26.
+Sancionada em 23/12/2024.
+Ação:
+19/12/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício CN nº 380, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a
+Mensagem CN nº 133/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do
+Projeto.
+Ação:
 Relatoria: CMO - (Comissão Mista de Planos, Orçamentos Públicos e Fiscalização)
 Relator(es):
 Deputado Federal Filipe Martins (encerrado em 11/12/2024 -
@@ -38,8 +59,7 @@ Projeto.
     Data: 18/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Congresso Nacional
     Situação: APROVADA
@@ -56,8 +76,7 @@ Aprovado o Projeto, na Câmara dos Deputados e no Senado Federal.
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Deputado Filipe Martins por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: APROVADO PARECER NA COMISSÃO
@@ -71,23 +90,11 @@ de Lei nº 36/2024-CN na forma proposta pelo Poder Executivo. Ao projeto não fo
     Data: 12/12/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Recebida, em 12/12/2024, a Mensagem nº 1.605, de 2024, do Senhor Presidente da República, solicitando que seja considerada
-sem efeito a Mensagem nº 1.599, de 2024, referente ao Projeto de Lei nº 36, de 2024 - CN. A Mensagem será publicada no DCN
-de 19/12/2024.
-À CMO.
-Ação:
+    Ação: Não disponível
     Data: 11/12/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Recebida, em 11/12/2024, a Mensagem nº 1.599, de 2024, do Senhor Presidente da República solicitando a retirada de
-tramitação do Projeto de Lei nº 36, de 2024 - CN. A Mensagem será publicada no Diário do Congresso Nacional de 19/12/2024.
-Nos termos do art. 42 do RCCN, a matéria aguarda despacho do Presidente do Congresso Nacional.
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei do Congresso Nacional n° 36, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 05/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: PRONTA PARA A PAUTA NA COMISSÃO
@@ -112,29 +119,14 @@ Poder Executivo. Ao Projeto não foram apresentadas emendas.
     Data: 25/11/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: A matéria será publicada no Diário do Congresso Nacional.
-Calendário de tramitação de projetos de lei de créditos adicionais - PLN 36/2024 (Art. 112, da Res. 1/2006-CN):
-- Data do despacho: 25/11/2024
-- Publicação em avulso eletrônico: de 25/11/2024 a 25/11/2024
-- Apresentação de emendas: de 25/11/2024 (15h) a 26/11/2024 (12h)
-- Publicação em avulso eletrônico das emendas: de 26/11/2024 (12h) a 26/11/2024 (14h)
-- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 26/11/2024 (14h) a
-28/11/2024 (14h)
-A matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.
-* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.
-Ação:
-Publicado no DCN Páginas 46 - DCN nº 44
+    Ação: Não disponível
     Data: 21/10/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Recebida, em 21/10/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado
-Federal.
-Ação:
+    Ação: Não disponível
     Data: 15/10/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
-    Situação: pg
-3
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 36, de 2024
 TRAMITAÇÃO
 AGUARDANDO DESPACHO
@@ -164,15 +156,11 @@ Documentos:
     Autor: Congresso Nacional
     Local: Mesa Diretora do Congresso Nacional
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-4
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 36, de 2024
 DOCUMENTOS
 Ofício
-    Documento: pg
-4
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 36, de 2024
 DOCUMENTOS
 Ofício
@@ -209,9 +197,7 @@ de 2024, que Abre ao Orçamento Fiscal da União, em favor do Ministério de Por
     Ação legislativa: Não disponível
     Descrição/ementa: APROVA, o Relatório do Deputado FILIPE MARTINS, favorável ao Projeto de Lei nº 36/2024-CN na forma proposta pelo Poder
 Executivo
-    Documento: pg
-5
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 36, de 2024
 DOCUMENTOS
 PAR 59/2024 - Relatório

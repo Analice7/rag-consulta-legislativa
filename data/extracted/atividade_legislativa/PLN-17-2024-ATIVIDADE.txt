@@ -3,12 +3,32 @@ Autoria: Presidência da República
 Ementa: Abre ao Orçamento Fiscal da União, em favor do Tribunal de Contas da União e das Justiças Federal e Eleitoral, crédito
 suplementar no valor de R$ 32.998.452,00, para reforço de dotações constantes da Lei Orçamentária vigente.
 Explicação da ementa: O projeto visa à suplementação de dotações, no âmbito da Justiça Federal de Primeiro Grau
+(94,09% dos recursos), para aquisição de solução de “backup”, por meio de adesão à Ata de
+Registro de Preços CJF nº 009/2024, em favor das unidades orçamentárias da Justiça Federal; e
+na Justiça Eleitoral (5,46% dos recursos), direcionados ao Tribunal Regional Eleitoral da Bahia,
+visando o atendimento de reajuste ao contrato 067/2021, referente aos serviços de reforma no
+Edifício-Sede do TRE-BA; e ao Tribunal Regional Eleitoral de Mato Grosso, para manutenção de
+equipamentos de Tecnologia da Informação e Comunicação. E no âmbito do Tribunal de Contas
+da União (0,45% dos recursos), a fim de viabilizar o pagamento das despesas com a ação
+“Ajuda de Custo para Moradia ou Auxílio-Moradia a Agentes Públicos”, até o final do exercício.
 Assunto: Orçamento Público  - Crédito Adicional
 Despacho: 05/08/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (CN-CMO) Comissão Mista de Planos, Orçamentos Públicos e
 Fiscalização
+TRAMITAÇÃO
+23/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15056 DE 2024.
+DOUE (Diário Oficial da União - Edição Extra) - 23/12/2024 - Seção I - págs. 9 e 11.
+Sancionada em 23/12/2024.
+Ação:
+19/12/2024
+SF-SEXPE - Secretaria de Expediente
 Relatoria: CMO - (Comissão Mista de Planos, Orçamentos Públicos e Fiscalização)
 Relator(es):
 Deputado Federal Dal Barreto (encerrado em 17/12/2024 -
@@ -29,9 +49,7 @@ DOUE (Diário Oficial da União - Edição Extra) - 23/12/2024 - Seção I - pá
 Sancionada em 23/12/2024.
     Data: 19/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
-    Situação: pg
-1
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 17, de 2024
 TRAMITAÇÃO
 REMETIDA À SANÇÃO
@@ -41,8 +59,7 @@ Projeto.
     Data: 18/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Congresso Nacional
     Situação: APROVADA
@@ -59,8 +76,7 @@ Aprovado o Projeto, na Câmara dos Deputados e no Senado Federal.
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Deputado Dal Barreto por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: APROVADO PARECER NA COMISSÃO
@@ -78,9 +94,7 @@ Poder Executivo. Ao Projeto não foram apresentadas emendas.
     Ação: Encerrado o prazo regimental, ao Projeto, não foram apresentadas emendas.
     Data: 06/08/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-    Situação: pg
-2
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 17, de 2024
 TRAMITAÇÃO
 MATÉRIA COM A RELATORIA
@@ -92,23 +106,11 @@ MATÉRIA COM A RELATORIA
     Data: 05/08/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: A matéria será publicada no Diário do Congresso Nacional.
-Calendário de tramitação de projetos de lei de créditos adicionais - PLN 17/2024 (Art. 112, da Res. 1/2006-CN):
-- Data do despacho: 05/08/2024
-- Publicação em avulso eletrônico: de 05/08/2024 a 09/08/2024
-- Apresentação de emendas: de 10/08/2024 a 19/08/2024
-- Publicação em avulso eletrônico das emendas: de 20/08/2024 a 24/08/2024
-- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 25/08/2024 a 08/09/2024
-A matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.
-* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.
-Ação:
-Publicado no DCN Páginas 549-559 - DCN nº 28
+    Ação: Não disponível
     Data: 04/07/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Recebida, em 04/07/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado
-Federal.
-Ação:
+    Ação: Não disponível
     Data: 27/06/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: AGUARDANDO DESPACHO
@@ -124,7 +126,7 @@ Documentos:
     Documento: Nota Informativa
     Data: 04/07/2024
     Autor: Senado Federal
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Não disponível
     Descrição/ementa: Nota Informativa
     Documento: Nota Informativa
@@ -150,9 +152,7 @@ Documentos:
     Autor: Deputado Federal Julio Arcoverde (PP/PI)
     Local: Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Ação legislativa: Distribuído ao Deputado Dal Barreto, para emitir relatório.
-    Descrição/ementa: pg
-4
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 17, de 2024
 DOCUMENTOS
 Relator do PLN 17/2024 - da Presidência da República – que “Abre ao Orçamento Fiscal da União, em favor do Tribunal de Contas
@@ -193,9 +193,7 @@ crédito suplementar no valor de R$ 32.998.452,00, para reforço de dotações c
     Local: Mesa Diretora do Congresso Nacional
     Ação legislativa: Não disponível
     Descrição/ementa: Encaminha à sanção o Projeto de Lei do Congresso Nacional n° 17, de 2024.
-    Documento: pg
-5
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 17, de 2024
 DOCUMENTOS
 OFCN 372/2024

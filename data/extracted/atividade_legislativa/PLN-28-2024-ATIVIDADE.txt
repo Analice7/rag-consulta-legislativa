@@ -2,12 +2,30 @@ Atividade legislativa: Projeto de Lei do Congresso Nacional n° 28, de 2024
 Autoria: Presidência da República
 Ementa: Altera a Lei nº 14.802, de 10 de janeiro de 2024, que institui o Plano Plurianual da União para o período de 2024 a 2027.
 Explicação da ementa: Altera o PPA 2024-2027, propondo as seguintes alterações: excluir do Anexo III o objetivo
+específico “OE 0371 – Promover a simplificação e a desburocratização do ambiente de
+negócios; e o acesso a redes de apoio, a crédito e garantias, com enfoque em MPEs,
+microempreendedores e artesãos”, e os seus atributos relacionados, do Programa “2801 –
+Neoindustrialização, Ambiente de Negócios e Participação Econômica Internacional”; instituir
+no Anexo III o Programa “2802 – Empreendedorismo e Inclusão Socioprodutiva”, e os seus
+atributos relacionados”; e alterar, no Anexo I, a meta relacionada ao indicador-chave “Taxa
+bruta de matrículas no ensino superior – População de 18 a 24 anos (%)” do objetivo
+estratégico “1.4 – Ampliar a qualidade dos ensinos médio, técnico e superior preparando
+cidadãos e cidadãs para lidar com os desafios profissionais e éticos em um mundo em intensa
+transformação tecnológica”.
 Assunto: Orçamento Público  - Plano Plurianual (PPA)
 Despacho: 25/11/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (CN-CMO) Comissão Mista de Planos, Orçamentos Públicos e
 Fiscalização
+TRAMITAÇÃO
+26/12/2024
+SF-SEXPE - Secretaria de Expediente
+Remetido Ofício CN nº 404 de 26/12/24, enviado ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República
+participando, conforme Ofício nº 069/2024, do Deputado Da Vitória, relator da matéria, haver sido constatada inexatidão
+material no Anexo II do autógrafo do Projeto de Lei do Congresso Nacional nº 28, de 2024, e encaminhando novo Anexo II do
+referido do referido Projeto, em substituição ao anteriormente enviado.
+Ação:
 Relatoria: CMO - (Comissão Mista de Planos, Orçamentos Públicos e Fiscalização)
 Relator(es):
 Deputado Federal Da Vitoria (encerrado em 17/12/2024 -
@@ -22,28 +40,15 @@ Tramitação:
     Data: 26/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Remetido Ofício CN nº 404 de 26/12/24, enviado ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República
-participando, conforme Ofício nº 069/2024, do Deputado Da Vitória, relator da matéria, haver sido constatada inexatidão
-material no Anexo II do autógrafo do Projeto de Lei do Congresso Nacional nº 28, de 2024, e encaminhando novo Anexo II do
-referido do referido Projeto, em substituição ao anteriormente enviado.
-Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei do Congresso Nacional n° 28, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 26/12/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Anexada, em 26/12/2024, a Nota Técnica Conjunta nº 6/2024, elaborada pela Consultoria de Orçamentos, Fiscalização e
-Controle do Senado Federal e pela Consultoria de Orçamento e Fiscalização Financeira da Câmara dos Deputados.
-Ação:
+    Ação: Não disponível
     Data: 26/12/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Recebido, em 26/12/2024, o Ofício nº 69/2024 do Gabinete do Relator da matéria na CMO, o Deputado Da Vitória, que trata de
-esclarecimento de eventual dubiedade em relação ao texto aprovado do PLN nº 28/2024.
-Ação:
+    Ação: Não disponível
     Data: 23/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: TRANSFORMADA EM NORMA JURÍDICA
@@ -60,8 +65,7 @@ Projeto.
     Data: 18/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Congresso Nacional
     Situação: APROVADA
@@ -78,13 +82,10 @@ Aprovado o Projeto, na Câmara dos Deputados e no Senado Federal.
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Deputado Da Vitoria por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-    Situação: pg
-2
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 28, de 2024
 TRAMITAÇÃO
 APROVADO PARECER NA COMISSÃO
@@ -115,35 +116,15 @@ Executivo. Ao Projeto não foram apresentadas emendas.
     Data: 25/11/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: A matéria será publicada no Diário do Congresso Nacional.
-Calendário de tramitação de projetos de lei de créditos adicionais - PLN 28/2024 (Art. 112, da Res. 1/2006-CN):
-- Data do despacho: 25/11/2024
-- Publicação em avulso eletrônico: de 25/11/2024 a 25/11/2024
-- Apresentação de emendas: de 25/11/2024 (15h) a 26/11/2024 (12h)
-- Publicação em avulso eletrônico das emendas: de 26/11/2024 (12h) a 26/11/2024 (14h)
-- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 26/11/2024 (14h) a
-28/11/2024 (14h)
-A matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.
-* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.
-Ação:
-Publicado no DCN Páginas 38 - DCN nº 44
-pg
-3
-Atividade Legislativa
-Projeto de Lei do Congresso Nacional n° 28, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 15/10/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Recebida a Mensagem nº 1.290/2024 da Presidência da República, em 15 de Outubro de 2024, com proposta de modificação do
-Projeto de Lei nº 28, de 2024 - CN.
-Ação:
+    Ação: Não disponível
     Data: 23/09/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Recebida, em 23/09/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado
-Federal.
-Ação:
+    Ação: Não disponível
     Data: 17/09/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: AGUARDANDO DESPACHO
@@ -171,7 +152,7 @@ Documentos:
     Documento: MSG 1290/2024 - Presidência
     Data: 15/10/2024
     Autor: Presidência da República
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Não disponível
     Descrição/ementa: Proposta de modificação do texto do Projeto de Lei nº 28, de 2024-CN, que “Altera a Lei nº 14.802, de 10 de janeiro de 2024, que
 institui o Plano Plurianual da União para o período de 2024 a 2027”, com vistas à substituição de seu Anexo II.
@@ -203,9 +184,7 @@ de 2024, que Altera a Lei nº 14.802, de 10 de janeiro de 2024, que institui o P
     Ação legislativa: Não disponível
     Descrição/ementa: APROVA, o Relatório do Deputado DA VITORIA, favorável ao Projeto de Lei nº 28/2024-CN na forma proposta pelo Poder
 Executivo
-    Documento: pg
-5
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 28, de 2024
 DOCUMENTOS
 PAR 64/2024 - Relatório
@@ -242,8 +221,7 @@ Projeto de Lei do Congresso Nacional n° 28, de 2024.
     Ação legislativa: Não disponível
     Descrição/ementa: Altera a Lei nº 14.802, de 10 de janeiro de 2024, que institui o Plano Plurianual da União para o período de 2024 a 2027.
     Documento: Nota Técnica
-pg
-6
+
 Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 28, de 2024
 DOCUMENTOS

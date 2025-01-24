@@ -8,6 +8,25 @@ Leitura da Matéria
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CCJ) Comissão de Constituição, Justiça e Cidadania
 (SF-CMA) Comissão de Meio Ambiente
+TRAMITAÇÃO
+18/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15046 DE 2024. (vetada parcialmente: vide MSG 1665 de 2024).
+DOU (Diário Oficial da União) - 18/12/2024 - Seção I - págs. 1 e 1.
+Sancionada em 17/12/2024.
+À COARQ.
+Ação:
+28/11/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício SF n.º 1309, de 27/11/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+encaminhando a Mensagem SF n.º 240/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
+presidencial autógrafo do Projeto.
+Ação:
 Relatoria: CCJ - (Comissão de Constituição, Justiça e Cidadania)
 Relator(es):
 Senador Mecias de Jesus (encerrado em 22/05/2024 -
@@ -40,8 +59,7 @@ presidencial autógrafo do Projeto.
     Data: 26/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 26/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -58,9 +76,7 @@ Discussão, em turno único.
     Data: 18/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Aguardando inclusão em Ordem do Dia.
-Discussão, em turno único.
-Ação:
+    Ação: Não disponível
     Data: 18/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: PRONTO PARA DELIBERAÇÃO DO PLENÁRIO
@@ -70,9 +86,7 @@ A matéria será incluída em Ordem do Dia oportunamente.
     Data: 01/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, "d", do RISF). De 05/11/2024
-a 14/11/2024. Perante a Mesa.
-Ação:
+    Ação: Não disponível
     Data: 01/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA
@@ -81,13 +95,7 @@ II, "d", do Regimento Interno.
     Data: 31/10/2024
     Órgão: CMA - Comissão de Meio Ambiente
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Mecias de Jesus por deliberação da matéria.
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei n° 2230, de 2022
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 30/10/2024
     Órgão: CMA - Comissão de Meio Ambiente
     Situação: APROVADO PARECER NA COMISSÃO
@@ -124,9 +132,7 @@ Link para a reunião: https://legis.senado.leg.br/atividade/comissoes/comissao/5
     Ação: Distribuído ao Senador Mecias de Jesus, para emitir relatório.
     Data: 22/05/2024
     Órgão: CMA - Comissão de Meio Ambiente
-    Situação: pg
-3
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei n° 2230, de 2022
 TRAMITAÇÃO
 AGUARDANDO DESIGNAÇÃO DO RELATOR
@@ -135,9 +141,7 @@ Aguarda designação para relatoria.
     Data: 22/05/2024
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Mecias de Jesus por deliberação da matéria.
-À CMA, para prosseguimento da tramitação.
-Ação:
+    Ação: Não disponível
     Data: 22/05/2024
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: APROVADO PARECER NA COMISSÃO
@@ -147,9 +151,7 @@ A Comissão aprova o Relatório, que passa a constituir o Parecer da CCJ, favor�
     Data: 21/05/2024
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: Não disponível
-    Ação: Recebida a Emenda Substitutiva n°1 , de autoria do Senador Carlos Portinho.
-Encaminhada ao Relator, para análise.
-Ação:
+    Ação: Não disponível
     Data: 15/05/2024
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: PEDIDO DE VISTA CONCEDIDO
@@ -178,14 +180,11 @@ Matéria pronta para a Pauta na Comissão.
     Data: 21/12/2022
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: A proposição continua a tramitar, nos termos do art. 332 do Regimento Interno.
-Ação:
+    Ação: Não disponível
     Data: 10/08/2022
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação, em 10/08/2022.
-Ação:
-Publicado no DSF Páginas 767-770 - DSF nº 123
+    Ação: Não disponível
 Documentos: 
     Documento: PL 2230/2022
     Data: 17/05/2022
@@ -246,8 +245,7 @@ Animais Domésticos.
     Descrição/ementa: Da COMISSÃO DE MEIO AMBIENTE, sobre o Projeto de Lei n° 2230, de 2022, que Autoriza a criação do Cadastro Nacional de
 Animais Domésticos.
     Documento: Minuta
-pg
-6
+
 Atividade Legislativa
 Projeto de Lei n° 2230, de 2022
 DOCUMENTOS
@@ -280,9 +278,7 @@ DOCUMENTOS
     Autor: Senado Federal
     Local: Secretaria de Expediente
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-7
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 2230, de 2022
 DOCUMENTOS
 foi encaminhado à sanção presidencial.

@@ -3,12 +3,33 @@ Autoria: Presidência da República
 Ementa: Abre ao Orçamento de Investimento da União, em favor da empresa Petrobras Netherlands B.V. – PNBV, crédito
 especial no valor total de R$ 67.352.000,00, para inclusão de programações na Lei Orçamentária vigente.
 Explicação da ementa: O projeto visa incluir  a ação "21C6 - Exploração Marítima e Terrestre de Petróleo e Gás
+Natural", em favor da empresa Petrobras Netherlands B.V. – PNBV, a fim de viabilizar, neste
+exercício, a aquisição de participações em projetos com maturidade para perfuração de poços
+pioneiros em novos mercados no exterior.
 Assunto: Orçamento Público  - Crédito Adicional
 Despacho: 05/08/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (CN-CMO) Comissão Mista de Planos, Orçamentos Públicos e
 Fiscalização
+TRAMITAÇÃO
+23/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15053 DE 2024.
+DOUE (Diário Oficial da União - Edição Extra) - 23/12/2024 - Seção I - págs. 1 e 2.
+Sancionada em 23/12/2024.
+Ação:
+19/12/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício CN nº 369, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a
+Mensagem CN nº 122/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do
+Projeto.
+Ação:
 Relatoria: CMO - (Comissão Mista de Planos, Orçamentos Públicos e Fiscalização)
 Relator(es):
 Senadora Leila Barros (encerrado em 28/08/2024 -
@@ -38,8 +59,7 @@ Projeto.
     Data: 18/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Congresso Nacional
     Situação: APROVADA
@@ -56,8 +76,7 @@ Aprovado o Projeto, na Câmara dos Deputados e no Senado Federal.
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Deputado Sargento Portugal por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: APROVADO PARECER NA COMISSÃO
@@ -80,14 +99,7 @@ pelo Poder Executivo. Ao Projeto não foram apresentadas emendas.
     Data: 28/08/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: pg
-2
-Atividade Legislativa
-Projeto de Lei do Congresso Nacional n° 14, de 2024
-TRAMITAÇÃO
-Recebido Oficio nº 183/2024 - GSLB, de 28/08/2024, da Senadora Leila Barros, que comunica o declínio da relatoria do PLN
-14/2024.
-Ação:
+    Ação: Não disponível
     Data: 20/08/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: MATÉRIA COM A RELATORIA
@@ -103,23 +115,11 @@ Ação:
     Data: 05/08/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: A matéria será publicada no Diário do Congresso Nacional.
-Calendário de tramitação de projetos de lei de créditos adicionais - PLN 14/2024 (Art. 112, da Res. 1/2006-CN):
-- Data do despacho: 05/08/2024
-- Publicação em avulso eletrônico: de 05/08/2024 a 09/08/2024
-- Apresentação de emendas: de 10/08/2024 a 19/08/2024
-- Publicação em avulso eletrônico das emendas: de 20/08/2024 a 24/08/2024
-- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 25/08/2024 a 08/09/2024
-A matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.
-* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.
-Ação:
-Publicado no DCN Páginas 486-500 - DCN nº 28
+    Ação: Não disponível
     Data: 11/06/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Recebida, em 11/06/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado
-Federal.
-Ação:
+    Ação: Não disponível
     Data: 05/06/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: AGUARDANDO DESPACHO
@@ -150,9 +150,7 @@ Documentos:
     Local: Mesa Diretora do Congresso Nacional
     Ação legislativa: Não disponível
     Descrição/ementa: -
-    Documento: pg
-4
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 14, de 2024
 DOCUMENTOS
 Ofício
@@ -193,8 +191,7 @@ especial no valor total de R$ 67.352.000,00, para inclusão de programações na
     Descrição/ementa: APROVA, o Relatório do Deputado SARGENTO PORTUGAL, favorável ao Projeto de Lei nº 14/2024-CN na forma proposta pelo
 Poder Executivo.
     Documento: PAR 66/2024 - Relatório
-pg
-5
+
 Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 14, de 2024
 DOCUMENTOS

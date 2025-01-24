@@ -8,6 +8,25 @@ Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CDH) Comissão de Direitos Humanos e Legislação Participativa
 (SF-CAS) Comissão de Assuntos Sociais
+TRAMITAÇÃO
+24/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15069 DE 2024.
+DOU (Diário Oficial da União) - 24/12/2024 - Seção I - págs. 2 e 3.
+Sancionada em 23/12/2024.
+Ação:
+09/12/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício SF n.º 1335, de 09/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+encaminhando a Mensagem SF n.º 244/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
+presidencial autógrafo do Projeto.
+Remetido Ofício SF n.º 1336, de 09/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
+Ação:
 Relatoria: CDH - (Comissão de Direitos Humanos e Legislação Participativa)
 Relator(es):
 Senador Paulo Paim (encerrado em 04/12/2024 - Deliberação
@@ -42,8 +61,7 @@ Remetido Ofício SF n.º 1336, de 09/12/24, ao Senhor Primeiro-Secretário da C�
     Data: 05/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 05/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -62,13 +80,11 @@ Será feita a devida comunicação à Câmara dos Deputados.
     Data: 05/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Relatório do Senador Paulo Paim.
-Ação:
+    Ação: Não disponível
     Data: 05/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Designado o Senador Paulo Paim Relator de Plenário.
-Ação:
+    Ação: Não disponível
     Data: 04/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: INCLUÍDA EM ORDEM DO DIA
@@ -78,9 +94,7 @@ Participativa, solicitando urgência para a matéria, nos termos dos arts. 336, 
     Data: 04/12/2024
     Órgão: CDH - Comissão de Direitos Humanos e Legislação Participativa
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Paulo Paim por deliberação da matéria.
-À SLSF para prosseguimento da tramitação.
-Ação:
+    Ação: Não disponível
     Data: 04/12/2024
     Órgão: CDH - Comissão de Direitos Humanos e Legislação Participativa
     Situação: APROVADO PARECER NA COMISSÃO
@@ -117,7 +131,7 @@ Documentos:
     Descrição/ementa: Institui a Política Nacional de Cuidados.
     Documento: Avulso inicial da matéria
     Data: 19/11/2024
-    Autor: pg
+    Autor: Atividade Legislativa
     Local: Plenário do Senado Federal
     Ação legislativa: Autuado o Projeto de Lei nº 5791/2019, proveniente da Câmara dos Deputados. O projeto vai à publicação.
     Descrição/ementa: -
@@ -153,9 +167,7 @@ Política Nacional de Cuidados.
     Local: Plenário do Senado Federal
     Ação legislativa: Recebido o Relatório do Senador Paulo Paim.
     Descrição/ementa: Parecer sobre o Projeto de Lei nº 5.791, de 2019, da Deputada Leandre, que institui a Política Nacional de Cuidados
-    Documento: pg
-4
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 5791, de 2019
 DOCUMENTOS
 P.S 202/2024 - PLEN

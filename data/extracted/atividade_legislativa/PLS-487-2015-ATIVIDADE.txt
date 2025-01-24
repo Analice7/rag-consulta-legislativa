@@ -3,11 +3,30 @@ Autoria: Senador Romário (PSB/RJ)
 Ementa: Regula o exercício profissional de Geofísico e confere ao Conselho Federal de Engenharia e Agronomia a atribuição de
 determinar a competência profissional dos geofísicos, dos físicos, dos geólogos e dos engenheiros-geólogos.
 Explicação da ementa: Regula o exercício profissional de Geofísico e confere ao Conselho Federal de Engenharia e
+Agronomia a atribuição de determinar a competência profissional dos geofísicos, dos físicos,
+dos geólogos e dos engenheiros-geólogos.
 Assunto: Política Social  - Trabalho e Emprego
 Despacho: 16/07/2015 (Despacho inicial)
 null
 Análise - Tramitação sucessiva
 (SF-CAS) Comissão de Assuntos Sociais
+TRAMITAÇÃO
+11/12/2024
+PLEN - Plenário do Senado Federal
+Encaminhado à publicação o Ofício da Câmara dos Deputados nº 526, de 2024, na origem, que comunica o envio à sanção do
+Projeto de Lei do Senado nº 487, de 2015.
+A matéria vai à Secretaria de Expediente.
+Ação:
+21/11/2018
+SF-SEXPE - Secretaria de Expediente
+À COARQ
+Ação:
+19/05/2017
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À CÂMARA DOS DEPUTADOS
+Situação:
+Remetido Ofício SF n.º 424, de 19/05/17, ao Primeiro-Secretário da Câmara dos Deputados, encaminhando autógrafos do
+Ação:
 Relatoria: CAS - (Comissão de Assuntos Sociais)
 Relator(es):
 Senador Marcelo Crivella (encerrado em 06/06/2016 - Alteração
@@ -23,15 +42,11 @@ Tramitação:
     Data: 11/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício da Câmara dos Deputados nº 526, de 2024, na origem, que comunica o envio à sanção do
-Projeto de Lei do Senado nº 487, de 2015.
-A matéria vai à Secretaria de Expediente.
-Ação:
+    Ação: Não disponível
     Data: 21/11/2018
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: À COARQ
-Ação:
+    Ação: Não disponível
     Data: 19/05/2017
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: REMETIDA À CÂMARA DOS DEPUTADOS
@@ -39,33 +54,23 @@ Ação:
     Data: 18/05/2017
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado (fls. 56 e 57).
-Ação:
-Publicado no DSF Páginas 89-90
-Publicado no DSF Páginas 86
+    Ação: Não disponível
     Data: 18/05/2017
     Órgão: SF-SEADI - Secretaria de Atas e Diários
     Situação: Não disponível
-    Ação: A Presidência envia à publicação o texto final do presente projeto.
-À Câmara dos Deputados.
-Ação:
-Publicado no DSF Páginas 86
-Publicado no DSF Páginas 89-90
+    Ação: Não disponível
     Data: 17/05/2017
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado ao Plenário.
-Ação:
+    Ação: Não disponível
     Data: 17/05/2017
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Juntado texto final revisado (fls. 53 e 54).
-Ação:
+    Ação: Não disponível
     Data: 08/05/2017
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: À Corele.
-Ação:
+    Ação: Não disponível
     Data: 08/05/2017
     Órgão: SF-SEADI - Secretaria de Atas e Diários
     Situação: APROVADA
@@ -75,29 +80,19 @@ da redação final
     Data: 08/05/2017
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado ao Plenário para comunicação do término do prazo para interposição de recurso.
-Ação:
+    Ação: Não disponível
     Data: 08/05/2017
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: À SLSF.
-Ação:
+    Ação: Não disponível
     Data: 04/05/2017
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: À Corele.
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei do Senado n° 487, de 2015
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 27/04/2017
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Interposição de recurso (Art. 91, §§ 3º ao 5º, do RISF)
-De 28/04/2017 a 05/05/2017
-Ação:
+    Ação: Não disponível
     Data: 26/04/2017
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
@@ -114,8 +109,7 @@ seja apreciado pelo Plenário, nos termos do  art. 91, §§ 3º a 5º, do RISF.
     Data: 26/04/2017
     Órgão: CAS - Comissão de Assuntos Sociais
     Situação: Não disponível
-    Ação: À SLSF, para prosseguimento da tramitação.
-Ação:
+    Ação: Não disponível
     Data: 26/04/2017
     Órgão: CAS - Comissão de Assuntos Sociais
     Situação: APRECIADA EM DECISÃO TERMINATIVA PELAS COMISSÕES
@@ -131,14 +125,10 @@ Plenário e publicação no Diário do Senado Federal, conforme art. 91, § 2º,
     Data: 19/04/2017
     Órgão: CAS - Comissão de Assuntos Sociais
     Situação: Não disponível
-    Ação: Juntei o Ofício 0980 do Conselho Federal e Engenharia e Agronomia - CONFEA, com manifestação sobre o PLS 487/2015, em
-atendimento ao art. 261, § 2º, II, do Regimento Interno do Senado Federal. (fls. 29 a 36 )
-Ação:
+    Ação: Não disponível
     Data: 19/04/2017
     Órgão: CAS - Comissão de Assuntos Sociais
-    Situação: pg
-3
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei do Senado n° 487, de 2015
 TRAMITAÇÃO
 PRONTA PARA A PAUTA NA COMISSÃO
@@ -178,9 +168,7 @@ Solicitação constante do Ofício nº 65/2015-GSPP. (art. 6º, p. único, da In
     Ação: Matéria constante da Pauta da 26ª Reunião da Comissão de Assuntos Sociais, agendada para o dia 10/08/2016.
     Data: 01/08/2016
     Órgão: CAS - Comissão de Assuntos Sociais
-    Situação: pg
-4
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei do Senado n° 487, de 2015
 TRAMITAÇÃO
 PRONTA PARA A PAUTA NA COMISSÃO
@@ -219,21 +207,11 @@ Matéria aguardando designação de Relatoria.
     Data: 20/07/2015
     Órgão: CAS - Comissão de Assuntos Sociais
     Situação: Não disponível
-    Ação: Prazo para apresentação de emendas:
-Primeiro dia: 20/07/2015.
-Último dia: 24/07/2015.
-Ação:
+    Ação: Não disponível
     Data: 16/07/2015
     Órgão: CAS - Comissão de Assuntos Sociais
     Situação: Não disponível
-    Ação: pg
-5
-Atividade Legislativa
-Projeto de Lei do Senado n° 487, de 2015
-TRAMITAÇÃO
-Recebido nesta data, na Secretaria da Comissão de Assuntos Sociais.
-Matéria aguardando abertura de prazo para apresentação de emendas (art. 122, II – RISF).
-Ação:
+    Ação: Não disponível
     Data: 16/07/2015
     Órgão: SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -243,8 +221,7 @@ publicado e distribuído em avulsos.
     Data: 16/07/2015
     Órgão: SF-PLEG - PROTOCOLO LEGISLATIVO
     Situação: Não disponível
-    Ação: Este processo contém 04  ( quatro )  folhas numeradas e rubricadas.
-Ação:
+    Ação: Não disponível
 Documentos: 
     Documento: Texto inicial - PLS 487/2015
     Data: 16/07/2015
@@ -269,17 +246,13 @@ Documentos:
     Autor: Senador Paulo Paim (PT/RS)
     Local: Comissão de Assuntos Sociais
     Ação legislativa: Recebido o Relatório do Senador Paulo Paim, com voto pela aprovação do Projeto de Lei do Senado nº 487, de 2015 e das 2
-    Descrição/ementa: pg
-6
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei do Senado n° 487, de 2015
 DOCUMENTOS
 (duas) Emendas que apresenta. (fls. 14 a 20)
 Matéria pronta para a Pauta na Comissão.
 Relatório Legislativo
-    Documento: pg
-6
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Senado n° 487, de 2015
 DOCUMENTOS
 (duas) Emendas que apresenta. (fls. 14 a 20)
@@ -320,9 +293,7 @@ determinar a competência profissional dos geofísicos, dos físicos, dos geólo
     Autor: Senado Federal
     Local: Plenário do Senado Federal
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-7
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei do Senado n° 487, de 2015
 DOCUMENTOS
 Ementa:

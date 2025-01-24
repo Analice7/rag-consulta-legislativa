@@ -7,6 +7,31 @@ Despacho: 07/02/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CE) Comissão de Educação e Cultura
+TRAMITAÇÃO
+24/10/2024
+SF-SEXPE - Secretaria de Expediente
+Remetido Ofício SF nº 1199, de 24/10/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
+devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.296, de 2024, na origem,
+restituindo autógrafos do Projeto de Lei n° 6.204, de 2023, sancionado e transformado na Lei nº 15.000, de 15 de outubro de
+2024.
+À COARQ.
+Ação:
+23/10/2024
+PLEN - Plenário do Senado Federal
+Encaminha à publicação a Mensagem da Presidência da República nº 1.296, de 2024, na origem, que restitui autógrafo do
+Projeto de Lei nº 6.204, de 2023, sancionado e convertido na Lei nº 15.000, de 15 de outubro de 2024.
+Será feita a devida comunicação à Câmara dos Deputados.
+Ação:
+Publicado no DSF Páginas 40 - DSF nº 183
+16/10/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15000 DE 2024.
+DOU (Diário Oficial da União) - 16/10/2024 - Seção I - págs. 2 e 2.
+Sancionada em 15/10/2024.
+Ação:
 Relatoria: CE - (Comissão de Educação e Cultura)
 Relator(es):
 Senador Izalci Lucas (encerrado em 17/09/2024 - Deliberação
@@ -21,20 +46,11 @@ Tramitação:
     Data: 24/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Remetido Ofício SF nº 1199, de 24/10/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
-devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.296, de 2024, na origem,
-restituindo autógrafos do Projeto de Lei n° 6.204, de 2023, sancionado e transformado na Lei nº 15.000, de 15 de outubro de
-2024.
-À COARQ.
-Ação:
+    Ação: Não disponível
     Data: 23/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminha à publicação a Mensagem da Presidência da República nº 1.296, de 2024, na origem, que restitui autógrafo do
-Projeto de Lei nº 6.204, de 2023, sancionado e convertido na Lei nº 15.000, de 15 de outubro de 2024.
-Será feita a devida comunicação à Câmara dos Deputados.
-Ação:
-Publicado no DSF Páginas 40 - DSF nº 183
+    Ação: Não disponível
     Data: 16/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: TRANSFORMADA EM NORMA JURÍDICA
@@ -53,8 +69,7 @@ foi encaminhado à sanção presidencial.
     Data: 26/09/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 26/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -65,15 +80,11 @@ Será feita a devida comunicação à Câmara dos Deputados.
     Data: 26/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Anexado o texto final revisado.
-Ação:
+    Ação: Não disponível
     Data: 17/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 19/09/2024 a 25/09/2024.
-Perante a Mesa.
-Ação:
-Publicado no DSF Páginas 186 - DSF nº 157
+    Ação: Não disponível
     Data: 17/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
@@ -84,8 +95,7 @@ membros da Casa, para que seja apreciada pelo Plenário, nos termos do art. 91, 
     Data: 17/09/2024
     Órgão: CE - Comissão de Educação e Cultura
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Izalci Lucas por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 17/09/2024
     Órgão: CE - Comissão de Educação e Cultura
     Situação: APRECIADA EM DECISÃO TERMINATIVA PELAS COMISSÕES
@@ -110,9 +120,7 @@ Matéria aguardando distribuição.
     Data: 07/02/2024
     Órgão: CE - Comissão de Educação e Cultura
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 09/02/2024 a 20/02/2024.
-Perante a CE.
-Ação:
+    Ação: Não disponível
     Data: 07/02/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -163,7 +171,7 @@ Patrono da Escola Pública Brasileira.
     Documento: Ofício
     Data: 17/09/2024
     Autor: Presidente de Comissão
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Não disponível
     Descrição/ementa: Comunicação de deliberação de matéria.
     Documento: P.S 105/2024 - CE
@@ -197,9 +205,7 @@ Patrono da Escola Pública Brasileira.
     Autor: Primeiro-Secretário do Senado Federal
     Local: Comissão Diretora do Senado Federal
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-5
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 6204, de 2023
 DOCUMENTOS
 presidencial autógrafo do Projeto.
@@ -236,9 +242,7 @@ Comunica à Câmara dos Deputados o encaminhamento à Presidência da República
     Local: Plenário do Senado Federal
     Ação legislativa: Não disponível
     Descrição/ementa: Autógrafo restituído pela Presidência da República ao Senado Federal após sanção.
-    Documento: pg
-6
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 6204, de 2023
 DOCUMENTOS
 OFSF 1199/2024

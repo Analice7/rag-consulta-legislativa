@@ -9,6 +9,26 @@ Despacho: 08/10/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CAE) Comissão de Assuntos Econômicos
+TRAMITAÇÃO
+28/11/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15034 DE 2024. (vetada parcialmente: vide MSG 1526 de 2024).
+DOU (Diário Oficial da União) - 28/11/2024 - Seção I - págs. 1 e 2.
+Sancionada em 27/11/2024.
+Ação:
+05/11/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício SF n.º 1260, de 05/11/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+encaminhando a Mensagem SF n.º 229/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
+presidencial autógrafo do Projeto.
+Remetido Ofício SF n.º 1261, de 05/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
+foi encaminhado à sanção presidencial.
+Ação:
 Relatoria: CAE - (Comissão de Assuntos Econômicos)
 Relator(es):
 Senadora Teresa Leitão (encerrado em 29/10/2024 -
@@ -38,8 +58,7 @@ foi encaminhado à sanção presidencial.
     Data: 01/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 30/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -62,14 +81,11 @@ Discussão, em turno único.
     Data: 29/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Aguardando inclusão em Ordem do Dia.
-Discussão, em turno único.
-Ação:
+    Ação: Não disponível
     Data: 29/10/2024
     Órgão: CAE - Comissão de Assuntos Econômicos
     Situação: Não disponível
-    Ação: Encerrada a relatoria da Senadora Teresa Leitão por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 29/10/2024
     Órgão: CAE - Comissão de Assuntos Econômicos
     Situação: APROVADO PARECER NA COMISSÃO
@@ -98,25 +114,19 @@ Matéria aguardando distribuição.
     Data: 17/10/2024
     Órgão: CAE - Comissão de Assuntos Econômicos
     Situação: Não disponível
-    Ação: Em 16/10/2024, foram apresentadas as Emendas nºs 1-U a 4-U, de autoria do senador Mecias de Jesus.
-Ação:
+    Ação: Não disponível
     Data: 09/10/2024
     Órgão: CAE - Comissão de Assuntos Econômicos
     Situação: Não disponível
-    Ação: Matéria em prazo de recebimento de emendas (Art. 122, II, "b", do RISF).
-Ação:
+    Ação: Não disponível
     Data: 08/10/2024
     Órgão: CAE - Comissão de Assuntos Econômicos
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto de iniciativa do Presidente da República com tramitação urgente (Art. 122, II, "b",
-combinado com o art. 375, I, do RISF; e art. 64, § 1º da CF). De 10/10/2024 a 16/10/2024. Perante a CAE.
-Ação:
+    Ação: Não disponível
     Data: 08/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Apreciação de Projeto de Lei de iniciativa do Presidente da República em rito ordinário (início do regime de urgência) (Art.
-375 do RISF combinado com o art. 64, § 1º da CF). De 10/10/2024 a 23/11/2024.
-Ação:
+    Ação: Não disponível
     Data: 08/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -158,9 +168,7 @@ Documentos:
     Local: Comissão de Assuntos Econômicos
     Ação legislativa: Em 16/10/2024, foram apresentadas as Emendas nºs 1-U a 4-U, de autoria do senador Mecias de Jesus.
     Descrição/ementa: Emenda 2 ao PL 2750/2024
-    Documento: pg
-4
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 2750, de 2024
 DOCUMENTOS
 EMENDA 3-U - PL 2750/2024
@@ -199,9 +207,7 @@ da Agricultura Familiar (Pronaf); e dá outras providências.
     Local: Comissão de Assuntos Econômicos
     Ação legislativa: Não disponível
     Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 62ª Reunião CAE
-    Documento: pg
-5
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 2750, de 2024
 DOCUMENTOS
 P.S 179/2024 - PLEN
@@ -235,9 +241,7 @@ P.S 179/2024 - PLEN
     Ação legislativa: Não disponível
     Descrição/ementa: Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
 2750, de 2024.
-    Documento: pg
-6
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 2750, de 2024
 DOCUMENTOS
 Autógrafo - PL 2750/2024

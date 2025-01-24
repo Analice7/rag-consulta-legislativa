@@ -12,6 +12,21 @@ Análise - Tramitação sucessiva, Instrução da matéria
 Leitura da Matéria
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CE) Comissão de Educação e Cultura
+TRAMITAÇÃO
+30/10/2024
+SF-SEXPE - Secretaria de Expediente
+Remetido Ofício SF nº 1246, de 30/10/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
+devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1305, de 2024, na origem,
+restituindo autógrafos do Projeto de Lei n° 5.021, de 2019, sancionado e transformado na Lei nº 15.005, de 17 de outubro de
+2024.
+À COARQ.
+Ação:
+29/10/2024
+PLEN - Plenário do Senado Federal
+Encaminhada à publicação em 23 de outubro de 2024 a Mensagem da Presidência da República nº 1.305, de 2024, na origem,
+que restitui autógrafo do Projeto de Lei nº 5.021, de 2019, sancionado e convertido na Lei nº 15.005, de 17 de outubro de 2024.
+Será feita a devida comunicação à Câmara dos Deputados.
+Ação:
 Relatoria: CE - (Comissão de Educação e Cultura)
 Relator(es):
 Senador Eduardo Gomes (encerrado em 09/08/2021 -
@@ -26,25 +41,11 @@ Tramitação:
     Data: 30/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Remetido Ofício SF nº 1246, de 30/10/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
-devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1305, de 2024, na origem,
-restituindo autógrafos do Projeto de Lei n° 5.021, de 2019, sancionado e transformado na Lei nº 15.005, de 17 de outubro de
-2024.
-À COARQ.
-Ação:
+    Ação: Não disponível
     Data: 29/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhada à publicação em 23 de outubro de 2024 a Mensagem da Presidência da República nº 1.305, de 2024, na origem,
-que restitui autógrafo do Projeto de Lei nº 5.021, de 2019, sancionado e convertido na Lei nº 15.005, de 17 de outubro de 2024.
-Será feita a devida comunicação à Câmara dos Deputados.
-Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 5021, de 2019
-TRAMITAÇÃO
-Publicado no DSF Páginas 48 - DSF nº 183
+    Ação: Não disponível
     Data: 18/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: TRANSFORMADA EM NORMA JURÍDICA
@@ -63,8 +64,7 @@ foi encaminhado à sanção presidencial.
     Data: 01/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 18/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -81,19 +81,11 @@ Discussão, em turno único.
     Data: 21/12/2022
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: A proposição continua a tramitar, nos termos do art. 332 do Regimento Interno.
-Ação:
+    Ação: Não disponível
     Data: 21/03/2022
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Aguardando inclusão em Ordem do Dia.
-Discussão, em turno único.
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei n° 5021, de 2019
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 19/08/2021
     Órgão: PLEN - Plenário do Senado Federal
     Situação: PRONTO PARA DELIBERAÇÃO DO PLENÁRIO
@@ -103,9 +95,7 @@ A matéria será incluída em Ordem do Dia oportunamente.
     Data: 10/08/2021
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, "d", do RISF). De 12/08/2021
-a 18/08/2021. Perante a Mesa.
-Ação:
+    Ação: Não disponível
     Data: 10/08/2021
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA
@@ -114,8 +104,7 @@ II, "d", do Regimento Interno.
     Data: 09/08/2021
     Órgão: CE - Comissão de Educação e Cultura
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Eduardo Gomes por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 09/08/2021
     Órgão: CE - Comissão de Educação e Cultura
     Situação: APROVADO PARECER NA COMISSÃO
@@ -134,9 +123,7 @@ Ação:
     Ação: Distribuído ao Senador Eduardo Gomes, para emitir relatório.
     Data: 12/09/2019
     Órgão: CE - Comissão de Educação e Cultura
-    Situação: pg
-3
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei n° 5021, de 2019
 TRAMITAÇÃO
 AGUARDANDO DESIGNAÇÃO DO RELATOR
@@ -175,9 +162,7 @@ Documentos:
     Autor: Comissão de Educação e Cultura
     Local: Comissão de Educação e Cultura
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-4
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 5021, de 2019
 DOCUMENTOS
 Listagem ou relatório descritivo-Lista de Presença da reunião da 5ª Reunião CE

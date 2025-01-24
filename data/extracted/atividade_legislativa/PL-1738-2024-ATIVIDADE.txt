@@ -8,6 +8,30 @@ Despacho: 22/05/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CI) Comissão de Serviços de Infraestrutura
+TRAMITAÇÃO
+03/01/2025
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15084 DE 2025.
+DOU (Diário Oficial da União) - 03/01/2025 - Seção I - págs. 1 e 1.
+Sancionada em 02/01/2025.
+Ação:
+19/12/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício SF n.º 1452, de 19/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+encaminhando a Mensagem SF n.º 284/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
+presidencial autógrafo do Projeto.
+Remetido Ofício SF n.º 1453, de 19/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
+foi encaminhado à sanção presidencial.
+Ação:
+12/12/2024
+SF-SEXPE - Secretaria de Expediente
+Anexado o texto revisado.
+Ação:
 Relatoria: CI - (Comissão de Serviços de Infraestrutura)
 Relator(es):
 Senador Jorge Seif (encerrado em 03/12/2024 - Substituído por
@@ -39,13 +63,7 @@ foi encaminhado à sanção presidencial.
     Data: 12/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 1738, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 12/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -56,14 +74,11 @@ Será feita a devida comunicação à Câmara dos Deputados.
     Data: 12/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Anexado o texto final revisado.
-Ação:
+    Ação: Não disponível
     Data: 03/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 05/12/2024 a 11/12/2024.
-Perante a Mesa.
-Ação:
+    Ação: Não disponível
     Data: 03/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
@@ -74,13 +89,7 @@ Regimento Interno.
     Data: 03/12/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Reunida a Comissão nessa data, e tendo sido designada relatora ad hoc a Senadora Tereza Cristina, em substituição ao Senador
-Jorge Seif, é aprovado terminativamente o projeto, com a emenda nº 1/CI.
-Juntado o parecer da Comissão, o texto final e o ofício que comunica ao Plenário a aprovação terminativa da matéria.
-À SLSF.
-Ação:
-Publicado no DSF Páginas 305 - DSF nº 207
-Publicado no DSF Páginas 295-303 - DSF nº 207
+    Ação: Não disponível
     Data: 02/12/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: INCLUÍDA NA PAUTA DA REUNIÃO
@@ -116,15 +125,11 @@ Publicado no DSF Páginas 295-303 - DSF nº 207
     Data: 23/05/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Recebido na Comissão nessa data.
-Prazo para a apresentação de emendas a projeto terminativo em Comissão (art. 122, II, c, do RISF): de 24/05/2024 a 03/06/2024.
-Ação:
+    Ação: Não disponível
     Data: 22/05/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 24/05/2024 a 31/05/2024.
-Perante a CI.
-Ação:
+    Ação: Não disponível
     Data: 22/05/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -170,9 +175,7 @@ Capitão Leônidas Marques, no Estado do Paraná.
     Descrição/ementa: Da COMISSÃO DE SERVIÇOS DE INFRAESTRUTURA, sobre o Projeto de Lei n° 1738, de 2024, que Denomina Rodovia Pedro
 Gurgacz o trecho da rodovia BR-163 entre o Município de Cascavel, no entroncamento com a rodovia BR-277, e o Município de
 Capitão Leônidas Marques, no Estado do Paraná.
-    Documento: pg
-4
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 1738, de 2024
 DOCUMENTOS
 Listagem ou relatório

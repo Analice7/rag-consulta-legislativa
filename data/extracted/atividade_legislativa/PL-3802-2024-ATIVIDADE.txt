@@ -9,6 +9,25 @@ Despacho: 19/12/2024
 Leitura da Matéria
 Ao Plenário
 (SF-PLEN) Plenário do Senado Federal
+TRAMITAÇÃO
+30/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15078 DE 2024.
+DOU (Diário Oficial da União) - 30/12/2024 - Seção I - págs. 1 e 1.
+Sancionada em 27/12/2024.
+Ação:
+26/12/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício SF n.º 1600, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+encaminhando a Mensagem SF n.º 317/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
+presidencial autógrafo do Projeto.
+Remetido Ofício SF n.º 1601, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
+Ação:
 Relatoria: PLEN - (Plenário do Senado Federal)
 Relator(es):
 Senador Eduardo Braga (encerrado em 20/12/2024 -
@@ -39,8 +58,7 @@ Remetido Ofício SF n.º 1601, de 26/12/24, ao Senhor Primeiro-Secretário da C�
     Data: 20/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 20/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -61,34 +79,27 @@ Será feita a devida comunicação à Câmara dos Deputados.
     Data: 20/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento nº 1005, de 2024, do Senador Hamilton Mourão, solicitando a retirada definitiva da Emenda n° 1.
-Ação:
+    Ação: Não disponível
     Data: 20/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 1, do Senador Hamilton Mourão.
-Ação:
+    Ação: Não disponível
     Data: 20/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento nº 986, de 2024, de Líderes, solicitando urgência para a matéria.
-Ação:
+    Ação: Não disponível
     Data: 19/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Relatório do Senador Eduardo Braga.
-Ação:
+    Ação: Não disponível
     Data: 19/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Designado Relator de Plenário o Senador Eduardo Braga.
-Ação:
+    Ação: Não disponível
     Data: 19/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO DESPACHO
-    Ação: pg
-2
-Atividade Legislativa
+    Ação: Atividade Legislativa
 Projeto de Lei n° 3802, de 2024
 TRAMITAÇÃO
 Autuado o Projeto de Lei nº 3802/2024, proveniente da Câmara dos Deputados. O projeto vai à publicação.
@@ -128,9 +139,7 @@ Central do Brasil."
     Ação legislativa: Recebido o Requerimento nº 986, de 2024, de Líderes, solicitando urgência para a matéria.
     Descrição/ementa: Requer urgência para o Projeto de Lei nº 3802/2024, nos termos dos arts. 336, III, e 338, III, do Regimento Interno do Senado
 Federal.
-    Documento: pg
-3
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 3802, de 2024
 DOCUMENTOS
 EMENDA 1 PLEN - PL
@@ -166,7 +175,7 @@ EMENDA 1 PLEN - PL
     Documento: OFSF 1600/2024
     Data: 26/12/2024
     Autor: Primeiro-Secretário do Senado Federal
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Não disponível
     Descrição/ementa: Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
 3802/2024.
@@ -195,9 +204,7 @@ recebimento de créditos decorrentes das atividades de instituições autorizada
     Local: Comissão Diretora do Senado Federal
     Ação legislativa: Não disponível
     Descrição/ementa: Recibo físico da Presidência da República referente à Mensagem SF n° 317/24 (assinada eletronicamente e impressa para
-    Documento: pg
-5
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 3802, de 2024
 DOCUMENTOS
 recibo).

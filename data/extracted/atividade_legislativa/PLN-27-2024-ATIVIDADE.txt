@@ -3,12 +3,33 @@ Autoria: Presidência da República
 Ementa: Abre ao Orçamento de Investimento da União, em favor da Companhia Docas do Rio Grande do Norte, crédito
 suplementar no valor de R$ 16.089.714,00, para reforço de dotações constantes da Lei Orçamentária vigente.
 Explicação da ementa: O projeto visa reforço de dotações orçamentárias, no âmbito da Companhia Docas do Rio
+Grande do Norte - Codern, para possibilitar aquisição de equipamentos e realização de
+construções exigidas pela Receita Federal para melhorias na segurança portuária com a
+implantação do Plano de Segurança Pública Portuária - PSPP (ISPS - CODE).
 Assunto: Orçamento Público  - Crédito Adicional
 Despacho: 25/11/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (CN-CMO) Comissão Mista de Planos, Orçamentos Públicos e
 Fiscalização
+TRAMITAÇÃO
+23/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15059 DE 2024.
+DOUE (Diário Oficial da União - Edição Extra) - 23/12/2024 - Seção I - págs. 12 e 14.
+Sancionada em 23/12/2024.
+Ação:
+19/12/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício CN nº 374, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a
+Mensagem CN nº 127/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do
+Projeto.
+Ação:
 Relatoria: CMO - (Comissão Mista de Planos, Orçamentos Públicos e Fiscalização)
 Relator(es):
 Senadora Zenaide Maia (encerrado em 17/12/2024 -
@@ -36,8 +57,7 @@ Projeto.
     Data: 18/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Congresso Nacional
     Situação: APROVADA
@@ -54,8 +74,7 @@ Aprovado o Projeto, na Câmara dos Deputados e no Senado Federal.
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Encerrada a relatoria da Senadora Zenaide Maia por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: APROVADO PARECER NA COMISSÃO
@@ -77,9 +96,7 @@ Poder Executivo. Ao Projeto não foram apresentadas emendas.
     Ação: Encerrado o prazo regimental, ao Projeto, não foram apresentadas emendas.
     Data: 25/11/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-    Situação: pg
-2
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 27, de 2024
 TRAMITAÇÃO
 AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -91,24 +108,11 @@ AGUARDANDO RECEBIMENTO DE EMENDAS
     Data: 25/11/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: A matéria será publicada no Diário do Congresso Nacional.
-Calendário de tramitação de projetos de lei de créditos adicionais - PLN 27/2024 (Art. 112, da Res. 1/2006-CN):
-- Data do despacho: 25/11/2024
-- Publicação em avulso eletrônico: de 25/11/2024 a 25/11/2024
-- Apresentação de emendas: de 25/11/2024 (15h) a 26/11/2024 (12h)
-- Publicação em avulso eletrônico das emendas: de 26/11/2024 (12h) a 26/11/2024 (14h)
-- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 26/11/2024 (14h) a
-28/11/2024 (14h)
-A matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.
-* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.
-Ação:
-Publicado no DCN Páginas 37 - DCN nº 44
+    Ação: Não disponível
     Data: 19/09/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Recebida, em 19/09/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado
-Federal.
-Ação:
+    Ação: Não disponível
     Data: 11/09/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: AGUARDANDO DESPACHO
@@ -121,9 +125,7 @@ Documentos:
     Local: Mesa Diretora do Congresso Nacional
     Ação legislativa: Não disponível
     Descrição/ementa: Não disponível
-    Documento: pg
-3
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 27, de 2024
 DOCUMENTOS
 Avulso inicial da matéria
@@ -157,9 +159,7 @@ constantes da Lei Orçamentária vigente”.
     Autor: Senadora Zenaide Maia (PSD/RN)
     Local: Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-4
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 27, de 2024
 DOCUMENTOS
 Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre o Projeto de Lei do Congresso Nacional n° 27,
@@ -202,7 +202,7 @@ Projeto de Lei do Congresso Nacional n° 27, de 2024.
     Documento: Autógrafo - PLN 27/2024
     Data: 19/12/2024
     Autor: Senado Federal
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Não disponível
     Descrição/ementa: Abre ao Orçamento de Investimento da União, em favor da Companhia Docas do Rio Grande do Norte, crédito suplementar no
 valor de R$ 16.089.714,00, para reforço de dotações constantes da Lei Orçamentária vigente.

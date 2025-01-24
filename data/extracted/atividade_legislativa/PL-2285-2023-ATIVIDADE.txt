@@ -7,6 +7,32 @@ Despacho: 17/10/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CE) Comissão de Educação e Cultura
+TRAMITAÇÃO
+06/01/2025
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15086 DE 2025.
+DOU (Diário Oficial da União) - 06/01/2025 - Seção I - págs. 1 e 1.
+Sancionada em 03/01/2025.
+Ação:
+20/12/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício SF n.º 1550, de 20/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+encaminhando a Mensagem SF n.º 299/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
+presidencial autógrafo do Projeto.
+Remetido Ofício SF n.º 1551, de 20/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
+foi encaminhado à sanção presidencial.
+Ação:
+19/12/2024
+SF-SEXPE - Secretaria de Expediente
+Anexado o texto revisado.
+Ação:
+19/12/2024
+PLEN - Plenário do Senado Federal
 Relatoria: CE - (Comissão de Educação e Cultura)
 Relator(es):
 Senador Cid Gomes (encerrado em 10/12/2024 - Deliberação da
@@ -36,13 +62,10 @@ foi encaminhado à sanção presidencial.
     Data: 19/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 19/12/2024
     Órgão: PLEN - Plenário do Senado Federal
-    Situação: pg
-1
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei n° 2285, de 2023
 TRAMITAÇÃO
 APROVADA
@@ -53,9 +76,7 @@ Será feita a devida comunicação à Câmara dos Deputados.
     Data: 10/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 12/12/2024 a 18/12/2024.
-Perante a Mesa.
-Ação:
+    Ação: Não disponível
     Data: 10/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
@@ -66,8 +87,7 @@ membros da Casa, para que seja apreciada pelo Plenário, nos termos do art. 91, 
     Data: 10/12/2024
     Órgão: CE - Comissão de Educação e Cultura
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Cid Gomes por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 10/12/2024
     Órgão: CE - Comissão de Educação e Cultura
     Situação: APRECIADA EM DECISÃO TERMINATIVA PELAS COMISSÕES
@@ -90,9 +110,7 @@ Matéria aguardando distribuição.
     Data: 17/10/2024
     Órgão: CE - Comissão de Educação e Cultura
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 21/10/2024 a 25/10/2024.
-Perante a CE.
-Ação:
+    Ação: Não disponível
     Data: 17/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -124,8 +142,7 @@ Documentos:
     Descrição/ementa: Da COMISSÃO DE EDUCAÇÃO E CULTURA, sobre o Projeto de Lei n° 2285, de 2023, que Inscreve o nome de Hipólita Jacinta
 Teixeira de Melo no Livro dos Heróis e Heroínas da Pátria.
     Documento: Listagem ou relatório
-pg
-3
+
 Atividade Legislativa
 Projeto de Lei n° 2285, de 2023
 DOCUMENTOS
@@ -165,9 +182,7 @@ Teixeira de Melo no Livro dos Heróis e Heroínas da Pátria.
     Local: Comissão Diretora do Senado Federal
     Ação legislativa: Não disponível
     Descrição/ementa: Encaminha à sanção o Projeto de Lei n° 2285, de 2023.
-    Documento: pg
-4
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 2285, de 2023
 DOCUMENTOS
 OFSF 1550/2024

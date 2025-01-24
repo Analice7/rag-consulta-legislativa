@@ -8,6 +8,30 @@ Despacho: 03/06/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CI) Comissão de Serviços de Infraestrutura
+TRAMITAÇÃO
+03/01/2025
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15085 DE 2025.
+DOU (Diário Oficial da União) - 03/01/2025 - Seção I - págs. 1 e 1.
+Sancionada em 02/01/2025.
+Ação:
+19/12/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício SF n.º 1450, de 19/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+encaminhando a Mensagem SF n.º 283/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
+presidencial autógrafo do Projeto.
+Remetido Ofício SF n.º 1451, de 19/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
+foi encaminhado à sanção presidencial.
+Ação:
+12/12/2024
+SF-SEXPE - Secretaria de Expediente
+Anexado o texto revisado.
+Ação:
 Relatoria: CI - (Comissão de Serviços de Infraestrutura)
 Relator(es):
 Senador Eduardo Braga (encerrado em 03/12/2024 -
@@ -39,13 +63,7 @@ foi encaminhado à sanção presidencial.
     Data: 12/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 3793, de 2021
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 12/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -56,9 +74,7 @@ Será feita a devida comunicação à Câmara dos Deputados.
     Data: 03/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 05/12/2024 a 11/12/2024.
-Perante a Mesa.
-Ação:
+    Ação: Não disponível
     Data: 03/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
@@ -69,13 +85,7 @@ membros da Casa, para que seja apreciada pelo Plenário, nos termos do art. 91, 
     Data: 03/12/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Reunida a Comissão nessa data, e tendo sido designada relatora ad hoc a Senadora Tereza Cristina, em substituição ao Senador
-Eduardo Braga, é lido o relatório e aprovado terminativamente o projeto.
-Juntados o parecer da CI e o ofício que comunica ao Plenário a aprovação terminativa da matéria.
-À SLSF.
-Ação:
-Publicado no DSF Páginas 294 - DSF nº 207
-Publicado no DSF Páginas 284-292 - DSF nº 207
+    Ação: Não disponível
     Data: 02/12/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: INCLUÍDA NA PAUTA DA REUNIÃO
@@ -95,16 +105,11 @@ Publicado no DSF Páginas 284-292 - DSF nº 207
     Data: 04/06/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Recebido na Comissão nessa data.
-Prazo para recebimento de emendas a projeto terminativo em comissão (artigo 122, II, "c", do RISF): primeiro dia - 05/06/2024;
-último dia - 11/06/2024.
-Ação:
+    Ação: Não disponível
     Data: 03/06/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 05/06/2024 a 11/06/2024.
-Perante a CI.
-Ação:
+    Ação: Não disponível
     Data: 03/06/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -167,14 +172,12 @@ Estado de São Paulo.
     Local: Secretaria de Expediente
     Ação legislativa: Anexado o texto revisado.
     Descrição/ementa: MPSF 283/2024
-pg
-4
+
 Atividade Legislativa
 Projeto de Lei n° 3793, de 2021
 DOCUMENTOS
     Documento: MPSF 283/2024
-pg
-4
+
 Atividade Legislativa
 Projeto de Lei n° 3793, de 2021
 DOCUMENTOS

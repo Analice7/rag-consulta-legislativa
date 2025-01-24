@@ -9,6 +9,26 @@ Despacho: 18/12/2024
 Decisão da Presidência
 Ao Plenário
 (SF-PLEN) Plenário do Senado Federal
+TRAMITAÇÃO
+27/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15076 DE 2024.
+DOU (Diário Oficial da União) - 27/12/2024 - Seção I - págs. 3 e 3.
+Sancionada em 26/12/2024.
+Ação:
+26/12/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício SF n.º 1596, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+encaminhando a Mensagem SF n.º 316/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
+presidencial autógrafo do Projeto.
+Remetido Ofício SF n.º 1597, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
+foi encaminhado à sanção presidencial.
+Ação:
 Relatoria: PLEN - (Plenário do Senado Federal)
 Relator(es):
 Senador Laércio Oliveira (encerrado em 19/12/2024 - Matéria
@@ -38,8 +58,7 @@ foi encaminhado à sanção presidencial.
     Data: 23/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 19/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -54,18 +73,15 @@ Será feita a devida comunicação à Câmara dos Deputados.
     Data: 19/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido novo Relatório do Senador Laércio Oliveira.
-Ação:
+    Ação: Não disponível
     Data: 19/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido novo Relatório do Senador Laércio Oliveira.
-Ação:
+    Ação: Não disponível
     Data: 19/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Relatório do Senador Laércio Oliveira.
-Ação:
+    Ação: Não disponível
     Data: 19/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: INCLUÍDA EM ORDEM DO DIA
@@ -75,25 +91,15 @@ Ordinária de 18/12/2024).
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: (186ª Sessão Deliberativa Ordinária – realizada em 18/12/2024)
-Aprovado o requerimento nº 966, de2024
-Será cumprida a deliberação do Plenário.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Designado Relator de Plenário o Senador Laércio Oliveira.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento nº 966, de 2024, de Líder, solicitando urgência para a matéria.
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei n° 6012, de 2023 (Substitutivo da Câmara dos Deputados)
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO DESPACHO
@@ -129,9 +135,7 @@ Interno do Senado Federal.
     Autor: Senador Eduardo Girão (NOVO/CE)
     Local: Plenário do Senado Federal
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-3
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 6012, de 2023 (Substitutivo da Câmara dos Deputados)
 DOCUMENTOS
 Declaração de voto contrário ao PL 6012/2023.
@@ -165,9 +169,7 @@ número do SEDOL SF/24811.18738-44
     Autor: Senador Laércio Oliveira (PP/SE)
     Local: Plenário do Senado Federal
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-4
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 6012, de 2023 (Substitutivo da Câmara dos Deputados)
 DOCUMENTOS
 Será feita a devida comunicação à Câmara dos Deputados.
@@ -200,7 +202,7 @@ Parecer nº 255, de 2024-PLEN/SF, Relator 'ad hoc': Senador Eduardo Braga
     Documento: Autógrafo - PL 6012/2023
     Data: 26/12/2024
     Autor: Senado Federal
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Não disponível
     Descrição/ementa: Altera as Leis nºs 13.999, de 18 de maio de 2020, e 12.087, de 11 de novembro de 2009, para assegurar que os recursos do
 Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe) sejam permanentes; e dá outras

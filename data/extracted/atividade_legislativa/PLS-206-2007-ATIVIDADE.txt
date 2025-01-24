@@ -14,10 +14,6 @@ Desarquivamento
 Análise - Tramitação sucessiva
 (SF-CAE) Comissão de Assuntos Econômicos
 (SF-CMA) Comissão de Meio Ambiente
-pg
-1
-Atividade Legislativa
-Projeto de Lei do Senado n° 206, de 2007
 Relatoria: CAE - (Comissão de Assuntos Econômicos)
 Relator(es):
 Senador Paulo Paim (encerrado em 31/05/2007 -
@@ -59,17 +55,11 @@ Sancionada em 09/12/2024.
     Data: 19/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício da Câmara dos Deputados nº 235, de 2024, na origem, que comunica o envio à sanção do
-Projeto de Lei do Senado nº 206, de 2007 (nº 10.493, de 2018, na Câmara dos Deputados).
-A matéria vai à Secretaria de Expediente.
-Ação:
-Publicado no DSF Páginas 98 - DSF nº 198
-Publicado no DSF Páginas 95 - DSF nº 198
+    Ação: Não disponível
     Data: 11/10/2018
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: À COARQ.
-Ação:
+    Ação: Não disponível
     Data: 26/06/2018
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: REMETIDA À CÂMARA DOS DEPUTADOS
@@ -78,8 +68,7 @@ do projeto para revisão, nos termos do art. 65 da Constituição Federal. (fls.
     Data: 26/06/2018
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado (fls.86 a 96 ).
-Ação:
+    Ação: Não disponível
     Data: 25/06/2018
     Órgão: SF-SEADI - Secretaria de Atas e Diários
     Situação: APROVADA
@@ -89,29 +78,19 @@ Tendo sido aprovado pela Comissão competente, o presente Projeto de Lei vai á 
     Data: 25/06/2018
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado ao Plenário para comunicação do término do prazo para interposição de recurso.
-Ação:
+    Ação: Não disponível
     Data: 21/06/2018
     Órgão: SF-CORELE - Coordenação de Redação Legislativa
     Situação: Não disponível
-    Ação: Juntado texto final revisado (fls. 75 a 84).
-Ação:
+    Ação: Não disponível
     Data: 15/06/2018
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: À Corele para revisão do texto final.
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei do Senado n° 206, de 2007
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 13/06/2018
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 15/06/2018 a 21/06/2018.
-Perante a Mesa.
-Ação:
+    Ação: Não disponível
     Data: 13/06/2018
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
@@ -122,9 +101,7 @@ Abertura de prazo para interposição de recurso no sentido da apreciação da m
     Data: 13/06/2018
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 15/06/2018 a 21/06/2018.
-Perante a/o Mesa.
-Ação:
+    Ação: Não disponível
     Data: 12/06/2018
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO LEITURA PARECER (ES)
@@ -149,14 +126,7 @@ A matéria será incluída na Pauta da próxima Reunião deliberativa desta Comi
     Data: 06/06/2018
     Órgão: CMA - Comissão de Meio Ambiente
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas perante as Comissões durante turno suplementar (Art. 282 combinado com o art. 92 do RISF).
-De 06/06/2018 a 13/06/2018. Perante a CMA.
-Ação:
-pg
-3
-Atividade Legislativa
-Projeto de Lei do Senado n° 206, de 2007
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 06/06/2018
     Órgão: SF-SEADI - Secretaria de Atas e Diários
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -167,19 +137,15 @@ termos do art.282, combinado com o art. 92 do Regimento Interno do Senado Federa
     Data: 06/06/2018
     Órgão: SF-SEADI - Secretaria de Atas e Diários
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas perante as Comissões durante turno suplementar (Art. 282 combinado com o art. 92 do RISF).
-A partir de 06/06/2018. Perante a/o CMA.
-Ação:
+    Ação: Não disponível
     Data: 06/06/2018
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado ao Plenário.
-Ação:
+    Ação: Não disponível
     Data: 06/06/2018
     Órgão: CMA - Comissão de Meio Ambiente
     Situação: Não disponível
-    Ação: À SLSF, para prosseguimento da tramitação.
-Ação:
+    Ação: Não disponível
     Data: 05/06/2018
     Órgão: CMA - Comissão de Meio Ambiente
     Situação: AGUARDANDO TURNO SUPLEMENTAR EM APRECIAÇÃO TERMINATIVA
@@ -210,10 +176,7 @@ Emenda nº 1-CAE (Substitutivo). (fls. 50 a 54)
     Data: 22/05/2018
     Órgão: CAE - Comissão de Assuntos Econômicos
     Situação: Não disponível
-    Ação: Incluída matéria extrapauta, em reunião realizada nesta data, a comissão aprova o relatório do senador Jorge Viana, que passa a
-constituir o parecer da CAE, favorável ao projeto com a Emenda nº 1-CAE (Substitutivo).
-Ação:
-Publicado no DSF Páginas 558-579 - DSF nº 71
+    Ação: Não disponível
     Data: 22/05/2018
     Órgão: CAE - Comissão de Assuntos Econômicos
     Situação: PRONTA PARA A PAUTA NA COMISSÃO
@@ -231,27 +194,18 @@ Matéria aguardando distribuição.
     Data: 12/03/2015
     Órgão: SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
     Situação: Não disponível
-    Ação: Aprovado o Requerimento nº 121, de 2015, de desarquivamento.
-O projeto retorna ao exame da CAE, seguindo posteriormente à CMA, em decisão terminativa.
-Ação:
-Publicado no DSF Páginas 183
+    Ação: Não disponível
     Data: 12/03/2015
     Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
     Situação: Não disponível
-    Ação: Encaminhado ao Plenário.
-Ação:
+    Ação: Não disponível
     Data: 04/03/2015
     Órgão: SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Requerimento nº 121, de 2015, do Senador Valdir Raupp e outros senadores, solicitando o
-desarquivamento da presente matéria.
-Ação:
-Publicado no DSF Páginas 23-24
+    Ação: Não disponível
     Data: 04/03/2015
     Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
-    Situação: pg
-5
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei do Senado n° 206, de 2007
 TRAMITAÇÃO
 DESARQUIVADA - RISF ART 332 § 1º
@@ -260,8 +214,7 @@ Raupp.
     Data: 04/03/2015
     Órgão: SF-SARQ - Secretaria de Arquivo
     Situação: Não disponível
-    Ação: Encaminhado a SSCLSF por solicitação.
-Ação:
+    Ação: Não disponível
     Data: 26/12/2014
     Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
     Situação: ARQUIVADA AO FINAL DA LEGISLATURA
@@ -269,16 +222,11 @@ Ação:
     Data: 17/12/2014
     Órgão: SF-CAE - Comissão de Assuntos Econômicos
     Situação: Não disponível
-    Ação: Devolvido pelo relator, por solicitação desta Secretaria.
-À SCLSF, em atendimento ao art. 332 do Regimento Interno.
-Ação:
+    Ação: Não disponível
     Data: 01/08/2014
     Órgão: SF-CAE - Comissão de Assuntos Econômicos
     Situação: Não disponível
-    Ação: A partir de 1º de agosto de 2014 os boletins de ação legislativa não mais serão impressos, nos termos da Instrução Normativa nº
-1, de 2014, do Secretário-Geral da Mesa. As consultas sobre a tramitação da matéria devem ser realizadas diretamente no
-sistema eletrônico próprio.
-Ação:
+    Ação: Não disponível
     Data: 21/05/2013
     Órgão: SF-CAE - Comissão de Assuntos Econômicos
     Situação: MATÉRIA COM A RELATORIA
@@ -367,27 +315,15 @@ Matéria aguardando designação de Relator.
     Data: 10/01/2011
     Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
     Situação: Não disponível
-    Ação: A presente proposição continua a tramitar, nos termos dos incisos do art. 332 do Regimento Interno e do Ato nº 4, de 2010, da
-Mesa do Senado Federal.
-A matéria volta à CAE.
-Ação:
-pg
-8
-Atividade Legislativa
-Projeto de Lei do Senado n° 206, de 2007
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 21/12/2010
     Órgão: SF-CAE - Comissão de Assuntos Econômicos
     Situação: Não disponível
-    Ação: À SCLSF, em cumprimento ao disposto no art. 332 do Regimento Interno do Senado Federal.
-Ação:
+    Ação: Não disponível
     Data: 14/11/2008
     Órgão: SF-CAE - Comissão de Assuntos Econômicos
     Situação: Não disponível
-    Ação: ** AÇÃO DE SANEAMENTO ** Nesta data foi realizada a verificação de dados nos sistemas informatizados, em atendimento aos
-objetivos definidos no Ato nº 24, de 2008, do Presidente do Senado Federal. Este registro não representa um novo andamento
-na tramitação desta matéria.
-Ação:
+    Ação: Não disponível
     Data: 13/07/2007
     Órgão: SF-CAE - Comissão de Assuntos Econômicos
     Situação: MATÉRIA COM A RELATORIA
@@ -412,23 +348,11 @@ Aguardando designação de Relator.
     Data: 24/04/2007
     Órgão: SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
     Situação: Não disponível
-    Ação: Leitura.
-Às Comissões de Assuntos Econômicos e de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle, podendo receber
-emendas perante a primeira Comissão pelo prazo de 5 (cinco) dias úteis, após sua publicação e distribuição em avulsos, cabendo
-à última, decisão terminativa.
-Ao Pleg., com destino a CAE e posteriormente à CMA, em decisão terminativa.
-Ação:
-Publicado no DSF Páginas 11354-11365
-pg
-9
-Atividade Legislativa
-Projeto de Lei do Senado n° 206, de 2007
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 24/04/2007
     Órgão: SF-PLEG - PROTOCOLO LEGISLATIVO
     Situação: Não disponível
-    Ação: Este processo contém 12 (doze)  folhas numeradas e rubricadas.
-Ação:
+    Ação: Não disponível
 Documentos: 
     Documento: Texto inicial - PLS 206/2007
     Data: 24/04/2007
@@ -503,9 +427,7 @@ Documentos:
     Ação legislativa: Não disponível
     Descrição/ementa: Exclui uma fração da área da Reserva Extrativista do Rio Ouro Preto, localizada nos Municípios de Guajará-Mirim e Vila Nova
 Mamoré, no Estado de Rondônia.
-    Documento: pg
-11
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Senado n° 206, de 2007
 DOCUMENTOS
 P.S 15/2018 - CMA - Relatório
@@ -543,6 +465,6 @@ Mamoré, no Estado de Rondônia.
     Documento: OFC 235/2024 - Câmara dos
     Data: 19/11/2024
     Autor: Deputado Federal Luciano Bivar (UNIÃO/PE)
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Não disponível
     Descrição/ementa: Comunica o envio à sanção do Projeto de Lei nº 10.493, de 2018 (PLS nº 206/2007).

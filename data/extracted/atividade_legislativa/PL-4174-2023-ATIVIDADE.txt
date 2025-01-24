@@ -6,6 +6,31 @@ Despacho: 04/09/2023
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CRA) Comissão de Agricultura e Reforma Agrária
+TRAMITAÇÃO
+07/03/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À CÂMARA DOS DEPUTADOS
+Situação:
+Remetido Ofício SF nº 58, de 07/03/2024, ao Senhor Primeiro-Secretário da Câmara dos Deputados, encaminhando autógrafo do
+projeto para revisão, nos termos do art. 65 da Constituição Federal.
+Ação:
+01/03/2024
+SF-SEXPE - Secretaria de Expediente
+Anexado o texto revisado.
+Ação:
+01/03/2024
+PLEN - Plenário do Senado Federal
+APROVADA
+Situação:
+Encerrou-se em 29 de fevereiro o prazo para interposição de recurso para apreciação pelo Plenário do presente  Projeto.
+Não foram apresentados recursos.
+A matéria, aprovada terminativamente pela comissão competente, vai à Câmara dos Deputados.
+Ação:
+Publicado no DSF Páginas 79 - DSF nº 18
+29/02/2024
+PLEN - Plenário do Senado Federal
+Anexado o texto final revisado.
+Ação:
 Relatoria: CRA - (Comissão de Agricultura e Reforma Agrária)
 Relator(es):
 Senador Marcio Bittar (encerrado em 21/02/2024 - Substituído
@@ -29,8 +54,7 @@ projeto para revisão, nos termos do art. 65 da Constituição Federal.
     Data: 01/03/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 01/03/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -40,20 +64,11 @@ A matéria, aprovada terminativamente pela comissão competente, vai à Câmara 
     Data: 29/02/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Anexado o texto final revisado.
-Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 4174, de 2023
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 21/02/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 23/02/2024 a 29/02/2024.
-Perante a Mesa.
-Ação:
-Publicado no DSF Páginas 189 - DSF nº 11
+    Ação: Não disponível
     Data: 21/02/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
@@ -64,8 +79,7 @@ membros da Casa, para que seja apreciada pelo Plenário, nos termos do art. 91, 
     Data: 21/02/2024
     Órgão: CRA - Comissão de Agricultura e Reforma Agrária
     Situação: Não disponível
-    Ação: À SLSF para prosseguimento da tramitação.
-Ação:
+    Ação: Não disponível
     Data: 21/02/2024
     Órgão: CRA - Comissão de Agricultura e Reforma Agrária
     Situação: APRECIADA EM DECISÃO TERMINATIVA PELAS COMISSÕES
@@ -87,14 +101,7 @@ Matéria constante da Pauta da 25ª Reunião da Comissão de Agricultura e Refor
     Data: 15/09/2023
     Órgão: CRA - Comissão de Agricultura e Reforma Agrária
     Situação: Não disponível
-    Ação: Não foram apresentadas Emendas no prazo regimental.
-Matéria com o Relator, Senador Marcio Bittar.
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei n° 4174, de 2023
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 12/09/2023
     Órgão: CRA - Comissão de Agricultura e Reforma Agrária
     Situação: MATÉRIA COM A RELATORIA
@@ -102,22 +109,15 @@ TRAMITAÇÃO
     Data: 11/09/2023
     Órgão: CRA - Comissão de Agricultura e Reforma Agrária
     Situação: Não disponível
-    Ação: O prazo de emendas foi prorrogado por mais um dia útil, em decorrência do ponto facultativo no dia 08.09.2023.
-Ação:
+    Ação: Não disponível
     Data: 05/09/2023
     Órgão: CRA - Comissão de Agricultura e Reforma Agrária
     Situação: Não disponível
-    Ação: Recebido na Secretaria da Comissão de Agricultura e Reforma Agrária.
-Prazo regimental para apresentação de emendas:
-Primeiro dia: 06/09/2023.
-Último dia: 14/09/2023
-Ação:
+    Ação: Não disponível
     Data: 04/09/2023
     Órgão: CRA - Comissão de Agricultura e Reforma Agrária
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 06/09/2023 a 14/09/2023.
-Perante a CRA.
-Ação:
+    Ação: Não disponível
     Data: 04/09/2023
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -136,7 +136,7 @@ Documentos:
     Descrição/ementa: Concede o título de Capital Nacional da Farinha de Mandioca ao Município de Cruzeiro do Sul, no Estado do Acre.
     Documento: Avulso inicial da matéria
     Data: 29/08/2023
-    Autor: pg
+    Autor: Atividade Legislativa
     Local: Plenário do Senado Federal
     Ação legislativa: Não disponível
     Descrição/ementa: -
@@ -176,7 +176,7 @@ conforme art. 91, § 2º combinado com o art. 92 do RISF. (fl. 25)
     Documento: Texto final revisado - Projeto
     Data: 29/02/2024
     Autor: Núcleo de Redação Legislativa
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Anexado o texto final revisado.
     Descrição/ementa: Concede o título de Capital Nacional da Farinha de Mandioca ao Município de Cruzeiro do Sul, no Estado do Acre.
     Documento: Minuta

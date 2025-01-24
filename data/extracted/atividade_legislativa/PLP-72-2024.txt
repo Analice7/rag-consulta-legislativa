@@ -8,6 +8,22 @@ Despacho: 06/05/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CAE) Comissão de Assuntos Econômicos
+TRAMITAÇÃO
+30/10/2024
+SF-SEADI - Secretaria de Atas e Diários
+A matéria vai ao arquivo.
+Ação:
+30/10/2024
+PLEN - Plenário do Senado Federal
+Encaminhado à publicação o Ofício da Câmara dos Deputados nº 582, de 2024, na origem, que comunica a restituição do
+autógrafo do Projeto de Lei Complementar nº 72, de 2024, sancionado e convertido na Lei Complementar nº 209, de 3 de
+outubro de 2024.
+A matéria vai ao arquivo.
+Ação:
+Publicado no DSF Páginas 161 - DSF nº 187
+Publicado no DSF Páginas 164 - DSF nº 187
+04/10/2024
+SF-SEXPE - Secretaria de Expediente
 Relatoria: CAE - (Comissão de Assuntos Econômicos)
 Relator(es):
 Senadora Zenaide Maia (encerrado em 25/06/2024 -
@@ -27,23 +43,14 @@ Tramitação:
     Data: 30/10/2024
     Órgão: SF-SEADI - Secretaria de Atas e Diários
     Situação: Não disponível
-    Ação: A matéria vai ao arquivo.
-Ação:
+    Ação: Não disponível
     Data: 30/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício da Câmara dos Deputados nº 582, de 2024, na origem, que comunica a restituição do
-autógrafo do Projeto de Lei Complementar nº 72, de 2024, sancionado e convertido na Lei Complementar nº 209, de 3 de
-outubro de 2024.
-A matéria vai ao arquivo.
-Ação:
-Publicado no DSF Páginas 161 - DSF nº 187
-Publicado no DSF Páginas 164 - DSF nº 187
+    Ação: Não disponível
     Data: 04/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
-    Situação: pg
-1
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei Complementar n° 72, de 2024
 TRAMITAÇÃO
 TRANSFORMADA EM NORMA JURÍDICA
@@ -54,12 +61,7 @@ Sancionada em 03/10/2024.
     Data: 18/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício nº 498, de 2024, da Câmara dos Deputados, que comunica o envio à sanção do Projeto de Lei
-Complementar nº 72, de 2024.
-A matéria vai à Secretaria de Expediente.
-Ação:
-Publicado no DSF Páginas 380 - DSF nº 158
-Publicado no DSF Páginas 383 - DSF nº 158
+    Ação: Não disponível
     Data: 08/07/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: REMETIDA À CÂMARA DOS DEPUTADOS
@@ -68,8 +70,7 @@ projeto para revisão, nos termos do art. 65 da Constituição Federal.
     Data: 05/07/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 02/07/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -85,18 +86,11 @@ A matéria vai à Câmara dos Deputados.
     Data: 02/07/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encerrada a relatoria da Senadora Zenaide Maia por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 02/07/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Relatório da Senadora Zenaide Maia.
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei Complementar n° 72, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 30/06/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: INCLUÍDA EM ORDEM DO DIA
@@ -106,15 +100,11 @@ Designada Relatora de Plenário a Senadora Zenaide Maia.
     Data: 26/06/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 2, da Senadora Janaína Farias.
-Ação:
+    Ação: Não disponível
     Data: 25/06/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, "d", do RISF). De 27/06/2024
-a 03/07/2024. Perante a Mesa.
-Ação:
-Publicado no DSF Páginas 163 - DSF nº 96
+    Ação: Não disponível
     Data: 25/06/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA
@@ -123,8 +113,7 @@ II, "d", do Regimento Interno.
     Data: 25/06/2024
     Órgão: CAE - Comissão de Assuntos Econômicos
     Situação: Não disponível
-    Ação: Encerrada a relatoria da Senadora Zenaide Maia por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 25/06/2024
     Órgão: CAE - Comissão de Assuntos Econômicos
     Situação: APROVADO PARECER NA COMISSÃO
@@ -136,14 +125,11 @@ Anexado o parecer da comissão e o Requerimento de Urgência.
     Data: 25/06/2024
     Órgão: CAE - Comissão de Assuntos Econômicos
     Situação: Não disponível
-    Ação: Apresentado requerimento (Urgência para matéria) na Comissão nesta data às 11:19.
-Ação:
+    Ação: Não disponível
     Data: 20/06/2024
     Órgão: CAE - Comissão de Assuntos Econômicos
     Situação: INCLUÍDA NA PAUTA DA REUNIÃO
-    Ação: pg
-3
-Atividade Legislativa
+    Ação: Atividade Legislativa
 Projeto de Lei Complementar n° 72, de 2024
 TRAMITAÇÃO
 Matéria constante da Pauta da 25ª Reunião da Comissão de Assuntos Econômicos, agendada para o dia 25/06/2024.
@@ -178,9 +164,7 @@ Documentos:
     Local: Plenário do Senado Federal
     Ação legislativa: Autuado o Projeto de Lei nº 72/2024 (Complementar). O projeto vai à publicação.
     Descrição/ementa: Não disponível
-    Documento: pg
-4
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei Complementar n° 72, de 2024
 DOCUMENTOS
 mínimo constitucional em saúde.
@@ -219,7 +203,7 @@ apuração do gasto mínimo constitucional em saúde.
     Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 25ª Reunião CAE
     Documento: P.S 57/2024 - CAE
     Data: 25/06/2024
-    Autor: pg
+    Autor: Atividade Legislativa
     Local: Comissão de Assuntos Econômicos
     Ação legislativa: Não disponível
     Descrição/ementa: Da COMISSÃO DE ASSUNTOS ECONÔMICOS, sobre o Projeto de Lei Complementar n° 72, de 2024, do Senador Veneziano Vital do
@@ -255,9 +239,7 @@ apuração do gasto mínimo constitucional em saúde.
     Autor: Senadora Zenaide Maia (PSD/RN)
     Local: Plenário do Senado Federal
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-6
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei Complementar n° 72, de 2024
 DOCUMENTOS
 É proferido pela Senadora Zenaide Maia o Parecer nº 96, de 2024-PLEN/SF, favorável ao Projeto e às Emendas nº 1 e 2.
@@ -293,9 +275,7 @@ Parecer nº 96, de 2024 - Plen/SF
     Descrição/ementa: Altera a Lei Complementar nº 141, de 13 de janeiro de 2012, que regulamenta o § 3º do art. 198 da Constituição Federal, para
 dispor sobre as despesas de custeio e de investimento com os hospitais universitários federais, para fins de apuração do gasto
 mínimo constitucional em saúde.
-    Documento: pg
-7
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei Complementar n° 72, de 2024
 DOCUMENTOS
 OFC 498/2024 - Câmara dos

@@ -3,12 +3,32 @@ Autoria: Presidência da República
 Ementa: Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral, e do Trabalho, e do Conselho Nacional de
 Justiça, crédito especial no valor de R$ 273.689.008,00, para os fins que especifica.
 Explicação da ementa: Propõe crédito especial para atender as despesas no Conselho Nacional de Justiça – CNJ
+(81,99% dos recursos) com a aquisição de edifício-sede com a previsão de abranger a
+infraestrutura completa e necessária ao desenvolvimento das atividades constitucionais do
+Conselho. Além disso, propõe recursos no âmbito da Justiça Federal  (13,10% dos recursos),
+para possibilitar a a aquisição dos edifícios-sede nos Municípios de Teresópolis – RJ, de Itapeva
+– SP, de Osasco – SP e de Mafra – SC; e de imóvel  para estacionamento no Município de São
+João da Boa Vista – SP. Por fim, recursos no âmbito da Justiça do Trabalho (4,63% dos
+recursos), a fim de garantir a aquisição de terreno, no âmbito da ação de construção do
+edifício-sede do Fórum Trabalhista de Passo Fundo – RS, para futura construção do edifício-
+sede, visando proporcionar aos magistrados, servidores, terceirizados, advogados, partes e
+comunidade em geral espaços e infraestrutura adequados, dignos e acessíveis, bem como a
+contratação de empresa especializada na elaboração de projetos de arquitetura e engenharia
+para a construção de edifício-sede do Fórum Trabalhista de Mirassol D’Oeste – MT.
 Assunto: Orçamento Público  - Crédito Adicional
 Despacho: 25/11/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (CN-CMO) Comissão Mista de Planos, Orçamentos Públicos e
 Fiscalização
+TRAMITAÇÃO
+20/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15049 DE 2024.
+Ação:
 Relatoria: CMO - (Comissão Mista de Planos, Orçamentos Públicos e Fiscalização)
 Relator(es):
 Deputado Federal Murillo Gouvea (encerrado em 17/12/2024 -
@@ -39,8 +59,7 @@ Projeto.
     Data: 18/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Congresso Nacional
     Situação: APROVADA
@@ -58,8 +77,7 @@ Aprovado o Projeto, na Câmara dos Deputados e no Senado Federal.
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Deputado Murillo Gouvea por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: APROVADO PARECER NA COMISSÃO
@@ -73,9 +91,7 @@ Projeto de Lei nº 34/2024-CN na forma proposta pelo Poder Executivo. Ao projeto
 Poder Executivo. Ao Projeto não foram apresentadas emendas.
     Data: 02/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-    Situação: pg
-2
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 34, de 2024
 TRAMITAÇÃO
 MATÉRIA COM A RELATORIA
@@ -87,8 +103,7 @@ MATÉRIA COM A RELATORIA
     Data: 26/11/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Anexado Ofício nº 042/2024/GDHS, de 29.10.2024, do Deputado Heitor Schuch, solicitando a relatoria da matéria.
-Ação:
+    Ação: Não disponível
     Data: 25/11/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -100,24 +115,11 @@ Ação:
     Data: 25/11/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: A matéria será publicada no Diário do Congresso Nacional.
-Calendário de tramitação de projetos de lei de créditos adicionais - PLN 34/2024 (Art. 112, da Res. 1/2006-CN):
-- Data do despacho: 25/11/2024
-- Publicação em avulso eletrônico: de 25/11/2024 a 25/11/2024
-- Apresentação de emendas: de 25/11/2024 (15h) a 26/11/2024 (12h)
-- Publicação em avulso eletrônico das emendas: de 26/11/2024 (12h) a 26/11/2024 (14h)
-- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 26/11/2024 (14h) a
-28/11/2024 (14h)
-A matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.
-* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.
-Ação:
-Publicado no DCN Páginas 44 - DCN nº 44
+    Ação: Não disponível
     Data: 21/10/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Recebida, em 17/10/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado
-Federal.
-Ação:
+    Ação: Não disponível
     Data: 11/10/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: AGUARDANDO DESPACHO
@@ -148,14 +150,12 @@ Documentos:
     Local: Mesa Diretora do Congresso Nacional
     Ação legislativa: Não disponível
     Descrição/ementa: Ofício
-pg
-4
+
 Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 34, de 2024
 DOCUMENTOS
     Documento: Ofício
-pg
-4
+
 Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 34, de 2024
 DOCUMENTOS
@@ -197,8 +197,7 @@ Executivo
 de 2024, que Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral, e do Trabalho, e do Conselho Nacional
 de Justiça, crédito especial no valor de R$ 273.689.008,00, para os fins que especifica.
     Documento: Minuta
-pg
-5
+
 Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 34, de 2024
 DOCUMENTOS
@@ -234,8 +233,7 @@ Projeto de Lei do Congresso Nacional n° 34, de 2024.
     Descrição/ementa: Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral, e do Trabalho, e do Conselho Nacional de Justiça,
 crédito especial no valor de R$ 273.689.008,00, para os fins que especifica.
     Documento: MSG 1668/2024 - Presidência
-pg
-6
+
 Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 34, de 2024
 DOCUMENTOS

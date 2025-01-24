@@ -3,12 +3,32 @@ Autoria: Presidência da República
 Ementa: Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor do Ministério Público da União, crédito
 suplementar no valor de R$ 25.510.081,00, para reforço de dotações constantes da Lei Orçamentária vigente.
 Explicação da ementa: O projeto propõe a abertura de crédito suplementar, no âmbito do Ministério Público da União,
+para os Ministérios Públicos Federal, do Distrito Federal e dos Territórios, e do Trabalho, a fim
+de viabilizar o pagamento de pessoal ativo e de aposentadorias e pensões civis da União.
 Assunto: Orçamento Público  - Crédito Adicional
 Despacho: 25/11/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (CN-CMO) Comissão Mista de Planos, Orçamentos Públicos e
 Fiscalização
+TRAMITAÇÃO
+23/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15063 DE 2024.
+DOUE (Diário Oficial da União - Edição Extra) - 23/12/2024 - Seção I - págs. 24 e 26.
+Sancionada em 23/12/2024.
+Ação:
+19/12/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício CN nº 378, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a
+Mensagem CN nº 131/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do
+Projeto.
+Ação:
 Relatoria: CMO - (Comissão Mista de Planos, Orçamentos Públicos e Fiscalização)
 Relator(es):
 Deputado Federal Clodoaldo Magalhães (encerrado em
@@ -38,8 +58,7 @@ Projeto.
     Data: 18/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Congresso Nacional
     Situação: APROVADO O SUBSTITUTIVO
@@ -57,8 +76,7 @@ Aprovado o Substitutivo, na Câmara dos Deputados e no Senado Federal, ficando p
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Deputado Clodoaldo Magalhães por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: APROVADO PARECER NA COMISSÃO
@@ -90,24 +108,11 @@ apresentado, que incorpora duas emendas de relator. Ao projeto não foram aprese
     Data: 25/11/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: A matéria será publicada no Diário do Congresso Nacional.
-Calendário de tramitação de projetos de lei de créditos adicionais - PLN 33/2024 (Art. 112, da Res. 1/2006-CN):
-- Data do despacho: 25/11/2024
-- Publicação em avulso eletrônico: de 25/11/2024 a 25/11/2024
-- Apresentação de emendas: de 25/11/2024 (15h) a 26/11/2024 (12h)
-- Publicação em avulso eletrônico das emendas: de 26/11/2024 (12h) a 26/11/2024 (14h)
-- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 26/11/2024 (14h) a
-28/11/2024 (14h)
-A matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.
-* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.
-Ação:
-Publicado no DCN Páginas 43 - DCN nº 44
+    Ação: Não disponível
     Data: 21/10/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Recebida, em 17/10/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado
-Federal.
-Ação:
+    Ação: Não disponível
     Data: 11/10/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: AGUARDANDO DESPACHO
@@ -120,9 +125,7 @@ Documentos:
     Local: Mesa Diretora do Congresso Nacional
     Ação legislativa: Não disponível
     Descrição/ementa: Não disponível
-    Documento: pg
-3
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 33, de 2024
 DOCUMENTOS
 Avulso inicial da matéria
@@ -156,9 +159,7 @@ constantes da Lei Orçamentária vigente”.
     Autor: Deputado Federal Clodoaldo Magalhães (PV/PE)
     Local: Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-4
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 33, de 2024
 DOCUMENTOS
 Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre o Projeto de Lei do Congresso Nacional n° 33,
@@ -194,7 +195,7 @@ suplementar no valor de R$ 25.510.081,00, para reforço de dotações constantes
     Documento: MPCN 131/2024
     Data: 19/12/2024
     Autor: Presidente do Congresso Nacional
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Não disponível
     Descrição/ementa: Encaminha à sanção o Projeto de Lei do Congresso Nacional n° 33, de 2024.
     Documento: OFCN 378/2024

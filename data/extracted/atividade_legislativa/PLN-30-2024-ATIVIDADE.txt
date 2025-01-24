@@ -4,12 +4,31 @@ Ementa: Abre ao Orçamento de Investimento da União, em favor das empresas Arau
 Biocombustível S.A. e Petróleo Brasileiro S.A., crédito especial no valor de R$ 552.847.000,00, para os fins que
 especifica.
 Explicação da ementa: O crédito proposto visa dotar a empresa Araucária Nitrogenados S.A. - ANSA (56,07% dos
+recursos) de recursos para  investimentos de manutenção da planta industrial de nitrogenados
+para a recuperação e retomada das operações, além de aquisições de bens patrimoniais e de
+tecnologia de informação para atender as necessidades de funcionamento da empresa. Além
+disso, direciona recursos para a Petróleo Brasileiro S.A. - Petrobras (36,18% dos recursos), para
+possibilitar a aquisição de um edifício já utilizado pela empresa, o qual encontra-se alugado por
+ela. Por fim, destina também recursos para a Petrobras Biocombustível S.A. - PBIO (7,15% dos
+recursos), para a contratação de serviços de reparo e manutenção das unidades de
+pastilhamento de enxofre, com substituições de equipamentos e peças necessárias para a
+correta operação dos sistemas.
 Assunto: Orçamento Público  - Crédito Adicional
 Despacho: 25/11/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (CN-CMO) Comissão Mista de Planos, Orçamentos Públicos e
 Fiscalização
+TRAMITAÇÃO
+23/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15061 DE 2024.
+DOUE (Diário Oficial da União - Edição Extra) - 23/12/2024 - Seção I - págs. 17 e 21.
+Sancionada em 23/12/2024.
+Ação:
 Relatoria: CMO - (Comissão Mista de Planos, Orçamentos Públicos e Fiscalização)
 Relator(es):
 Deputado Federal Zeca Dirceu (encerrado em 17/12/2024 -
@@ -37,8 +56,7 @@ Projeto.
     Data: 18/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Congresso Nacional
     Situação: APROVADA
@@ -55,8 +73,7 @@ Aprovado o Projeto, na Câmara dos Deputados e no Senado Federal.
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Deputado Zeca Dirceu por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: APROVADO PARECER NA COMISSÃO
@@ -87,30 +104,15 @@ Poder Executivo. Ao Projeto não foram apresentadas emendas.
     Data: 25/11/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: A matéria será publicada no Diário do Congresso Nacional.
-Calendário de tramitação de projetos de lei de créditos adicionais - PLN 30/2024 (Art. 112, da Res. 1/2006-CN):
-- Data do despacho: 25/11/2024
-- Publicação em avulso eletrônico: de 25/11/2024 a 25/11/2024
-- Apresentação de emendas: de 25/11/2024 (15h) a 26/11/2024 (12h)
-- Publicação em avulso eletrônico das emendas: de 26/11/2024 (12h) a 26/11/2024 (14h)
-- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 26/11/2024 (14h) a
-28/11/2024 (14h)
-A matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.
-* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.
-Ação:
-Publicado no DCN Páginas 40 - DCN nº 44
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Recebida, em 12/11/2024, retificação da Mensagem nº 1.208, de 2024 do PLN 30/2024.
-Ação:
-Publicado no DCN Páginas 49-66 - DCN nº 42
+    Ação: Não disponível
     Data: 08/10/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Recebida, em 08/10/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado
-Federal.
-Ação:
+    Ação: Não disponível
     Data: 04/10/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: AGUARDANDO DESPACHO
@@ -147,16 +149,12 @@ Desvios de Valores Cancelados.
     Autor: Congresso Nacional
     Local: Mesa Diretora do Congresso Nacional
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-4
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 30, de 2024
 DOCUMENTOS
 * O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.
 Ofício
-    Documento: pg
-4
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 30, de 2024
 DOCUMENTOS
 * O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.
@@ -196,15 +194,11 @@ Biocombustível S.A. e Petróleo Brasileiro S.A., crédito especial no valor de 
     Autor: Senado Federal
     Local: Secretaria de Expediente
     Ação legislativa: Anexado o texto revisado.
-    Descrição/ementa: pg
-5
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 30, de 2024
 DOCUMENTOS
 MPCN 129/2024
-    Documento: pg
-5
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 30, de 2024
 DOCUMENTOS
 MPCN 129/2024

@@ -9,6 +9,52 @@ Despacho: 04/11/2024
 Decisão da Presidência
 Ao Plenário
 (SF-PLEN) Plenário do Senado Federal
+TRAMITAÇÃO
+12/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15042 DE 2024.
+DOU (Diário Oficial da União) - 12/12/2024 - Seção I - págs. 4 e 8.
+Sancionada em 11/12/2024.
+Ação:
+26/11/2024
+PLEN - Plenário do Senado Federal
+Encaminhado à publicação o Ofício da Câmara dos Deputados nº 603, de 2024, na origem, que comunica o envio à sanção do
+Projeto de Lei nº 182, de 2024. A matéria vai à Secretaria de Expediente.
+Ação:
+19/11/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À CÂMARA DOS DEPUTADOS
+Situação:
+Remetido Ofício SF nº 1291, de 18/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Senado
+Federal aprovou, em revisão, nos termos do substitutivo, o Projeto.
+Ação:
+19/11/2024
+SF-SEXPE - Secretaria de Expediente
+Anexado o texto revisado.
+Ação:
+13/11/2024
+PLEN - Plenário do Senado Federal
+APROVADO O SUBSTITUTIVO
+Situação:
+(Continuação da Sessão Deliberativa Ordinária iniciada em 12/11/2024)
+Encaminhadas à publicação as emendas nºs 52 a 58.
+Encaminhado à publicação o Parecer nº 186, de 2024-PLEN/SF, proferido pela Senadora Leila Barros, o qual é favorável ao
+projeto e pelo acolhimento total ou parcial das emendas nºs 2, 8, 11, 13, 14, 15, 20, 24, 27, 35, 36, 38, 39, 40, 41, 42, 45, 47, 49,
+52, 54, 55, 56, 57 e 58, na forma da Emenda nº 59 (substitutivo), que apresenta, complementada com os acolhimentos de
+Plenário, e pela rejeição das demais emendas.
+Prejudicados os requerimentos nºs 745 e 765, de 2024, tendo em vista – respectivamente – os acolhimentos parciais das
+emendas nºs 8 e 42.
+Encaminhado à publicação - e prejudicado – o Requerimento nº 781, de 2024, tendo em vista o acolhimento da Emenda nº 57.
+Retirado o Requerimento nº 768, de 2024.
+Encaminhado à publicação - e retirado – o Requerimento nº 779, de 2024.
+Deferido o Requerimento nº 772, de 2024, de destaque, para votação em separado, da Emenda nº 25.
+Encaminhado à publicação - e deferido – o Requerimento nº 782, de 2024, de destaque, para votação em separado, da Emenda
+nº 58.
+Encerrada a discussão da matéria.
+Ação:
 Relatoria: PLEN - (Plenário do Senado Federal)
 Relator(es):
 Senadora Leila Barros (encerrado em 13/11/2024 - Matéria
@@ -30,9 +76,7 @@ Sancionada em 11/12/2024.
     Data: 26/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício da Câmara dos Deputados nº 603, de 2024, na origem, que comunica o envio à sanção do
-Projeto de Lei nº 182, de 2024. A matéria vai à Secretaria de Expediente.
-Ação:
+    Ação: Não disponível
     Data: 19/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: REMETIDA À CÂMARA DOS DEPUTADOS
@@ -41,8 +85,7 @@ Federal aprovou, em revisão, nos termos do substitutivo, o Projeto.
     Data: 19/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADO O SUBSTITUTIVO
@@ -64,411 +107,279 @@ Encerrada a discussão da matéria.
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento n° 782, de 2024, da liderança do União, de destaque para votação em separado da Emenda nº 58.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 58, do Senador Alan Rick.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebidos, da Liderança do PL, os Requerimentos:
-- n° 780/2024, de retirada do Requerimento n° 767;
-- n° 781/2024, de destaque para votação em separado da Emenda n° 57.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento n° 779, de 2024, da liderança do REPUBLICANOS, de destaque para votação em separado da Emenda
-nº 26.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Relatório da Senadora Leila Barros.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 57, do Marcos Rogério.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 56, do Luis Carlos Heinze.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 55, do Senador Carlos Portinho.
-Ação:
-pg
-3
-Atividade Legislativa
-Projeto de Lei n° 182, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 54, do Senador Alan Rick.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 53, do Senador Izalci Lucas.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 52, do Senador Efraim Filho.
-Ação:
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Incluído em Ordem do Dia da continuação da Sessão Deliberativa Ordinária de 12/11/2024, a ser realizada em 13/11/2024, às
-14h.
-Ação:
-Publicado no DSF Páginas 12 - DSF nº 192
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: (Sessão Deliberativa Ordinária - realizada em 12/11/2024)
-Encaminhadas à publicação as Emendas nºs 25 a 51.
-Retirado pelo primeiro signatário, Senador Carlos Portinho, o RQS nº 769/24, que solicita a extinção de urgência da matéria.
-Apreciação adiada.
-(Encaminhados à publicação os Requerimento nºs 769/24, 765/24, 766/24, 767/24, 768/24, 770/24 e 772/24)
-Ação:
-Publicado no DSF Páginas 134-197 - DSF nº 194
-Publicado no DSF Páginas 51 - DSF nº 194
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento n° 772, de 2024, da liderança do PP, de destaque para votação em separado da Emenda nº 25.
-Ação:
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Relatório da Senadora Leila Barros.
-Ação:
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento n° 770, de 2024, da liderança do PP, de destaque para votação em separado da Emenda nº 25.
-Ação:
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento nº 769, de 2024, de Líderes, solicitando a extinção da urgência para a matéria.
-Ação:
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento n° 768, de 2024, da liderança do PODEMOS, de destaque para votação em separado da Emenda nº 50.
-Ação:
-pg
-4
-Atividade Legislativa
-Projeto de Lei n° 182, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 51, do Senador Carlos Portinho.
-Ação:
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebidos, da Liderança do PL, os Requerimentos:
-- n° 765/2024, de destaque para votação em separado da Emenda n° 42;
-- n° 766/2024, de retirada dos Requerimentos n°s 747 e 748, de 2024; e
-- n° 767/2024, de destaque para votação em separado da Emenda n° 43.
-Ação:
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 50, da Senadora Soraya Thronicke.
-Ação:
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 49, do Senador Dr. Hiran.
-Ação:
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebidas as Emendas nºs 47e 48, do Senador Mecias de Jesus.
-Ação:
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebidas as Emendas nºs 44, 45 e 46, do Senador Carlos Portinho.
-Ação:
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 43, do Senador Marcos Rogério.
-Ação:
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 42, do Senador Rogério Marinho.
-Ação:
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 41, do Senador Alan Rick.
-Ação:
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 40, do Senador Jayme Campos.
-Ação:
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebidas as Emendas nº  38 e 39, do Senador Nelsinho Trad.
-Ação:
-pg
-5
-Atividade Legislativa
-Projeto de Lei n° 182, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 37, do Senador Zequinha Marinho.
-Ação:
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 36, do Senador Efraim Filho.
-Ação:
+    Ação: Não disponível
     Data: 11/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido novo relatório da Senadora Leila Barros.
-Ação:
+    Ação: Não disponível
     Data: 11/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 35, do Senador Laércio Oliveira.
-Ação:
+    Ação: Não disponível
     Data: 11/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebidas as Emendas nºs 33 e 34, da Senadora Soraya Thronicke.
-Ação:
+    Ação: Não disponível
     Data: 11/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebidas as Emendas nºs 30 a 32, do Senador Zequinha Marinho.
-Ação:
+    Ação: Não disponível
     Data: 11/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 29, do Senador Jaime Bagattoli.
-Ação:
+    Ação: Não disponível
     Data: 11/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 28, do Senador Esperidião Amin.
-Ação:
+    Ação: Não disponível
     Data: 11/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 27, do Senador Efraim Filho.
-Ação:
+    Ação: Não disponível
     Data: 11/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 26, do Senador Veneziano Vital do Rêgo.
-Ação:
+    Ação: Não disponível
     Data: 10/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 12/11/2024.
-Discussão, em turno único.
-(Matéria tramita em regime de urgência, nos termos do Requerimento nº 743, de 2024)
-Ação:
-pg
-6
-Atividade Legislativa
-Projeto de Lei n° 182, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o RQS nº 750, de 2024, do Senador Esperidião Amin, de retirada, em caráter definitivo, da Emenda nº
-22 apresentada ao presente Projeto.
-A Presidência defere o Requerimento.
-Ação:
-Publicado no DSF Páginas 162-164 - DSF nº 191
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 25, do Senador Esperidião Amin.
-Ação:
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento nº 750, de 2024, do Senador Esperidião Amin, solicitando a retirada definitiva da Emenda n° 22.
-Ação:
-Publicado no DSF Páginas 162-163 - DSF nº 191
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: (Sessão Deliberativa Extraordinária – Semipresencial – realizada em 05/11/2024)
-Encaminhadas à publicação as emendas nºs 1 a 24.
-Aprovado o Requerimento nº 743, de 2024, por meio do qual se solicita urgência para a matéria.
-Adiada a apreciação da matéria.
-(Encaminhados a publicações os requerimentos nºs 745, 747 e 748, de 2024, de destaques)
-Ação:
-Publicado no DSF Páginas 30-100 - DSF nº 191
-Publicado no DSF Páginas 20-23 - DSF nº 191
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 24, da Senadora Professora Dorinha Seabra.
-Ação:
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 23, do Senador Rogerio Marinho.
-Ação:
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 22, do Senador Esperidião Amin.
-Ação:
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 21, do Senador Mecias de Jesus.
-Ação:
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 20, da Senadora Tereza Cristina.
-Ação:
-pg
-7
-Atividade Legislativa
-Projeto de Lei n° 182, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento n° 748, de 2024, da liderança do PL, de destaque para votação em separado dos §§2º e 3º do Art. 28
-do Substitutivo da Relatora.
-Ação:
-Publicado no DSF Páginas 98-100 - DSF nº 191
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 19, do Senador Luis Carlos Heinze.
-Ação:
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento n° 747, de 2024, da liderança do PL, de destaque para votação em separado do art. 56 do Substitutivo
-da Relatora.
-Ação:
-Publicado no DSF Páginas 92-97 - DSF nº 191
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 18, do Senador Luis Carlos Heinze.
-Ação:
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 17, do Senador Esperidião Amin.
-Ação:
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 16, do Senador Castellar Neto.
-Ação:
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebidas as Emendas nºs 13 a 15, do Senador Zequinha Marinho.
-Ação:
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebidas as Emendas nºs 11 e 12, do Senador Luis Carlos Heinze.
-Ação:
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento n° 745, de 2024, da liderança do MDB, de destaque para votação em separado da Emenda nº 8.
-Ação:
-Publicado no DSF Páginas 90-91 - DSF nº 191
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebidas as Emendas nºs 9 e 10, do Senador Mecias de Jesus.
-Ação:
-pg
-8
-Atividade Legislativa
-Projeto de Lei n° 182, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 8, do Senador Eduardo Braga.
-Ação:
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 7, do Senador Eduardo Gomes.
-Ação:
+    Ação: Não disponível
     Data: 04/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento nº 743, de 2024, de Líderes, solicitando urgência para a matéria.
-Ação:
-Publicado no DSF Páginas 70-71 - DSF nº 190
+    Ação: Não disponível
     Data: 04/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 6, do Senador Sérgio Petecão.
-Ação:
+    Ação: Não disponível
     Data: 04/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebidas as Emendas nºs 4 e 5, do Senador Alan Rick.
-Ação:
+    Ação: Não disponível
     Data: 04/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 3, da Senadora Soraya Thronicke.
-Ação:
+    Ação: Não disponível
     Data: 04/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Relatório da Senadora Leila Barros.
-Ação:
+    Ação: Não disponível
     Data: 04/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 2, do Senador Laércio Oliveira.
-Ação:
+    Ação: Não disponível
     Data: 04/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Designada Relatora de Plenário a Senadora Leila Barros.
-(Pendente de apresentação de requerimento de urgência)
-Ação:
+    Ação: Não disponível
     Data: 04/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 1, da Senadora Margareth Buzetti.
-Ação:
+    Ação: Não disponível
     Data: 02/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: INCLUÍDA EM ORDEM DO DIA
@@ -509,9 +420,7 @@ Cristina. Encaminha nota técnica a favor do PL.
     Autor: INDÚSTRIA BRASILEIRA DE ÁRVORES - IBÁ
     Local: null
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-10
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 182, de 2024
 DOCUMENTOS
 NECESSIDADE DE CORREÇÃO DO TEXTO REFERENTE À PL DE CARBONO Nº 182/2024.
@@ -553,9 +462,7 @@ Leis nºs 12.187, de 29 de dezembro de 2009, 12.651, de 25 de maio de 2012 (Cód
     Local: Plenário do Senado Federal
     Ação legislativa: Recebidas as Emendas nºs 4 e 5, do Senador Alan Rick.
     Descrição/ementa: Emenda  ao PL 182/2024 - Setores Estratégicos
-    Documento: pg
-11
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 182, de 2024
 DOCUMENTOS
 EMENDA 3 PLEN - PL
@@ -594,9 +501,7 @@ Federal.
     Autor: Senador Eduardo Gomes (PL/TO)
     Local: Plenário do Senado Federal
     Ação legislativa: Recebida a Emenda nº 7, do Senador Eduardo Gomes.
-    Descrição/ementa: pg
-12
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 182, de 2024
 DOCUMENTOS
 Emenda  ao substitutivo do PL 182/2024
@@ -635,9 +540,7 @@ Emenda  ao substitutivo do PL 182/2024
     Autor: Líder do MDB Eduardo Braga (MDB/AM)
     Local: Plenário do Senado Federal
     Ação legislativa: Recebido o Requerimento n° 745, de 2024, da liderança do MDB, de destaque para votação em separado da Emenda nº 8.
-    Descrição/ementa: pg
-13
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 182, de 2024
 DOCUMENTOS
 Requer, pela Liderança do Movimento Democrático Brasileiro (MDB), destaque para votação em separado da Emenda nº 8 ao
@@ -752,9 +655,7 @@ Projeto de Lei nº 182/2024.
     Local: Plenário do Senado Federal
     Ação legislativa: Recebida a Emenda nº 25, do Senador Esperidião Amin.
     Descrição/ementa: Emenda  ao PL 182/2024 Carbono Sustentável - ajustada
-    Documento: pg
-16
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 182, de 2024
 DOCUMENTOS
 EMENDA 26 PLEN - PL
@@ -793,9 +694,7 @@ EMENDA 26 PLEN - PL
     Local: Plenário do Senado Federal
     Ação legislativa: Recebidas as Emendas nºs 30 a 32, do Senador Zequinha Marinho.
     Descrição/ementa: Emenda  ao PL 182/2024 -
-    Documento: pg
-17
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 182, de 2024
 DOCUMENTOS
 EMENDA 29 PLEN - PL
@@ -834,9 +733,7 @@ EMENDA 29 PLEN - PL
     Local: Plenário do Senado Federal
     Ação legislativa: Recebida a Emenda nº 36, do Senador Efraim Filho.
     Descrição/ementa: Emenda  ao PL 182/2024 - art. 43, § 5º - obrigatoriedade da escrituração do contrato
-    Documento: pg
-18
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 182, de 2024
 DOCUMENTOS
 EMENDA 37 PLEN - PL
@@ -875,9 +772,7 @@ EMENDA 37 PLEN - PL
     Local: Plenário do Senado Federal
     Ação legislativa: Recebida a Emenda nº 42, do Senador Rogério Marinho.
     Descrição/ementa: Emenda  ao PL 182/2024 - oitiva dos setores regulados
-    Documento: pg
-19
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 182, de 2024
 DOCUMENTOS
 EMENDA 43 PLEN - PL
@@ -916,9 +811,7 @@ EMENDA 43 PLEN - PL
     Local: Plenário do Senado Federal
     Ação legislativa: Recebidas as Emendas nºs 47e 48, do Senador Mecias de Jesus.
     Descrição/ementa: Emenda limites ao PL 182/2024
-    Documento: pg
-20
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 182, de 2024
 DOCUMENTOS
 EMENDA 48 PLEN - PL
@@ -953,7 +846,7 @@ EMENDA 48 PLEN - PL
     Descrição/ementa: Requer, pela Liderança do Partido Liberal, destaque para votação em separado da Emenda nº 43 ao Projeto de Lei nº 182/2024.
     Documento: EMENDA 51 PLEN - PL
     Data: 12/11/2024
-    Autor: pg
+    Autor: Atividade Legislativa
     Local: Plenário do Senado Federal
     Ação legislativa: Recebida a Emenda nº 51, do Senador Carlos Portinho.
     Descrição/ementa: Emenda supressiva questão dos seguros ao PL 182/2024
@@ -989,8 +882,7 @@ Interno do Senado Federal.
     Ação legislativa: Recebido o Requerimento n° 772, de 2024, da liderança do PP, de destaque para votação em separado da Emenda nº 25.
     Descrição/ementa: Requer, pela Liderança do PP, destaque para votação em separado da Emenda n° 25 ao Projeto de Lei nº 182/2024.
     Documento: Avulso de emendas
-pg
-22
+
 Atividade Legislativa
 Projeto de Lei n° 182, de 2024
 DOCUMENTOS
@@ -1031,7 +923,7 @@ DOCUMENTOS
     Descrição/ementa: Emenda  ao PL 182/2024 resíduos
     Documento: EMENDA 57 PLEN - PL
     Data: 13/11/2024
-    Autor: pg
+    Autor: Atividade Legislativa
     Local: Plenário do Senado Federal
     Ação legislativa: Recebida a Emenda nº 57, do Marcos Rogério.
     Descrição/ementa: Emenda  ao PL 182/2024- Art 43 acrescentando o §17
@@ -1065,9 +957,7 @@ DOCUMENTOS
     Local: Plenário do Senado Federal
     Ação legislativa: Recebida a Emenda nº 58, do Senador Alan Rick.
     Descrição/ementa: Emenda  ao PL 182/2024
-    Documento: pg
-24
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 182, de 2024
 DOCUMENTOS
 RQS 782/2024
@@ -1099,9 +989,7 @@ RQS 782/2024
     Autor: Comissão Diretora do Senado Federal
     Local: Plenário do Senado Federal
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-25
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 182, de 2024
 DOCUMENTOS
 69.
@@ -1145,7 +1033,7 @@ dezembro de 2004, e 6.015, de 31 de dezembro de 1973 (Lei de Registros Públicos
     Documento: Quadro Comparativo
     Data: 26/11/2024
     Autor: Congresso Nacional
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Não disponível
     Descrição/ementa: Comparação entre a legislação vigente, o texto aprovado na Câmara dos Deputados e o substitutivo aprovado pelo Senado
 Federal.

@@ -11,6 +11,24 @@ Despacho: 03/12/2024
 Decisão da Presidência
 Ao Plenário
 (SF-PLEN) Plenário do Senado Federal
+TRAMITAÇÃO
+24/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15070 DE 2024.
+DOU (Diário Oficial da União) - 24/12/2024 - Seção I - págs. 3 e 5.
+Sancionada em 23/12/2024.
+Ação:
+09/12/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício SF n.º 1349, de 09/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+encaminhando a Mensagem SF n.º 251/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
+presidencial autógrafo do Projeto.
+Ação:
 Relatoria: PLEN - (Plenário do Senado Federal)
 Relator(es):
 Senador Jaques Wagner (encerrado em 03/12/2024 -
@@ -40,8 +58,7 @@ presidencial autógrafo do Projeto.
     Data: 06/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 03/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -60,13 +77,11 @@ Será feita a devida comunicação à Câmara dos Deputados.
     Data: 03/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Relatório do Senador Jaques Wagner,
-Ação:
+    Ação: Não disponível
     Data: 03/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento nº 845, de 2024, de Líderes, solicitando urgência para a matéria.
-Ação:
+    Ação: Não disponível
     Data: 02/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: INCLUÍDA EM ORDEM DO DIA
@@ -109,9 +124,7 @@ Federal.
     Local: Plenário do Senado Federal
     Ação legislativa: Não disponível
     Descrição/ementa: Parecer n° 196/2024-Plen/SF
-    Documento: pg
-3
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 658, de 2021
 DOCUMENTOS
 P.S 197/2024 - PLEN

@@ -5,17 +5,28 @@ da Petrobras Biocombustível S.A., da Companhia Docas do Ceará, e da Empresa Br
 Aeroportuária, crédito suplementar no valor de R$ 200.329.507,00, para reforço de dotações constantes da Lei
 Orçamentária vigente.
 Explicação da ementa: O projeto apresenta abertura de crédito suplementar para diversas empresas estatais, quais
+sejam: Eletrobras Termonuclear S.A. – Eletronuclear (73,33% dos recursos), para  acertar o
+balanceamento e a preservação da capacidade produtiva de Angra I e Angra II; Empresa
+Brasileira de Infraestrutura Aeroportuária – Infraero (19,13% dos recursos), para dotar a
+empresa de dotações suficiente para fazer face ao ressarcimento das obrigações decorrentes
+das denominadas "Obras do Poder Público"  e para a aquisição de solução de armazenamento
+de dados da Companhia para criação do site redundante; Banco da Amazônia S.A. – Basa
+(3,72% dos recursos), para modernização da infraestrutura física interna e externa do Edifício
+Sede do Banco bem como a modernização do Centro de Processamento de Dados; Companhia
+Docas do Ceará – CDC (3,64% dos recursos), para dar continuidade aos investimentos
+relacionados à: pavimentação, drenagem, iluminação e segurança Terminal Marítimo de
+Fortaleza, reforma e adaptação do prédio para a guarda de arquivos, revitalização do prédio
+administrativo e instalação de nova cobertura em fibra de vidro para o Gate - Pátio 5;
+construção de um segundo elevador na Sede para atender aos requisitos básicos de
+acessibilidade, aquisição de itens de segurança para melhoria na qualidade da prestação do
+serviço de segurança portuária; e contratação de projetos na área Ambiental, Social e
+Governança - ESG (da sigla em inglês), Gestão de competências, Inteligência de Mercado,
+Descarbonização e Atualização do Plano de Desenvolvimento e Zoneamento - PDZ do porto; por
+fim a Petrobras Biocombustível S.A. – PBIO (0,15%), para substituição de veículos utilizados nas
+operações na Usina de Biodiesel de Candeias.
 Assunto: Orçamento Público  - Crédito Adicional
 Despacho: 25/11/2024
 Decisão da Presidência
-pg
-1
-Atividade Legislativa
-Projeto de Lei do Congresso Nacional n° 37, de 2024
-Despacho:
-Análise - Tramitação sucessiva, Instrução da matéria
-(CN-CMO) Comissão Mista de Planos, Orçamentos Públicos e
-Fiscalização
 Relatoria: CMO - (Comissão Mista de Planos, Orçamentos Públicos e Fiscalização)
 Relator(es):
 Deputado Federal Jadyel Alencar (encerrado em 17/12/2024 -
@@ -43,8 +54,7 @@ Projeto.
     Data: 18/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Congresso Nacional
     Situação: APROVADA
@@ -61,8 +71,7 @@ Aprovado o Projeto, na Câmara dos Deputados e no Senado Federal.
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Deputado Jadyel Alencar por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: APROVADO PARECER NA COMISSÃO
@@ -93,35 +102,15 @@ Poder Executivo. Ao Projeto não foram apresentadas emendas.
     Data: 25/11/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: A matéria será publicada no Diário do Congresso Nacional.
-Calendário de tramitação de projetos de lei de créditos adicionais - PLN 37/2024 (Art. 112, da Res. 1/2006-CN):
-- Data do despacho: 25/11/2024
-- Publicação em avulso eletrônico: de 25/11/2024 a 25/11/2024
-- Apresentação de emendas: de 25/11/2024 (15h) a 26/11/2024 (12h)
-- Publicação em avulso eletrônico das emendas: de 26/11/2024 (12h) a 26/11/2024 (14h)
-- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 26/11/2024 (14h) a
-28/11/2024 (14h)
-A matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.
-* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.
-Ação:
-Publicado no DCN Páginas 47 - DCN nº 44
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Recebida, em 12/11/2024, retificação da Mensagem nº 1.287, de 2024 do PLN 37/2024.
-Ação:
-Publicado no DCN Páginas 67-96 - DCN nº 42
-pg
-3
-Atividade Legislativa
-Projeto de Lei do Congresso Nacional n° 37, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 21/10/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Recebida, em 21/10/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado
-Federal.
-Ação:
+    Ação: Não disponível
     Data: 15/10/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: AGUARDANDO DESPACHO
@@ -153,15 +142,11 @@ suplementar no valor de R$ 200.329.507,00, para reforço de dotações constante
     Autor: Senado Federal
     Local: Mesa Diretora do Congresso Nacional
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-4
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 37, de 2024
 DOCUMENTOS
 MSG 1287/2024 - Presidência
-    Documento: pg
-4
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 37, de 2024
 DOCUMENTOS
 MSG 1287/2024 - Presidência
@@ -197,7 +182,7 @@ S.A., da Petrobras Biocombustível S.A., da Companhia Docas do Ceará, e da Empr
 crédito suplementar no valor de R$ 200.329.507,00, para reforço de dotações constantes da Lei Orçamentária vigente.
     Documento: Decisão de Comissão
     Data: 17/12/2024
-    Autor: pg
+    Autor: Atividade Legislativa
     Local: Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Ação legislativa: Não disponível
     Descrição/ementa: APROVA, o Relatório do Deputado JADYEL ALENCAR, favorável ao Projeto de Lei nº 37/2024-CN na forma proposta pelo Poder
@@ -233,7 +218,7 @@ Projeto de Lei do Congresso Nacional n° 37, de 2024.
     Documento: Autógrafo - PLN 37/2024
     Data: 19/12/2024
     Autor: Senado Federal
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Não disponível
     Descrição/ementa: Abre ao Orçamento de Investimento da União, em favor do Banco da Amazônia S.A., da Eletrobras Termonuclear S.A., da
 Petrobras Biocombustível S.A., da Companhia Docas do Ceará, e da Empresa Brasileira de Infraestrutura Aeroportuária, crédito

@@ -3,16 +3,27 @@ Autoria: Presidência da República
 Ementa: Abre crédito extraordinário, em favor da Justiça Federal, da Defensoria Pública da União, do Ministério do Trabalho e
 Emprego, e de Encargos Financeiros da União, no valor de R$ 2.036.694.007,00, para os fins que especifica.
 Explicação da ementa: Essa Medida Provisória tem o objetivo de prover recursos extraordinários para a execução de
+medidas emergenciais relacionadas ao enfrentamento do estado de calamidade pública no
+Estado do Rio Grande do Sul, destinados a recuperar os danos à infraestrutura dos serviços
+públicos, bem como ao atendimento das famílias atingidas por esses eventos climáticos, cuja
+realização está a cargo dos órgãos envolvidos, da seguinte forma: a) Justiça Federal: para
+recuperação de suas unidades no Estado do Rio Grande Sul, no âmbito da Justiça Federal de
+Primeiro Grau e do Tribunal Regional Federal da 4ª Região; b) Defensoria Pública União - DPU:
+para o fortalecimento da prestação de assistência jurídica integral e gratuita às pessoas
+residentes nos municípios do Estado do Rio Grande do Sul, em complementação aos recursos
+aprovados pela Medida Provisória nº 1.223, de 2024, que se mostraram insuficientes; c)
+Ministério do Trabalho e Emprego - MTE: para o apoio financeiro a trabalhadores com vínculo
+formal de emprego, trabalhadores domésticos e pescadores profissionais artesanais residentes
+em áreas em situação de calamidade pública, conforme estabelecido pelas Medidas Provisórias
+nº 1.230 e nº 1.234, de 2024; d) Encargos Financeiros da União, com recursos sob supervisão do
+Ministério da Fazenda: para arcar com as despesas quanto a indenizações e restituições
+relativas ao Programa de Garantia da Atividade Agropecuária – PROAGRO.
 Assunto: Orçamento Público  - Crédito Adicional
 Despacho: 04/07/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (CN-CMO) Comissão Mista de Planos, Orçamentos Públicos e
 Fiscalização
-pg
-1
-Atividade Legislativa
-Medida Provisória n° 1237, de 2024
 Relatoria: CMO - (Comissão Mista de Planos, Orçamentos Públicos e Fiscalização)
 Relator(es):
 Deputado Federal Márcio Biolchi (encerrado em 16/10/2024 -
@@ -31,13 +42,7 @@ Tramitação:
     Data: 31/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Remetido Ofício CN nº 308 de 31/10/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a
-Mensagem CN nº 105/24, ao Excelentíssimo Senhor Presidente da República, comunicando a aprovação da Medida Provisória e
-sua publicação como Lei nº 15.010, de 30 de outubro de 2024, no Diário Oficial da União.
-Remetido Ofício CN nº 309 de 31/10/24, ao Senhor Presidente da Câmara dos Deputados, participando a promulgação da
-matéria, bem como o envio do texto promulgado para o arquivo daquela Casa.
-Ação:
-Publicado no DCN Páginas 81-85 - DCN nº 40
+    Ação: Não disponível
     Data: 31/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: TRANSFORMADA EM NORMA JURÍDICA
@@ -48,8 +53,7 @@ Promulgada em 30/10/2024.
     Data: 30/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 29/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA A MEDIDA PROVISÓRIA
@@ -67,65 +71,27 @@ Será feita a devida comunicação à Câmara dos Deputados.
     Data: 22/10/2024
     Órgão: MESA - Mesa Diretora da Câmara dos Deputados
     Situação: Não disponível
-    Ação: Apresentação do Autógrafo.
-Remessa ao Senado Federal por meio do Of. nº 146/2024/SGM-P.
-Ação:
+    Ação: Não disponível
     Data: 17/10/2024
     Órgão: MESA - Mesa Diretora da Câmara dos Deputados
     Situação: Não disponível
-    Ação: Apresentação da RDF n. 1 PLEN (Redação Final), pelo Deputado Florentino Neto (PT/PI -Fdr PT-PCdoB-PV).
-Ação:
+    Ação: Não disponível
     Data: 17/10/2024
     Órgão: CCP - COORDENAÇÃO DE COMISSÕES PERMANENTES
     Situação: Não disponível
-    Ação: pg
-2
-Atividade Legislativa
-Medida Provisória n° 1237, de 2024
-TRAMITAÇÃO
-Encaminhada à publicação. Publicação Inicial em avulso e no DCD de 18/10/2024.
-Ação:
+    Ação: Não disponível
     Data: 17/10/2024
     Órgão: MESA - Mesa Diretora da Câmara dos Deputados
     Situação: Não disponível
-    Ação: Recebida a Mensagem nº 486/2024, do Poder Executivo, que submete à apreciação do Congresso Nacional o texto da Medida
-Provisória nº 1237/2024.
-Ação:
+    Ação: Não disponível
     Data: 17/10/2024
     Órgão: PLEN - Plenário
     Situação: Não disponível
-    Ação: Leitura do recebimento do Ofício nº 293/2024, do Congresso Nacional (CN), que encaminha o processado da Medida Provisória
-nº 1.237/2024 (Sessão Deliberativa Extraordinária de 17/10/2024 – 9h - 179ª Sessão).
-Discussão em turno único.
-Discutiu a Matéria a Dep. Erika Kokay (PT-DF).
-Encerrada a discussão.
-Votação em turno único.
-Encaminhou a Votação da Matéria a Dep. Bia Kicis (PL-DF).
-Votação preliminar em turno único.
-Aprovado, em apreciação preliminar, o Parecer da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, na parte em
-que manifesta opinião favorável quanto ao atendimento dos pressupostos constitucionais de relevância e urgência e de sua
-adequação financeira e orçamentária, nos termos do artigo 8º da Resolução nº 01, de 2002-CN.
-Votação, quanto ao mérito, em turno único.
-Aprovada a Medida Provisória nº 1.237, de 2024.
-Votação da Redação Final.
-Aprovada a Redação Final assinada pelo Dep. Florentino Neto (PT/PI).
-A matéria vai ao Senado Federal (MPV 1.237-A/2024).
-Apresentação da MSC n. 486/2024 (Mensagem), pelo Poder Executivo, que "Submete à apreciação do Congresso Nacional o
-texto da Medida Provisória nº 1237/2024, que “Abre crédito extraordinário, em favor da Justiça Federal, da Defensoria Pública
-da União, do Ministério do Trabalho e Emprego, e de Encargos Financeiros da União, no valor de R$ 2.036.694.007,00, para os
-fins que especifica.”".
-Ação:
+    Ação: Não disponível
     Data: 17/10/2024
     Órgão: MESA - Mesa Diretora da Câmara dos Deputados
     Situação: Não disponível
-    Ação: Recebido o Ofício nº 293/2024, do Congresso Nacional, que encaminha o processado da Medida Provisória nº 1237/2024.
-Informa, ainda, que à Medida não foram oferecidas emendas e que a Comissão Mista de Planos, Orçamentos Públicos e
-Ficalização, emitiu o Parecer nº 28, de 2024-CN, que conclui pela aprovação da matéria.
-Recebida a Mensagem nº 486/2024, do Poder Executivo, que submete à apreciação do Congresso Nacional o texto da Medida
-Provisória nº 1237/2024.
-Recebido o Parecer nº 28, de 2024-CN, da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização, destinada a apreciar a
-MPV 1237/2024,
-Ação:
+    Ação: Não disponível
     Data: 17/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: MEDIDA PROVISÓRIA ENVIADA À CÂMARA DOS DEPUTADOS
@@ -137,26 +103,15 @@ de 2024-CN, que conclui pela aprovação da matéria.
     Data: 16/10/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Será feita a publicação, no Diário do Congresso Nacional de 17/10/2024, do Parecer nº 28, de 2024, da Comissão Mista de
-Planos, Orçamentos Públicos e Fiscalização, que concluiu pela aprovação da Medida Provisória nº 1.237, de 2024, sem alteração
-de mérito, conforme o texto proposto pelo Poder Executivo.
-À Secretaria de Expediente para envio à Câmara dos Deputados.
-Ação:
-pg
-3
-Atividade Legislativa
-Medida Provisória n° 1237, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 16/10/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Jorge Seif por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 16/10/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Deputado Márcio Biolchi por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 16/10/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: APROVADO PARECER NA COMISSÃO
@@ -172,10 +127,7 @@ Poder Executivo. Não foram apresentadas emendas à Medida Provisória.
     Data: 22/08/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Prorrogação do prazo para Deliberação da Medida Provisória por 60 dias. Data final após prorrogação: 31/10/2024. Motivação:
-ATO DO PRESIDENTE DA MESA DO CONGRESSO NACIONAL Nº 65, DE 2024.
-Ação:
-Publicado no DCN Páginas 233 - DCN nº 30
+    Ação: Não disponível
     Data: 13/08/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: MATÉRIA COM A RELATORIA
@@ -183,9 +135,7 @@ Publicado no DCN Páginas 233 - DCN nº 30
     Data: 18/07/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Prazo para deliberação da Medida Provisória alterado em virtude da não interrupção da Sessão Legislativa, nos termos do § 2º
-do art. 57, combinado com o § 4º do art. 62, ambos da Constituição Federal.
-Ação:
+    Ação: Não disponível
     Data: 11/07/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
@@ -193,19 +143,11 @@ Ação:
     Data: 10/07/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Anexada Nota Técnica nº 35/2024, que contém subsídios para análise de adequação orçamentária e financeira da Medida
-Provisória nº 1237/2024, elaborada pela Consultoria de Orçamento e Fiscalização Financeira da Câmara dos Deputados.
-Ação:
-pg
-4
-Atividade Legislativa
-Medida Provisória n° 1237, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 08/07/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Aguardando recebimento de emendas.
-Ação:
+    Ação: Não disponível
     Data: 04/07/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: MATÉRIA DESPACHADA
@@ -228,10 +170,7 @@ Deputados e do Senado Federal (art. 62, § 9º - CF / Ação Direta de Inconstit
     Data: 04/07/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Publicada no DOU de 04/07/2024, na página 22, a Medida Provisória 1237/2024.
-Ação:
-Publicado no DSF Páginas 98-112 - DSF nº 186
-Publicado no DOU Páginas 22
+    Ação: Não disponível
 Documentos: 
     Documento: MPV 1237/2024
     Data: 04/07/2024
@@ -274,9 +213,7 @@ Documentos:
     Autor: Presidente da Mesa do Congresso Nacional
     Local: null
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-6
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Medida Provisória n° 1237, de 2024
 DOCUMENTOS
 Prorroga o prazo de vigência da Medida Provisória nº 1237/2024, pelo período de sessenta dias.
@@ -311,7 +248,7 @@ de Encargos Financeiros da União, no valor de R$ 2.036.694.007,00, para os fins
     Documento: Autógrafo aprovado na
     Data: 22/10/2024
     Autor: Câmara dos Deputados
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Não disponível
     Descrição/ementa: Abre crédito extraordinário em favor da Justiça Federal, da Defensoria Pública da União, do Ministério do Trabalho e Emprego e
 de Encargos Financeiros da União, no valor de R$ 2.036.694.007,00 (dois bilhões trinta e seis milhões seiscentos e noventa e
@@ -346,9 +283,7 @@ quatro mil e sete reais), para os fins que especifica.
     Autor: Presidente do Congresso Nacional
     Local: Mesa Diretora do Congresso Nacional
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-8
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Medida Provisória n° 1237, de 2024
 DOCUMENTOS
 sua publicação como Lei nº 15.010, de 30 de outubro de 2024, no Diário Oficial da União.

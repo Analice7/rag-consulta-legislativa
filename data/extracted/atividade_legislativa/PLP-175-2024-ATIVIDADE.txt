@@ -7,10 +7,6 @@ Despacho: 12/11/2024
 Decisão da Presidência
 Ao Plenário
 (SF-PLEN) Plenário do Senado Federal
-pg
-1
-Atividade Legislativa
-Projeto de Lei Complementar n° 175, de 2024
 Relatoria: PLEN - (Plenário do Senado Federal)
 Relator(es):
 Senador Angelo Coronel (Relator Geral) (encerrado em
@@ -24,18 +20,11 @@ Tramitação:
     Data: 26/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: (PR) PRESIDÊNCIA DA REPÚBLICA.
-SANCIONADA. LEI COMPLEMENTAR nº 210 DE 2024.
-DOU (Diário Oficial da União) - 26/11/2024 - Seção I - págs. 1 a 3.
-Sancionada em 25/11/2024.
-Ação:
+    Ação: Não disponível
     Data: 22/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício da Câmara dos Deputados nº 601, de 2024, na origem, que comunica o envio à sanção do
-Projeto de Lei Complementar nº 175, de 2024.
-A matéria vai à Secretaria de Expediente.
-Ação:
+    Ação: Não disponível
     Data: 21/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: REMETIDA À CÂMARA DOS DEPUTADOS
@@ -44,8 +33,7 @@ Federal aprovou, em revisão, nos termos do substitutivo, o Projeto.
     Data: 21/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 18/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADO O SUBSTITUTIVO
@@ -70,236 +58,151 @@ A matéria retorna à Câmara dos Deputados.
     Data: 18/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento nº 794, de 2024, da Liderança do PSB, de retirada do Requerimento nº 777, de 2024.
-Ação:
+    Ação: Não disponível
     Data: 16/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Incluído em Ordem do Dia da Sessão Deliberativa Extraordinária Semipresencial de 18/11/2024.
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei Complementar n° 175, de 2024
-TRAMITAÇÃO
-Continuação da votação, em turno único.
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: (Continuação da Sessão Deliberativa Ordinária iniciada em 12/11/2024)
-Encaminhadas à publicação as emendas nºs 1 a 44, 46 e 47.
-Retirada, pelo autor, a Emenda nº 21, à luz do Requerimento nº 776, de 2024, encaminhado à publicação.
-Retirada, pelo autor, a Emenda nº 29, à luz do Requerimento nº 785, de 2024.
-Encaminhado à publicação - e aprovado – o Requerimento nº 774, de 2024, por meio do qual se solicita urgência para a matéria.
-Encaminhado à publicação o Parecer nº 188, de 2024-PLEN/SF, proferido pelo Senador Angelo Coronel, o qual é favorável ao
-projeto e pelo acolhimento parcial das emendas nºs 6, 10, 12, 21, 24, 25, 30, 34, 35, 39, 40 e 44, na forma da Emenda nº 45
-(substitutivo), que apresenta, e pela rejeição das demais emendas.
-Encaminhado à publicação - e retirado – o Requerimento nº 783, de 2024, de destaque, para votação em separado, da Emenda
-nº 20.
-Encaminhado à publicação - e retirado – o Requerimento nº 784, de 2024, de destaque, para votação em separado, da Emenda
-nº 6.
-Encerrada a discussão da matéria.
-Aprovada a Emenda nº 45 (substitutivo), nos termos do parecer, em votação nominal, ressalvados os destaques, após o seguinte
-resultado: sim – 46; não - 18; Presidente – 1; abstenção - 1; total – 66. Ficam prejudicados o projeto e as demais emendas.
-Suspensa a apreciação da matéria.
-(Encaminhados a publicações os requerimentos nºs 777, 787, 788 e 789, de 2024)
-Ação:
-Publicado no DSF Páginas 72-102 - DSF nº 195
-Publicado no DSF Páginas 281-414 - DSF nº 195
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 47, do Senador Randolfe Rodrigues.
-Ação:
-Publicado no DSF Páginas 281-367 - DSF nº 195
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 46, do Senador Randolfe Rodrigues.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento n° 789, de 2024, da liderança do PT, de destaque para votação em separado do parágrafo primeiro do
-art. 11, inserido pelo Substitutivo do Relator.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento n° 788, de 2024, da liderança do União, de destaque para votação em separado do §4º do art. 4º
-inserido pelo Substitutivo do Relator.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento n° 787, de 2024, da liderança do PL, de destaque da expressão "e o bloqueio" do caput e do §3º, bem
-como a supressão integral dos §§ 1º, 2º, 4º e 5º do art. 12 inseridos pelo Substitutivo do Relator.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 44, do Senador Rogério Carvalho.
-Ação:
-pg
-3
-Atividade Legislativa
-Projeto de Lei Complementar n° 175, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 43, da Senadora Damares Alves.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 42, do Senador Rodrigo Cunha.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 41, do Senador Flávio Arns e outros.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Relatório do Senador Angelo Coronel.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento nº 785, de 2024, do Senador Alessandro Vieira, solicitando a retirada definitiva da Emenda n° 29.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento n° 784, de 2024, da liderança do Podemos, de destaque para votação em separado da Emenda nº 6.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento n° 783, de 2024, da Liderança do PP, de destaque para votação em separado da Emenda nº 20
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 40, do Senador Hamilton Mourão.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 39, do Senador Flávio Arns.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 38, do Senador Randolfe Rodrigues.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 37, da Senadora Professora Dorinha Seabra.
-Ação:
-pg
-4
-Atividade Legislativa
-Projeto de Lei Complementar n° 175, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 36, do Senador Sérgio Moro.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento n° 777, de 2024, da Liderança do PSB, de destaque para votação em separado do inciso I do art. 5º do
-PLP 175/2024.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebidas as Emendas nºs 34 e 35, do Senador Mecias de Jesus.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebidas as Emendas nºs 27 a 33, do Senador Alessandro Vieira.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 26, do Senador Lucas Barreto.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido, em 13/11/2024, o Requerimento nº 776, de 2024, do Senador Rogerio Marinho, solicitando a retirada definitiva da
-Emenda n° 21.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 25, do Senador Confúcio Moura.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 24, da Senadora Professora Dorinha Seabra.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebidas as Emendas nºs 21 a 23, do Senador Rogerio Marinho.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 20, da Senadora Tereza Cristina.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebidas as Emendas nºs 14 a 19, da Senadora Professora Dorinha Seabra.
-Ação:
-pg
-5
-Atividade Legislativa
-Projeto de Lei Complementar n° 175, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebidas as Emendas nºs 11 a 13, do Senador Alan Rick.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento nº 774, de 2024, de Líderes, solicitando urgência para a matéria.
-Ação:
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 10, do Senador Lucas Barreto.
-(Pendente de apresentação de requerimento de urgência).
-Ação:
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Designado Relator de Plenário o Senador Angelo Coronel.
-Ação:
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 9, do Senador Mecias de Jesus.
-(Pendente de apresentação de requerimento de urgência).
-Ação:
+    Ação: Não disponível
     Data: 11/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebidas as Emendas nºs 1 a 8, da Senadora Soraya Thronicke.
-(Pendente de apresentação de requerimento de urgência).
-Ação:
+    Ação: Não disponível
     Data: 10/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: INCLUÍDA EM ORDEM DO DIA
@@ -345,9 +248,7 @@ Documentos:
     Autor: Senadora Soraya Thronicke (PODEMOS/MS)
     Local: Plenário do Senado Federal
     Ação legislativa: Recebidas as Emendas nºs 1 a 8, da Senadora Soraya Thronicke.
-    Descrição/ementa: pg
-7
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei Complementar n° 175, de 2024
 DOCUMENTOS
 (Pendente de apresentação de requerimento de urgência).
@@ -381,9 +282,7 @@ Emenda  ao PLP 175/2024 - emendas de comissão 2 (enviado por 61987417100 em 11-
     Autor: Senador Mecias de Jesus (REPUBLICANOS/RR)
     Local: Plenário do Senado Federal
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-8
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei Complementar n° 175, de 2024
 DOCUMENTOS
 Emenda  ao PLP 175/2024
@@ -421,7 +320,7 @@ do Senado Federal.
     Documento: EMENDA 22 PLEN - PLP
     Data: 13/11/2024
     Autor: Senador Rogerio Marinho (PL/RN)
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Recebidas as Emendas nºs 21 a 23, do Senador Rogerio Marinho.
     Descrição/ementa: Emenda  ao PLP 175/2024 - impedimentos técnicos
     Documento: EMENDA 23 PLEN - PLP
@@ -457,7 +356,7 @@ do Senado Federal.
     Documento: EMENDA 16 PLEN - PLP
     Data: 13/11/2024
     Autor: Senadora Professora Dorinha Seabra (UNIÃO/TO)
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Recebidas as Emendas nºs 14 a 19, da Senadora Professora Dorinha Seabra.
     Descrição/ementa: Emenda  ao PLP 175/2024 - Restricao a valor de transferencia especial
     Documento: EMENDA 17 PLEN - PLP
@@ -493,7 +392,7 @@ do Senado Federal.
     Documento: EMENDA 26 PLEN - PLP
     Data: 13/11/2024
     Autor: Senador Lucas Barreto (PSD/AP)
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Recebida a Emenda nº 26, do Senador Lucas Barreto.
     Descrição/ementa: Emenda  ao PLP 175/2024 - Insere § 4º - Art. 3º
     Documento: RQS 776/2024
@@ -529,7 +428,7 @@ do Senado Federal.
     Documento: EMENDA 31 PLEN - PLP
     Data: 13/11/2024
     Autor: Senador Alessandro Vieira (MDB/SE)
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Recebidas as Emendas nºs 27 a 33, do Senador Alessandro Vieira.
     Descrição/ementa: Emenda  ao PLP 175/2024 - Proporção comissão bancada partidária
     Documento: EMENDA 32 PLEN - PLP
@@ -565,7 +464,7 @@ do Senado Federal.
     Documento: EMENDA 36 PLEN - PLP
     Data: 13/11/2024
     Autor: Senador Sergio Moro (UNIÃO/PR)
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Recebida a Emenda nº 36, do Senador Sérgio Moro.
     Descrição/ementa: Emenda ao PLP 175/2024 - Supressão parágrafo único do art. 12
     Documento: EMENDA 37 PLEN - PLP
@@ -602,7 +501,7 @@ do Senado Federal.
     Documento: RQS 784/2024
     Data: 13/11/2024
     Autor: Líder do PODEMOS Rodrigo Cunha (PODEMOS/AL)
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Recebido o Requerimento n° 784, de 2024, da liderança do Podemos, de destaque para votação em separado da Emenda nº 6.
     Descrição/ementa: Requer, pela Liderança do Podemos, destaque para votação em separado da Emenda nº 6 ao Projeto de Lei Complementar nº
 175/2024.
@@ -638,7 +537,7 @@ do Senado Federal.
     Descrição/ementa: Emenda para dar rastreabilidade e transparência às emendas PIX (PLP 175/2024)
     Documento: EMENDA 44 PLEN - PLP
     Data: 13/11/2024
-    Autor: pg
+    Autor: Atividade Legislativa
     Local: Plenário do Senado Federal
     Ação legislativa: Recebida a Emenda nº 44, do Senador Rogério Carvalho.
     Descrição/ementa: Emenda  ao PLP 175/2024
@@ -675,8 +574,7 @@ do Senado Federal.
     Ação legislativa: Não disponível
     Descrição/ementa: Votação nominal da Emenda nº 45(Substitutivo) ao PLP nº 175/2024, nos termos do parecer, ressalvados os destaques
     Documento: EMENDA 47 PLEN - PLP
-pg
-16
+
 Atividade Legislativa
 Projeto de Lei Complementar n° 175, de 2024
 DOCUMENTOS
@@ -700,7 +598,7 @@ DOCUMENTOS
     Documento: Avulso de emendas
     Data: 13/11/2024
     Autor: Senado Federal
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Recebida a Emenda nº 47, do Senador Randolfe Rodrigues.
     Descrição/ementa: -
     Documento: RQS 794/2024
@@ -732,9 +630,7 @@ DOCUMENTOS
     Autor: Comissão Diretora do Senado Federal
     Local: Plenário do Senado Federal
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-18
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei Complementar n° 175, de 2024
 DOCUMENTOS
 para o turno suplementar.

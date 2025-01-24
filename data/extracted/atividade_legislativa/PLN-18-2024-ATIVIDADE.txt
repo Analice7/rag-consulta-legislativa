@@ -3,12 +3,34 @@ Autoria: Presidência da República
 Ementa: Abre ao Orçamento Fiscal da União, em favor da Justiça Federal, crédito especial no valor de R$ 500.000,00, para o fim
 que especifica.
 Explicação da ementa: Propõe a abertura de crédito especial visando incluir nova categoria de programação no
+orçamento vigente, no âmbito da Justiça Federal de Primeiro Grau, com o objetivo de
+possibilitar o início do processo de elaboração dos estudos técnicos, serviços iniciais e
+desenvolvimento dos projetos para a futura construção da nova sede da Justiça Federal de
+Joinville, no Estado de Santa Catarina.
 Assunto: Orçamento Público  - Crédito Adicional
 Despacho: 05/08/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (CN-CMO) Comissão Mista de Planos, Orçamentos Públicos e
 Fiscalização
+TRAMITAÇÃO
+23/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15057 DE 2024.
+DOUE (Diário Oficial da União - Edição Extra) - 23/12/2024 - Seção I - págs. 11 e 11.
+Sancionada em 23/12/2024.
+Ação:
+19/12/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício CN nº 384, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a
+Mensagem CN nº 137/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do
+Projeto.
+Ação:
 Relatoria: CMO - (Comissão Mista de Planos, Orçamentos Públicos e Fiscalização)
 Relator(es):
 Deputado Federal Cobalchini (encerrado em 10/09/2024 -
@@ -38,8 +60,7 @@ Projeto.
     Data: 18/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Congresso Nacional
     Situação: APROVADA
@@ -60,8 +81,7 @@ Aprovado o Projeto, na Câmara dos Deputados e no Senado Federal.
     Data: 10/09/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Deputado Cobalchini por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 10/09/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: APROVADO PARECER NA COMISSÃO
@@ -72,8 +92,7 @@ Poder Executivo. Ao projeto não foram apresentadas emendas.
     Data: 10/09/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Na continuação da Nona Reunião, Extraordinária, em 10.9.2024, aprovada a inclusão da matéria na pauta.
-Ação:
+    Ação: Não disponível
     Data: 03/09/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: PRONTA PARA A PAUTA NA COMISSÃO
@@ -94,23 +113,11 @@ Poder Executivo. Ao Projeto não foram apresentadas emendas.
     Data: 05/08/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: A matéria será publicada no Diário do Congresso Nacional.
-Calendário de tramitação de projetos de lei de créditos adicionais - PLN 18/2024 (Art. 112, da Res. 1/2006-CN):
-- Data do despacho: 05/08/2024
-- Publicação em avulso eletrônico: de 05/08/2024 a 09/08/2024
-- Apresentação de emendas: de 10/08/2024 a 19/08/2024
-- Publicação em avulso eletrônico das emendas: de 20/08/2024 a 24/08/2024
-- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 25/08/2024 a 08/09/2024
-A matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.
-* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.
-Ação:
-Publicado no DCN Páginas 560-567 - DCN nº 28
+    Ação: Não disponível
     Data: 17/07/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Recebida, em 17/07/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado
-Federal.
-Ação:
+    Ação: Não disponível
     Data: 05/07/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: AGUARDANDO DESPACHO
@@ -142,8 +149,7 @@ Documentos:
     Ação legislativa: Não disponível
     Descrição/ementa: -
     Documento: Ofício
-pg
-4
+
 Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 18, de 2024
 DOCUMENTOS
@@ -184,7 +190,7 @@ fim que especifica.
     Documento: MPCN 137/2024
     Data: 19/12/2024
     Autor: Presidente do Congresso Nacional
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Não disponível
     Descrição/ementa: Encaminha à sanção o Projeto de Lei do Congresso Nacional n° 18, de 2024.
     Documento: OFCN 384/2024

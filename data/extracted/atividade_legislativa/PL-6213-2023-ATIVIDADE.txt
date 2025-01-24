@@ -8,6 +8,31 @@ Despacho: 07/02/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CI) Comissão de Serviços de Infraestrutura
+TRAMITAÇÃO
+19/12/2024
+SF-SEXPE - Secretaria de Expediente
+Remetido Ofício SF nº 1464, de 19/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando, para os
+devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1659, de 2024, na origem,
+restituindo autógrafos do Projeto de Lei n° 6213, de 2023, sancionado e transformado na Lei nº 15.045, de 16 de dezembro de
+2024.
+À COARQ.
+Ação:
+18/12/2024
+PLEN - Plenário do Senado Federal
+Encaminhada à publicação a Mensagem da Presidência da República n° 1.659, de 2024, na origem, que restitui autógrafo do
+Projeto de Lei nº 6.213, de 2023 (nº 8.121, de 2017, na Câmara dos Deputados), sancionado e convertido na Lei nº 15.045, de 16
+de dezembro de 2024.
+Será feita a devida comunicação à Câmara dos Deputados.
+Ação:
+17/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15045 DE 2024.
+DOU (Diário Oficial da União) - 17/12/2024 - Seção I - págs. 1 e 1.
+Sancionada em 16/12/2024.
+Ação:
 Relatoria: CI - (Comissão de Serviços de Infraestrutura)
 Relator(es):
 Senadora Teresa Leitão (encerrado em 12/11/2024 - Substituído
@@ -24,20 +49,11 @@ Tramitação:
     Data: 19/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Remetido Ofício SF nº 1464, de 19/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando, para os
-devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1659, de 2024, na origem,
-restituindo autógrafos do Projeto de Lei n° 6213, de 2023, sancionado e transformado na Lei nº 15.045, de 16 de dezembro de
-2024.
-À COARQ.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhada à publicação a Mensagem da Presidência da República n° 1.659, de 2024, na origem, que restitui autógrafo do
-Projeto de Lei nº 6.213, de 2023 (nº 8.121, de 2017, na Câmara dos Deputados), sancionado e convertido na Lei nº 15.045, de 16
-de dezembro de 2024.
-Será feita a devida comunicação à Câmara dos Deputados.
-Ação:
+    Ação: Não disponível
     Data: 17/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: TRANSFORMADA EM NORMA JURÍDICA
@@ -56,8 +72,7 @@ foi encaminhado à sanção presidencial.
     Data: 26/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 26/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -67,15 +82,11 @@ de Infraestrutura, vai à sanção, sobre o que será feita a devida comunicaç�
     Data: 26/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Anexado o texto final revisado.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 18/11/2024 a 25/11/2024.
-Perante a Mesa.
-Ação:
-Publicado no DSF Páginas 420 - DSF nº 195
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
@@ -86,18 +97,10 @@ membros da Casa, para que seja apreciada pelo Plenário, nos termos do art. 91, 
     Data: 12/11/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Reunida a Comissão nessa data, e tendo sido designado relator ad hoc o Senador Lucas Barreto, em substituição à Senadora
-Teresa Leitão, é aprovado terminativamente o projeto, com a emenda nº 1/CI.
-Juntado o parecer da Comissão, o texto final e o ofício que comunica ao Plenário a aprovação terminativa da matéria.
-À SLSF.
-Ação:
-Publicado no DSF Páginas 575-582 - DSF nº 194
-Publicado no DSF Páginas 421 - DSF nº 195
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
-    Situação: pg
-2
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei n° 6213, de 2023
 TRAMITAÇÃO
 INCLUÍDA NA PAUTA DA REUNIÃO
@@ -105,8 +108,7 @@ INCLUÍDA NA PAUTA DA REUNIÃO
     Data: 09/10/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Recebido, nessa data, relatório da Senadora Teresa Leitão com voto pela aprovação do projeto, com a emenda que apresenta.
-Ação:
+    Ação: Não disponível
     Data: 02/05/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: MATÉRIA COM A RELATORIA
@@ -118,15 +120,11 @@ Ação:
     Data: 08/02/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Prazo para apresentação de emendas a projeto terminativo em comissão (art. 122, II, c, do RISF): primeiro dia - 09/02/2024;
-último dia - 20/02/2024.
-Ação:
+    Ação: Não disponível
     Data: 07/02/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 09/02/2024 a 20/02/2024.
-Perante a CI.
-Ação:
+    Ação: Não disponível
     Data: 07/02/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -176,9 +174,7 @@ Caçapava do Sul, no Estado do Rio Grande do Sul.
     Ação legislativa: Não disponível
     Descrição/ementa: Denomina Ponte Nicanor Azambuja, João Dóglia e Diogo Madruga a ponte sobre o Rio Camaquã, na rodovia BR-153, na divisa
 dos Municípios de Bagé e Caçapava do Sul, no Estado do Rio Grande do Sul.
-    Documento: pg
-4
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 6213, de 2023
 DOCUMENTOS
 Ofício
@@ -214,9 +210,7 @@ dos Municípios de Bagé e Caçapava do Sul, no Estado do Rio Grande do Sul.
     Local: Comissão Diretora do Senado Federal
     Ação legislativa: Não disponível
     Descrição/ementa: Encaminha à sanção o Projeto de Lei n° 6213, de 2023.
-    Documento: pg
-5
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 6213, de 2023
 DOCUMENTOS
 OFSF 1313/2024
@@ -251,9 +245,7 @@ dos Municípios de Bagé e Caçapava do Sul, no Estado do Rio Grande do Sul.
     Local: Plenário do Senado Federal
     Ação legislativa: Não disponível
     Descrição/ementa: Comunica a restituição do autógrafo sancionado e a Lei nº 15.045, de 16 de dezembro de 2024, promulgada.
-    Documento: pg
-6
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 6213, de 2023
 DOCUMENTOS
 Autógrafo restituído após

@@ -7,6 +7,27 @@ Despacho: 04/03/2022
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CE) Comissão de Educação e Cultura
+TRAMITAÇÃO
+13/11/2024
+SF-SEXPE - Secretaria de Expediente
+Remetido Ofício SF n.º 1274, de 13/11/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+encaminhando a Mensagem SF n.º 233/24, ao Excelentíssimo Senhor Presidente da República, participando a promulgação da
+Lei nº 15.015, de 12 de novembro de 2024, nos termos do § 7º do art. 66 da Constituição Federal.
+Remetido Ofício SF n.º 1275, de 13/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que foi
+promulgada pelo Senhor Presidente do Senado Federal, nos termos do § 7º do art. 66 da Constituição Federal, a Lei nº 15.015,
+de 12 de novembro de 2024.
+Ação:
+13/11/2024
+SF-SEXPE - Secretaria de Expediente
+(CN) MESA.
+PROMULGADA. LEI N° 15015 DE 2024.
+DOU (Diário Oficial da União) - 13/11/2024 - Seção I - pág. 9.
+Promulgada em 12/11/2024.
+Ação:
+11/11/2024
+PLEN - Plenário do Senado Federal
+Encaminhado à publicação o Ofício nº 1.556, de 2024, na origem, do Ministro de Estado Chefe da Casa Civil da Presidência da
+Ação:
 Relatoria: CE - (Comissão de Educação e Cultura)
 Relator(es):
 Senador Dário Berger (encerrado em 10/01/2023 - Fim de
@@ -25,43 +46,19 @@ Tramitação:
     Data: 13/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Remetido Ofício SF n.º 1274, de 13/11/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 233/24, ao Excelentíssimo Senhor Presidente da República, participando a promulgação da
-Lei nº 15.015, de 12 de novembro de 2024, nos termos do § 7º do art. 66 da Constituição Federal.
-Remetido Ofício SF n.º 1275, de 13/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que foi
-promulgada pelo Senhor Presidente do Senado Federal, nos termos do § 7º do art. 66 da Constituição Federal, a Lei nº 15.015,
-de 12 de novembro de 2024.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: (CN) MESA.
-PROMULGADA. LEI N° 15015 DE 2024.
-DOU (Diário Oficial da União) - 13/11/2024 - Seção I - pág. 9.
-Promulgada em 12/11/2024.
-Ação:
+    Ação: Não disponível
     Data: 11/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício nº 1.556, de 2024, na origem, do Ministro de Estado Chefe da Casa Civil da Presidência da
-Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 1039, de 2020
-TRAMITAÇÃO
-República, que restitui o autógrafo do presente projeto, não sancionado expressamente.
-A matéria vai à promulgação, nos termos do § 7º do art. 66 da Constituição Federal.
-Publicado no DSF Páginas 74-75 - DSF nº 193
+    Ação: Não disponível
     Data: 17/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício da Câmara dos Deputados n° 365, de 2024, na origem, que comunica o envio à sanção do
-Projeto de Lei nº 1.039, de 2020.
-A matéria vai à Secretaria de Expediente.
-Ação:
-Publicado no DSF Páginas 82 - DSF nº 179
-Publicado no DSF Páginas 84 - DSF nº 179
+    Ação: Não disponível
     Data: 18/05/2023
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: REMETIDA À CÂMARA DOS DEPUTADOS
@@ -70,8 +67,7 @@ projeto para revisão, nos termos do art. 65 da Constituição Federal.
     Data: 12/05/2023
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 12/05/2023
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -81,14 +77,11 @@ A matéria, aprovada terminativamente pela CE, vai à Câmara dos Deputados.
     Data: 12/05/2023
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Anexado o texto final revisado.
-Ação:
+    Ação: Não disponível
     Data: 03/05/2023
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 05/05/2023 a 11/05/2023.
-Perante a Mesa.
-Ação:
+    Ação: Não disponível
     Data: 03/05/2023
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
@@ -118,8 +111,7 @@ membros da Casa, para que a matéria seja apreciada pelo Plenário, nos termos d
     Data: 21/12/2022
     Órgão: CE - Comissão de Educação e Cultura
     Situação: Não disponível
-    Ação: A proposição continua a tramitar, nos termos do art. 332 do Regimento Interno.
-Ação:
+    Ação: Não disponível
     Data: 20/12/2022
     Órgão: CE - Comissão de Educação e Cultura
     Situação: PRONTA PARA A PAUTA NA COMISSÃO
@@ -144,9 +136,7 @@ Matéria aguardando distribuição.
     Data: 04/03/2022
     Órgão: CE - Comissão de Educação e Cultura
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 08/03/2022 a 14/03/2022.
-Perante a CE.
-Ação:
+    Ação: Não disponível
     Data: 04/03/2022
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -155,14 +145,11 @@ Ação:
     Data: 27/03/2020
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação no DSF de 02/04/2020.
-Ação:
-Publicado no DSF Páginas 775-778 - DSF nº 28
+    Ação: Não disponível
     Data: 27/03/2020
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Leitura da matéria na sessão do SF nº1, em 27/03/2020.
-Ação:
+    Ação: Não disponível
 Documentos: 
     Documento: PL 1039/2020
     Data: 12/03/2020
@@ -211,9 +198,7 @@ Documentos:
     Autor: Presidente de Comissão
     Local: Comissão de Educação e Cultura
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-5
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 1039, de 2020
 DOCUMENTOS
 Ofício nº 66/2023/CE
@@ -253,9 +238,7 @@ Ofício nº 66/2023/CE
     Local: Plenário do Senado Federal
     Ação legislativa: Não disponível
     Descrição/ementa: Comunica a restituição de autógrafo para promulgação pelo Presidente do Senado Federal (sanção tácita).
-    Documento: pg
-6
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 1039, de 2020
 DOCUMENTOS
 Autógrafo - PL 1039/2020
@@ -288,6 +271,6 @@ termos dos §§ 3º e 7º do art. 66 da Constituição Federal.
     Documento: Autógrafo - PL 1039/2020
     Data: 13/11/2024
     Autor: Senado Federal
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Não disponível
     Descrição/ementa: Concede ao Município de Irineópolis, no Estado de Santa Catarina, o título de Capital Nacional do Trator.

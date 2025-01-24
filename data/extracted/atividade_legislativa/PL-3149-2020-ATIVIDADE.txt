@@ -9,6 +9,24 @@ Despacho: 04/12/2024
 Decisão da Presidência
 Ao Plenário
 (SF-PLEN) Plenário do Senado Federal
+TRAMITAÇÃO
+31/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15082 DE 2024. (vetada parcialmente: vide MSG 1709 de 2024).
+DOU (Diário Oficial da União) - 31/12/2024 - Seção I - págs. 868 e 869.
+Sancionada em 30/12/2024.
+À COARQ.
+Ação:
+09/12/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício SF n.º 1347, de 09/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+encaminhando a Mensagem SF n.º 250/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
+Ação:
 Tramitação encerrada: 
   Decisão: Aprovada pelo Plenário
   Destino: À sanção
@@ -32,8 +50,7 @@ encaminhando a Mensagem SF n.º 250/24, ao Excelentíssimo Senhor Presidente da 
     Data: 05/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 04/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -51,20 +68,15 @@ Será feita a devida comunicação à Câmara dos Deputados.
     Data: 04/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Designado Relator de Plenário o Senador Efraim Filho.
-Recebido o Relatório do Senador Efraim Filho.
-Ação:
+    Ação: Não disponível
     Data: 04/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 1, do Senador Veneziano Vital do Rêgo.
-Ação:
+    Ação: Não disponível
     Data: 02/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento nº 839 de 2024, dos Senadores Otto Alencar e Eliziane Gama, de oitiva da Comissão de Assuntos
-Econômicos.
-Ação:
+    Ação: Não disponível
     Data: 01/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: INCLUÍDA EM ORDEM DO DIA
@@ -74,13 +86,7 @@ arts. 336, III, e 338, III, do Regimento Interno).
     Data: 26/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento nº 825, de 2024, de Líderes, solicitando urgência para a matéria.
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei n° 3149, de 2020
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO DESPACHO
@@ -146,15 +152,11 @@ Federal.
     Autor: Senado Federal
     Local: Secretaria de Expediente
     Ação legislativa: Anexado o texto revisado.
-    Descrição/ementa: pg
-4
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 3149, de 2020
 DOCUMENTOS
 OFSF 1347/2024
-    Documento: pg
-4
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 3149, de 2020
 DOCUMENTOS
 OFSF 1347/2024

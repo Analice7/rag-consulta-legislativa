@@ -9,6 +9,19 @@ Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CCJ) Comissão de Constituição, Justiça e Cidadania
 (SF-CDR) Comissão de Desenvolvimento Regional e Turismo
+TRAMITAÇÃO
+27/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15073 DE 2024. (vetada parcialmente: vide MSG 1695 de 2024).
+DOU (Diário Oficial da União) - 27/12/2024 - Seção I - págs. 1 e 1.
+Sancionada em 26/12/2024.
+À COARQ.
+Ação:
+09/12/2024
+SF-SEXPE - Secretaria de Expediente
 Relatoria: CCJ - (Comissão de Constituição, Justiça e Cidadania)
 Relator(es):
 Senadora Augusta Brito (encerrado em 12/12/2023 - Retorno
@@ -38,9 +51,7 @@ Sancionada em 26/12/2024.
 À COARQ.
     Data: 09/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
-    Situação: pg
-1
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei n° 5637, de 2020
 TRAMITAÇÃO
 REMETIDA À SANÇÃO
@@ -52,8 +63,7 @@ foi encaminhado à sanção presidencial.
     Data: 06/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 04/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -75,9 +85,7 @@ solicitando urgência para a matéria, nos termos dos arts. 336, II, e 338, IV, 
     Data: 26/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, "d", do RISF). De 28/11/2024
-a 04/12/2024. Perante a Mesa.
-Ação:
+    Ação: Não disponível
     Data: 26/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA
@@ -86,13 +94,7 @@ II, "d", do Regimento Interno.
     Data: 26/11/2024
     Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
     Situação: Não disponível
-    Ação: Encerrada a relatoria da Senadora Augusta Brito por deliberação da matéria.
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei n° 5637, de 2020
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 26/11/2024
     Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
     Situação: APROVADO PARECER NA COMISSÃO
@@ -131,9 +133,7 @@ Senadora Augusta Brito.
     Ação: Distribuído à Senadora Janaína Farias, para emitir relatório.
     Data: 28/02/2024
     Órgão: CDR - Comissão de Desenvolvimento Regional e Turismo
-    Situação: pg
-3
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei n° 5637, de 2020
 TRAMITAÇÃO
 AGUARDANDO DESIGNAÇÃO DO RELATOR
@@ -141,8 +141,7 @@ AGUARDANDO DESIGNAÇÃO DO RELATOR
     Data: 28/02/2024
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: Não disponível
-    Ação: À CDR, para prosseguimento da tramitação.
-Ação:
+    Ação: Não disponível
     Data: 28/02/2024
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: APROVADO PARECER NA COMISSÃO
@@ -151,8 +150,7 @@ Senadora Augusta Brito, que passa a constituir o Parecer da CCJ, favorável ao P
     Data: 26/02/2024
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: Não disponível
-    Ação: Recebido Relatório reformulado pela Senadora Augusta Brito, com voto favorável ao Projeto, com uma Emenda que apresenta.
-Ação:
+    Ação: Não disponível
     Data: 26/02/2024
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: INCLUÍDA NA PAUTA DA REUNIÃO
@@ -177,14 +175,11 @@ Matéria pronta para a Pauta na Comissão.
     Data: 21/12/2022
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: A proposição continua a tramitar, nos termos do art. 332 do Regimento Interno.
-Ação:
+    Ação: Não disponível
     Data: 10/08/2022
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação, em 10/08/2022.
-Ação:
-Publicado no DSF Páginas 381-386 - DSF nº 123
+    Ação: Não disponível
 Documentos: 
     Documento: PL 5637/2020
     Data: 17/05/2022
@@ -215,7 +210,7 @@ facilitação do turismo sexual.
 facilitação do turismo sexual.
     Documento: Listagem ou relatório
     Data: 28/02/2024
-    Autor: pg
+    Autor: Atividade Legislativa
     Local: Comissão de Constituição, Justiça e Cidadania
     Ação legislativa: Não disponível
     Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 2ª Reunião CCJ
@@ -255,9 +250,7 @@ associadas à facilitação do turismo sexual.
     Local: Comissão de Desenvolvimento Regional e Turismo
     Ação legislativa: Não disponível
     Descrição/ementa: Requer, nos termos dos arts. 336, II, e 338, IV, do Regimento Interno do Senado Federal, urgência para o PL 5637/2020.
-    Documento: pg
-6
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 5637, de 2020
 DOCUMENTOS
 P.S 200/2024 - PLEN

@@ -5,12 +5,22 @@ Ementa: Autoriza transferência de capital, a título de contribuição, mediant
 Associações de Proteção e Assistência aos Condenados (APACs), em atenção ao disposto no § 6º do art. 12 da Lei nº
 4.320, de 17 de março de 1964.
 Explicação da ementa: Permite a transferência, mediante celebração de convênio, de recursos da União para as
+APACs, que são entidades privadas sem fins lucrativos têm por finalidade desenvolver nos
+presídios atividades relacionadas com a recuperação do preso.  Esses recursos devem ser
+aplicados na criação, ampliação ou reforma de suas instalações em unidades prisionais, bem
+como na aquisição de equipamentos.
 Assunto: Administração Pública  - Terceiro Setor, Parcerias Público-Privadas e Desestatização
 Despacho: 06/02/2020
 Leitura da Matéria
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CCJ) Comissão de Constituição, Justiça e Cidadania
 (SF-CAE) Comissão de Assuntos Econômicos
+TRAMITAÇÃO
+03/12/2024
+SF-SEXPE - Secretaria de Expediente
+Remetido Ofício SF nº 1330, de 02/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
+devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.525, de 2024, na origem,
+Ação:
 Relatoria: CAE - (Comissão de Assuntos Econômicos)
 Relator(es):
 Senador Magno Malta (encerrado em 15/10/2024 - Deliberação
@@ -37,25 +47,11 @@ Tramitação:
     Data: 03/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Remetido Ofício SF nº 1330, de 02/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
-devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.525, de 2024, na origem,
-Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 173, de 2020
-TRAMITAÇÃO
-restituindo autógrafos do Projeto de Lei n° 173, de 2020, sancionado e transformado na Lei nº 15.033, de 26 de novembro de
-2024.
-À COARQ.
+    Ação: Não disponível
     Data: 28/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhada à publicação a Mensagem da Presidência da República nº 1.525, de 2024, na origem, que restitui autógrafo do
-Projeto de Lei nº 173, de 2020 (nº 1.685/2011, na Câmara dos Deputados), sancionado e convertido na Lei nº 15.033, de 26 de
-novembro de 2024.
-Será feita a devida comunicação à Câmara dos Deputados.
-Ação:
+    Ação: Não disponível
     Data: 27/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: TRANSFORMADA EM NORMA JURÍDICA
@@ -74,8 +70,7 @@ foi encaminhado à sanção presidencial.
     Data: 31/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 30/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -92,14 +87,7 @@ Discussão, em turno único.
     Data: 24/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: pg
-2
-Atividade Legislativa
-Projeto de Lei n° 173, de 2020
-TRAMITAÇÃO
-Aguardando inclusão em Ordem do Dia.
-Discussão, em turno único.
-Ação:
+    Ação: Não disponível
     Data: 24/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: PRONTO PARA DELIBERAÇÃO DO PLENÁRIO
@@ -109,10 +97,7 @@ A matéria será incluída em Ordem do Dia oportunamente.
     Data: 15/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, "d", do RISF). De 17/10/2024
-a 23/10/2024. Perante a Mesa.
-Ação:
-Publicado no DSF Páginas 108-113 - DSF nº 177
+    Ação: Não disponível
     Data: 15/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA
@@ -121,8 +106,7 @@ II, "d", do Regimento Interno.
     Data: 15/10/2024
     Órgão: CAE - Comissão de Assuntos Econômicos
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Magno Malta por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 15/10/2024
     Órgão: CAE - Comissão de Assuntos Econômicos
     Situação: APROVADO PARECER NA COMISSÃO
@@ -154,14 +138,11 @@ Federal.
     Data: 19/10/2023
     Órgão: CAE - Comissão de Assuntos Econômicos
     Situação: Não disponível
-    Ação: Matéria aguardando distribuição.
-Ação:
+    Ação: Não disponível
     Data: 18/10/2023
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Magno Malta por deliberação da matéria.
-À CAE, para prosseguimento da tramitação.
-Ação:
+    Ação: Não disponível
     Data: 18/10/2023
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: APROVADO PARECER NA COMISSÃO
@@ -170,8 +151,7 @@ Parecer da Comissão, favorável ao Projeto.
     Data: 03/10/2023
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: Não disponível
-    Ação: Recebido o Relatório do Senador Magno Malta, com voto favorável ao Projeto.
-Ação:
+    Ação: Não disponível
     Data: 29/09/2023
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: INCLUÍDA NA PAUTA DA REUNIÃO
@@ -191,8 +171,7 @@ Ação:
     Data: 21/12/2022
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: Não disponível
-    Ação: A proposição continua a tramitar, nos termos do art. 332 do Regimento Interno.
-Ação:
+    Ação: Não disponível
     Data: 24/02/2022
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: PRONTA PARA A PAUTA NA COMISSÃO
@@ -253,9 +232,7 @@ Associações de Proteção e Assistência aos Condenados
     Local: Comissão de Constituição, Justiça e Cidadania
     Ação legislativa: Não disponível
     Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 41ª Reunião CCJ
-    Documento: pg
-6
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 173, de 2020
 DOCUMENTOS
 P.S 80/2023 - CCJ
@@ -295,7 +272,7 @@ de contribuição, mediante celebração de convênios entre a União e as Assoc
     Documento: MPSF 230/2024
     Data: 05/11/2024
     Autor: Presidente do Senado Federal
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Não disponível
     Descrição/ementa: Encaminha à sanção o Projeto de Lei n° 173, de 2020.
     Documento: OFSF 1262/2024
@@ -324,9 +301,7 @@ Proteção e Assistência aos Condenados (APACs), em atenção ao disposto no §
     Autor: Presidência da República
     Local: Plenário do Senado Federal
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-8
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 173, de 2020
 DOCUMENTOS
 Restitui o autógrafo do Projeto de Lei nº 173, de 2020 (nº 1685/2011 na Câmara dos Deputados), sancionado e convertido na Lei

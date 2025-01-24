@@ -3,6 +3,8 @@ Autoria: Senador Jorge Viana (PT/AC)
 Ementa: Altera a Lei nº 11.445, de 5 de janeiro de 2007, para instituir como direito da população o acesso a relatórios periódicos
 sobre o nível dos reservatórios de água para abastecimento público e outros dados relativos à segurança hídrica.
 Explicação da ementa: Altera a Lei de Saneamento Básico (Lei nº 1.445/2007), para tornar obrigatória a divulgação de
+relatórios periódicos sobre o nível dos reservatórios de água e outros dados relativos à
+segurança hídrica.
 Assunto: Meio Ambiente -
 Despacho: 07/07/2015 (Despacho inicial)
 null
@@ -13,6 +15,18 @@ null
 Análise
 (SF-CTFC) Comissão de Transparência, Governança, Fiscalização e
 Controle e Defesa do Consumidor
+TRAMITAÇÃO
+22/11/2024
+SF-SEADI - Secretaria de Atas e Diários
+A matéria vai ao arquivo.
+Ação:
+22/11/2024
+PLEN - Plenário do Senado Federal
+Encaminhado à publicação o Ofício da Câmara dos Deputados nº 589, de 2024, na origem, que comunica a restituição do
+autógrafo do Projeto de Lei do Senado nº 444, de 2015 (nº 8.448/2017, na Câmara dos Deputados), sancionado e convertido na
+Lei nº 15.012, de 4 de novembro de 2024.
+A matéria vai ao Arquivo.
+Ação:
 Relatoria: CMA - (Comissão de Meio Ambiente)
 Relator(es):
 Senador Ataídes Oliveira (encerrado em 07/04/2017 -
@@ -32,21 +46,11 @@ Tramitação:
     Data: 22/11/2024
     Órgão: SF-SEADI - Secretaria de Atas e Diários
     Situação: Não disponível
-    Ação: A matéria vai ao arquivo.
-Ação:
+    Ação: Não disponível
     Data: 22/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício da Câmara dos Deputados nº 589, de 2024, na origem, que comunica a restituição do
-autógrafo do Projeto de Lei do Senado nº 444, de 2015 (nº 8.448/2017, na Câmara dos Deputados), sancionado e convertido na
-Lei nº 15.012, de 4 de novembro de 2024.
-A matéria vai ao Arquivo.
-Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei do Senado n° 444, de 2015
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 05/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: TRANSFORMADA EM NORMA JURÍDICA
@@ -57,16 +61,11 @@ Sancionada em 04/11/2024.
     Data: 17/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício. nº 179, de 2024, na origem, que comunica o envio à sanção do Projeto de Lei do Senado nº
-444, de 2015 (nº 8.448/2017, na Câmara dos Deputados).
-A matéria vai à Secretaria de Expediente.
-Ação:
-Publicado no DSF Páginas 80-81 - DSF nº 179
+    Ação: Não disponível
     Data: 21/11/2018
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: À COARQ
-Ação:
+    Ação: Não disponível
     Data: 31/08/2017
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: REMETIDA À CÂMARA DOS DEPUTADOS
@@ -75,8 +74,7 @@ projeto para revisão, nos termos do art. 65 da Constituição Federal (fls. 29 
     Data: 29/08/2017
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado (fl. 28).
-Ação:
+    Ação: Não disponível
     Data: 28/08/2017
     Órgão: SF-SEADI - Secretaria de Atas e Diários
     Situação: APROVADA
@@ -85,29 +83,19 @@ Tendo sido aprovado terminativamente pela Comissão competente, o presente Proje
     Data: 24/08/2017
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado ao Plenário para comunicação do término do prazo para interposição de recurso.
-Ação:
+    Ação: Não disponível
     Data: 23/08/2017
     Órgão: SF-CORELE - Coordenação de Redação Legislativa
     Situação: Não disponível
-    Ação: Juntado texto final revisado (fls. 24 e 25).
-Ação:
+    Ação: Não disponível
     Data: 18/08/2017
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: À Corele.
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei do Senado n° 444, de 2015
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 16/08/2017
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Interposição de recurso (Art. 91, §§ 3º ao 5º, do RISF)
-De 17/08/2017 a 23/08/2017
-Ação:
+    Ação: Não disponível
     Data: 15/08/2017
     Órgão: SF-SEADI - Secretaria de Atas e Diários
     Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
@@ -124,10 +112,7 @@ em referência seja apreciada pelo Plenário, nos termos do art. 91, §§ 3º a 
     Data: 10/08/2017
     Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
     Situação: Não disponível
-    Ação: Juntados às fls. 11 a 22: o parecer da CTFC; lista de presença da reunião; folha de votação; texto final do PLS nº 444, de 2015;
-Decisão da Comissão; e Memo nº 27/2017/CTFC, que comunica aprovação do projeto nos termos dos artigo 91, §2º, do RISF.
-À SLSF.
-Ação:
+    Ação: Não disponível
     Data: 09/08/2017
     Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
     Situação: APRECIADA EM DECISÃO TERMINATIVA PELAS COMISSÕES
@@ -145,9 +130,7 @@ Consumidor, agendada para o dia 09/08/2017.
     Data: 28/07/2017
     Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
     Situação: INCLUÍDA NA PAUTA DA REUNIÃO
-    Ação: pg
-3
-Atividade Legislativa
+    Ação: Atividade Legislativa
 Projeto de Lei do Senado n° 444, de 2015
 TRAMITAÇÃO
 Matéria constante da Pauta da 11ª Reunião da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do
@@ -155,9 +138,7 @@ Consumidor, agendada para o dia 02/08/2017.
     Data: 13/07/2017
     Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
     Situação: Não disponível
-    Ação: Recebido relatório atualizado do Senador ATAÍDES OLIVEIRA pela aprovação do projeto, com duas emendas que apresenta.
-Anexo às fls. 11 a 16.
-Ação:
+    Ação: Não disponível
     Data: 12/07/2017
     Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
     Situação: PRONTA PARA A PAUTA NA COMISSÃO
@@ -231,9 +212,7 @@ Consumidor, agendada para o dia 31/05/2017.
 Controle e Defesa do Consumidor.
     Data: 19/05/2017
     Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
-    Situação: pg
-5
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei do Senado n° 444, de 2015
 TRAMITAÇÃO
 INCLUÍDA NA PAUTA DA REUNIÃO
@@ -260,34 +239,19 @@ Consumidor, agendada para o dia 26/04/2017.
     Data: 24/04/2017
     Órgão: CTFC - Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor
     Situação: Não disponível
-    Ação: Recebido na Comissão. O Presidente da CTFC, Senador ATAÍDES OLIVEIRA, avoca a relatoria da matéria.
-Será aproveitado o relatório apresentado na Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle cuja
-competência foi atribuída à CTFC.
-A matéria encontra-se pronta para pauta.
-Ação:
+    Ação: Não disponível
     Data: 17/04/2017
     Órgão: SF-SEADI - Secretaria de Atas e Diários
     Situação: Não disponível
-    Ação: Tendo em vista a promulgação da Resolução nº 3, de 2017, que redefiniu as atribuições e as denominações da Comissão de Meio
-Ambiente (CMA) e da Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor (CTFC), a
-presente matéria é despachada à CTFC (DT).
-Ação:
-Publicado no DSF Páginas 144-153
+    Ação: Não disponível
     Data: 17/04/2017
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado ao Plenário.
-Ação:
+    Ação: Não disponível
     Data: 06/04/2017
     Órgão: CMA - Comissão de Meio Ambiente
     Situação: Não disponível
-    Ação: À SLSF, em virtude da promulgação da Resolução nº 3, de 2017.
-Ação:
-pg
-6
-Atividade Legislativa
-Projeto de Lei do Senado n° 444, de 2015
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 28/11/2016
     Órgão: CMA - Comissão de Meio Ambiente
     Situação: PRONTA PARA A PAUTA NA COMISSÃO
@@ -327,25 +291,18 @@ agendada para o dia 18/10/2016.
     Data: 16/07/2015
     Órgão: CMA - Comissão de Meio Ambiente
     Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
-    Ação: pg
-7
-Atividade Legislativa
+    Ação: Atividade Legislativa
 Projeto de Lei do Senado n° 444, de 2015
 TRAMITAÇÃO
 Esgotado o prazo regimental sem a apresentação de emendas, a matéria aguarda designação de Relatoria.
     Data: 09/07/2015
     Órgão: CMA - Comissão de Meio Ambiente
     Situação: Não disponível
-    Ação: Aberto o prazo para apresentação de emendas ao projeto.
-Primeiro dia: 09.07.2015
-Último dia: 15.07.2015
-Ação:
+    Ação: Não disponível
     Data: 08/07/2015
     Órgão: CMA - Comissão de Meio Ambiente
     Situação: Não disponível
-    Ação: Recebido na Comissão, nesta data.
-Aguardando a abertura do prazo para a apresentação de emendas ao Projeto.
-Ação:
+    Ação: Não disponível
     Data: 07/07/2015
     Órgão: SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -355,8 +312,7 @@ emendas pelo prazo de cinco dias úteis, após sua publicação e distribuição
     Data: 07/07/2015
     Órgão: SF-PLEG - PROTOCOLO LEGISLATIVO
     Situação: Não disponível
-    Ação: Este processo contém 03 (três)  folhas numeradas e rubricadas.
-Ação:
+    Ação: Não disponível
 Documentos: 
     Documento: Texto inicial - PLS 444/2015
     Data: 07/07/2015
@@ -373,7 +329,7 @@ Documentos:
     Documento: Relatório Legislativo
     Data: 05/10/2016
     Autor: Senador Ataídes Oliveira (PSDB/TO)
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Recebido relatório do Senador ATAÍDES OLIVEIRA pela aprovação do projeto, com duas emendas que apresenta (fls 04 a 08).
     Descrição/ementa: Relatório Legislativo
     Documento: Relatório Legislativo
@@ -413,9 +369,7 @@ nível dos reservatórios de água para abastecimento público e outros dados re
     Local: Plenário do Senado Federal
     Ação legislativa: Juntado texto final revisado (fls. 24 e 25).
     Descrição/ementa: Juntado texto final revisado (fls. 24 e 25).
-    Documento: pg
-9
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Senado n° 444, de 2015
 DOCUMENTOS
 OFSF 909/2017

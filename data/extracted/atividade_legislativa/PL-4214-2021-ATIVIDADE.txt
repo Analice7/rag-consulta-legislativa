@@ -7,6 +7,30 @@ Despacho: 07/02/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CAS) Comissão de Assuntos Sociais
+TRAMITAÇÃO
+06/01/2025
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15087 DE 2025.
+DOU (Diário Oficial da União) - 06/01/2025 - Seção I - págs. 1 e 1.
+Sancionada em 03/01/2025.
+Ação:
+19/12/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício SF n.º 1462, de 19/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+encaminhando a Mensagem SF n.º 289/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
+presidencial autógrafo do Projeto.
+Remetido Ofício SF n.º 1463, de 19/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
+foi encaminhado à sanção presidencial.
+Ação:
+16/12/2024
+SF-SEXPE - Secretaria de Expediente
+Anexado o texto revisado.
+Ação:
 Relatoria: CAS - (Comissão de Assuntos Sociais)
 Relator(es):
 Senador Otto Alencar (encerrado em 04/09/2024 -
@@ -40,13 +64,7 @@ foi encaminhado à sanção presidencial.
     Data: 16/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 4214, de 2021
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 13/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -57,9 +75,7 @@ Deputados.
     Data: 04/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 06/12/2024 a 12/12/2024.
-Perante a Mesa.
-Ação:
+    Ação: Não disponível
     Data: 04/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
@@ -88,9 +104,7 @@ publicação no Diário do Senado Federal, art. 91, § 2º c/c art. 92 do RISF.
     Ação: Redistribuído à Senadora Mara Gabrilli, para emitir relatório.
     Data: 04/09/2024
     Órgão: CAS - Comissão de Assuntos Sociais
-    Situação: pg
-2
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei n° 4214, de 2021
 TRAMITAÇÃO
 AGUARDANDO DESIGNAÇÃO DO RELATOR
@@ -119,16 +133,11 @@ Matéria aguardando distribuição.
     Data: 09/02/2024
     Órgão: CAS - Comissão de Assuntos Sociais
     Situação: Não disponível
-    Ação: Prazo para apresentação de emendas:
-Primeiro dia: 09/02/2024.
-Último dia: 20/02/2024.
-Ação:
+    Ação: Não disponível
     Data: 07/02/2024
     Órgão: CAS - Comissão de Assuntos Sociais
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 09/02/2024 a 20/02/2024.
-Perante a CAS.
-Ação:
+    Ação: Não disponível
     Data: 07/02/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -170,9 +179,7 @@ Biossimilar.
     Local: Comissão de Assuntos Sociais
     Ação legislativa: Não disponível
     Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 40ª Reunião CAS
-    Documento: pg
-4
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 4214, de 2021
 DOCUMENTOS
 Listagem ou relatório
@@ -207,8 +214,7 @@ Biossimilar.
     Ação legislativa: Não disponível
     Descrição/ementa: Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 4214, de 2021.
     Documento: MPSF 289/2024
-pg
-5
+
 Atividade Legislativa
 Projeto de Lei n° 4214, de 2021
 DOCUMENTOS

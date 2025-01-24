@@ -3,11 +3,30 @@ Autoria: Câmara dos Deputados
 Iniciativa: Deputado Federal Rogério Peninha Mendonça (MDB/SC)
 Ementa: Confere ao Município de Jaraguá do Sul, no Estado de Santa Catarina, o título de Capital Nacional dos Atiradores.
 Explicação da ementa: Confere a Jaraguá do Sul, município catarinense, o título de Capital Nacional dos Atiradores,
+devido à cultura e tradições germânicas relacionada à prática do tiro, e em especial à famosa
+Festa do Tiro que acontece em novembro nesta cidade.
 Assunto: Honorífico  - Homenagem
 Despacho: 23/08/2019
 Leitura da Matéria
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CE) Comissão de Educação e Cultura
+TRAMITAÇÃO
+05/11/2024
+SF-SEXPE - Secretaria de Expediente
+Remetido Ofício SF n.º 1268, de 05/11/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+encaminhando a Mensagem SF n.º 232/24, ao Excelentíssimo Senhor Presidente da República, participando a promulgação da
+Lei nº 15.011, de 1º de novembro de 2024, nos termos do § 7º do art. 66 da Constituição Federal.
+Remetido Ofício SF n.º 1269, de 05/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que foi
+promulgada pelo Senhor Presidente do Senado Federal, nos termos do § 7º do art. 66 da Constituição Federal, a Lei nº 15.011,
+de 1º de novembro de 2024.
+Ação:
+04/11/2024
+SF-SEXPE - Secretaria de Expediente
+(CN) MESA.
+PROMULGADA. LEI N° 15011 DE 2024.
+DOU (Diário Oficial da União) - 04/11/2024 - Seção I - pág. 1.
+Promulgada em 01/11/2024.
+Ação:
 Relatoria: CE - (Comissão de Educação e Cultura)
 Relator(es):
 Senador Dário Berger (encerrado em 03/12/2019 - Deliberação
@@ -22,34 +41,15 @@ Tramitação:
     Data: 05/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Remetido Ofício SF n.º 1268, de 05/11/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 232/24, ao Excelentíssimo Senhor Presidente da República, participando a promulgação da
-Lei nº 15.011, de 1º de novembro de 2024, nos termos do § 7º do art. 66 da Constituição Federal.
-Remetido Ofício SF n.º 1269, de 05/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que foi
-promulgada pelo Senhor Presidente do Senado Federal, nos termos do § 7º do art. 66 da Constituição Federal, a Lei nº 15.011,
-de 1º de novembro de 2024.
-Ação:
+    Ação: Não disponível
     Data: 04/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: (CN) MESA.
-PROMULGADA. LEI N° 15011 DE 2024.
-DOU (Diário Oficial da União) - 04/11/2024 - Seção I - pág. 1.
-Promulgada em 01/11/2024.
-Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 4674, de 2019
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 31/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício  nº 1.511, de 2024, na origem, do Ministro de Estado Chefe da Casa Civil da Presidência da
-República, que restitui, para os fins do disposto no § 7º do art. 66 da Constituição Federal, os autógrafos do Projeto de Lei nº
-4.674, de 2019.
-Ação:
-Publicado no DSF Páginas 39 - DSF nº 188
+    Ação: Não disponível
     Data: 09/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: REMETIDA À SANÇÃO
@@ -61,8 +61,7 @@ foi encaminhado à sanção presidencial.
     Data: 09/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 08/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -74,8 +73,7 @@ Será feita a devida comunicação à Câmara dos Deputados.
     Data: 21/12/2022
     Órgão: SF-SLSF - Secretaria Legislativa do Senado Federal
     Situação: Não disponível
-    Ação: A proposição continua a tramitar, nos termos do art. 332 do Regimento Interno.
-Ação:
+    Ação: Não disponível
     Data: 03/12/2019
     Órgão: PLEN - Plenário do Senado Federal
     Situação: PRONTO PARA DELIBERAÇÃO DO PLENÁRIO
@@ -84,8 +82,7 @@ Discussão, em turno único.
     Data: 03/12/2019
     Órgão: CE - Comissão de Educação e Cultura
     Situação: Não disponível
-    Ação: À SLSF.
-Ação:
+    Ação: Não disponível
     Data: 03/12/2019
     Órgão: CE - Comissão de Educação e Cultura
     Situação: APROVADO PARECER NA COMISSÃO
@@ -93,14 +90,11 @@ Ação:
     Data: 03/12/2019
     Órgão: SF-SLSF - Secretaria Legislativa do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à CE, a pedido.
-Ação:
+    Ação: Não disponível
     Data: 24/10/2019
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Aguardando inclusão em Ordem do Dia.
-Discussão, em turno único.
-Ação:
+    Ação: Não disponível
     Data: 24/10/2019
     Órgão: SF-SEADI - Secretaria de Atas e Diários
     Situação: PRONTO PARA DELIBERAÇÃO DO PLENÁRIO
@@ -109,8 +103,7 @@ A matéria será incluída em Ordem do Dia oportunamente.
     Data: 23/10/2019
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado ao Plenário para comunicação de término de prazo para apresentação de emendas.
-Ação:
+    Ação: Não disponível
     Data: 15/10/2019
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA
@@ -118,10 +111,7 @@ Ação:
     Data: 15/10/2019
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, "d", do RISF). De 17/10/2019
-a 23/10/2019. Perante a Mesa.
-Ação:
-Publicado no DSF Páginas 135 - DSF nº 158
+    Ação: Não disponível
     Data: 15/10/2019
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO LEITURA PARECER (ES)
@@ -136,9 +126,7 @@ matéria.
     Data: 11/10/2019
     Órgão: CE - Comissão de Educação e Cultura
     Situação: INCLUÍDA NA PAUTA DA REUNIÃO
-    Ação: pg
-3
-Atividade Legislativa
+    Ação: Atividade Legislativa
 Projeto de Lei n° 4674, de 2019
 TRAMITAÇÃO
 Matéria constante da Pauta da 51ª Reunião da Comissão de Educação, Cultura e Esporte, agendada para o dia 15/10/2019.
@@ -149,8 +137,7 @@ Matéria constante da Pauta da 51ª Reunião da Comissão de Educação, Cultura
     Data: 03/10/2019
     Órgão: CE - Comissão de Educação e Cultura
     Situação: Não disponível
-    Ação: Matéria constante da Pauta da 50ª Reunião da Comissão de Educação, Cultura e Esporte, agendada para o dia 08/10/2019.
-Ação:
+    Ação: Não disponível
     Data: 26/09/2019
     Órgão: CE - Comissão de Educação e Cultura
     Situação: INCLUÍDA NA PAUTA DA REUNIÃO
@@ -214,9 +201,7 @@ Documentos:
     Local: Comissão Diretora do Senado Federal
     Ação legislativa: Não disponível
     Descrição/ementa: Encaminha à sanção o Projeto de Lei n° 4674/2019.
-    Documento: pg
-5
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 4674, de 2019
 DOCUMENTOS
 OFSF 1190/2024
@@ -250,9 +235,7 @@ OFSF 1190/2024
     Local: Plenário do Senado Federal
     Ação legislativa: Não disponível
     Descrição/ementa: Comunica a restituição do autógrafo não sancionado e não promulgado.
-    Documento: pg
-6
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 4674, de 2019
 DOCUMENTOS
 MPSF 232/2024
@@ -281,9 +264,7 @@ termos dos §§ 3º e 7º do art. 66 da Constituição Federal.
     Autor: Senado Federal
     Local: Secretaria de Expediente
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-7
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 4674, de 2019
 DOCUMENTOS
 Confere ao Município de Jaraguá do Sul, no Estado de Santa Catarina, o título de Capital Nacional dos Atiradores.

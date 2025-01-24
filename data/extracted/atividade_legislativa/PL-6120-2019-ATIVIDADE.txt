@@ -11,10 +11,6 @@ Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CCT) Comissão de Ciência, Tecnologia, Inovação e Informática
 (SF-CMA) Comissão de Meio Ambiente
 (SF-CAS) Comissão de Assuntos Sociais
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 6120, de 2019
 Relatoria: CAS - (Comissão de Assuntos Sociais)
 Relator(es):
 Senador Fabiano Contarato (encerrado em 09/10/2024 -
@@ -45,19 +41,11 @@ Tramitação:
     Data: 19/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Remetido Ofício SF nº 1292 , de 18/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
-devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.476, de 2024, na origem,
-restituindo autógrafos do Projeto de Lei n° 6.120, de 2019, sancionado e transformado na Lei nº 15.022, de 13 de novembro de
-2024.
-À COARQ.
-Ação:
+    Ação: Não disponível
     Data: 18/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhada à publicação a Mensagem da Presidência da República nº 1476, de 2024, na origem, que restitui autógrafo do
-Projeto de Lei nº 6.120, de 2019, sancionado e convertido na Lei nº 15.022, de 13 de novembro de 2024.
-Será feita a devida comunicação à Câmara dos Deputados.
-Ação:
+    Ação: Não disponível
     Data: 14/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: TRANSFORMADA EM NORMA JURÍDICA
@@ -76,8 +64,7 @@ foi encaminhado à sanção presidencial.
     Data: 21/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 15/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -99,13 +86,11 @@ Será feita a devida comunicação à Câmara dos Deputados.
     Data: 15/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Designado Relator de Plenário o Senador Fabiano Contarato.
-Ação:
+    Ação: Não disponível
     Data: 15/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 2, do Senador Jaques Wagner.
-Ação:
+    Ação: Não disponível
     Data: 13/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: INCLUÍDA EM ORDEM DO DIA
@@ -115,10 +100,7 @@ nos termos dos arts. 336, II, e 338, IV, do Regimento Interno do Senado Federal)
     Data: 09/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, "d", do RISF). De 11/10/2024
-a 15/10/2024. Perante a Mesa.
-Ação:
-Publicado no DSF Páginas 77-88 - DSF nº 173
+    Ação: Não disponível
     Data: 09/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA
@@ -127,8 +109,7 @@ II, "d", do Regimento Interno do Senado.
     Data: 09/10/2024
     Órgão: CAS - Comissão de Assuntos Sociais
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Fabiano Contarato por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 09/10/2024
     Órgão: CAS - Comissão de Assuntos Sociais
     Situação: APROVADO PARECER NA COMISSÃO
@@ -138,9 +119,7 @@ Emenda nº 1-CCT-CAS, nos termos da Subemenda nº 1-CAS. A Comissão aprova, ain
 de 2024-CAS, de urgência para a matéria, ao Plenário do Senado.
     Data: 08/10/2024
     Órgão: CAS - Comissão de Assuntos Sociais
-    Situação: pg
-3
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei n° 6120, de 2019
 TRAMITAÇÃO
 PRONTA PARA A PAUTA NA COMISSÃO
@@ -180,9 +159,7 @@ CCT.
     Data: 14/05/2024
     Órgão: CMA - Comissão de Meio Ambiente
     Situação: MATÉRIA COM A RELATORIA
-    Ação: pg
-4
-Atividade Legislativa
+    Ação: Atividade Legislativa
 Projeto de Lei n° 6120, de 2019
 TRAMITAÇÃO
 Distribuído ao Senador Beto Faro, para emitir relatório.
@@ -223,9 +200,7 @@ Ao Relator para análise da emenda.
     Data: 08/11/2023
     Órgão: PLEN - Plenário do Senado Federal
     Situação: MATÉRIA DESPACHADA
-    Ação: pg
-5
-Atividade Legislativa
+    Ação: Atividade Legislativa
 Projeto de Lei n° 6120, de 2019
 TRAMITAÇÃO
 A matéria vai à CCT, à CMA e à CAS, sucessivamente.
@@ -262,8 +237,7 @@ Inventário Nacional de Substâncias Químicas, a avaliação e o controle do ri
 importadas, no território nacional, com o objetivo de minimizar os impactos adversos à saúde e ao meio ambiente; e dá outras
 providências.
     Documento: EMENDA 1 / CCT / CAS - PL
-pg
-6
+
 Atividade Legislativa
 Projeto de Lei n° 6120, de 2019
 DOCUMENTOS
@@ -306,9 +280,7 @@ com o objetivo de minimizar os impactos adversos à saúde e ao meio ambiente; e
     Autor: Comissão de Meio Ambiente
     Local: Comissão de Meio Ambiente
     Ação legislativa: Na 36ª reunião, a Comissão de Meio Ambiente aprovou o relatório do senador Beto Faro, lido adhoc pelo senador Fabiano
-    Descrição/ementa: pg
-7
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 6120, de 2019
 DOCUMENTOS
 Contarato, favorável à aprovação do Projeto de Lei nº 6.120, de 2019, e pela rejeição da Emenda 1-CCT.
@@ -350,7 +322,7 @@ território nacional, com o objetivo de minimizar os impactos adversos à saúde
     Documento: EMENDA 2 PLEN - PL
     Data: 15/10/2024
     Autor: Senador Jaques Wagner (PT/BA)
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Recebida a Emenda nº 2, do Senador Jaques Wagner.
     Descrição/ementa: Emenda  Redação art. 4 ao PL 6120/2019
     Documento: P.S 176/2024 - PLEN
@@ -376,15 +348,11 @@ território nacional, com o objetivo de minimizar os impactos adversos à saúde
     Autor: Senado Federal
     Local: Secretaria de Expediente
     Ação legislativa: Anexado o texto revisado.
-    Descrição/ementa: pg
-9
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 6120, de 2019
 DOCUMENTOS
 MPSF 214/2024
-    Documento: pg
-9
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 6120, de 2019
 DOCUMENTOS
 MPSF 214/2024
@@ -414,9 +382,7 @@ MPSF 214/2024
     Descrição/ementa: Estabelece o Inventário Nacional de Substâncias Químicas e a avaliação e o controle do risco das substâncias químicas utilizadas,
 produzidas ou importadas, no território nacional, com o objetivo de minimizar os impactos adversos à saúde e ao meio
 ambiente; e dá outras providências.
-    Documento: pg
-10
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 6120, de 2019
 DOCUMENTOS
 OF. 1649/2024 - Casa Civil

@@ -3,12 +3,34 @@ Autoria: Presidência da República
 Ementa: Abre ao Orçamento Fiscal da União, em favor do Tribunal de Contas da União, crédito especial no valor de R$
 685.000,00, para o fim que especifica.
 Explicação da ementa: O crédito especial, em favor do Tribunal de Contas da União - TCU (100% dos recursos), tem o
+objetivo de possibilitar o atendimento de despesas com benefícios referentes à Indenização de
+Representação no Exterior - IREX, e ao Auxílio-Familiar no Exterior a servidores do referido
+Tribunal que representarão o Brasil no Comitê de Operações de Auditoria do Conselho de
+Auditores da Organização das Nações Unidas - ONU, com domicílio em Nova York - NY.
 Assunto: Orçamento Público  - Crédito Adicional
 Despacho: 05/08/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (CN-CMO) Comissão Mista de Planos, Orçamentos Públicos e
 Fiscalização
+TRAMITAÇÃO
+23/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15058 DE 2024.
+DOUE (Diário Oficial da União - Edição Extra) - 23/12/2024 - Seção I - págs. 12 e 12.
+Sancionada em 23/12/2024.
+Ação:
+19/12/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício CN nº 373, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a
+Mensagem CN nº 126/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do
+Projeto.
+Ação:
 Relatoria: CMO - (Comissão Mista de Planos, Orçamentos Públicos e Fiscalização)
 Relator(es):
 Deputado Federal Beto Richa (encerrado em 17/12/2024 -
@@ -36,8 +58,7 @@ Projeto.
     Data: 18/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Congresso Nacional
     Situação: APROVADA
@@ -55,8 +76,7 @@ Aprovado o Projeto, na Câmara dos Deputados e no Senado Federal.
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Deputado Beto Richa por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: APROVADO PARECER NA COMISSÃO
@@ -83,23 +103,11 @@ Poder Executivo. Ao Projeto não foram apresentadas emendas.
     Data: 05/08/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: A matéria será publicada no Diário do Congresso Nacional.
-Calendário de tramitação de projetos de lei de créditos adicionais - PLN 20/2024 (Art. 112, da Res. 1/2006-CN):
-- Data do despacho: 05/08/2024
-- Publicação em avulso eletrônico: de 05/08/2024 a 09/08/2024
-- Apresentação de emendas: de 10/08/2024 a 19/08/2024
-- Publicação em avulso eletrônico das emendas: de 20/08/2024 a 24/08/2024
-- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 25/08/2024 a 08/09/2024
-A matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.
-* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.
-Ação:
-Publicado no DCN Páginas 578-585 - DCN nº 28
+    Ação: Não disponível
     Data: 18/07/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Recebida, em 18/07/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado
-Federal.
-Ação:
+    Ação: Não disponível
     Data: 10/07/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: AGUARDANDO DESPACHO
@@ -118,9 +126,7 @@ Documentos:
     Local: Mesa Diretora do Congresso Nacional
     Ação legislativa: Não disponível
     Descrição/ementa: Nota Informativa PLN 20/2024
-    Documento: pg
-3
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 20, de 2024
 DOCUMENTOS
 Calendário
@@ -149,9 +155,7 @@ da União, crédito especial no valor de R$ 685.000,00, para o fim que especific
     Ação legislativa: Não disponível
     Descrição/ementa: Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre o Projeto de Lei do Congresso Nacional n° 20,
 de 2024, que Abre ao Orçamento Fiscal da União, em favor do Tribunal de Contas da União, crédito especial no valor de R$
-    Documento: pg
-4
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 20, de 2024
 DOCUMENTOS
 685.000,00, para o fim que especifica.
@@ -187,9 +191,7 @@ de 2024, que Abre ao Orçamento Fiscal da União, em favor do Tribunal de Contas
     Autor: Presidente do Congresso Nacional
     Local: Mesa Diretora do Congresso Nacional
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-5
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 20, de 2024
 DOCUMENTOS
 Encaminha à sanção o Projeto de Lei do Congresso Nacional n° 20, de 2024.

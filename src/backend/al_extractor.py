@@ -13,10 +13,10 @@ def concatenar(dados, nivel=0):
             texto += f"{indentacao}{chave.capitalize()}: "
             if isinstance(valor, (dict, list)):
                 texto += "\n" + concatenar(valor, nivel + 1)
-            elif valor:  # Verifica se o valor não é None ou vazio
+            elif valor: 
                 texto += f"{valor}\n"
             else:
-                texto += "Não disponível\n"  # Trate valores vazios
+                texto += "Não disponível\n" 
     elif isinstance(dados, list):
         for item in dados:
             texto += concatenar(item, nivel + 1)
@@ -27,13 +27,8 @@ def concatenar(dados, nivel=0):
 
 # Extrai texto de todas as páginas de um arquivo PDF.
 def extract_text_from_pdf(pdf_path):
-    
-    text = ""
     with fitz.open(pdf_path) as pdf:
-       for page in pdf:
-           text += page.get_text()
-    
-    return text
+       return "".join(re.sub(r"\bpg\s*\d+\b", "", page.get_text(), flags=re.IGNORECASE) for page in pdf)
 
 # Processa o texto extraído do PDF e organiza em um formato estruturado.
 def parse_text_to_structure(text):
@@ -61,7 +56,7 @@ def parse_text_to_structure(text):
         structured_data["ementa"] = ementa_match.group(1).strip()
 
     # Extrai explicação da ementa
-    explication_match = re.search(r"Explicação da Ementa:\s*(.+)", text)
+    explication_match = re.search(r"Explicação da Ementa:\s*(.+?)(?=\nAssunto:)", text, flags=re.DOTALL)
     if explication_match:
         structured_data["explicação da ementa"] = explication_match.group(1)
 
@@ -76,9 +71,9 @@ def parse_text_to_structure(text):
         structured_data["data de leitura"] = reading_date_match.group(1).strip()
 
     # Extrai despacho
-    dispatch_match = re.search(r"Despacho:\s+((?:.|\n)*?)(?:\n(Relatoria:|TRAMITAÇÃO)|$)", text, re.DOTALL)
+    dispatch_match = re.search(r"Despacho:\s+((?:.|\n)*?)(?:\nAtividade\s+Legislativa.*|$)", text, re.DOTALL)
     if dispatch_match:
-        dispatch = dispatch_match.group(1)
+        dispatch = dispatch_match.group(1).strip()
         if "despacho" in structured_data:
             structured_data["despacho"] += " " + dispatch.strip()
         else:
@@ -148,11 +143,12 @@ def parse_text_to_structure(text):
             situacao_match = re.search(rf"{re.escape(org)}\s*(.*?)(?=\s*Situação:|$)", block, re.DOTALL) if org else None
             situacao = situacao_match.group(1).strip() if situacao_match else None
 
-            acao_match = re.search(rf"{re.escape(org)}.*?Situação:\s*(.*?)(?=\s*Ação:|$)", block, re.DOTALL) if org else None
+            acao_match = re.search(rf"{re.escape(org)}.*?Situação:\s*(.*?)(?=\s*(Ação:|$))", block, re.DOTALL) if org else None
             acao = acao_match.group(1).strip() if acao_match else None
+
         else:
             situacao = None
-            acao_match = re.search(rf"{re.escape(org)}\s*(.*?)(?=\s*Situação:|$)", block, re.DOTALL) if org else None
+            acao_match = re.search(rf"{re.escape(org)}.*?Situação:\s*(.*?)(?=\s*(Ação:|$))", block, re.DOTALL) if org else None
             acao = acao_match.group(1).strip() if acao_match else None
 
         tramitation_entry = {

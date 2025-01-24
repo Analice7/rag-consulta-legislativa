@@ -12,6 +12,26 @@ Leitura da Matéria
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CDH) Comissão de Direitos Humanos e Legislação Participativa
 (SF-CCJ) Comissão de Constituição, Justiça e Cidadania
+TRAMITAÇÃO
+30/10/2024
+SF-SEADI - Secretaria de Atas e Diários
+A matéria vai ao arquivo.
+Ação:
+30/10/2024
+PLEN - Plenário do Senado Federal
+Encaminhado à publicação o Ofício da Câmara dos Deputados nº nº 584, de 2024, na origem, que comunica a restituição do
+autógrafo do Projeto de Lei nº 4.266, de 2023, sancionado e convertido na Lei nº 14.994, de 9 de outubro de 2024.
+Ação:
+Publicado no DSF Páginas 163-164 - DSF nº 187
+10/10/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 14994 DE 2024.
+DOU (Diário Oficial da União) - 10/10/2024 - Seção I - págs. 2 e 3.
+Sancionada em 09/10/2024.
+Ação:
 Relatoria: CCJ - (Comissão de Constituição, Justiça e Cidadania)
 Relator(es):
 Senador Alessandro Vieira (encerrado em 23/11/2023 -
@@ -31,15 +51,11 @@ Tramitação:
     Data: 30/10/2024
     Órgão: SF-SEADI - Secretaria de Atas e Diários
     Situação: Não disponível
-    Ação: A matéria vai ao arquivo.
-Ação:
+    Ação: Não disponível
     Data: 30/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício da Câmara dos Deputados nº nº 584, de 2024, na origem, que comunica a restituição do
-autógrafo do Projeto de Lei nº 4.266, de 2023, sancionado e convertido na Lei nº 14.994, de 9 de outubro de 2024.
-Ação:
-Publicado no DSF Páginas 163-164 - DSF nº 187
+    Ação: Não disponível
     Data: 10/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: TRANSFORMADA EM NORMA JURÍDICA
@@ -50,11 +66,7 @@ Sancionada em 09/10/2024.
     Data: 23/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício da Câmara dos Deputados nº 508, de 2024, na origem, que comunica o envio à sanção do
-presente projeto.
-A matéria vai à Secretaria de Expediente.
-Ação:
-Publicado no DSF Páginas 33-34 - DSF nº 161
+    Ação: Não disponível
     Data: 06/12/2023
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: REMETIDA À CÂMARA DOS DEPUTADOS
@@ -63,8 +75,7 @@ do projeto para revisão, nos termos do art. 65 da Constituição Federal.
     Data: 05/12/2023
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 04/12/2023
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -74,15 +85,11 @@ A matéria, aprovada terminativamente pela CCJ, vai à Câmara dos Deputados.
     Data: 04/12/2023
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Anexado o texto final revisado.
-Ação:
+    Ação: Não disponível
     Data: 23/11/2023
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 27/11/2023 a 01/12/2023.
-Perante a Mesa.
-Ação:
-Publicado no DSF Páginas 464 - DSF nº 204
+    Ação: Não disponível
     Data: 23/11/2023
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
@@ -107,21 +114,15 @@ Plenário e publicação no Diário do Senado Federal, conforme art. 91, § 2º 
     Data: 22/11/2023
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: Não disponível
-    Ação: Recebida a emenda nº 3, de autoria do Senador Sergio Moro.
-Encaminhada ao gabinete do relator para análise da emenda.
-Ação:
+    Ação: Não disponível
     Data: 21/11/2023
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: Não disponível
-    Ação: Recebido Relatório do Senador Alessandro Vieira, com voto pela aprovação do Projeto e da Emenda nº 1-CDH, com cinco
-emendas que apresenta, que contemplam, com ajustes, a Emenda nº 2.
-Ação:
+    Ação: Não disponível
     Data: 20/11/2023
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: Não disponível
-    Ação: Recebida a emenda nº 2, de autoria do Senador Hamilton Mourão.
-Encaminhada ao gabinete do relator para análise da emenda.
-Ação:
+    Ação: Não disponível
     Data: 17/11/2023
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: INCLUÍDA NA PAUTA DA REUNIÃO
@@ -141,9 +142,7 @@ Ação:
     Data: 20/09/2023
     Órgão: CDH - Comissão de Direitos Humanos e Legislação Participativa
     Situação: Não disponível
-    Ação: Encerrada a relatoria da Senadora Damares Alves por deliberação da matéria.
-À CCJ para prosseguimento da tramitação.
-Ação:
+    Ação: Não disponível
     Data: 20/09/2023
     Órgão: CDH - Comissão de Direitos Humanos e Legislação Participativa
     Situação: APROVADO PARECER NA COMISSÃO
@@ -170,22 +169,14 @@ Matéria aguardando distribuição.
     Data: 11/09/2023
     Órgão: CDH - Comissão de Direitos Humanos e Legislação Participativa
     Situação: Não disponível
-    Ação: Recebido na CDH.
-Prazo para emenda:
-primeiro dia: 12/09/2023
-último dia: 18/09/2023
-Ação:
+    Ação: Não disponível
     Data: 06/09/2023
     Órgão: CDH - Comissão de Direitos Humanos e Legislação Participativa
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 12/09/2023 a 18/09/2023.
-Perante a CDH.
-Ação:
+    Ação: Não disponível
     Data: 06/09/2023
     Órgão: PLEN - Plenário do Senado Federal
-    Situação: pg
-4
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei n° 4266, de 2023
 TRAMITAÇÃO
 AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -221,8 +212,7 @@ Documentos:
     Ação legislativa: Não disponível
     Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 64ª Reunião CDH
     Documento: P.S 86/2023 - CDH
-pg
-5
+
 Atividade Legislativa
 Projeto de Lei n° 4266, de 2023
 DOCUMENTOS
@@ -261,9 +251,7 @@ DOCUMENTOS
     Local: Comissão de Constituição, Justiça e Cidadania
     Ação legislativa: Não disponível
     Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 49ª Reunião CCJ
-    Documento: pg
-6
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 4266, de 2023
 DOCUMENTOS
 Texto final da Comissão -
@@ -294,9 +282,7 @@ como para estabelecer outras medidas destinadas a prevenir e coibir a violência
     Local: Comissão de Constituição, Justiça e Cidadania
     Ação legislativa: Não disponível
     Descrição/ementa: Ofício
-    Documento: pg
-7
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 4266, de 2023
 DOCUMENTOS
 Texto final revisado - Projeto
@@ -340,7 +326,7 @@ como para estabelecer outras medidas destinadas a prevenir e coibir a violência
     Documento: Ofício
     Data: 29/10/2024
     Autor: ALEPI - Assembleia Legislativa do Estado do Piauí
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Não disponível
     Descrição/ementa: REQUER VOTO DE LOUVOR PELA APROVAÇÃO DO PROJETO DE LEI 4266/2023 QUE AUMENTA A PENA DO FEMINICÍDIO E INCLUI
 OUTRAS SITUAÇÕES CONSIDERADAS AGRAVANDES DA PENA.

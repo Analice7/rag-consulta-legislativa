@@ -7,6 +7,29 @@ Despacho: 28/05/2019
 Leitura da Matéria
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CE) Comissão de Educação e Cultura
+TRAMITAÇÃO
+13/11/2024
+SF-SEXPE - Secretaria de Expediente
+Remetido Ofício SF n.º 1276, de 13/11/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+encaminhando a Mensagem SF n.º 234/24, ao Excelentíssimo Senhor Presidente da República, participando a promulgação da
+Lei nº 15.016, de 12 de novembro de 2024, nos termos do § 7º do art. 66 da Constituição Federal.
+Remetido Ofício SF n.º 1277, de 13/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que foi
+promulgada pelo Senhor Presidente do Senado Federal, nos termos do § 7º do art. 66 da Constituição Federal, a Lei nº 15.016,
+de 12 de novembro de 2024.
+Ação:
+13/11/2024
+SF-SEXPE - Secretaria de Expediente
+(CN) MESA.
+PROMULGADA. LEI N° 15016 DE 2024.
+DOU (Diário Oficial da União) - 13/11/2024 - Seção I - pág. 9.
+Promulgada em 12/11/2024.
+Ação:
+11/11/2024
+PLEN - Plenário do Senado Federal
+Encaminhado à publicação o Ofício nº 1.553, de 2024, na origem, do Ministro de Estado Chefe da Casa Civil da Presidência da
+República, que restitui o autógrafo do presente projeto, não sancionado expressamente.
+A matéria vai à promulgação, nos termos do § 7º do art. 66 da Constituição Federal.
+Ação:
 Relatoria: CE - (Comissão de Educação e Cultura)
 Relator(es):
 Senador Lasier Martins (encerrado em 05/11/2019 -
@@ -21,44 +44,19 @@ Tramitação:
     Data: 13/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Remetido Ofício SF n.º 1276, de 13/11/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
-encaminhando a Mensagem SF n.º 234/24, ao Excelentíssimo Senhor Presidente da República, participando a promulgação da
-Lei nº 15.016, de 12 de novembro de 2024, nos termos do § 7º do art. 66 da Constituição Federal.
-Remetido Ofício SF n.º 1277, de 13/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que foi
-promulgada pelo Senhor Presidente do Senado Federal, nos termos do § 7º do art. 66 da Constituição Federal, a Lei nº 15.016,
-de 12 de novembro de 2024.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: (CN) MESA.
-PROMULGADA. LEI N° 15016 DE 2024.
-DOU (Diário Oficial da União) - 13/11/2024 - Seção I - pág. 9.
-Promulgada em 12/11/2024.
-Ação:
+    Ação: Não disponível
     Data: 11/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício nº 1.553, de 2024, na origem, do Ministro de Estado Chefe da Casa Civil da Presidência da
-República, que restitui o autógrafo do presente projeto, não sancionado expressamente.
-A matéria vai à promulgação, nos termos do § 7º do art. 66 da Constituição Federal.
-Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 3135, de 2019
-TRAMITAÇÃO
-Publicado no DSF Páginas 73 - DSF nº 193
-Publicado no DSF Páginas 75 - DSF nº 193
+    Ação: Não disponível
     Data: 24/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício da Câmara dos Deputados nº 482, de 2024, na origem, que comunica o envio à sanção do
-Projeto de Lei nº 3.135 de 2019.
-A matéria vai à Secretaria de Expediente.
-Ação:
-Publicado no DSF Páginas 31 - DSF nº 184
-Publicado no DSF Páginas 33 - DSF nº 184
+    Ação: Não disponível
     Data: 11/12/2019
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: REMETIDA À CÂMARA DOS DEPUTADOS
@@ -68,8 +66,7 @@ projeto para revisão, nos termos do art. 65 da Constituição Federal. (fls. 16
     Data: 22/11/2019
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado (fl. 15).
-Ação:
+    Ação: Não disponível
     Data: 22/11/2019
     Órgão: SF-SEADI - Secretaria de Atas e Diários
     Situação: APROVADA
@@ -79,18 +76,15 @@ Tendo sido aprovada terminativamente pela Comissão competente, a matéria vai �
     Data: 19/11/2019
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado ao Plenário para comunicação do término de prazo para interposição de recurso.
-Ação:
+    Ação: Não disponível
     Data: 19/11/2019
     Órgão: SF-CORELE - Coordenação de Redação Legislativa
     Situação: Não disponível
-    Ação: Juntado texto final revisado (fl. 13).
-Ação:
+    Ação: Não disponível
     Data: 18/11/2019
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à Corele para revisão do texto final.
-Ação:
+    Ação: Não disponível
     Data: 06/11/2019
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
@@ -99,9 +93,7 @@ Concluída a instrução da matéria, fica aberto o prazo de cinco dias úteis p
     Data: 06/11/2019
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 08/11/2019 a 14/11/2019.
-Perante a Mesa.
-Ação:
+    Ação: Não disponível
     Data: 06/11/2019
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO LEITURA PARECER (ES)
@@ -167,16 +159,7 @@ Matéria aguardando distribuição.
     Data: 28/05/2019
     Órgão: CE - Comissão de Educação e Cultura
     Situação: Não disponível
-    Ação: Matéria sobre a Mesa da Comissão de Educação, Cultura e Esporte.
-Prazo para apresentação de emendas:
-Primeiro dia: 30/05/2019.
-Ação:
-pg
-4
-Atividade Legislativa
-Projeto de Lei n° 3135, de 2019
-TRAMITAÇÃO
-Último dia:
+    Ação: Não disponível
     Data: 05/06/2019
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -186,14 +169,11 @@ TRAMITAÇÃO
     Data: 28/05/2019
     Órgão: CE - Comissão de Educação e Cultura
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 30/05/2019 a 05/06/2019.
-Perante a CE.
-Ação:
+    Ação: Não disponível
     Data: 28/05/2019
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Leitura da matéria na sessão do SF nº84, em 28/05/2019.
-Ação:
+    Ação: Não disponível
 Documentos: 
     Documento: PL 3135/2019
     Data: 23/05/2019
@@ -213,14 +193,12 @@ Documentos:
     Local: Comissão de Educação e Cultura
     Ação legislativa: Recebido o relatório do Senador Lasier Martins, com voto pela aprovação do projeto (fls. 4 a 7).
     Descrição/ementa: Listagem ou relatório
-pg
-5
+
 Atividade Legislativa
 Projeto de Lei n° 3135, de 2019
 DOCUMENTOS
     Documento: Listagem ou relatório
-pg
-5
+
 Atividade Legislativa
 Projeto de Lei n° 3135, de 2019
 DOCUMENTOS
@@ -259,9 +237,7 @@ DOCUMENTOS
     Local: Secretaria de Expediente
     Ação legislativa: Não disponível
     Descrição/ementa: Confere ao Município de Vacaria, no Estado do Rio Grande do Sul, o título de Capital Nacional dos Rodeios Crioulos.
-    Documento: pg
-6
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 3135, de 2019
 DOCUMENTOS
 OFC 482/2024 - Câmara dos
@@ -298,7 +274,7 @@ termos dos §§ 3º e 7º do art. 66 da Constituição Federal.
 art. 66 da Constituição Federal.
     Documento: OFSF 1277/2024
     Data: 13/11/2024
-    Autor: pg
+    Autor: Atividade Legislativa
     Local: Comissão Diretora do Senado Federal
     Ação legislativa: Não disponível
     Descrição/ementa: Encaminha à Câmara dos Deputados cópia de autógrafo promulgado do Projeto de Lei n° 3.135, de 2019, nos termos dos §§ 3º e

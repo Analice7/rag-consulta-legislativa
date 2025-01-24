@@ -7,6 +7,30 @@ Despacho: 22/05/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CE) Comissão de Educação e Cultura
+TRAMITAÇÃO
+19/11/2024
+SF-SEXPE - Secretaria de Expediente
+Remetido Ofício SF nº 1293 , de 18/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
+devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.439, de 2024, na origem,
+restituindo autógrafos do Projeto de Lei n° 5.894, de 2019, sancionado e transformado na Lei nº 15.020, de 12 de novembro de
+2024.
+À COARQ.
+Ação:
+18/11/2024
+PLEN - Plenário do Senado Federal
+Encaminhada à publicação a Mensagem da Presidência da República nº 1439, de 2024, na origem, que restitui autógrafo do
+Projeto de Lei nº 5.894, de 2019, sancionado e convertido na Lei nº 15.020, de 12 de novembro de 2024.
+Será feita a devida comunicação à Câmara dos Deputados.
+Ação:
+13/11/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15020 DE 2024.
+DOU (Diário Oficial da União) - 13/11/2024 - Seção I - págs. 9 e 9.
+Sancionada em 12/11/2024.
+Ação:
 Relatoria: CE - (Comissão de Educação e Cultura)
 Relator(es):
 Senador Paulo Paim (encerrado em 15/10/2024 - Deliberação
@@ -21,19 +45,11 @@ Tramitação:
     Data: 19/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Remetido Ofício SF nº 1293 , de 18/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
-devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.439, de 2024, na origem,
-restituindo autógrafos do Projeto de Lei n° 5.894, de 2019, sancionado e transformado na Lei nº 15.020, de 12 de novembro de
-2024.
-À COARQ.
-Ação:
+    Ação: Não disponível
     Data: 18/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhada à publicação a Mensagem da Presidência da República nº 1439, de 2024, na origem, que restitui autógrafo do
-Projeto de Lei nº 5.894, de 2019, sancionado e convertido na Lei nº 15.020, de 12 de novembro de 2024.
-Será feita a devida comunicação à Câmara dos Deputados.
-Ação:
+    Ação: Não disponível
     Data: 13/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: TRANSFORMADA EM NORMA JURÍDICA
@@ -52,8 +68,7 @@ foi encaminhado à sanção presidencial.
     Data: 24/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 24/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -63,9 +78,7 @@ A matéria, aprovada terminativamente, vai à sanção.  Será feita a devida co
     Data: 15/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 17/10/2024 a 23/10/2024.
-Perante a Mesa.
-Ação:
+    Ação: Não disponível
     Data: 15/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
@@ -76,8 +89,7 @@ Interno.
     Data: 15/10/2024
     Órgão: CE - Comissão de Educação e Cultura
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Paulo Paim por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 15/10/2024
     Órgão: CE - Comissão de Educação e Cultura
     Situação: APRECIADA EM DECISÃO TERMINATIVA PELAS COMISSÕES
@@ -104,16 +116,11 @@ Matéria aguardando distribuição.
     Data: 28/05/2024
     Órgão: CE - Comissão de Educação e Cultura
     Situação: Não disponível
-    Ação: Prazo para apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, “c”, do RISF) prorrogado até o dia
-03/06/2024 devido à decretação de ponto facultativo no dia 31/05/2024, nos termos do Ato do Primeiro-Secretário nº 8, de
-2024.
-Ação:
+    Ação: Não disponível
     Data: 22/05/2024
     Órgão: CE - Comissão de Educação e Cultura
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 24/05/2024 a 31/05/2024.
-Perante a CE.
-Ação:
+    Ação: Não disponível
     Data: 22/05/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -163,9 +170,7 @@ Livro dos Heróis e Heroínas da Pátria.
     Ação legislativa: Não disponível
     Descrição/ementa: Da COMISSÃO DE EDUCAÇÃO E CULTURA, sobre o Projeto de Lei n° 5894, de 2019, que Inscreve o nome de Darcy Ribeiro no
 Livro dos Heróis e Heroínas da Pátria.
-    Documento: pg
-4
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 5894, de 2019
 DOCUMENTOS
 Ofício
@@ -197,9 +202,7 @@ Ofício
     Autor: Primeiro-Secretário do Senado Federal
     Local: Comissão Diretora do Senado Federal
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-5
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 5894, de 2019
 DOCUMENTOS
 Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei

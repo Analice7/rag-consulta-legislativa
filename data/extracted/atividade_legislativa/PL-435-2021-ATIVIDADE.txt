@@ -9,6 +9,21 @@ Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CCJ) Comissão de Constituição, Justiça e Cidadania
 (SF-CAS) Comissão de Assuntos Sociais
+TRAMITAÇÃO
+22/11/2024
+SF-SEXPE - Secretaria de Expediente
+Remetido Ofício SF nº 1301, de 22/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
+devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.477, de 2024, na origem,
+restituindo autógrafos do Projeto de Lei n° 435, de 2021, sancionado e transformado na Lei nº 15.026, de 18 de novembro de
+2024.
+À COARQ.
+Ação:
+21/11/2024
+PLEN - Plenário do Senado Federal
+Encaminhada à publicação a Mensagem nº 1.477, de 2024, na origem, da Presidência da República, que restitui autógrafo do
+Projeto de Lei nº 435, de 2021, sancionado e convertido na Lei nº 15.026, de 18 de novembro de 2024.
+Será feita a devida comunicação à Câmara dos Deputados.
+Ação:
 Relatoria: CAS - (Comissão de Assuntos Sociais)
 Relator(es):
 Senador Humberto Costa (encerrado em 09/10/2024 -
@@ -27,25 +42,11 @@ Tramitação:
     Data: 22/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Remetido Ofício SF nº 1301, de 22/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
-devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.477, de 2024, na origem,
-restituindo autógrafos do Projeto de Lei n° 435, de 2021, sancionado e transformado na Lei nº 15.026, de 18 de novembro de
-2024.
-À COARQ.
-Ação:
+    Ação: Não disponível
     Data: 21/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhada à publicação a Mensagem nº 1.477, de 2024, na origem, da Presidência da República, que restitui autógrafo do
-Projeto de Lei nº 435, de 2021, sancionado e convertido na Lei nº 15.026, de 18 de novembro de 2024.
-Será feita a devida comunicação à Câmara dos Deputados.
-Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 435, de 2021
-TRAMITAÇÃO
-Publicado no DSF Páginas 9 - DSF nº 199
+    Ação: Não disponível
     Data: 19/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: TRANSFORMADA EM NORMA JURÍDICA
@@ -64,8 +65,7 @@ foi encaminhado à sanção presidencial.
     Data: 16/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 16/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -79,28 +79,19 @@ Será feita a devida comunicação à Câmara dos Deputados.
     Data: 16/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento nº 694, de 2024, do Senador Wilder Morais, solicitando a retirada definitiva da Emenda n° 3.
-Ação:
+    Ação: Não disponível
     Data: 16/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento nº 693, de 2024, do Senador Zequinha Marinho, solicitando a retirada definitiva da Emenda n° 2.
-Ação:
+    Ação: Não disponível
     Data: 15/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 3, do Senador Wilder Morais.
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei n° 435, de 2021
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 15/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 2, do Senador Zequinha Marinho.
-Ação:
+    Ação: Não disponível
     Data: 13/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: INCLUÍDA EM ORDEM DO DIA
@@ -110,10 +101,7 @@ nos termos dos arts. 336, II, e 338, IV, do Regimento Interno do Senado Federal)
     Data: 09/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, "d", do RISF). De 11/10/2024
-a 17/10/2024. Perante a Mesa.
-Ação:
-Publicado no DSF Páginas 89-96 - DSF nº 173
+    Ação: Não disponível
     Data: 09/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA
@@ -122,8 +110,7 @@ II, "d", do Regimento Interno do Senado.
     Data: 09/10/2024
     Órgão: CAS - Comissão de Assuntos Sociais
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Humberto Costa por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 09/10/2024
     Órgão: CAS - Comissão de Assuntos Sociais
     Situação: APROVADO PARECER NA COMISSÃO
@@ -140,9 +127,7 @@ nº 93, de 2024-CAS, de urgência para a matéria, ao Plenário do Senado.
     Ação: Recebido o Relatório do Senador Humberto Costa, com voto favorável ao Projeto.
     Data: 05/09/2024
     Órgão: CAS - Comissão de Assuntos Sociais
-    Situação: pg
-3
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei n° 435, de 2021
 TRAMITAÇÃO
 MATÉRIA COM A RELATORIA
@@ -154,9 +139,7 @@ MATÉRIA COM A RELATORIA
     Data: 21/08/2024
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Rogério Carvalho por deliberação da matéria.
-À CAS, para prosseguimento da tramitação.
-Ação:
+    Ação: Não disponível
     Data: 21/08/2024
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: APROVADO PARECER NA COMISSÃO
@@ -166,9 +149,7 @@ A Comissão aprova o Relatório, que passa a constituir o Parecer da CCJ, favor�
     Data: 20/08/2024
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 1, de autoria do Senador Alessandro Vieira.
-Encaminhada ao Relator, para análise.
-Ação:
+    Ação: Não disponível
     Data: 16/08/2024
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: INCLUÍDA NA PAUTA DA REUNIÃO
@@ -185,9 +166,7 @@ Matéria pronta para a Pauta na Comissão.
     Data: 08/02/2024
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: MATÉRIA COM A RELATORIA
-    Ação: pg
-4
-Atividade Legislativa
+    Ação: Atividade Legislativa
 Projeto de Lei n° 435, de 2021
 TRAMITAÇÃO
 Distribuído ao Senador Rogério Carvalho, para emitir relatório.
@@ -223,8 +202,7 @@ Documentos:
     Ação legislativa: Não disponível
     Descrição/ementa: Original do autógrafo assinado.
     Documento: Relatório Legislativo
-pg
-5
+
 Atividade Legislativa
 Projeto de Lei n° 435, de 2021
 DOCUMENTOS
@@ -266,7 +244,7 @@ Engenharia Geológica.
     Documento: REQ 93/2024 - CAS
     Data: 09/10/2024
     Autor: Comissão de Assuntos Sociais
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Não disponível
     Descrição/ementa: Requer, nos termos dos arts. 336, II, e 338, IV, do Regimento Interno do Senado Federal, urgência para o PL 435/2021, que
 “dispõe sobre a aplicação das Leis nº 4.950-A, de 22 de abril de 1966, 5.194, de 24 de dezembro de 1966, e 7.410, de 27 de
@@ -303,9 +281,7 @@ Engenharia Geológica.
     Local: Plenário do Senado Federal
     Ação legislativa: Recebido o Requerimento nº 693, de 2024, do Senador Zequinha Marinho, solicitando a retirada definitiva da Emenda n° 2.
     Descrição/ementa: Requer a retirada definitiva da Emenda nº 2 ao Projeto de Lei nº 435/2021.
-    Documento: pg
-7
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 435, de 2021
 DOCUMENTOS
 RQS 694/2024
@@ -341,7 +317,7 @@ RQS 694/2024
     Descrição/ementa: Encaminha à sanção o Projeto de Lei n° 435/2021.
     Documento: OFSF 1224/2024
     Data: 29/10/2024
-    Autor: pg
+    Autor: Atividade Legislativa
     Local: Comissão Diretora do Senado Federal
     Ação legislativa: Não disponível
     Descrição/ementa: Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 435/2021.
@@ -375,9 +351,7 @@ novembro de 1985, aos diplomados em Geologia ou Engenharia Geológica.
     Autor: Primeiro-Secretário do Senado Federal
     Local: Comissão Diretora do Senado Federal
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-9
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 435, de 2021
 DOCUMENTOS
 2024.

@@ -7,6 +7,34 @@ Despacho: 08/08/2022
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CAS) Comissão de Assuntos Sociais
+TRAMITAÇÃO
+11/10/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício SF n.º 1188, de 09/10/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+encaminhando a Mensagem SF n.º 210/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
+presidencial autógrafo do Projeto.
+Remetido Ofício SF n.º 1189, de 09/10/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
+foi encaminhado à sanção presidencial.
+Ação:
+11/10/2024
+SF-SEXPE - Secretaria de Expediente
+Anexado o texto revisado.
+Ação:
+08/10/2024
+PLEN - Plenário do Senado Federal
+APROVADA
+Situação:
+(Sessão Deliberativa Ordinária, realizada em 8 de outubro de 2024)
+Encerrada a discussão.
+Aprovado projeto e emenda n° 1, de redação.
+Encaminhada à publicação e aprovada a Redação Final do Projeto (Parecer n° 174, de 2024 – Plen/SF).
+O projeto vai à sanção
+Será feita a comunicação à Câmara dos Deputados.
+Ação:
+Publicado no DSF Páginas 118-121 - DSF nº 172
+Publicado no DSF Páginas 57 - DSF nº 172
 Relatoria: CAS - (Comissão de Assuntos Sociais)
 Relator(es):
 Senador Dr. Hiran (encerrado em 12/06/2024 - Substituído por
@@ -30,8 +58,7 @@ foi encaminhado à sanção presidencial.
     Data: 11/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 08/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -44,9 +71,7 @@ Será feita a comunicação à Câmara dos Deputados.
     Data: 21/06/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Aguardando inclusão em Ordem do Dia.
-Discussão, em turno único.
-Ação:
+    Ação: Não disponível
     Data: 21/06/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: PRONTO PARA DELIBERAÇÃO DO PLENÁRIO
@@ -56,9 +81,7 @@ A matéria será incluída em Ordem do Dia oportunamente.
     Data: 12/06/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, "d", do RISF). De 14/06/2024
-a 20/06/2024. Perante a Mesa.
-Ação:
+    Ação: Não disponível
     Data: 12/06/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA
@@ -77,9 +100,7 @@ favorável ao Projeto, com a Emenda nº 1-CAS (de redação).
     Data: 17/05/2023
     Órgão: CAS - Comissão de Assuntos Sociais
     Situação: Não disponível
-    Ação: Em reunião realizada em 17/05/2023, foi concedida vista à Senadora Leila Barros, nos termos do art. 132 do Regimento Interno
-do Senado Federal.
-Ação:
+    Ação: Não disponível
     Data: 12/05/2023
     Órgão: CAS - Comissão de Assuntos Sociais
     Situação: INCLUÍDA NA PAUTA DA REUNIÃO
@@ -95,8 +116,7 @@ Ação:
     Data: 21/12/2022
     Órgão: CAS - Comissão de Assuntos Sociais
     Situação: Não disponível
-    Ação: A proposição continua a tramitar, nos termos do art. 332 do Regimento Interno.
-Ação:
+    Ação: Não disponível
     Data: 09/08/2022
     Órgão: CAS - Comissão de Assuntos Sociais
     Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
@@ -104,15 +124,11 @@ Ação:
     Data: 08/08/2022
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: A matéria vai à CAS.
-Ação:
-Publicado no DSF Páginas 22 - DSF nº 121
+    Ação: Não disponível
     Data: 08/08/2022
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação, em 08/08/2022.
-Ação:
-Publicado no DSF Páginas 17-21 - DSF nº 121
+    Ação: Não disponível
 Documentos: 
     Documento: PL 3931/2021
     Data: 13/05/2022
@@ -126,9 +142,7 @@ Documentos:
     Local: Plenário do Senado Federal
     Ação legislativa: Encaminhado à publicação, em 08/08/2022.
     Descrição/ementa: -
-    Documento: pg
-3
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 3931, de 2021
 DOCUMENTOS
 Relatório Legislativo
@@ -164,9 +178,7 @@ Relatório Legislativo
     Ação legislativa: Não disponível
     Descrição/ementa: Encaminha a Mensagem da Presidência do Senado Federal submetendo à sanção presidencial autógrafos do Projeto de Lei n°
 3931, de 2021.
-    Documento: pg
-4
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 3931, de 2021
 DOCUMENTOS
 MPSF 210/2024

@@ -7,6 +7,34 @@ Despacho: 10/04/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva
 (SF-CEsp) Comissão de Esporte
+TRAMITAÇÃO
+10/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15041 DE 2024. (vetada parcialmente: vide MSG 1590 de 2024).
+DOU (Diário Oficial da União) - 10/12/2024 - Seção I - págs. 7 e 7.
+Sancionada em 09/12/2024.
+Ação:
+19/11/2024
+PLEN - Plenário do Senado Federal
+Encaminhado à publicação o Ofício da Câmara dos Deputados nº 593, de 2024, na origem, que comunica o envio à sanção do
+Projeto de Lei nº 1.205, de 2024.
+A matéria vai à Secretaria de Expediente.
+Ação:
+Publicado no DSF Páginas 97-98 - DSF nº 198
+10/06/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À CÂMARA DOS DEPUTADOS
+Situação:
+Remetido Ofício SF nº 473, de 10/06/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, encaminhando autógrafo do
+projeto para revisão, nos termos do art. 65 da Constituição Federal.
+Ação:
+04/06/2024
+SF-SEXPE - Secretaria de Expediente
+Anexado o texto revisado.
+Ação:
 Relatoria: CEsp - (Comissão de Esporte)
 Relator(es):
 Senador Carlos Portinho (encerrado em 22/05/2024 -
@@ -28,11 +56,7 @@ Sancionada em 09/12/2024.
     Data: 19/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício da Câmara dos Deputados nº 593, de 2024, na origem, que comunica o envio à sanção do
-Projeto de Lei nº 1.205, de 2024.
-A matéria vai à Secretaria de Expediente.
-Ação:
-Publicado no DSF Páginas 97-98 - DSF nº 198
+    Ação: Não disponível
     Data: 10/06/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: REMETIDA À CÂMARA DOS DEPUTADOS
@@ -41,13 +65,7 @@ projeto para revisão, nos termos do art. 65 da Constituição Federal.
     Data: 04/06/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 1205, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 04/06/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -57,20 +75,15 @@ O Projeto de Lei nº 1.205, de 2024, aprovado terminativamente pela CEsp, vai à
     Data: 04/06/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Anexado o texto final revisado.
-Ação:
+    Ação: Não disponível
     Data: 28/05/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo para interposição de recurso perante a Mesa (Art. 91 §§ 3º ao 5º, do RISF) prorrogado até o dia 03/06/2024 devido à
-decretação de ponto facultativo no dia 31/05/2024, nos termos do Ato do Primeiro-Secretário nº 8, de 2024.
-Ação:
+    Ação: Não disponível
     Data: 22/05/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 24/05/2024 a 31/05/2024.
-Perante a Mesa.
-Ação:
+    Ação: Não disponível
     Data: 22/05/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
@@ -81,8 +94,7 @@ membros da Casa, para que sejá apreciada pelo Plenário, nos termos do art. 91,
     Data: 22/05/2024
     Órgão: CEsp - Comissão de Esporte
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Carlos Portinho por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 21/05/2024
     Órgão: CEsp - Comissão de Esporte
     Situação: APROVADO PARECER NA COMISSÃO
@@ -96,8 +108,7 @@ para ciência do Plenário e publicação no Diário do Senado Federal (art. 91,
     Data: 21/05/2024
     Órgão: CEsp - Comissão de Esporte
     Situação: Não disponível
-    Ação: Recebido complementação de voto do senador Carlos Portinho ao relatório apresentado no dia 25/04/2024.
-Ação:
+    Ação: Não disponível
     Data: 15/05/2024
     Órgão: CEsp - Comissão de Esporte
     Situação: INCLUÍDA NA PAUTA DA REUNIÃO
@@ -127,9 +138,7 @@ do RISF). Não foram apresentadas emendas.
     Data: 10/04/2024
     Órgão: CEsp - Comissão de Esporte
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 12/04/2024 a 18/04/2024.
-Perante a CEsp.
-Ação:
+    Ação: Não disponível
     Data: 10/04/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -171,9 +180,7 @@ altera a Lei nº 14.597, de 14 de junho de 2023 (Lei Geral do Esporte), para dis
     Autor: Comissão de Esporte
     Local: Comissão de Esporte
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-4
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 1205, de 2024
 DOCUMENTOS
 Listagem ou relatório descritivo-Lista de Presença da reunião da 7ª Reunião CEsp
@@ -201,9 +208,7 @@ de junho de 2023 (Lei Geral do Esporte), para dispor sobre os subsistemas esport
     Autor: Senador Romário (PL/RJ)
     Local: Comissão de Esporte
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-5
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 1205, de 2024
 DOCUMENTOS
 Altera a Lei nº 14.597, de 14 de junho de 2023 (Lei Geral do Esporte), para dispor sobre os subsistemas esportivos privados.

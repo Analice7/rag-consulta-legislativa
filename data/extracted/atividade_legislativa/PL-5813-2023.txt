@@ -9,6 +9,21 @@ Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CDH) Comissão de Direitos Humanos e Legislação Participativa
 (SF-CAS) Comissão de Assuntos Sociais
+TRAMITAÇÃO
+30/10/2024
+SF-SEADI - Secretaria de Atas e Diários
+A matéria vai ao arquivo.
+Ação:
+30/10/2024
+PLEN - Plenário do Senado Federal
+Encaminhado à publicação o Ofício da Câmara dos Deputados nº 583, de 2024, na origem, que comunica a restituição do
+autógrafo do Projeto de Lei nº 5.813, de 2023, sancionado e convertido na Lei nº 14.992, de 3 de outubro de 2024.
+A matéria vai ao arquivo,
+Ação:
+Publicado no DSF Páginas 162 - DSF nº 187
+Publicado no DSF Páginas 164 - DSF nº 187
+04/10/2024
+SF-SEXPE - Secretaria de Expediente
 Relatoria: CDH - (Comissão de Direitos Humanos e Legislação Participativa)
 Relator(es):
 Senador Weverton (encerrado em 28/08/2024 - Deliberação da
@@ -28,22 +43,14 @@ Tramitação:
     Data: 30/10/2024
     Órgão: SF-SEADI - Secretaria de Atas e Diários
     Situação: Não disponível
-    Ação: A matéria vai ao arquivo.
-Ação:
+    Ação: Não disponível
     Data: 30/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício da Câmara dos Deputados nº 583, de 2024, na origem, que comunica a restituição do
-autógrafo do Projeto de Lei nº 5.813, de 2023, sancionado e convertido na Lei nº 14.992, de 3 de outubro de 2024.
-A matéria vai ao arquivo,
-Ação:
-Publicado no DSF Páginas 162 - DSF nº 187
-Publicado no DSF Páginas 164 - DSF nº 187
+    Ação: Não disponível
     Data: 04/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
-    Situação: pg
-1
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei n° 5813, de 2023
 TRAMITAÇÃO
 TRANSFORMADA EM NORMA JURÍDICA
@@ -54,18 +61,11 @@ Sancionada em 03/10/2024.
     Data: 01/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício da Câmara dos Deputados nº 524, de 2024, na origem, que comunica o envio de novos
-autógrafos à sanção do Projeto de Lei nº 5.813, de 2023, em razão de erro material. A matéria vai à Secretaria de Expediente.
-Ação:
-Publicado no DSF Páginas 10-11 - DSF nº 167
+    Ação: Não disponível
     Data: 18/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício  nº 506, de 2024, da Câmara dos Deputados, que comunica o envio à sanção do Projeto de Lei
-nº 5.813, de 2023.
-A matéria vai à Secretaria de Expediente.
-Ação:
-Publicado no DSF Páginas 382-383 - DSF nº 158
+    Ação: Não disponível
     Data: 30/08/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: REMETIDA À CÂMARA DOS DEPUTADOS
@@ -74,8 +74,7 @@ Federal aprovou o presente Projeto, em revisão e com emendas, e encaminhando o 
     Data: 30/08/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 28/08/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -92,24 +91,15 @@ A matéria retorna à Câmara dos Deputados.
     Data: 28/08/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Relatório do Senador Weverton.
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei n° 5813, de 2023
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 28/08/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Designado Relator de Plenário o Senador Weverton.
-Ação:
+    Ação: Não disponível
     Data: 28/08/2024
     Órgão: CDH - Comissão de Direitos Humanos e Legislação Participativa
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Weverton por deliberação da matéria.
-À SLSF para prosseguimento da tramitação.
-Ação:
+    Ação: Não disponível
     Data: 28/08/2024
     Órgão: CDH - Comissão de Direitos Humanos e Legislação Participativa
     Situação: APROVADO PARECER NA COMISSÃO
@@ -119,8 +109,7 @@ urgência, o qual foi aprovado (REQ 47/2024-CDH).
     Data: 28/08/2024
     Órgão: CDH - Comissão de Direitos Humanos e Legislação Participativa
     Situação: Não disponível
-    Ação: Apresentado requerimento (Urgência para matéria) na Comissão nesta data às 11:49.
-Ação:
+    Ação: Não disponível
     Data: 26/08/2024
     Órgão: CDH - Comissão de Direitos Humanos e Legislação Participativa
     Situação: PRONTA PARA A PAUTA NA COMISSÃO
@@ -176,9 +165,7 @@ Documentos:
     Local: Plenário do Senado Federal
     Ação legislativa: Não disponível
     Descrição/ementa: Encaminhamento da matéria para apreciação do Senado Federal.
-    Documento: pg
-4
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 5813, de 2023
 DOCUMENTOS
 Avulso inicial da matéria
@@ -246,9 +233,7 @@ Arruda, que altera as Leis nºs 11.788, de 25 de setembro de 2008, e 13.667, de 
     Autor: Primeiro-Secretário do Senado Federal
     Local: Comissão Diretora do Senado Federal
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-6
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 5813, de 2023
 DOCUMENTOS
 Encaminha à revisão da Câmara dos Deputados, com emendas, o Projeto de Lei n° 5.813, de 2023.

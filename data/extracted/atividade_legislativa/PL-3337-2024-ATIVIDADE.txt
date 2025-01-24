@@ -10,6 +10,26 @@ Despacho: 18/12/2024
 Decisão da Presidência
 Ao Plenário
 (SF-PLEN) Plenário do Senado Federal
+TRAMITAÇÃO
+27/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15075 DE 2024.
+DOU (Diário Oficial da União) - 27/12/2024 - Seção I - págs. 2 e 3.
+Sancionada em 26/12/2024.
+Ação:
+26/12/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício SF n.º 1602, de 26/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+encaminhando a Mensagem SF n.º 319/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
+presidencial autógrafo do Projeto.
+Remetido Ofício SF n.º 1603, de 26/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
+foi encaminhado à sanção presidencial.
+Ação:
 Relatoria: PLEN - (Plenário do Senado Federal)
 Relator(es):
 Senador Jaques Wagner (encerrado em 19/12/2024 - Matéria
@@ -39,8 +59,7 @@ foi encaminhado à sanção presidencial.
     Data: 23/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 19/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -62,25 +81,19 @@ Ordinária de 18/12/2024).
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: (186ª Sessão Deliberativa Ordinária – realizada em 18/12/2024)
-Aprovado o Requerimento nº 965, de 2024.
-Será cumprida a deliberação do Plenário.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Relatório do Senador Jaques Wagner.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Designado Relator de Plenário o Senador Jaques Wagner.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento nº 965, de 2024, de Líder, solicitando urgência para a matéria.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO DESPACHO
@@ -118,8 +131,7 @@ Federal.
     Ação legislativa: Não disponível
     Descrição/ementa: Requer que seja registrado o meu voto contrário ao PL 3337/ 2024,
     Documento: P.S 257/2024 - PLEN
-pg
-3
+
 Atividade Legislativa
 Projeto de Lei n° 3337, de 2024
 DOCUMENTOS
@@ -148,7 +160,7 @@ DOCUMENTOS
     Descrição/ementa: OFSF 1603/2024
     Documento: OFSF 1603/2024
     Data: 26/12/2024
-    Autor: pg
+    Autor: Atividade Legislativa
     Local: Comissão Diretora do Senado Federal
     Ação legislativa: Não disponível
     Descrição/ementa: Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 3337/2024.
@@ -176,7 +188,7 @@ Leis nºs 12.304, de 2 de agosto de 2010, 12.351, de 22 de dezembro de 2010, e 1
 Medida Provisória nº 1.255, de 26 de agosto de 2024.
     Documento: Mensagem
     Data: 26/12/2024
-    Autor: pg
+    Autor: Atividade Legislativa
     Local: Comissão Diretora do Senado Federal
     Ação legislativa: Não disponível
     Descrição/ementa: Recibo físico da Presidência da República referente à Mensagem SF n° 319/24 (assinada eletronicamente e impressa para recibo).

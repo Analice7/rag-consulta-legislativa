@@ -15,6 +15,13 @@ Despacho: 09/09/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CAE) Comissão de Assuntos Econômicos
+TRAMITAÇÃO
+10/10/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+Ação:
 Relatoria: CAE - (Comissão de Assuntos Econômicos)
 Relator(es):
 Senador Humberto Costa (encerrado em 18/09/2024 -
@@ -49,8 +56,7 @@ foi encaminhado à sanção presidencial.
     Data: 24/09/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 18/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -73,53 +79,39 @@ separado das Emendas nºs 6 e 4-PLEN, respectivamente)
     Data: 18/09/2024
     Órgão: CAE - Comissão de Assuntos Econômicos
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Humberto Costa por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 18/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a complemetação de voto.
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei n° 1725, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 18/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 15, do Senador Fernando Farias.
-Ação:
+    Ação: Não disponível
     Data: 18/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento n° 653, de 2024, da liderança do PP, de destaque para votação em separado da Emenda nº 4.
-Ação:
+    Ação: Não disponível
     Data: 18/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento n° 652, de 2024, da liderança do PL, de destaque para votação em separado da Emenda nº 6.
-Ação:
+    Ação: Não disponível
     Data: 18/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebidas as Emendas nºs 8 a 14, do Senador Mecias de Jesus.
-Ação:
+    Ação: Não disponível
     Data: 18/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 7, da Senadora Mara Gabrilli.
-Ação:
+    Ação: Não disponível
     Data: 18/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 6, dos Senadores Flavio Azevedo e Izalci Lucas.
-Ação:
+    Ação: Não disponível
     Data: 18/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o relatório.
-Ação:
+    Ação: Não disponível
     Data: 17/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: INCLUÍDA EM ORDEM DO DIA
@@ -128,36 +120,23 @@ Ação:
     Data: 17/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Aprovado, na Sessão Deliberativa Ordinária realizada em 17/09/2024, o RQS 627/24, que solicita urgência para a presente
-matéria.
-Ação:
-Publicado no DSF Páginas 42 - DSF nº 157
+    Ação: Não disponível
     Data: 11/09/2024
     Órgão: CAE - Comissão de Assuntos Econômicos
     Situação: Não disponível
-    Ação: Em 11/09/2024, foi apresentada a Emenda nº 5, de autoria do senador Laércio Oliveira.
-Ação:
+    Ação: Não disponível
     Data: 11/09/2024
     Órgão: CAE - Comissão de Assuntos Econômicos
     Situação: Não disponível
-    Ação: pg
-3
-Atividade Legislativa
-Projeto de Lei n° 1725, de 2024
-TRAMITAÇÃO
-Em 11/09/2024, o senador Laércio Oliveira solicitou a retirada da Emenda nº 1, de sua autoria.
-Ação:
+    Ação: Não disponível
     Data: 11/09/2024
     Órgão: CAE - Comissão de Assuntos Econômicos
     Situação: Não disponível
-    Ação: Em 11/09/2024, foram apresentadas as Emendas nºs 3 e 4, de autoria do senador Esperidião Amin.
-Ação:
+    Ação: Não disponível
     Data: 10/09/2024
     Órgão: CAE - Comissão de Assuntos Econômicos
     Situação: Não disponível
-    Ação: Em 10/09/2024, foram apresentadas a Emenda nº 1, de autoria do senador Laércio Oliveira; e a Emenda nº 2, de autoria do
-senador Esperidião Amin.
-Ação:
+    Ação: Não disponível
     Data: 09/09/2024
     Órgão: CAE - Comissão de Assuntos Econômicos
     Situação: MATÉRIA COM A RELATORIA
@@ -173,8 +152,7 @@ Ação:
     Data: 04/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento nº 627, de 2024, de Líder, solicitando urgência para a matéria.
-Ação:
+    Ação: Não disponível
     Data: 02/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO DESPACHO
@@ -211,9 +189,7 @@ Federal.
     Local: Comissão de Assuntos Econômicos
     Ação legislativa: Não disponível
     Descrição/ementa: Emenda altera art. 17 do PL para suprimir ampliação atuação EMGEA - seguratização
-    Documento: pg
-5
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 1725, de 2024
 DOCUMENTOS
 EMENDA 3 - PL 1725/2024
@@ -254,9 +230,7 @@ Mobilização de Capital Privado Externo e Proteção Cambial ".
     Local: Plenário do Senado Federal
     Ação legislativa: Recebida a Emenda nº 6, dos Senadores Flavio Azevedo e Izalci Lucas.
     Descrição/ementa: Emenda  ao PL 1725/2024 - devolução de valores esquecidos por PIX
-    Documento: pg
-6
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 1725, de 2024
 DOCUMENTOS
 EMENDA 7 PLEN - PL
@@ -295,9 +269,7 @@ EMENDA 7 PLEN - PL
     Local: Plenário do Senado Federal
     Ação legislativa: Recebidas as Emendas nºs 8 a 14, do Senador Mecias de Jesus.
     Descrição/ementa: Emenda 4 ao PL 1725/2024
-    Documento: pg
-7
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 1725, de 2024
 DOCUMENTOS
 EMENDA 12 PLEN - PL
@@ -337,9 +309,7 @@ renovável na produção de biocombustíveis
     Local: Plenário do Senado Federal
     Ação legislativa: Recebida a complemetação de voto.
     Descrição/ementa: Complementação de voto - PL 1725/2024
-    Documento: pg
-8
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 1725, de 2024
 DOCUMENTOS
 Avulso de emendas
@@ -368,7 +338,7 @@ Avulso de emendas
     Descrição/ementa: MPSF 193/2024
     Documento: MPSF 193/2024
     Data: 30/09/2024
-    Autor: pg
+    Autor: Atividade Legislativa
     Local: Comissão Diretora do Senado Federal
     Ação legislativa: Não disponível
     Descrição/ementa: Encaminha à sanção o Projeto de Lei n° 1725, de 2024.

@@ -11,10 +11,6 @@ Despacho: 19/03/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CI) Comissão de Serviços de Infraestrutura
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 528, de 2020
 Relatoria: CI - (Comissão de Serviços de Infraestrutura)
 Relator(es):
 Senador Veneziano Vital do Rêgo (encerrado em 03/09/2024 -
@@ -41,12 +37,7 @@ Sancionada em 08/10/2024.
     Data: 20/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício nº 504, de 2024, da Câmara dos Deputados, que comunica o envio à sanção do Projeto de Lei
-nº 528, de 2020.
-A matéria vai à Secretaria de Expediente.
-Ação:
-Publicado no DSF Páginas 9 - DSF nº 160
-Publicado no DSF Páginas 11 - DSF nº 160
+    Ação: Não disponível
     Data: 10/09/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: REMETIDA À CÂMARA DOS DEPUTADOS
@@ -55,8 +46,7 @@ Federal aprovou o presente Projeto, em revisão e com emendas, e encaminhando o 
     Data: 06/09/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 04/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -83,38 +73,31 @@ A matéria retorna à Câmara dos Deputados.
     Data: 04/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Relatório do Senador Veneziano Vital do Rêgo.
-Ação:
+    Ação: Não disponível
     Data: 04/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento n° 624, de 2024, da liderança do PP, de destaque para votação em separado da Emenda nº 47.
-Ação:
+    Ação: Não disponível
     Data: 04/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 47, da Senadora Tereza Cristina.
-Ação:
+    Ação: Não disponível
     Data: 04/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 46, do Senador Esperidião Amin.
-Ação:
+    Ação: Não disponível
     Data: 04/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento n° 623, de 2024, da liderança do PSD, de destaque para votação em separado da Emenda nº 45.
-Ação:
+    Ação: Não disponível
     Data: 04/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Designado Relator de Plenário o Senador Veneziano Vital do Rêgo.
-Ação:
+    Ação: Não disponível
     Data: 04/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 45, do Senador Irajá.
-Ação:
+    Ação: Não disponível
     Data: 03/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: INCLUÍDA EM ORDEM DO DIA
@@ -124,9 +107,7 @@ a matéria, nos termos dos arts. 336, II, e 338, IV, do RISF)
     Data: 03/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, "d", do RISF). De 05/09/2024
-a 11/09/2024. Perante a Mesa.
-Ação:
+    Ação: Não disponível
     Data: 03/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA
@@ -135,14 +116,11 @@ II, "d", do Regimento Interno.
     Data: 03/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido, em 25/3/2024, o Requerimento n° 203, de 2024, do Senador Vanderlan Cardoso, que requer a oitiva da Comissão de
-Assuntos Econômicos.
-Ação:
+    Ação: Não disponível
     Data: 03/09/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Veneziano Vital do Rêgo por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 03/09/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: APROVADO PARECER NA COMISSÃO
@@ -156,14 +134,11 @@ Juntados o parecer da CI e o requerimento de urgência.
     Data: 03/09/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Apresentado requerimento (Urgência para matéria) na Comissão nesta data às 10:50.
-Ação:
+    Ação: Não disponível
     Data: 03/09/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: O Senador Veneziano Vital do Rêgo apresenta, nesta data, complementação de voto ao relatório anteriormente submetido à
-Comissão.
-Ação:
+    Ação: Não disponível
     Data: 02/09/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: INCLUÍDA NA PAUTA DA REUNIÃO
@@ -174,42 +149,27 @@ A matéria está na pauta da reunião deliberativa agendada para o dia 03/09/202
     Data: 02/09/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Nessa data, o Senador Laércio Oliveira apresenta a emenda nº 22 e o Senador Jorge Kajuru apresenta a emenda nº 23 ao PL
-528/2020.
-Ao relator, para manifestar-se acerca das emendas apresentadas.
-A matéria está na pauta da reunião deliberativa agendada para o dia 03/09/2024.
-Ação:
+    Ação: Não disponível
     Data: 30/08/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: A Senadora Augusta Brito apresenta a emenda nº 21 ao PL 528/2020.
-Ação:
-pg
-4
-Atividade Legislativa
-Projeto de Lei n° 528, de 2020
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 29/08/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: O Senador  Astronauta Marcos Pontes apresenta a emenda n° 20 ao PL 528/2020.
-Ação:
+    Ação: Não disponível
     Data: 27/08/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: O Senador Esperidião Amin apresenta as emendas n° 18 e nº 19 ao PL 528/2020.
-Ação:
+    Ação: Não disponível
     Data: 21/08/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: O Senador Esperidião Amin apresenta a emenda n° 17 ao PL 528/2020.
-Ação:
+    Ação: Não disponível
     Data: 20/08/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 16 ao PL 528/2020 de autoria do Senador Otto Alencar para que suprima § 7º do art. 17 do Projeto de Lei
-nº 528/2020.
-Ação:
+    Ação: Não disponível
     Data: 20/08/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: MATÉRIA COM A RELATORIA
@@ -236,13 +196,7 @@ emendas.
     Data: 14/08/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: O Senador Beto Faro (PT/PA) apresenta a emenda n° 13 ao PL 528/2020.
-Ação:
-pg
-5
-Atividade Legislativa
-Projeto de Lei n° 528, de 2020
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 03/07/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: MATÉRIA COM A RELATORIA
@@ -250,8 +204,7 @@ TRAMITAÇÃO
     Data: 18/06/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: A Senadora Tereza Cristina apresenta a emenda nº 11 ao PL 528/2020.
-Ação:
+    Ação: Não disponível
     Data: 18/06/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: REQUERIMENTO APROVADO
@@ -262,33 +215,27 @@ RISF, defere o Requerimento 53/2024-CI e determina a retirada da emenda nº 4 ao
     Data: 18/06/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Apresentado requerimento (Retirada de emenda) na Comissão nesta data às 09:33.
-Ação:
+    Ação: Não disponível
     Data: 12/06/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: O  Senador Astronauta Marcos Pontes apresenta a emenda nº 10 ao PL 528/2020.
-Ação:
+    Ação: Não disponível
     Data: 11/06/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: O Senador Fernando Farias apresenta a emenda nº 9 ao PL 528/2020.
-Ação:
+    Ação: Não disponível
     Data: 10/06/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: O Senador Laércio Oliveira (PP/SE) apresentou a emenda nº 8 ao PL 528/2020.
-Ação:
+    Ação: Não disponível
     Data: 07/06/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: O Senador Mecias de Jesus apresenta a emenda nº 7 ao PL 528/2020.
-Ação:
+    Ação: Não disponível
     Data: 06/06/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: O Senador Carlos Viana apresenta a emenda nº 6 ao PL 528/2020.
-Ação:
+    Ação: Não disponível
     Data: 21/05/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: MATÉRIA COM A RELATORIA
@@ -298,8 +245,7 @@ Meio Ambiente e Transição Energética da Superintendência de Governança e Me
     Data: 16/05/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: O Senador Cid Gomes apresenta a emenda nº 5 ao PL 528/2020.
-Ação:
+    Ação: Não disponível
     Data: 15/05/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: AGUARDANDO AUDIÊNCIA PÚBLICA
@@ -312,85 +258,39 @@ REQ 22/2024 e REQ 36/2024 prevista para a 12ª reunião, agendada para 21/05/202
     Data: 29/04/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Recebida, nesta data, Emenda nº 3, do Senador Mecias de Jesus.
-Ação:
+    Ação: Não disponível
     Data: 25/04/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Reunida a Comissão nessa data, é realizada a segunda audiência pública de instrução do projeto, em atendimento aos
-requerimentos nº 18 e 33/2024-CI, com a presença dos seguintes convidados: José Nilton Vieira, Diretor Substituto do
-Departamento de Biocombustíveis do Ministério de Minas e Energia; Thomas Caldellas, Coordenador Geral de Regulamentos
-Técnicos e Mobilidade Sustentável do Ministério do Desenvolvimento, Indústria, Comércio e Serviços; Cristiano Levone de
-Oliveira, Gerente Executivo de Gestão Integrada de Transição Energética da Petrobras; Sylvie D'Apote, Diretora-Executiva de Gás
-Natural do IBP (Instituto Brasileiro de Petróleo e Gás); Lucien Belmonte, Presidente Executivo da Abividro (Associação Brasileira
-das Indústrias de Vidro); Davi Bomtempo, Superintendente de Meio Ambiente e Sustentabilidade da CNI (Confederação Nacional
-da Indústria); Renata Isfer, Presidente da Abiogás (Associação Brasileira do Biogás); Marcelo Mendonça, Diretor Técnico e
-Comercial da Abegás (Associação Brasileira das Empresas Distribuidoras de Gás Canalizado); André Passos Cordeiro, Presidente
-da Abiquim (Associação Brasileira da Indústria Química).
-Documentos, vídeos, apresentações e informações da reunião disponíveis em:
-https://legis.senado.leg.br/comissoes/reuniao?0&reuniao=12475&codcol=59
-O projeto, sob a relatoria do Senador Veneziano Vital do Rêgo, continua sobrestado, aguardando a realização de outra audiência
-pública de instrução.
-Ação:
+    Ação: Não disponível
     Data: 24/04/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Recebida, nesta data, Emenda nº 2, do Senador Astronauta Marcos Pontes.
-Ação:
-pg
-7
-Atividade Legislativa
-Projeto de Lei n° 528, de 2020
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 16/04/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Reunida a Comissão nessa data, é realizada audiência pública de instrução da matéria, em atendimento aos requerimentos nº
-19, 21, 26, 28 e 30/2024-CI, com a presença dos seguintes expositores: Cristiano Levone de Oliveira, Gerente-Executivo de
-Gestão Integrada de Transição Energética da Petrobras; Jurema Monteiro, Presidente da Abear (Associação Brasileira das
-Empresas Aéreas); Roberto Furian Ardenghy, Presidente do IBP (Instituto Brasileiro de Petróleo e Gás); Henry Daniel Hadid,
-Presidente do Sindicom (Sindicato Nacional das Empresas Distribuidoras de Combustível e de Lubrificantes); Erica Vieira Marcos,
-Gerente-Executiva Ambiental da CNT (Confederação Nacional do Transporte); Gustavo Henrique Ferreira, Diretor de Programa
-da Secretaria de Reformas Econômicas do Ministério da Fazenda; Marlon Arraes Jardim Leal, Diretor do Departamento de
-Biocombustíveis da Secretaria Nacional de Petróleo, Gás Natural e Biocombustíveis do Ministério de Minas e Energia; André
-Meloni Nassar, Presidente-Executivo da Abiove (Associação Brasileira das Indústrias de Óleos Vegetais); Sergio Tadeu Cabral
-Beltrão, Diretor-Executivo da Ubrabio (União Brasileira do Biodiesel e Bioquerosene); Julio Cesar Minelli, Diretor-
-Superintendente da Aprobio (Associação dos Produtores de Biocombustíveis do Brasil); Evandro Gussi, Presidente da UNICA
-(União da Indústria de Cana-de-Açúcar e Bioenergia).
-Documentos, vídeos e apresentações da reunião disponíveis em:
-https://legis.senado.leg.br/comissoes/reuniao?0&reuniao=12293.
-O projeto, sob a relatoria do Senador Veneziano Vital do Rêgo, segue sobrestado, aguardando a realização de audiências públicas
-de instrução em atendimento a outros requerimentos aprovados.
-Ação:
+    Ação: Não disponível
     Data: 15/04/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Audiência pública em atendimento aos REQ 18/2024 e REQ 22/2024 prevista para a 9ª reunião, agendada para 25/04/2024, às
-09h.
-Ação:
+    Ação: Não disponível
     Data: 11/04/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Audiência pública em atendimento aos REQ 19/2024, REQ 21/2024 e REQ 26/2024 prevista para a 7ª reunião, agendada para
-16/04/2024, às 09h.
-Ação:
+    Ação: Não disponível
     Data: 11/04/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Recebido requerimento (Audiência Pública) na Comissão de Infraestrutura nesta data.
-Ação:
+    Ação: Não disponível
     Data: 11/04/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Apresentado requerimento (Audiência Pública) na Comissão nesta data às 11:46.
-Ação:
+    Ação: Não disponível
     Data: 09/04/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: O Senador Chico Rodrigues apresenta a emenda n° 1 ao PL 528/2020.
-O projeto, sob a relatoria do Senador Veneziano Vital do Rêgo, segue sobrestado, aguardando a realização de audiência pública
-de instrução.
-Ação:
+    Ação: Não disponível
     Data: 09/04/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: AGUARDANDO AUDIÊNCIA PÚBLICA
@@ -400,18 +300,11 @@ está sobrestado aguardando a realização de audiência pública de instrução
     Data: 27/03/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Apresentado requerimento (Audiência Pública) na Comissão nesta data às 09:30.
-Ação:
-pg
-8
-Atividade Legislativa
-Projeto de Lei n° 528, de 2020
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 27/03/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Apresentado requerimento (Audiência Pública) na Comissão nesta data às 09:27.
-Ação:
+    Ação: Não disponível
     Data: 20/03/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: MATÉRIA COM A RELATORIA
@@ -440,9 +333,7 @@ Documentos:
     Autor: Senado Federal
     Local: Plenário do Senado Federal
     Ação legislativa: Autuado o Projeto de Lei nº 528/2020, proveniente da Câmara dos Deputados. O projeto vai à publicação.
-    Descrição/ementa: pg
-9
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 528, de 2020
 DOCUMENTOS
 -
@@ -487,9 +378,7 @@ convidados um representante da Federação Nacional das Distribuidoras de Combus
     Local: Comissão de Serviços de Infraestrutura
     Ação legislativa: Não disponível
     Descrição/ementa: Emenda PL 528/2020 (combustíveis do futuro) realização de testes prévios e garantia ao direito do consumidor
-    Documento: pg
-10
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 528, de 2020
 DOCUMENTOS
 REQ 26/2024 - CI
@@ -539,9 +428,7 @@ seguintes instituições: ABREMA - Associação Brasileira de Resíduos e Meio A
 Transporte Aéreo; ATGAS - Associação de Empresas de Transporte de Gás Natural por Gasoduto; BrasilCom - Federação Nacional
 das Distribuidoras de Combustíveis, Gás Natural e Biocombustíveis; ANP - Agência Nacional do Petróleo, Gás Natural e
 Biocombustíveis; e ABICOM - Associação Brasileira dos Importadores de Combustíveis.
-    Documento: pg
-11
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 528, de 2020
 DOCUMENTOS
 REQ 33/2024 - CI
@@ -585,7 +472,7 @@ convidado: sr. Thiago Falda, Presidente Executivo da Associação Brasileira de 
 sejam incluídos entre os convidados os deputados federais Arnaldo Jardim e Alceu Moreira.
     Documento: EMENDA 5 - PL 528/2020
     Data: 16/05/2024
-    Autor: pg
+    Autor: Atividade Legislativa
     Local: Comissão de Serviços de Infraestrutura
     Ação legislativa: O Senador Cid Gomes apresenta a emenda nº 5 ao PL 528/2020.
     Descrição/ementa: Emenda ao PL 528/2020
@@ -623,7 +510,7 @@ representantes da Anac (Agência Nacional de Aviação Civil) e da Abraget (Asso
     Documento: EMENDA 10 - PL 528/2020
     Data: 12/06/2024
     Autor: Senador Astronauta Marcos Pontes (PL/SP)
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: O  Senador Astronauta Marcos Pontes apresenta a emenda nº 10 ao PL 528/2020.
     Descrição/ementa: Emenda ao PL 528/2020 energias renováveis bioprodutos
     Documento: REQ 53/2024 - CI
@@ -656,9 +543,7 @@ representantes da Anac (Agência Nacional de Aviação Civil) e da Abraget (Asso
     Local: Comissão de Serviços de Infraestrutura
     Ação legislativa: Não disponível
     Descrição/ementa: Relatório apresentado ao PL 528/2020.
-    Documento: pg
-14
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 528, de 2020
 DOCUMENTOS
 Relatório Legislativo
@@ -696,9 +581,7 @@ de 6 de agosto de 1997, 9.847, de 26 de outubro de 1999, 8.723, de 28 de outubro
     Local: Comissão de Serviços de Infraestrutura
     Ação legislativa: O Senador Esperidião Amin apresenta a emenda n° 17 ao PL 528/2020.
     Descrição/ementa: Emenda ao PL 528/2020 CI Acrescentando Gás Natural Veicular
-    Documento: pg
-15
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 528, de 2020
 DOCUMENTOS
 EMENDA 18 - PL 528/2020
@@ -736,9 +619,7 @@ EMENDA 18 - PL 528/2020
     Autor: Senador Jorge Kajuru (PSB/GO)
     Local: Comissão de Serviços de Infraestrutura
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-16
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 528, de 2020
 DOCUMENTOS
 Ao relator, para manifestar-se acerca das emendas apresentadas.
@@ -803,9 +684,7 @@ Emenda ao PL 528/2020 - garantir a qualidade do produto e evitar forte impacto e
     Autor: Comissão de Serviços de Infraestrutura, Senador Veneziano Vital do Rêgo (MDB/PB), Senador Confúcio Moura (MDB/RO),
     Local: Comissão de Serviços de Infraestrutura
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-18
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 528, de 2020
 DOCUMENTOS
 À SLSF.
@@ -847,7 +726,7 @@ de 6 de agosto de 1997, 9.847, de 26 de outubro de 1999, 8.723, de 28 de outubro
     Descrição/ementa: -
     Documento: RQS 624/2024
     Data: 04/09/2024
-    Autor: pg
+    Autor: Atividade Legislativa
     Local: Plenário do Senado Federal
     Ação legislativa: Recebido o Requerimento n° 624, de 2024, da liderança do PP, de destaque para votação em separado da Emenda nº 47.
     Descrição/ementa: Requer, pela Liderança do PP, destaque para votação em separado da Emenda nº 47 ao Projeto de Lei nº 528/2020.
@@ -874,9 +753,7 @@ de 6 de agosto de 1997, 9.847, de 26 de outubro de 1999, 8.723, de 28 de outubro
     Autor: Comissão Diretora do Senado Federal
     Local: Plenário do Senado Federal
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-20
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 528, de 2020
 DOCUMENTOS
 Aprovado o Requerimento nº 88, de 2024, da Comissão de Serviços de Infraestrutura, a qual solicita regime de urgência para a
@@ -909,9 +786,7 @@ Parecer nº 154, de 2024-PLEN/SF. (Redação Final)
     Autor: Senador Veneziano Vital do Rêgo (MDB/PB)
     Local: Plenário do Senado Federal
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-21
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 528, de 2020
 DOCUMENTOS
 respectivamente, das emendas nºs 45 e 47.

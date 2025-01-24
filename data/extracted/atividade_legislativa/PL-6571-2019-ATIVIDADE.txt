@@ -3,11 +3,31 @@ Autoria: Câmara dos Deputados
 Iniciativa: Deputado Federal Reginaldo Lopes (PT/MG)
 Ementa: Denomina Rodovia Dom Luciano Pedro Mendes de Almeida trecho da BR-356 no Estado de Minas Gerais.
 Explicação da ementa: Denomina Rodovia Dom Luciano Pedro Mendes de Almeida o trecho da BR-356 situado entre o
+entroncamento com a BR-040 e a cidade de Mariana, localizada em Minas Gerais.
 Assunto: Honorífico  - Homenagem
 Despacho: 18/12/2019
 Leitura da Matéria
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CE) Comissão de Educação e Cultura
+TRAMITAÇÃO
+22/11/2024
+SF-SEXPE - Secretaria de Expediente
+Remetido Ofício SF nº 1302, de 22/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
+devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.481, de 2024, na origem,
+restituindo autógrafos do Projeto de Lei n° 6.571, de 2019, sancionado e transformado na Lei nº 15.030, de 18 de novembro de
+2024.
+À COARQ.
+Ação:
+21/11/2024
+PLEN - Plenário do Senado Federal
+Encaminhada à publicação a Mensagem nº 1.481, de 2024, na origem, da Presidência da República, que restitui autógrafo do
+Projeto de Lei nº 6.571, de 2019 (nº 4.510/2008, na Câmara dos Deputados), sancionado e convertido na Lei nº 15.030, de 18 de
+novembro de 2024.
+Será feita a devida comunicação à Câmara dos Deputados.
+Ação:
+Publicado no DSF Páginas 13 - DSF nº 199
+19/11/2024
+SF-SEXPE - Secretaria de Expediente
 Relatoria: CE - (Comissão de Educação e Cultura)
 Relator(es):
 Senador Jean-Paul Prates (encerrado em 20/12/2022 -
@@ -22,26 +42,14 @@ Tramitação:
     Data: 22/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Remetido Ofício SF nº 1302, de 22/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
-devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.481, de 2024, na origem,
-restituindo autógrafos do Projeto de Lei n° 6.571, de 2019, sancionado e transformado na Lei nº 15.030, de 18 de novembro de
-2024.
-À COARQ.
-Ação:
+    Ação: Não disponível
     Data: 21/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhada à publicação a Mensagem nº 1.481, de 2024, na origem, da Presidência da República, que restitui autógrafo do
-Projeto de Lei nº 6.571, de 2019 (nº 4.510/2008, na Câmara dos Deputados), sancionado e convertido na Lei nº 15.030, de 18 de
-novembro de 2024.
-Será feita a devida comunicação à Câmara dos Deputados.
-Ação:
-Publicado no DSF Páginas 13 - DSF nº 199
+    Ação: Não disponível
     Data: 19/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
-    Situação: pg
-1
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei n° 6571, de 2019
 TRAMITAÇÃO
 TRANSFORMADA EM NORMA JURÍDICA
@@ -60,8 +68,7 @@ foi encaminhado à sanção presidencial.
     Data: 16/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 16/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -78,9 +85,7 @@ Discussão, em turno único.
     Data: 09/02/2023
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Aguardando inclusão em ordem do dia.
-Discussão, em turno único.
-Ação:
+    Ação: Não disponível
     Data: 09/02/2023
     Órgão: PLEN - Plenário do Senado Federal
     Situação: PRONTO PARA DELIBERAÇÃO DO PLENÁRIO
@@ -90,25 +95,15 @@ A matéria será incluída em Ordem do Dia oportunamente.
     Data: 27/12/2022
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: pg
-2
-Atividade Legislativa
-Projeto de Lei n° 6571, de 2019
-TRAMITAÇÃO
-A proposição continua a tramitar, nos termos do art. 332 do Regimento Interno.
-Ação:
+    Ação: Não disponível
     Data: 27/12/2022
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhada à SGM para providências relativas ao final da legislatura.
-Ação:
+    Ação: Não disponível
     Data: 20/12/2022
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, "d", do RISF). De 22/12/2022
-a 07/02/2023. Perante a Mesa.
-Ação:
-Publicado no DSF Páginas 482 - DSF nº 211
+    Ação: Não disponível
     Data: 20/12/2022
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA
@@ -117,8 +112,7 @@ II, "d", do Regimento Interno.
     Data: 20/12/2022
     Órgão: CE - Comissão de Educação e Cultura
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Jean Paul Prates por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 20/12/2022
     Órgão: CE - Comissão de Educação e Cultura
     Situação: APROVADO PARECER NA COMISSÃO
@@ -172,7 +166,7 @@ Documentos:
     Descrição/ementa: Parecer sobre Projeto de Lei
     Documento: Listagem ou relatório
     Data: 20/12/2022
-    Autor: pg
+    Autor: Atividade Legislativa
     Local: Comissão de Educação e Cultura
     Ação legislativa: Não disponível
     Descrição/ementa: Listagem ou relatório descritivo-Lista de Presença da reunião da 32ª Reunião CE
@@ -236,9 +230,7 @@ Documentos:
     Autor: Primeiro-Secretário do Senado Federal
     Local: Comissão Diretora do Senado Federal
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-6
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 6571, de 2019
 DOCUMENTOS
 Comunica à Câmara dos Deputados o recebimento do autógrafo sancionado do Projeto de Lei n° 6571, de 2019.

@@ -7,6 +7,30 @@ Despacho: 07/02/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CE) Comissão de Educação e Cultura
+TRAMITAÇÃO
+23/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15050 DE 2024.
+DOU (Diário Oficial da União) - 23/12/2024 - Seção I - págs. 1 e 1.
+Sancionada em 20/12/2024.
+Ação:
+09/12/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício SF n.º 1337, de 09/12/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+encaminhando a Mensagem SF n.º 245/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
+presidencial autógrafo do Projeto.
+Remetido Ofício SF n.º 1338, de 09/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
+foi encaminhado à sanção presidencial.
+Ação:
+05/12/2024
+SF-SEXPE - Secretaria de Expediente
+Anexado o texto revisado.
+Ação:
 Relatoria: CE - (Comissão de Educação e Cultura)
 Relator(es):
 Senador Irajá (encerrado em 26/11/2024 - Deliberação da
@@ -38,13 +62,7 @@ foi encaminhado à sanção presidencial.
     Data: 05/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
-pg
-1
-Atividade Legislativa
-Projeto de Lei n° 3356, de 2021
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 05/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -56,9 +74,7 @@ Será feita a devida comunicação à Câmara dos Deputados.
     Data: 26/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 28/11/2024 a 04/12/2024.
-Perante a Mesa.
-Ação:
+    Ação: Não disponível
     Data: 26/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
@@ -69,8 +85,7 @@ membros da Casa, para que seja apreciado pelo Plenário, nos termos do art. 91, 
     Data: 26/11/2024
     Órgão: CE - Comissão de Educação e Cultura
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Irajá por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 26/11/2024
     Órgão: CE - Comissão de Educação e Cultura
     Situação: APRECIADA EM DECISÃO TERMINATIVA PELAS COMISSÕES
@@ -113,9 +128,7 @@ Matéria aguardando distribuição.
     Data: 07/02/2024
     Órgão: CE - Comissão de Educação e Cultura
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 09/02/2024 a 20/02/2024.
-Perante a CE.
-Ação:
+    Ação: Não disponível
     Data: 07/02/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -164,8 +177,7 @@ Capim Dourado ao Município de Mateiros, no Estado do Tocantins.
     Ação legislativa: Não disponível
     Descrição/ementa: Lista de Votação
     Documento: P.S 130/2024 - CE
-pg
-4
+
 Atividade Legislativa
 Projeto de Lei n° 3356, de 2021
 DOCUMENTOS
@@ -199,9 +211,7 @@ Capim Dourado ao Município de Mateiros, no Estado do Tocantins.
     Autor: Primeiro-Secretário do Senado Federal
     Local: Comissão Diretora do Senado Federal
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-5
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 3356, de 2021
 DOCUMENTOS
 Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 3356, de 2021.

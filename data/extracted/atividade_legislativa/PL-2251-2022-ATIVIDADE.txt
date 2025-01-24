@@ -8,6 +8,30 @@ Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CRE) Comissão de Relações Exteriores e Defesa Nacional
 (SF-CCJ) Comissão de Constituição, Justiça e Cidadania
+TRAMITAÇÃO
+19/12/2024
+SF-SEXPE - Secretaria de Expediente
+Remetido Ofício SF nº 1465, de 19/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando, para os
+devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1657, de 2024, na origem,
+restituindo autógrafos do Projeto de Lei n° 2251, de 2022, sancionado e transformado na Lei nº 15.043, de 16 de dezembro de
+2024.
+À COARQ.
+Ação:
+18/12/2024
+PLEN - Plenário do Senado Federal
+Encaminhada à publicação a Mensagem da Presidência da República nº 1.657, de 2024, na origem, que restitui autógrafo do
+Projeto de Lei nº 2.251, de 2022 (nº 4.256, de 2016, na Câmara dos Deputados), sancionado e convertido na Lei nº 15.043, de 16
+de dezembro de 2024. Será feita a devida comunicação à Câmara dos Deputados.
+Ação:
+17/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15043 DE 2024.
+DOU (Diário Oficial da União) - 17/12/2024 - Seção I - págs. 1 e 1.
+Sancionada em 16/12/2024.
+Ação:
 Relatoria: CCJ - (Comissão de Constituição, Justiça e Cidadania)
 Relator(es):
 Senador Veneziano Vital do Rêgo (encerrado em 30/10/2024 -
@@ -28,19 +52,11 @@ Tramitação:
     Data: 19/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Remetido Ofício SF nº 1465, de 19/12/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando, para os
-devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1657, de 2024, na origem,
-restituindo autógrafos do Projeto de Lei n° 2251, de 2022, sancionado e transformado na Lei nº 15.043, de 16 de dezembro de
-2024.
-À COARQ.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhada à publicação a Mensagem da Presidência da República nº 1.657, de 2024, na origem, que restitui autógrafo do
-Projeto de Lei nº 2.251, de 2022 (nº 4.256, de 2016, na Câmara dos Deputados), sancionado e convertido na Lei nº 15.043, de 16
-de dezembro de 2024. Será feita a devida comunicação à Câmara dos Deputados.
-Ação:
+    Ação: Não disponível
     Data: 17/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: TRANSFORMADA EM NORMA JURÍDICA
@@ -59,8 +75,7 @@ foi encaminhado à sanção presidencial.
     Data: 26/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 26/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -82,9 +97,7 @@ Discussão, em turno único.
     Data: 18/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: A Sessão Deliberativa Extraordinária de 19/11/2024 foi convertida em Sessão Não Deliberativa.
-Matéria retirada de pauta.
-Ação:
+    Ação: Não disponível
     Data: 16/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: INCLUÍDA EM ORDEM DO DIA
@@ -93,14 +106,7 @@ Discussão, em turno único.
     Data: 14/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Aguardando inclusão em Ordem do Dia.
-Discussão, em turno único.
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei n° 2251, de 2022
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 14/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: PRONTO PARA DELIBERAÇÃO DO PLENÁRIO
@@ -110,10 +116,7 @@ A matéria será incluída em Ordem do Dia oportunamente.
     Data: 31/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, "d", do RISF). De 04/11/2024
-a 13/11/2024. Perante a Mesa.
-Ação:
-Publicado no DSF Páginas 30 - DSF nº 188
+    Ação: Não disponível
     Data: 31/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA
@@ -122,8 +125,7 @@ II, "d", do Regimento Interno.
     Data: 30/10/2024
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: Não disponível
-    Ação: À SLSF, para prosseguimento da tramitação.
-Ação:
+    Ação: Não disponível
     Data: 30/10/2024
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: APROVADO PARECER NA COMISSÃO
@@ -142,9 +144,7 @@ Matéria pronta para a Pauta na Comissão.
     Data: 08/02/2024
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: MATÉRIA COM A RELATORIA
-    Ação: pg
-3
-Atividade Legislativa
+    Ação: Atividade Legislativa
 Projeto de Lei n° 2251, de 2022
 TRAMITAÇÃO
 Distribuído ao Senador Veneziano Vital do Rêgo, para emitir relatório.
@@ -155,8 +155,7 @@ Distribuído ao Senador Veneziano Vital do Rêgo, para emitir relatório.
     Data: 14/09/2023
     Órgão: CRE - Comissão de Relações Exteriores e Defesa Nacional
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Fernando Dueire por deliberação da matéria.
-Ação:
+    Ação: Não disponível
     Data: 14/09/2023
     Órgão: CRE - Comissão de Relações Exteriores e Defesa Nacional
     Situação: APROVADO PARECER NA COMISSÃO
@@ -204,14 +203,11 @@ A matéria vai à Comissão de Constituição, Justiça e Cidadania, para prosse
     Data: 21/12/2022
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: A proposição continua a tramitar, nos termos do art. 332 do Regimento Interno.
-Ação:
+    Ação: Não disponível
     Data: 10/08/2022
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação, em 10/08/2022.
-Ação:
-Publicado no DSF Páginas 972-974 - DSF nº 123
+    Ação: Não disponível
 Documentos: 
     Documento: PL 2251/2022
     Data: 07/07/2022
@@ -224,9 +220,7 @@ Documentos:
     Autor: Senado Federal
     Local: Plenário do Senado Federal
     Ação legislativa: Encaminhado à publicação, em 10/08/2022.
-    Descrição/ementa: pg
-5
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 2251, de 2022
 DOCUMENTOS
 -
@@ -266,9 +260,7 @@ a doar área para a instalação da Embaixada da República de Cabo Verde.
     Autor: Comissão de Constituição, Justiça e Cidadania
     Local: Comissão de Constituição, Justiça e Cidadania
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-6
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 2251, de 2022
 DOCUMENTOS
 A Comissão aprova o Relatório, que passa a constituir o Parecer da CCJ, favorável ao Projeto.
@@ -301,7 +293,7 @@ a doar área para a instalação da Embaixada da República de Cabo Verde.
     Descrição/ementa: Comunica à Câmara dos Deputados o encaminhamento à Presidência da República do Projeto de Lei n° 2251/2022.
     Documento: Autógrafo - PL 2251/2022
     Data: 28/11/2024
-    Autor: pg
+    Autor: Atividade Legislativa
     Local: Secretaria de Expediente
     Ação legislativa: Não disponível
     Descrição/ementa: Autoriza o Poder Executivo a doar área para a instalação da Embaixada da República de Cabo Verde.

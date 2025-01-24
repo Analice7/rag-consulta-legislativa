@@ -3,12 +3,30 @@ Autoria: Presidência da República
 Ementa: Altera a Lei nº 14.822, de 22 de janeiro de 2024, que estima a receita e fixa a despesa da União para o exercício
 financeiro de 2024 (alteração proposta pela Mensagem presidencial nº 871/2024).
 Explicação da ementa: Propõe alterar a LOA 2024, a fim de adequar as regras relacionadas à abertura de créditos
+suplementares e à recomposição das autorizações específicas constantes no Anexo V da
+referida Lei. Inclui o parágrafo no art. 4º, com o objetivo de esclarecer que o limite de anulação
+de despesas primárias discricionárias (30% do valor do subtítulo objeto da anulação) para
+suplementação
+de despesas, previsto no art. 4º, § 2º, inciso I, não se aplica quando a anulação de dotações
+envolver despesas primárias discricionárias bloqueadas nos termos do art. 69, § 2º, da LDO-
+2024, para suplementação de despesas primárias obrigatórias. Já as modificações no Anexo V,
+referem-se aos pleitos do Supremo Tribunal Federal (STF) e do Ministério das Relações
+Exteriores (MRE), que contém as autorizações específicas de que trata o art. 169, § 1º, inciso II,
+da Constituição, e o art. 120, inciso IV, da LDO-2024, relativas a despesas de pessoal e encargos
+sociais para 2024. Bem como, o acréscimo do limite destinado à regulamentação do Bônus de
+Eficiência e Produtividade na Atividade de Auditoria-Fiscal do Trabalho, no âmbito do Poder
+Executivo (proposto pela Mensagem Modificativa 871/2024).
 Assunto: Orçamento Público  - Orçamento Anual
 Despacho: 05/08/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (CN-CMO) Comissão Mista de Planos, Orçamentos Públicos e
 Fiscalização
+TRAMITAÇÃO
+23/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
 Relatoria: CMO - (Comissão Mista de Planos, Orçamentos Públicos e Fiscalização)
 Relator(es):
 Deputado Federal Jadyel Alencar (Relator Ad hoc) (encerrado
@@ -27,9 +45,7 @@ Tramitação:
     Data: 23/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: TRANSFORMADA EM NORMA JURÍDICA
-    Ação: pg
-1
-Atividade Legislativa
+    Ação: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 19, de 2024
 TRAMITAÇÃO
 (PR) PRESIDÊNCIA DA REPÚBLICA.
@@ -45,8 +61,7 @@ Projeto.
     Data: 18/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Congresso Nacional
     Situação: APROVADO O SUBSTITUTIVO
@@ -67,8 +82,7 @@ Encaminhada à publicação e aprovada, na Câmara dos Deputados e no Senado Fed
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Congresso Nacional
     Situação: Não disponível
-    Ação: Anexado o destaque apresentado à matéria.
-Ação:
+    Ação: Não disponível
     Data: 16/12/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: INCLUÍDA EM ORDEM DO DIA
@@ -80,13 +94,7 @@ Ação:
     Data: 16/10/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Deputado Adail Filho por deliberação da matéria.
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei do Congresso Nacional n° 19, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 16/10/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: APROVADO PARECER NA COMISSÃO
@@ -97,26 +105,19 @@ SUBSTITUTIVO apresentado. Quanto à emenda apresentada foi REJEITADA.
     Data: 16/10/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Na continuação  da 9ª Reunião,extraordinária, em 16.10.2024, foi aprovada a inclusão da matéria na pauta.
-Ação:
+    Ação: Não disponível
     Data: 16/10/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Recebido do relator, Deputado Adail Filho, NOVO às 15:31h relatório com voto pela aprovação do Projeto, nos termos do
-substitutivo apresentado. Quanto a emenda apresentada, recebeu voto pela REJEIÇÃO.
-Ação:
+    Ação: Não disponível
     Data: 16/10/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Recebido do relator, Deputado Adail Filho, NOVO às 14:32h, relatório com voto pela aprovação do Projeto, nos termos do
-substitutivo apresentado. Quanto a emenda apresentada, recebeu voto pela APROVAÇÃO.
-Ação:
+    Ação: Não disponível
     Data: 16/10/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Recebido do relator, Deputado Adail Filho, novo relatório com voto pela aprovação do Projeto, nos termos  do substitutivo
-apresentado. Quanto a emenda apresentada, recebeu voto pela REJEIÇÃO.
-Ação:
+    Ação: Não disponível
     Data: 03/09/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: PRONTA PARA A PAUTA NA COMISSÃO
@@ -125,19 +126,14 @@ Quanto a emenda apresentada, recebeu voto pela REJEIÇÃO.
     Data: 22/08/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Recebida Mensagem nº 871/2024 da Presidência da República, em 22 de agosto de 2024, com proposta de modificação do
-Projeto de Lei nº 19, de 2024 - CN.
-Ação:
-Publicado no DCN Páginas 28-49 - DCN nº 31
+    Ação: Não disponível
     Data: 20/08/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: MATÉRIA COM A RELATORIA
     Ação: Encerrado o prazo regimental, ao Projeto foi apresentada 1 (uma) emenda. O avulso será publicado no DCN de 22.08.2024.
     Data: 06/08/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
-    Situação: pg
-3
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 19, de 2024
 TRAMITAÇÃO
 MATÉRIA COM A RELATORIA
@@ -149,29 +145,15 @@ MATÉRIA COM A RELATORIA
     Data: 05/08/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: A matéria será publicada no Diário do Congresso Nacional.
-Calendário de tramitação de projetos de lei de créditos adicionais - PLN 19/2024 (Art. 112, da Res. 1/2006-CN):
-- Data do despacho: 05/08/2024
-- Publicação em avulso eletrônico: de 05/08/2024 a 09/08/2024
-- Apresentação de emendas: de 10/08/2024 a 19/08/2024
-- Publicação em avulso eletrônico das emendas: de 20/08/2024 a 24/08/2024
-- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 25/08/2024 a 08/09/2024
-A matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.
-* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.
-Ação:
-Publicado no DCN Páginas 568-577 - DCN nº 28
+    Ação: Não disponível
     Data: 17/07/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Recebida, em 17/07/2024, Nota Informativa referente à presente matéria, elaborada pela Consultoria de Orçamento do Senado
-Federal.
-Ação:
+    Ação: Não disponível
     Data: 09/07/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Anexado o Quadro Comparativo entre o Projeto de Lei do Congresso Nacional nº 19, de 2024 (PLN 19/2024) e a Lei nº 14.822, de
-2024 (LOA 2024), elaborado pela Secretaria Legislativa do Congresso Nacional.
-Ação:
+    Ação: Não disponível
     Data: 09/07/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: AGUARDANDO DESPACHO
@@ -184,9 +166,7 @@ Documentos:
     Local: Mesa Diretora do Congresso Nacional
     Ação legislativa: Não disponível
     Descrição/ementa: Não disponível
-    Documento: pg
-4
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 19, de 2024
 DOCUMENTOS
 Quadro Comparativo
@@ -213,9 +193,7 @@ Quadro Comparativo
     Local: Mesa Diretora do Congresso Nacional
     Ação legislativa: Não disponível
     Descrição/ementa: -
-    Documento: pg
-5
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 19, de 2024
 DOCUMENTOS
 Ofício
@@ -257,9 +235,7 @@ LDO-2024, RELATIVAS A DESPESAS DE PESSOAL E ENCARGOS SOCIAIS PARA 2024
     Local: Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Ação legislativa: Não disponível
     Descrição/ementa: Relatório 3.9.24 - 17:42
-    Documento: pg
-6
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 19, de 2024
 DOCUMENTOS
 Relatório sobre crédito
@@ -295,8 +271,7 @@ financeiro de 2024 (alteração proposta pela Mensagem presidencial nº 871/2024
     Ação legislativa: Não disponível
     Descrição/ementa: Relatório NOVO  16.10.24 - 15:31
     Documento: Listagem ou relatório
-pg
-7
+
 Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 19, de 2024
 DOCUMENTOS
@@ -323,9 +298,7 @@ DOCUMENTOS
     Local: Plenário do Congresso Nacional
     Ação legislativa: Não disponível
     Descrição/ementa: Declaração de voto contrário do Senador Eduardo Girão.
-    Documento: pg
-8
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 19, de 2024
 DOCUMENTOS
 MPCN 138/2024
@@ -366,9 +339,7 @@ dezembro de 2024.
     Autor: Casa Civil
     Local: Plenário do Senado Federal
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-9
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 19, de 2024
 DOCUMENTOS
 Comunica a restituição do autógrafo sancionado e a Lei nº 15.052, de 20 de dezembro de 2024, promulgada.

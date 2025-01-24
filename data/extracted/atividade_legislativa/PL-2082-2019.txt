@@ -8,6 +8,31 @@ Despacho: 07/02/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CI) Comissão de Serviços de Infraestrutura
+TRAMITAÇÃO
+24/10/2024
+SF-SEXPE - Secretaria de Expediente
+Remetido Ofício SF nº 1205, de 24/10/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
+devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.302, de 2024, na origem,
+restituindo autógrafos do Projeto de Lei n° 2.082, de 2019, sancionado e transformado na Lei nº 15.002, de 16 de outubro de
+2024.
+COARQ.
+Ação:
+23/10/2024
+PLEN - Plenário do Senado Federal
+Encaminhada à publicação a Mensagem da Presidência da República nº 1.302, de 2024, na origem, que restitui autógrafo do
+Projeto de Lei nº 2.082, de 2019, sancionado e convertido na Lei nº 15.002, de 16 de outubro de 2024.
+Será feita a devida comunicação à Câmara dos Deputados.
+Ação:
+Publicado no DSF Páginas 45 - DSF nº 183
+17/10/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15002 DE 2024.
+DOU (Diário Oficial da União) - 17/10/2024 - Seção I - págs. 4 e 4.
+Sancionada em 16/10/2024.
+Ação:
 Relatoria: CI - (Comissão de Serviços de Infraestrutura)
 Relator(es):
 Senador Alan Rick (encerrado em 13/08/2024 - Substituído por
@@ -24,20 +49,11 @@ Tramitação:
     Data: 24/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Remetido Ofício SF nº 1205, de 24/10/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
-devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.302, de 2024, na origem,
-restituindo autógrafos do Projeto de Lei n° 2.082, de 2019, sancionado e transformado na Lei nº 15.002, de 16 de outubro de
-2024.
-COARQ.
-Ação:
+    Ação: Não disponível
     Data: 23/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhada à publicação a Mensagem da Presidência da República nº 1.302, de 2024, na origem, que restitui autógrafo do
-Projeto de Lei nº 2.082, de 2019, sancionado e convertido na Lei nº 15.002, de 16 de outubro de 2024.
-Será feita a devida comunicação à Câmara dos Deputados.
-Ação:
-Publicado no DSF Páginas 45 - DSF nº 183
+    Ação: Não disponível
     Data: 17/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: TRANSFORMADA EM NORMA JURÍDICA
@@ -56,8 +72,7 @@ foi encaminhado à sanção presidencial.
     Data: 12/09/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 12/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -68,14 +83,11 @@ Será feita a devida comunicação à Câmara dos Deputados.
     Data: 12/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Anexado o texto final revisado.
-Ação:
+    Ação: Não disponível
     Data: 03/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 05/09/2024 a 11/09/2024.
-Perante a Mesa.
-Ação:
+    Ação: Não disponível
     Data: 03/09/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
@@ -86,18 +98,7 @@ membros da Casa, para que seja apreciada pelo Plenário, nos termos do art. 91, 
     Data: 13/08/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Reunida a Comissão nessa data, e tendo sido designado relator ad hoc o Senador Jayme Campos, em substituição ao Senador
-Alan Rick, é aprovado terminativamente o projeto, com a emenda nº 1/CI.
-Juntado o parecer da Comissão, o texto final e o ofício que comunica ao Plenário a aprovação terminativa da matéria.
-À SLSF.
-Ação:
-Publicado no DSF Páginas 347-354 - DSF nº 147
-Publicado no DSF Páginas 391 - DSF nº 147
-pg
-2
-Atividade Legislativa
-Projeto de Lei n° 2082, de 2019
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 09/08/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: INCLUÍDA NA PAUTA DA REUNIÃO
@@ -125,15 +126,11 @@ TRAMITAÇÃO
     Data: 08/02/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Prazo para apresentação de emendas a projeto terminativo em comissão (art. 122, II, c, do RISF): primeiro dia - 09/02/2024;
-último dia - 20/02/2024.
-Ação:
+    Ação: Não disponível
     Data: 07/02/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 09/02/2024 a 20/02/2024.
-Perante a CI.
-Ação:
+    Ação: Não disponível
     Data: 07/02/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -176,9 +173,7 @@ Janeiro.
     Local: Comissão de Serviços de Infraestrutura
     Ação legislativa: Não disponível
     Descrição/ementa: Listagem ou relatório descritivo-Lista de Votação Nominal da reunião da 22ª Reunião CI
-    Documento: pg
-4
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 2082, de 2019
 DOCUMENTOS
 P.S 32/2024 - CI
@@ -214,15 +209,11 @@ no Estado do Rio de Janeiro.
     Autor: Senado Federal
     Local: Secretaria de Expediente
     Ação legislativa: Anexado o texto revisado.
-    Descrição/ementa: pg
-5
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 2082, de 2019
 DOCUMENTOS
 OFSF 1156/2024
-    Documento: pg
-5
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 2082, de 2019
 DOCUMENTOS
 OFSF 1156/2024
@@ -252,8 +243,7 @@ OFSF 1156/2024
     Descrição/ementa: Denomina Rodovia Alberto Dauaire o trecho da rodovia BR-356 entre as cidades de São João da Barra e Campos dos Goytacazes,
 no Estado do Rio de Janeiro.
     Documento: MSG 1.302/2024 - Presidência
-pg
-6
+
 Atividade Legislativa
 Projeto de Lei n° 2082, de 2019
 DOCUMENTOS

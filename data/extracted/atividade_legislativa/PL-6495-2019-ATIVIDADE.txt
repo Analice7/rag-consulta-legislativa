@@ -8,6 +8,30 @@ Despacho: 07/02/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CI) Comissão de Serviços de Infraestrutura
+TRAMITAÇÃO
+28/11/2024
+SF-SEXPE - Secretaria de Expediente
+Remetido Ofício SF nº 1326, de 27/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
+devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.483, de 2024, na origem,
+restituindo autógrafos do Projeto de Lei n° 6.495, de 2019, sancionado e transformado na Lei nº 15.031, de 21 de novembro de
+2024.
+À COARQ.
+Ação:
+26/11/2024
+PLEN - Plenário do Senado Federal
+Encaminhada à publicação a Mensagem nº 1.483, de 2024, na origem, que restitui autógrafo do Projeto de Lei nº 6.495, de 2019,
+sancionado e convertido na Lei nº 15.031, de 21 de novembro de 2024.
+Será feita a devida comunicação à Câmara dos Deputados.
+Ação:
+22/11/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15031 DE 2024.
+DOU (Diário Oficial da União) - 22/11/2024 - Seção I - págs. 1 e 1.
+Sancionada em 21/11/2024.
+Ação:
 Relatoria: CI - (Comissão de Serviços de Infraestrutura)
 Relator(es):
 Senador Jorge Kajuru (encerrado em 15/05/2024 -
@@ -26,19 +50,11 @@ Tramitação:
     Data: 28/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Remetido Ofício SF nº 1326, de 27/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados comunicando, para os
-devidos fins, que a Presidência da República encaminhou ao Senado Federal a Mensagem n° 1.483, de 2024, na origem,
-restituindo autógrafos do Projeto de Lei n° 6.495, de 2019, sancionado e transformado na Lei nº 15.031, de 21 de novembro de
-2024.
-À COARQ.
-Ação:
+    Ação: Não disponível
     Data: 26/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhada à publicação a Mensagem nº 1.483, de 2024, na origem, que restitui autógrafo do Projeto de Lei nº 6.495, de 2019,
-sancionado e convertido na Lei nº 15.031, de 21 de novembro de 2024.
-Será feita a devida comunicação à Câmara dos Deputados.
-Ação:
+    Ação: Não disponível
     Data: 22/11/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: TRANSFORMADA EM NORMA JURÍDICA
@@ -57,8 +73,7 @@ foi encaminhado à sanção presidencial.
     Data: 24/10/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 24/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -69,15 +84,11 @@ Será feita a devida comunicação à Câmara dos Deputados.
     Data: 24/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Anexado o texto final revisado.
-Ação:
+    Ação: Não disponível
     Data: 15/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Interposição de Recurso a decisão terminativa de Comissão (Art. 91, §§ 3º ao 5º, do RISF). De 17/10/2024 a 23/10/2024.
-Perante a Mesa.
-Ação:
-Publicado no DSF Páginas 90 - DSF nº 177
+    Ação: Não disponível
     Data: 15/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
@@ -88,18 +99,7 @@ Regimento Interno.
     Data: 08/10/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Reunida a Comissão nesta data, tendo sido designado relator ad hoc o Senador Castellar Neto, em substituição ao Senador
-Marcos Rogério, é lido o relatório e aprovado o projeto, com a emenda nº 1/CI.
-Juntados o parecer da CI, o ofício que comunica ao Plenário a aprovação da matéria e o texto final.
-À SLSF.
-Ação:
-Publicado no DSF Páginas 300-308 - DSF nº 172
-Publicado no DSF Páginas 91 - DSF nº 177
-pg
-2
-Atividade Legislativa
-Projeto de Lei n° 6495, de 2019
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 01/10/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: INCLUÍDA NA PAUTA DA REUNIÃO
@@ -128,15 +128,11 @@ redação que apresenta.
     Data: 08/02/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Prazo para apresentação de emendas a projeto terminativo em comissão (art. 122, II, c, do RISF): primeiro dia - 09/02/2024;
-último dia - 20/02/2024.
-Ação:
+    Ação: Não disponível
     Data: 07/02/2024
     Órgão: CI - Comissão de Serviços de Infraestrutura
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto terminativo em Comissão (Art. 122, II, "c", do RISF). De 09/02/2024 a 20/02/2024.
-Perante a CI.
-Ação:
+    Ação: Não disponível
     Data: 07/02/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO RECEBIMENTO DE EMENDAS
@@ -178,9 +174,7 @@ Luciano Heitor Beiguelman o trecho da rodovia BR-153 entre os Municípios de Ic�
     Local: Comissão de Serviços de Infraestrutura
     Ação legislativa: Não disponível
     Descrição/ementa: Listagem ou relatório descritivo-Lista de Votação Nominal da reunião da 27ª Reunião CI
-    Documento: pg
-4
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 6495, de 2019
 DOCUMENTOS
 P.S 40/2024 - CI
@@ -216,14 +210,12 @@ no Estado de São Paulo.
     Local: Secretaria de Expediente
     Ação legislativa: Anexado o texto revisado.
     Descrição/ementa: OFSF 1251/2024
-pg
-5
+
 Atividade Legislativa
 Projeto de Lei n° 6495, de 2019
 DOCUMENTOS
     Documento: OFSF 1251/2024
-pg
-5
+
 Atividade Legislativa
 Projeto de Lei n° 6495, de 2019
 DOCUMENTOS
@@ -255,7 +247,7 @@ no Estado de São Paulo.
     Documento: MSG 1483/2024 - Presidência
     Data: 26/11/2024
     Autor: Presidência da República
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Não disponível
     Descrição/ementa: Restitui o autógrafo do Projeto de Lei nº 6.495, de 2019, sancionado e convertido na Lei nº 15.031, de 21 de novembro de 2024.
     Documento: OFC 1682/2024 - Casa Civil

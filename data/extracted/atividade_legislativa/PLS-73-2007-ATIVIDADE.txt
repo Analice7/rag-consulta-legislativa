@@ -10,10 +10,6 @@ Análise - Tramitação sucessiva
 (SF-CRA) Comissão de Agricultura e Reforma Agrária
 (SF-CCJ) Comissão de Constituição, Justiça e Cidadania
 (SF-CMA) Comissão de Meio Ambiente
-pg
-1
-Atividade Legislativa
-Projeto de Lei do Senado n° 73, de 2007
 Relatoria: CCJ - (Comissão de Constituição, Justiça e Cidadania)
 Relator(es):
 Senador Acir Gurgacz (encerrado em 23/05/2012 - Deliberação
@@ -54,22 +50,15 @@ Sancionada em 12/11/2024.
     Data: 25/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação o Ofício nº 530, de 2024, na origem, comunicando o envio à sanção do Projeto de Lei do Senado nº
-73, de 2007 (nº 5.010/2013, na Câmara dos Deputados).
-Ação:
-Publicado no DSF Páginas 38-39 - DSF nº 185
+    Ação: Não disponível
     Data: 10/10/2018
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: À COARQ.
-Ação:
+    Ação: Não disponível
     Data: 01/08/2014
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: A partir de 1º de agosto de 2014 os boletins de ação legislativa não mais serão impressos, nos termos da Instrução Normativa nº
-1, de 2014, do Secretário-Geral da Mesa. As consultas sobre a tramitação da matéria devem ser realizadas diretamente no
-sistema eletrônico próprio.
-Ação:
+    Ação: Não disponível
     Data: 20/02/2013
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: REMETIDA À CÂMARA DOS DEPUTADOS
@@ -78,13 +67,11 @@ nos termos do art. 65 da Constituição Federal (fls. 157 a 161).
     Data: 14/02/2013
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado (fls.153 a 156).
-Ação:
+    Ação: Não disponível
     Data: 13/02/2013
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Recebido neste órgão às 17h10.
-Ação:
+    Ação: Não disponível
     Data: 13/02/2013
     Órgão: SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
     Situação: APROVADA
@@ -93,18 +80,15 @@ interposto o recurso para apreciação da matéria pelo Plenário.
     Data: 13/02/2013
     Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
     Situação: Não disponível
-    Ação: Encaminhado ao Plenário para comunicação do término do prazo para interposição de recurso.
-Ação:
+    Ação: Não disponível
     Data: 08/02/2013
     Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
     Situação: Não disponível
-    Ação: Juntados quadro comparativo (fls. 134 a 145) e texto final revisado (fls. 146 a 149).
-Ação:
+    Ação: Não disponível
     Data: 28/12/2012
     Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
     Situação: Não disponível
-    Ação: Prazo para interposição de recurso: 04/02/2013 a 08/02/2013.
-Ação:
+    Ação: Não disponível
     Data: 20/12/2012
     Órgão: SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
     Situação: AGUARDANDO INTERPOSIÇÃO DE RECURSO
@@ -126,28 +110,19 @@ Juntada, às fls. 131/132, legislação citada nos pareceres.
     Data: 19/12/2012
     Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
     Situação: Não disponível
-    Ação: Recebido neste Órgão, às 18h22.
-Ação:
+    Ação: Não disponível
     Data: 19/12/2012
     Órgão: SF-CMA - Comissão de Meio Ambiente
     Situação: Não disponível
-    Ação: À SCLSF.
-Ação:
+    Ação: Não disponível
     Data: 19/12/2012
     Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
     Situação: Não disponível
-    Ação: pg
-3
-Atividade Legislativa
-Projeto de Lei do Senado n° 73, de 2007
-TRAMITAÇÃO
-Devolvido à CMA, para ajustes na lista de votação.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2012
     Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
     Situação: Não disponível
-    Ação: Recebido neste Órgão, às 11:12h.
-Ação:
+    Ação: Não disponível
     Data: 11/12/2012
     Órgão: SF-CMA - Comissão de Meio Ambiente
     Situação: APRECIADA EM DECISÃO TERMINATIVA PELAS COMISSÕES
@@ -160,14 +135,11 @@ taquigráficas (fls. 123 a 130).
     Data: 07/12/2012
     Órgão: SF-CMA - Comissão de Meio Ambiente
     Situação: Não disponível
-    Ação: Substitutivo à matéria constante da Pauta da 52ª Reunião da Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização
-e Controle, agendada para o dia 11/12/2012.
-Ação:
+    Ação: Não disponível
     Data: 05/12/2012
     Órgão: SF-CMA - Comissão de Meio Ambiente
     Situação: Não disponível
-    Ação: A 50ª Reunião Ordinária, do dia 04/12/2012, foi cancelada. A Matéria segue em Pauta.
-Ação:
+    Ação: Não disponível
     Data: 30/11/2012
     Órgão: SF-CMA - Comissão de Meio Ambiente
     Situação: INCLUÍDA NA PAUTA DA REUNIÃO
@@ -176,17 +148,11 @@ e Controle, agendada para o dia 04/12/2012.
     Data: 29/11/2012
     Órgão: SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
     Situação: Não disponível
-    Ação: A Presidência comunica ao Plenário que recebeu o Ofício nº 335, de 2012, da Comissão de Meio Ambiente, Defesa do
-Consumidor e Fiscalização e Controle, comunicando a aprovação de Substitutivo ao presente projeto, e ainda que poderão ser
-oferecidas emendas até o encerramento da discussão, no turno suplementar, perante a Comissão de Meio Ambiente, Defesa do
-Consumidor e Fiscalização e Controle.
-Ação:
-Publicado no DSF Páginas 64843
+    Ação: Não disponível
     Data: 29/11/2012
     Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
     Situação: Não disponível
-    Ação: Encaminhado ao Plenário.
-Ação:
+    Ação: Não disponível
     Data: 27/11/2012
     Órgão: SF-CMA - Comissão de Meio Ambiente
     Situação: AGUARDANDO TURNO SUPLEMENTAR EM APRECIAÇÃO TERMINATIVA
@@ -226,9 +192,7 @@ Rollemberg.
     Data: 14/05/2012
     Órgão: SF-CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: INCLUÍDA NA PAUTA DA REUNIÃO
-    Ação: pg
-5
-Atividade Legislativa
+    Ação: Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
 TRAMITAÇÃO
 Matéria incluída na Pauta da Comissão.
@@ -279,18 +243,7 @@ Matéria pronta para a Pauta na Comissão.
     Data: 18/08/2011
     Órgão: SF-CRA - Comissão de Agricultura e Reforma Agrária
     Situação: Não disponível
-    Ação: Na 28ª Reunião Extraordinária da CRA realizada nesta data, a Comissão aprova o Requerimento nº 47, de 2011-CRA, de autoria
-do Senador Acir Gurgacz, que solicita, nos termos do art. 113 do Regimento Interno do Senado Federal, que o estudo do PLS
-73/2007 seja feito em reunião conjunta das Comissões de Agricultura e Reforma Agrária - CRA, de Constituição, Justiça e
-Cidadania - CCJ e de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle - CMA (fl. 83).
-Encaminhado ao Relator, Senador Acir Gurgacz, para prosseguimento da tramitação.
-************* Retificado em 07/12/2011*************
-Na 28ª Reunião Extraordinária da CRA realizada nesta data, a Comissão aprova o Requerimento nº 47, de 2011-CRA, de autoria
-do Senador Acir Gurgacz, que solicita, nos termos do art. 113 do Regimento Interno do Senado Federal, que o estudo do PLS
-73/2007 seja feito em reunião conjunta das Comissões de Agricultura e Reforma Agrária - CRA, de Constituição, Justiça e
-Cidadania - CCJ e de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle - CMA (fl. 84).
-Encaminhado ao Relator, Senador Acir Gurgacz, para prosseguimento da tramitação.
-Ação:
+    Ação: Não disponível
     Data: 23/02/2011
     Órgão: SF-CRA - Comissão de Agricultura e Reforma Agrária
     Situação: MATÉRIA COM A RELATORIA
@@ -299,30 +252,18 @@ Encaminhado ao gabinete do Senador Acir Gurgacz.
     Data: 06/01/2011
     Órgão: SF-CRA - Comissão de Agricultura e Reforma Agrária
     Situação: Não disponível
-    Ação: Recebido na CRA nesta data.
-Matéria aguardando designação de relator.
-Ação:
+    Ação: Não disponível
     Data: 05/01/2011
     Órgão: SF-SSCLSF - SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
     Situação: Não disponível
-    Ação: A presente proposição continua a tramitar, nos termos dos incisos do art. 332 do Regimento Interno e do Ato nº 4, de 2010, da
-Mesa do Senado Federal.
-A matéria volta à Comissão de
-************* Retificado em 06/01/2011*************
-A presente proposição continua a tramitar, nos termos dos incisos do art. 332 do Regimento Interno e do Ato nº 4, de 2010, da
-Mesa do Senado Federal.
-A matéria volta à Comissão de Reforma Agrária.
-Ação:
+    Ação: Não disponível
     Data: 15/12/2010
     Órgão: SF-CRA - Comissão de Agricultura e Reforma Agrária
     Situação: Não disponível
-    Ação: À SSCLSF, em cumprimento ao disposto no art. 332 do Regimento Interno do Senado Federal.
-Ação:
+    Ação: Não disponível
     Data: 10/12/2010
     Órgão: SF-CRA - Comissão de Agricultura e Reforma Agrária
-    Situação: pg
-7
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
 TRAMITAÇÃO
 AGUARDANDO DESIGNAÇÃO DO RELATOR
@@ -331,8 +272,7 @@ AGUARDANDO DESIGNAÇÃO DO RELATOR
     Data: 08/12/2010
     Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
     Situação: Não disponível
-    Ação: À CRA, para prosseguimento de sua tramitação.
-Ação:
+    Ação: Não disponível
     Data: 08/12/2010
     Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
     Situação: APROVADO PARECER NA COMISSÃO
@@ -390,38 +330,15 @@ Anexado às fls. 48 a  58 o primeiro parecer oferecido.
     Data: 22/09/2009
     Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
     Situação: Não disponível
-    Ação: A Comissão, reunida no dia 22/09/09, realizou Audiência Pública, atendendo ao Requerimento nº 17/2009-CCT e Aditamento nº
-01, de autoria dos Senadores Gilberto Goellner e Cícero Lucena, ao Requerimento nº 24 e  37/2009-CRA, de autoria dos
-Senadores Gilberto Goellner e Kátia Abreu, ao Requerimento nº 49/2009-CMA e Aditamento nº 01, de autoria dos Senadores
-Gilberto Goellner e Renato Casagrande, ao Requerimento nº 72/2009-CCJ, de autoria dos Senadores Jayme Campos e Antonio
-Carlos Júnior para instruir o Projeto de Lei do Senado nº. 73, de 2007, com os seguintes convidados: Dr. Flávio Vieira Meirelles,
-Doutor em Genética, Professor da USP e membro da Comissão Técnica Nacional de Biossegurança - CTNbio; Dr. Rodolfo Rumpf,
-Doutor em Veterinária, Pesquisador da EMBRAPA e membro da CTNbio; Beronete Barros de Freitas Araujo, Chefe da Divisão de
-Fiscalização de Material Genético Animal da Secretaria de Defesa Agropecuária do Ministério da Agricultura, Pecuária e
-Abastecimento - MAPA; Carlos Cristo, Secretário Interino de Tecnologia Industrial do Ministério do Desenvolvimento, Indústria e
-Comércio Exterior - MDIC; e Cosette Barrabas Xavier da Silva, Diretora Substituta da Diretoria de Biodiversidade e Florestas do
-Instituto Brasileiro de Meio Ambiente e Recursos Naturais Renováveis - IBAMA.
-Ação:
+    Ação: Não disponível
     Data: 09/09/2009
     Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
     Situação: Não disponível
-    Ação: A Comissão, reunida no dia de hoje, aprova o Aditamento nº 01 ao Requerimento nº 17 de 2009-CCT, anexado à fl. 47, de autoria
-dos Senadores Gilberto Goellner e Cícero Lucena, propondo a inclusão de nome na Audiência Pública para instruir o presente
-projeto.
-A matéria fica sobrestada na Comissão aguardando realização da Audiência Pública.
-Ação:
+    Ação: Não disponível
     Data: 27/05/2009
     Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
     Situação: Não disponível
-    Ação: pg
-9
-Atividade Legislativa
-Projeto de Lei do Senado n° 73, de 2007
-TRAMITAÇÃO
-A Comissão, reunida no dia de hoje, aprova Requerimento nº 17 de 2009-CCT, anexado à fl. 46, de autoria do Senador Gilberto
-Goellner, propondo a realização de Audiência Pública para instruir o presente projeto.
-A matéria fica sobrestada na Comissão aguardando realização da Audiência Pública.
-Ação:
+    Ação: Não disponível
     Data: 22/05/2009
     Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
     Situação: INCLUÍDA NA PAUTA DA REUNIÃO
@@ -464,32 +381,19 @@ Zambiasi, com as emendas apresentadas, estando em condições de ser incluído e
     Data: 10/12/2008
     Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
     Situação: Não disponível
-    Ação: A Comissão, reunida nesta data, aprova Requerimento n.º 23, de 2008-CCT, de autoria dos Senadores João Tenório e Eduardo
-Azeredo, anexado à fl. 33, propondo que seja dispensada a realização da 2ª Audiência Pública.
-Ação:
+    Ação: Não disponível
     Data: 08/12/2008
     Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
     Situação: Não disponível
-    Ação: A Comissão, reunida no dia 27/03/08, realizou Audiência Pública, atendendo ao Requerimento nº 35 - CCT, de 2007, de autoria
-do Senador João Tenório, para instruir o Projeto de Lei do Senado nº. 73, de 2007, com os seguintes convidados: Rodolfo Rumpf,
-Pesquisador de Recursos Genéticos e Biotecnologia da EMBRAPA -CENARGEN; Flávio Vieira Meirelles, Professor Veterinário da
-Universidade de São Paulo - USP; Luiz Antônio Josahkian, Superintendente Técnico da Associação Brasileira dos Criadores de
-Zebu - ABCZ e Joselito Araújo Barbosa, Veterinário Especialista em Clonagem de Ovinos da Associação Brasileira de Santa Inês de
-Alagoas - ABSI/AL.
-Ação:
+    Ação: Não disponível
     Data: 17/11/2008
     Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
     Situação: Não disponível
-    Ação: ** AÇÃO DE SANEAMENTO ** Nesta data foi realizada a verificação de dados nos sistemas informatizados, em atendimento aos
-objetivos definidos no Ato nº 24, de 2008, do Presidente do Senado Federal. Este registro não representa um novo andamento
-na tramitação desta matéria.
-Ação:
+    Ação: Não disponível
     Data: 10/04/2008
     Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
     Situação: Não disponível
-    Ação: Anexada à fl. 32, Emenda nº 01, de autoria do Senador Sérgio Zambiasi.
-A matéria está sobrestada na Comissão aguardando realização de Audiência Pública.
-Ação:
+    Ação: Não disponível
     Data: 28/11/2007
     Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
     Situação: AUDIÊNCIA PÚBLICA
@@ -499,9 +403,7 @@ A matéria fica sobrestada na Comissão aguardando realização de Audiência P�
     Data: 14/09/2007
     Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
     Situação: Não disponível
-    Ação: Devolvido pelo relator, Senador João Tenório, que apresenta requerimento para realização de Audiências Públicas, destinado a
-instruir o presente projeto.
-Ação:
+    Ação: Não disponível
     Data: 23/03/2007
     Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
     Situação: MATÉRIA COM A RELATORIA
@@ -509,9 +411,7 @@ Ação:
     Data: 15/03/2007
     Órgão: SF-CCT - Comissão de Ciência, Tecnologia, Inovação, Comunicação e Informática
     Situação: AGUARDANDO DESIGNAÇÃO DO RELATOR
-    Ação: pg
-11
-Atividade Legislativa
+    Ação: Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
 TRAMITAÇÃO
 Não foram oferecidas emendas no prazo regimental.
@@ -524,19 +424,11 @@ Aguardando recebimento de emendas.
     Data: 07/03/2007
     Órgão: SF-ATA-PLEN - SUBSECRETARIA DE ATA - PLENÁRIO
     Situação: Não disponível
-    Ação: Leitura.
-       Às Comissões de Ciência, Tecnologia, Inovação, Comunicação e Informática; de Agricultura e Reforma Agrária; de
-Constituição, Justiça e Cidadania  e de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle, onde poderá receber
-emendas no prazo de cinco dias úteis, perante a primeira Comissão, após sua publicação e distribuição em avulsos, cabendo à
-última decisão terminativa.
-     Ao PLEG com destino à CCT, CRA, CCJ,  e posteriormente à CMA, para decisão terminativa.
-Ação:
-Publicado no DSF Páginas 4430-4443
+    Ação: Não disponível
     Data: 07/03/2007
     Órgão: SF-PLEG - PROTOCOLO LEGISLATIVO
     Situação: Não disponível
-    Ação: Este processo contém 29 (vinte e nove)  folhas numeradas e rubricadas.
-Ação:
+    Ação: Não disponível
 Documentos: 
     Documento: Texto inicial - PLS 73/2007
     Data: 07/03/2007
@@ -549,17 +441,13 @@ Documentos:
     Autor: -
     Local: SUBSECRETARIA DE ATA - PLENÁRIO
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-12
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
 DOCUMENTOS
 última decisão terminativa.
      Ao PLEG com destino à CCT, CRA, CCJ,  e posteriormente à CMA, para decisão terminativa.
 Avulso inicial da matéria
-    Documento: pg
-12
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
 DOCUMENTOS
 última decisão terminativa.
@@ -599,15 +487,11 @@ Avulso inicial da matéria
     Autor: -
     Local: Comissão de Ciência, Tecnologia, Inovação e Informática
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-13
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
 DOCUMENTOS
 Relatório Legislativo
-    Documento: pg
-13
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
 DOCUMENTOS
 Relatório Legislativo
@@ -633,15 +517,11 @@ Relatório Legislativo
     Autor: -
     Local: Comissão de Constituição, Justiça e Cidadania
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-14
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
 DOCUMENTOS
 Relatório Legislativo
-    Documento: pg
-14
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
 DOCUMENTOS
 Relatório Legislativo
@@ -673,15 +553,11 @@ Relatório Legislativo
     Autor: -
     Local: SUBSEC. COORDENAÇÃO LEGISLATIVA DO SENADO
     Ação legislativa: Juntados quadro comparativo (fls. 134 a 145) e texto final revisado (fls. 146 a 149).
-    Descrição/ementa: pg
-15
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
 DOCUMENTOS
 Autógrafo - PLS 73/2007
-    Documento: pg
-15
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei do Senado n° 73, de 2007
 DOCUMENTOS
 Autógrafo - PLS 73/2007

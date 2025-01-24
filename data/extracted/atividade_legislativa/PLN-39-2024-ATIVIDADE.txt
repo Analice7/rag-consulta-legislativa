@@ -3,12 +3,31 @@ Autoria: Presidência da República
 Ementa: Altera a Lei nº 14.791, de 29 de dezembro de 2023, que dispõe sobre as diretrizes para a elaboração e a execução da Lei
 Orçamentária de 2024.
 Explicação da ementa: O projeto propõe alteração da LDO 2024 com o objetivo de aprimorar a redação do dispositivo
+que trata do valor do Fundo Especial de Assistência Financeira aos Partidos Políticos - Fundo
+Partidário.
 Assunto: Orçamento Público  - Diretrizes Orçamentárias
 Despacho: 05/12/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (CN-CMO) Comissão Mista de Planos, Orçamentos Públicos e
 Fiscalização
+TRAMITAÇÃO
+23/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15067 DE 2024.
+DOUE (Diário Oficial da União - Edição Extra) - 23/12/2024 - Seção I - págs. 37 e 37.
+Sancionada em 23/12/2024.
+Ação:
+23/12/2024
+Mesa - Mesa Diretora do Congresso Nacional
+Anexado o Quadro Comparativo entre a Lei nº 14.791, de 29 de dezembro de 2023 (LDO 2024), o Projeto de Lei nº 39, de 2024-
+CN (PLN 39/2024) e o Substitutivo aprovado, elaborado pela Secretaria Legislativa do Congresso Nacional.
+Ação:
+19/12/2024
+SF-SEXPE - Secretaria de Expediente
 Relatoria: CMO - (Comissão Mista de Planos, Orçamentos Públicos e Fiscalização)
 Relator(es):
 Deputado Federal Dr. Victor Linhalis (encerrado em 17/12/2024
@@ -34,14 +53,10 @@ Sancionada em 23/12/2024.
     Data: 23/12/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Anexado o Quadro Comparativo entre a Lei nº 14.791, de 29 de dezembro de 2023 (LDO 2024), o Projeto de Lei nº 39, de 2024-
-CN (PLN 39/2024) e o Substitutivo aprovado, elaborado pela Secretaria Legislativa do Congresso Nacional.
-Ação:
+    Ação: Não disponível
     Data: 19/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
-    Situação: pg
-1
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 39, de 2024
 TRAMITAÇÃO
 REMETIDA À SANÇÃO
@@ -51,8 +66,7 @@ Projeto.
     Data: 18/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 18/12/2024
     Órgão: PLEN - Plenário do Congresso Nacional
     Situação: APROVADO O SUBSTITUTIVO
@@ -73,18 +87,11 @@ Aprovado o Substitutivo, na Câmara dos Deputados e no Senado Federal, ficando p
     Data: 17/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: A COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO - CMO, na continuação da Nona Reunião,
-Extraordinária, realizada em 17 de dezembro de 2024, APROVOU, o Relatório do Deputado MERLONG SOLANO, relator ad hoc
-(anteriormente designado o Deputado Dr. Victor Linhalis), favorável ao Projeto de Lei nº 39/2024-CN na forma do Substitutivo
-apresentado. Ao projeto não foram apresentadas emendas.
-Ação:
-Publicado no DCN Páginas 4-8 Suplemento (nº B) - DCN nº 47
+    Ação: Não disponível
     Data: 11/12/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Anexado o Quadro Comparativo entre a Lei nº 14.791, de 29 de dezembro de 2023 (LDO 2024) e o Projeto de Lei nº 39, de 2024-
-CN (PLN 39/2024), elaborado pela Secretaria Legislativa do Congresso Nacional.
-Ação:
+    Ação: Não disponível
     Data: 09/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: PRONTA PARA A PAUTA NA COMISSÃO
@@ -93,8 +100,7 @@ SUBSTITUTIVO apresentado. Ao projeto não foram apresentadas emendas.
     Data: 09/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: Não disponível
-    Ação: Encerrado o prazo regimental, ao Projeto, não foram apresentadas emendas.
-Ação:
+    Ação: Não disponível
     Data: 06/12/2024
     Órgão: CMO - Comissão Mista de Planos, Orçamentos Públicos e Fiscalização
     Situação: MATÉRIA COM A RELATORIA
@@ -106,29 +112,15 @@ Ação:
     Data: 05/12/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: À CMO.
-Ação:
+    Ação: Não disponível
     Data: 05/12/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: A matéria será publicada no Diário do Congresso Nacional.
-Calendário de tramitação de projetos de lei de créditos adicionais - PLN 39/2024 (Art. 112, da Res. 1/2006-CN):
-- Data do despacho: 05/12/2024
-- Publicação em avulso eletrônico: de 05/12/2024 a 05/12/2024
-- Apresentação de emendas: de 06/12/2024 a 09/12/2024 (12h)
-- Publicação em avulso eletrônico das emendas: de 09/12/2024 (12h) a 09/12/2024 (14h)
-- Votação do relatório e encaminhamento do parecer da CMO  à Mesa do Congresso Nacional: de 09/12/2024 (14h) a
-10/12/2024
-A matéria vai à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização.
-* O prazo de emendas é prorrogado até o próximo dia útil quando o prazo final recai em sábado, domingo ou feriado.
-Ação:
+    Ação: Não disponível
     Data: 05/12/2024
     Órgão: Mesa - Mesa Diretora do Congresso Nacional
     Situação: Não disponível
-    Ação: Recebida a matéria em 05/12/2024. A Matéria aguarda despacho do Presidente do Congresso Nacional para envio à Comissão
-Mista de Orçamento.
-Ação:
-Publicado no DCN Páginas 142-145 - DCN nº 46
+    Ação: Não disponível
 Documentos: 
     Documento: PLN 39/2024
     Data: 05/12/2024
@@ -165,7 +157,7 @@ da Lei Orçamentária de 2024.
     Documento: Quadro Comparativo
     Data: 11/12/2024
     Autor: Congresso Nacional
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Não disponível
     Descrição/ementa: QC LDO 2024 X PLN 39/2024
     Documento: Decisão de Comissão
@@ -200,9 +192,7 @@ da Lei Orçamentária de 2024.
     Autor: Primeiro-Secretário do Congresso Nacional
     Local: Comissão Diretora do Senado Federal
     Ação legislativa: Remetido Ofício CN nº 383, de 19/12/24, ao Ministro de Estado Chefe da Casa Civil da Presidência da República, encaminhando a
-    Descrição/ementa: pg
-5
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei do Congresso Nacional n° 39, de 2024
 DOCUMENTOS
 Mensagem CN nº 136/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção presidencial autógrafos do

@@ -9,6 +9,21 @@ Despacho: 18/11/2024
 Decisão da Presidência
 Ao Plenário
 (SF-PLEN) Plenário do Senado Federal
+TRAMITAÇÃO
+24/12/2024
+SF-SEXPE - Secretaria de Expediente
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15071 DE 2024. (vetada parcialmente: vide MSG 1693 de 2024).
+DOU (Diário Oficial da União) - 24/12/2024 - Seção I - págs. 5 e 6.
+Sancionada em 23/12/2024.
+À COARQ.
+Ação:
+24/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+Ação:
 Relatoria: PLEN - (Plenário do Senado Federal)
 Relator(es):
 Senador Cid Gomes (encerrado em 04/12/2024 - Matéria
@@ -23,12 +38,7 @@ Tramitação:
     Data: 24/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: (PR) PRESIDÊNCIA DA REPÚBLICA.
-SANCIONADA. LEI 15071 DE 2024. (vetada parcialmente: vide MSG 1693 de 2024).
-DOU (Diário Oficial da União) - 24/12/2024 - Seção I - págs. 5 e 6.
-Sancionada em 23/12/2024.
-À COARQ.
-Ação:
+    Ação: Não disponível
     Data: 24/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL
@@ -48,14 +58,11 @@ foi encaminhado à sanção presidencial.
     Data: 05/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 04/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: A Presidência declara a prejudicialidade do Requerimento nº 792, de 2024, nos termos no art. 334, I, do Regimento Interno.
-O requerimento vai ao Arquivo.
-Ação:
+    Ação: Não disponível
     Data: 04/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -72,81 +79,55 @@ Será feita a devida comunicação à Câmara dos Deputados.
     Data: 04/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Relatório do Senador Cid Gomes.
-Ação:
+    Ação: Não disponível
     Data: 03/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 4/12/2024.
-(Pendente de aprovação do Requerimento nº 771, de 2024, de autoria de Líder, que solicita urgência para a matéria)
-Ação:
+    Ação: Não disponível
     Data: 03/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: (Sessão Deliberativa Ordinária, realizada em 03/12/2024)
-Ação:
-pg
-2
-Atividade Legislativa
-Projeto de Lei n° 3449, de 2024
-TRAMITAÇÃO
-Apreciação adiada.
+    Ação: Não disponível
     Data: 01/12/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Incluído em Ordem do Dia da Sessão Deliberativa Ordinária de 3/12/2024.
-(Pendente de aprovação do Requerimento nº 771, de 2024, de autoria de Líder, que solicita urgência para a matéria)
-Ação:
+    Ação: Não disponível
     Data: 29/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Encaminhado à publicação e deferido o RQS 831/2024, do Senador Mecias de Jesus, de retirada, em caráter definitivo, das
-Emendas nºs 1, 4 e 5 apresentadas ao Projeto de Lei nº 3.449, de 2024.
-Ação:
+    Ação: Não disponível
     Data: 29/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido, em 29/11/2024, o Requerimento nº 831, de 2024, do Senador Mecias de Jesus, solicitando a retirada definitiva das
-Emendas n°s 1, 4 e 5.
-Ação:
+    Ação: Não disponível
     Data: 18/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: A Sessão Deliberativa Extraordinária de 19/11/2024 foi convertida em Sessão Não Deliberativa.
-Matéria retirada de pauta.
-Ação:
+    Ação: Não disponível
     Data: 18/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Designado Relator de Plenário o Senador Cid Gomes.
-Ação:
+    Ação: Não disponível
     Data: 18/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebidas as Emenda nºs 3 a 11, do Senador Mecias de Jesus.
-Ação:
+    Ação: Não disponível
     Data: 18/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 2, do Senador Flávio Bolsonaro.
-Ação:
+    Ação: Não disponível
     Data: 18/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento n° 792, de 2024, da Liderança do Republicanos, de destaque para votação em separado da Emenda nº
-1.
-Ação:
+    Ação: Não disponível
     Data: 18/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebida a Emenda nº 1, do Senador Mecias de Jesus.
-Ação:
+    Ação: Não disponível
     Data: 16/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: INCLUÍDA EM ORDEM DO DIA
-    Ação: pg
-3
-Atividade Legislativa
+    Ação: Atividade Legislativa
 Projeto de Lei n° 3449, de 2024
 TRAMITAÇÃO
 Incluído em Ordem do Dia da Sessão Deliberativa Extraordinária Semipresencial de 19/11/2024.
@@ -160,9 +141,7 @@ O Requerimento será incluído em Ordem do Dia, oportunamente.
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento nº 771, de 2024, de Líder, solicitando urgência para a matéria.
-Ação:
-Publicado no DSF Páginas 646-647 - DSF nº 194
+    Ação: Não disponível
     Data: 12/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: AGUARDANDO DESPACHO
@@ -220,7 +199,7 @@ Federal.
     Documento: EMENDA 6 PLEN - PL
     Data: 18/11/2024
     Autor: Senador Mecias de Jesus (REPUBLICANOS/RR)
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Recebidas as Emenda nºs 3 a 11, do Senador Mecias de Jesus.
     Descrição/ementa: Emenda 5 ao PL 3449/2024
     Documento: EMENDA 3 PLEN - PL
@@ -256,7 +235,7 @@ Federal.
     Documento: EMENDA 7 PLEN - PL
     Data: 18/11/2024
     Autor: Senador Mecias de Jesus (REPUBLICANOS/RR)
-    Local: pg
+    Local: Atividade Legislativa
     Ação legislativa: Recebidas as Emenda nºs 3 a 11, do Senador Mecias de Jesus.
     Descrição/ementa: Emenda 6 ao PL 3449/2024
     Documento: RQS 831/2024
@@ -288,15 +267,11 @@ Federal.
     Autor: Senado Federal
     Local: Secretaria de Expediente
     Ação legislativa: Anexado o texto revisado.
-    Descrição/ementa: pg
-7
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 3449, de 2024
 DOCUMENTOS
 OFSF 1346/2024
-    Documento: pg
-7
-Atividade Legislativa
+    Documento: Atividade Legislativa
 Projeto de Lei n° 3449, de 2024
 DOCUMENTOS
 OFSF 1346/2024

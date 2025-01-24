@@ -8,6 +8,27 @@ Despacho: 13/05/2024
 Decisão da Presidência
 Análise - Tramitação sucessiva, Instrução da matéria
 (SF-CCJ) Comissão de Constituição, Justiça e Cidadania
+TRAMITAÇÃO
+18/12/2024
+SF-SEXPE - Secretaria de Expediente
+TRANSFORMADA EM NORMA JURÍDICA COM VETO PARCIAL
+Situação:
+(PR) PRESIDÊNCIA DA REPÚBLICA.
+SANCIONADA. LEI 15047 DE 2024. (vetada parcialmente: vide MSG 1666 de 2024).
+DOU (Diário Oficial da União) - 18/12/2024 - Seção I - págs. 1 e 5.
+Sancionada em 17/12/2024.
+À COARQ.
+Ação:
+03/12/2024
+SF-SEXPE - Secretaria de Expediente
+REMETIDA À SANÇÃO
+Situação:
+Remetido Ofício SF n.º 1311, de 27/11/24, ao Senhor Ministro de Estado Chefe da Casa Civil da Presidência da República,
+encaminhando a Mensagem SF n.º 241/24, ao Excelentíssimo Senhor Presidente da República, submetendo à sanção
+presidencial autógrafo do Projeto.
+Remetido Ofício SF n.º 1312, de 27/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
+foi encaminhado à sanção presidencial.
+Ação:
 Relatoria: CCJ - (Comissão de Constituição, Justiça e Cidadania)
 Relator(es):
 Senador Humberto Costa (encerrado em 16/10/2024 -
@@ -38,8 +59,7 @@ foi encaminhado à sanção presidencial.
     Data: 03/12/2024
     Órgão: SF-SEXPE - Secretaria de Expediente
     Situação: Não disponível
-    Ação: Anexado o texto revisado.
-Ação:
+    Ação: Não disponível
     Data: 26/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: APROVADA
@@ -57,9 +77,7 @@ Será feita a devida comunicação à Câmara dos Deputados.
     Data: 25/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Recebido o Requerimento n° 813, de 2024, da liderança do Republicanos, de destaque para votação em separado da Emenda nº
-8.
-Ação:
+    Ação: Não disponível
     Data: 24/11/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: INCLUÍDA EM ORDEM DO DIA
@@ -68,9 +86,7 @@ Discussão, em turno único.
     Data: 25/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Aguardando inclusão em Ordem do Dia.
-Discussão, em turno único.
-Ação:
+    Ação: Não disponível
     Data: 25/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: PRONTO PARA DELIBERAÇÃO DO PLENÁRIO
@@ -80,14 +96,10 @@ A matéria será incluída em Ordem do Dia oportunamente.
     Data: 16/10/2024
     Órgão: PLEN - Plenário do Senado Federal
     Situação: Não disponível
-    Ação: Prazo: Apresentação de Emendas a projeto que obteve parecer favorável da Comissão (Art. 235, II, "d", do RISF). De 18/10/2024
-a 24/10/2024. Perante a Mesa.
-Ação:
+    Ação: Não disponível
     Data: 16/10/2024
     Órgão: PLEN - Plenário do Senado Federal
-    Situação: pg
-2
-Atividade Legislativa
+    Situação: Atividade Legislativa
 Projeto de Lei n° 1734, de 2024
 TRAMITAÇÃO
 AGUARDANDO RECEBIMENTO DE EMENDAS PERANTE A MESA
@@ -96,9 +108,7 @@ II, "d", do Regimento Interno do Senado.
     Data: 16/10/2024
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: Não disponível
-    Ação: Encerrada a relatoria do Senador Humberto Costa por deliberação da matéria.
-À SLSF, para prosseguimento da tramitação.
-Ação:
+    Ação: Não disponível
     Data: 16/10/2024
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: APROVADO PARECER NA COMISSÃO
@@ -127,14 +137,7 @@ Matéria pronta para a Pauta na Comissão.
     Data: 18/06/2024
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: Não disponível
-    Ação: Recebidas as Emendas nºs 1 e 2, de autoria do Senador Izalci Lucas.
-Encaminhadas ao Relator, para análise.
-Ação:
-pg
-3
-Atividade Legislativa
-Projeto de Lei n° 1734, de 2024
-TRAMITAÇÃO
+    Ação: Não disponível
     Data: 12/06/2024
     Órgão: CCJ - Comissão de Constituição, Justiça e Cidadania
     Situação: MATÉRIA COM A RELATORIA
@@ -169,9 +172,7 @@ Documentos:
     Autor: Senador Izalci Lucas (PL/DF)
     Local: Comissão de Constituição, Justiça e Cidadania
     Ação legislativa: Recebidas as Emendas nºs 1 e 2, de autoria do Senador Izalci Lucas.
-    Descrição/ementa: pg
-4
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 1734, de 2024
 DOCUMENTOS
 Encaminhadas ao Relator, para análise.
@@ -207,9 +208,7 @@ disciplinar da Polícia Federal e da Polícia Civil do Distrito Federal; e revog
     Autor: Comissão de Constituição, Justiça e Cidadania, Senador Humberto Costa (PT/PE), Senador Davi Alcolumbre (UNIÃO/AP), Senador
     Local: Comissão de Constituição, Justiça e Cidadania
     Ação legislativa: Na 31ª Reunião Ordinária, realizada nesta data, a Comissão aprova o Relatório do Senador Humberto Costa, que passa a
-    Descrição/ementa: pg
-5
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 1734, de 2024
 DOCUMENTOS
 constituir o Parecer da CCJ, favorável ao Projeto, com as Emendas n°s 3-CCJ a 8-CCJ, de redação, e contrário às Emendas n°s 1 e
@@ -241,9 +240,7 @@ disciplinar da Polícia Federal e da Polícia Civil do Distrito Federal; e revog
     Autor: Primeiro-Secretário do Senado Federal
     Local: Comissão Diretora do Senado Federal
     Ação legislativa: Não disponível
-    Descrição/ementa: pg
-6
-Atividade Legislativa
+    Descrição/ementa: Atividade Legislativa
 Projeto de Lei n° 1734, de 2024
 DOCUMENTOS
 Remetido Ofício SF n.º 1312, de 27/11/24, ao Senhor Primeiro-Secretário da Câmara dos Deputados, comunicando que o Projeto
