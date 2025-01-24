@@ -1,13 +1,10 @@
 import fitz 
-import json
 import re
 import os
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
-import nltk
 
 def concatenar(dados, nivel=0):
-
     texto = ""
     indentacao = "  " * nivel
 
@@ -16,8 +13,10 @@ def concatenar(dados, nivel=0):
             texto += f"{indentacao}{chave.capitalize()}: "
             if isinstance(valor, (dict, list)):
                 texto += "\n" + concatenar(valor, nivel + 1)
-            else:
+            elif valor:  # Verifica se o valor não é None ou vazio
                 texto += f"{valor}\n"
+            else:
+                texto += "Não disponível\n"  # Trate valores vazios
     elif isinstance(dados, list):
         for item in dados:
             texto += concatenar(item, nivel + 1)
@@ -261,20 +260,19 @@ def parse_text_to_structure(text):
 
     return structured_data
 
-def save_to_txt(text, txt_output_path):
-    with open(txt_output_path, "w", encoding="utf-8") as file:
-        file.write(text)
+def save_to_txt(data, output_file):
+    formatted_text = concatenar(data)
+    with open(output_file, "w", encoding="utf-8") as file:
+        file.write(formatted_text)
 
 # Processo completo: extrai texto do PDF, aplica a função concatenar e salva no TXT.
 def process_pdf(pdf_path, txt_output_path):
     print(f"Processando o arquivo: {pdf_path}...")
     try:
         text = extract_text_from_pdf(pdf_path)
-        
-        # Aplicar a função concatenar ao texto extraído
-        text = concatenar(text)
-        
+        text = parse_text_to_structure(text)
         save_to_txt(text, txt_output_path)
+
         print(f"Texto extraído e salvo em {txt_output_path}")
     except Exception as e:
         print(f"Erro ao processar {pdf_path}: {e}")
