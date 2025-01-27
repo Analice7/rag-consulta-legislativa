@@ -40,7 +40,7 @@ def rerank_documents(question, retrieved_docs, top_n=5):
     return ranked_docs
 
 # Caminhos para os arquivos necessários
-index_path = "../../data/faiss/atividade_legislativa/index.faiss"
+index_path = "../../data/embeddings/atividade_legislativa/index.faiss"
 chunking_file = "../../data/chunkings/atividade_legislativa/chunkings.json"
 
 # Carregar os textos do arquivo de chunkings
