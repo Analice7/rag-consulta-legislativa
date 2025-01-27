@@ -21,6 +21,8 @@ def concatenar(dados, nivel=0):
         for item in dados:
             texto += concatenar(item, nivel + 1)
     else:
+        # if "Atividade Legislativa" in texto:
+        #     text = re.sub(r'Atividade Legislativa[\s\S]*?n[º°] \d+, de \d{4}', '', text, flags=re.IGNORECASE)
         texto += f"{indentacao}{dados}\n"
 
     return texto
@@ -39,7 +41,7 @@ def parse_text_to_structure(text):
     title_match = re.search(r"(.+? n[º°] \d+, de \d{4})", text)
     if title_match:
         structured_data["atividade legislativa"] = title_match.group(1)
-
+    
     # Extrai autoria
     author_match = re.search(r"Autoria:\s*(.+)", text)
     if author_match:
@@ -164,6 +166,7 @@ def parse_text_to_structure(text):
 
     # Extrai documentos
     documents_matches = re.findall(r"DOCUMENTOS[\s\S]*?(?=\n[A-Z ]+:\s|$)", text, re.DOTALL)
+    text = re.sub(r'\bDOCUMENTOS\b', '', text) 
     flag = 0
 
     if not documents_matches:
