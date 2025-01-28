@@ -2,14 +2,6 @@ import re
 import json
 import os
 
-padroes = [
-    r"Atividade legislativa:\s*(.*?)(?=\s*Assunto:|Explicação da ementa:|$)",
-    r"Explicação da ementa:\s*(.*?)(?=\s*Assunto:|$)",
-    r"Assunto:\s*(.*?)(?=\s*Relatoria:|$)",
-    r"Relatoria:\s*(.*?)(?=\s*Tramitação encerrada:|$)",
-    r"Tramitação encerrada:\s*(.*?)(?=\s*Tramitação:|$)",
-]
-
 def extrair_tramitacoes(texto):
     tramitation_matches = re.findall(r"Tramitação:\s*([\s\S]+?)(?=\nDocumentos:|$)", texto, re.DOTALL)
     
@@ -81,6 +73,14 @@ def extrair_chunks(texto, caminho):
     chunks = add_metadados(chunks, texto, caminho) 
 
     return chunks
+
+padroes = [
+    r"Atividade legislativa:\s*(.*?)(?=\s*Assunto:|Explicação da ementa:|$)",
+    r"Explicação da ementa:\s*(.*?)(?=\s*Assunto:|$)",
+    r"Assunto:\s*(.*?)(?=\s*Relatoria:|$)",
+    r"Relatoria:\s*(.*?)(?=\s*Tramitação encerrada:|$)",
+    r"Tramitação encerrada:\s*(.*?)(?=\s*Tramitação:|$)",
+]
 
 # Caminhos de entrada e saída
 input_folder = "../../data/extracted/atividade_legislativa/"

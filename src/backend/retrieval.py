@@ -5,10 +5,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 import json
 from transformers import AutoModel, AutoTokenizer
 
-model_name = "nlpaueb/legal-bert-base-uncased"
-model = AutoModel.from_pretrained(model_name)
-tokenizer = AutoTokenizer.from_pretrained(model_name)
-
 # Função de recuperação de contexto
 def rerank_documents(question, retrieved_docs, top_n=5):
     """
@@ -37,7 +33,12 @@ def rerank_documents(question, retrieved_docs, top_n=5):
     
     ranked_indices = np.argsort(similarities)[::-1]  # Ordena pela similaridade em ordem decrescente
     ranked_docs = [retrieved_docs[i] for i in ranked_indices[:top_n]]
+
     return ranked_docs
+
+model_name = "nlpaueb/legal-bert-base-uncased"
+model = AutoModel.from_pretrained(model_name)
+tokenizer = AutoTokenizer.from_pretrained(model_name)
 
 # Caminhos para os arquivos necessários
 index_path = "../../data/embeddings/atividade_legislativa/index.faiss"
@@ -58,7 +59,7 @@ docsdb = FAISS.load_local(index_path, embedding_model, allow_dangerous_deseriali
 query = "Qual é a explicação da ementa da Medida Provisória n° 1243, de 2024"
 
 # Recuperar os documentos do índice usando o retriever
-retriever = docsdb.as_retriever(search_type="similarity", search_kwargs={"k": 10})
+retriever = docsdb.as_retriever(search_type="similarity", search_kwargs={"k": 20})
 retrieved_docs = retriever.invoke(query)
 
 # Reordenar os documentos recuperados
