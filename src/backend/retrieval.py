@@ -6,7 +6,7 @@ import json
 from transformers import AutoModel, AutoTokenizer
 
 # Função de recuperação de contexto
-def rerank_documents(question, retrieved_docs, top_n=5):
+def rerank_documents(question, retrieved_docs, top_n=10):
     """
     Reordena os documentos recuperados com base na similaridade com a questão.
 
@@ -56,14 +56,14 @@ embedding_model = HuggingFaceEmbeddings(model_name="nlpaueb/legal-bert-base-unca
 # Carregar o índice FAISS
 docsdb = FAISS.load_local(index_path, embedding_model, allow_dangerous_deserialization=True)
 
-query = "Qual é a explicação da ementa da Medida Provisória n° 1243, de 2024"
+query = "Qual é a ementa do Projeto de Lei da Câmara n° 29, de 2017"
 
 # Recuperar os documentos do índice usando o retriever
 retriever = docsdb.as_retriever(search_type="similarity", search_kwargs={"k": 20})
 retrieved_docs = retriever.invoke(query)
 
 # Reordenar os documentos recuperados
-ranked_docs = rerank_documents(query, retrieved_docs, top_n=5)
+ranked_docs = rerank_documents(query, retrieved_docs, top_n=10)
 
 # Exibir o contexto relevante
 print("Contexto relevante:")

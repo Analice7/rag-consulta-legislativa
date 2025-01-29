@@ -12,7 +12,7 @@ def extrair_tramitacoes(texto):
 
         for bloco in blocos:
             if bloco.strip():
-                tramitacoes.append("Tramitação:\n" + bloco.strip())
+                tramitacoes.append("Tramitação:" + bloco.strip())
     
     return tramitacoes
 
@@ -33,13 +33,16 @@ def extrair_documentos(texto):
 
 # Adiciona metadados
 def add_metadados(chunks, texto, caminho):
+    nome_arquivo = os.path.basename(caminho)
+    nome_arquivo = nome_arquivo.replace('.txt', '')
     title_match = re.search(r"Atividade legislativa:\s*(.*?)\s*Autoria:", texto)
     if title_match:
         title = title_match.group(1)
-        chunks_com_metadados = [{"chunk": chunk, "metadata": {"titulo": title, "caminho": caminho}} for chunk in chunks]
+        chunks_com_metadados = [{"chunk": chunk, "metadata": {"titulo": title, "nome_arquivo": nome_arquivo, "tipo": "Atividade legislativa"}} for chunk in chunks]
         return chunks_com_metadados
-    
-    return [{"chunk": chunk, "metadata": {"caminho": caminho}} for chunk in chunks]
+
+    return [{"chunk": chunk, "metadata": {"nome_arquivo": nome_arquivo}} for chunk in chunks]
+
 
 # Salva os chunks extraídos em um arquivo JSON
 def salvar_chunks_json(chunks, output_file):

@@ -261,6 +261,8 @@ def parse_text_to_structure(text):
 
 def save_to_txt(data, output_file):
     formatted_text = concatenar(data)
+    # Removendo quebras de linha
+    formatted_text = formatted_text.replace('\n', ' ')
     with open(output_file, "w", encoding="utf-8") as file:
         file.write(formatted_text)
 
