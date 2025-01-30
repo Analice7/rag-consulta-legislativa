@@ -13,7 +13,9 @@ huggingface_token = os.getenv('HUGGINGFACE_TOKEN')
 huggingfacehub_token = os.getenv('HUGGINGFACEHUB_API_TOKEN')
 
 # Caminho para o arquivo de chunkings
-chunking_file = "../../data/chunkings/atividade_legislativa/chunkings.json"
+folder_list = ['atividade_legislativa', 'leis']
+for folder in folder_list:
+    chunking_file = f"data/chunkings/{folder}/chunkings.json"
 
 # Carregar chunkings em JSON e transformar em objetos Document
 with open(chunking_file, "r", encoding="utf-8") as f:
@@ -27,7 +29,8 @@ docs = [
 ]
 
 # Caminho para salvar/carregar o índice FAISS
-index_path = "../../data/embeddings/atividade_legislativa/index.faiss"
+for folder in folder_list:
+    index_path = f"data/embeddings/{folder}/index.faiss"
 
 # Garantir que o diretório existe
 os.makedirs(os.path.dirname(index_path), exist_ok=True)
