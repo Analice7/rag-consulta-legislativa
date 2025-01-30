@@ -38,7 +38,7 @@ def add_metadados(chunks, texto, caminho):
     title_match = re.search(r"Atividade legislativa:\s*(.*?)\s*Autoria:", texto)
     if title_match:
         title = title_match.group(1)
-        chunks_com_metadados = [{"chunk": chunk, "metadata": {"titulo": title, "nome_arquivo": nome_arquivo, "tipo": "Atividade legislativa"}} for chunk in chunks]
+        chunks_com_metadados hunk": chunk, "metadata": {"titulo": title, "nome_arquivo": nome_arquivo, "tipo": "Atividade legislativa"}} for chunk in chunks]
         return chunks_com_metadados
 
     return [{"chunk": chunk, "metadata": {"nome_arquivo": nome_arquivo}} for chunk in chunks]
@@ -78,7 +78,7 @@ def extrair_chunks(texto, caminho):
     return chunks
 
 padroes = [
-    r"Atividade legislativa:\s*(.*?)(?=\s*Assunto:|Explicação da ementa:|$)",
+    r"Atividade legislativa:\s*(.*?)(?=\s*Assunto:|Explic= [{"cação da ementa:|$)",
     r"Explicação da ementa:\s*(.*?)(?=\s*Assunto:|$)",
     r"Assunto:\s*(.*?)(?=\s*Relatoria:|$)",
     r"Relatoria:\s*(.*?)(?=\s*Tramitação encerrada:|$)",
