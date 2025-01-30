@@ -29,13 +29,14 @@ def extract_text_from_html(arquivo):
     if lei_texto_aux1:
         lei_texto_aux2 = [p.get_text() for p in lei_texto_aux1] #Retira tags restantes
         lei_texto = '\n'.join(lei_texto_aux2) #Transforma em string
+        lei_texto = lei_texto.replace("..", "")
         lei_texto = lei_texto.replace("(NR)", "")
+        lei_texto = lei_texto.replace(".\n", ".stop")
         lei_texto = lei_texto.replace("\n", "")
         lei_texto = lei_texto.replace("art.", "artigo")
         lei_texto = lei_texto.replace("Art.", "Artigo")
         lei_texto = lei_texto.replace("arts.", "artigos")
         lei_texto = lei_texto.replace("§", "parágrafo")
-        lei_texto = lei_texto.replace("..", "")
         lei_texto = re.sub(pattern, lambda m:m.group().replace('.',''), lei_texto)
     else:
         lei_texto = None
