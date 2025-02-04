@@ -33,15 +33,17 @@ def extrair_documentos(texto):
 
 # Adiciona metadados
 def add_metadados(chunks, texto, caminho):
-    nome_arquivo = os.path.basename(caminho)
-    nome_arquivo = nome_arquivo.replace('.txt', '')
+    nome_arquivo = os.path.basename(caminho).replace('.txt', '')
     title_match = re.search(r"Atividade legislativa:\s*(.*?)\s*Autoria:", texto)
-    if title_match:
-        title = title_match.group(1)
-        chunks_com_metadados hunk": chunk, "metadata": {"titulo": title, "nome_arquivo": nome_arquivo, "tipo": "Atividade legislativa"}} for chunk in chunks]
-        return chunks_com_metadados
+    
+    title = title_match.group(1) if title_match else "Título desconhecido"
 
-    return [{"chunk": chunk, "metadata": {"nome_arquivo": nome_arquivo}} for chunk in chunks]
+    chunks_com_metadados = [
+        {"chunk": chunk, "metadata": {"titulo": title, "nome_arquivo": nome_arquivo, "tipo": "Atividade legislativa"}}
+        for chunk in chunks
+    ]
+    
+    return chunks_com_metadados
 
 
 # Salva os chunks extraídos em um arquivo JSON
@@ -78,7 +80,7 @@ def extrair_chunks(texto, caminho):
     return chunks
 
 padroes = [
-    r"Atividade legislativa:\s*(.*?)(?=\s*Assunto:|Explic= [{"cação da ementa:|$)",
+    r"Atividade legislativa:\s*(.*?)(?=\s*Assunto:|Explicação da ementa:|$)",
     r"Explicação da ementa:\s*(.*?)(?=\s*Assunto:|$)",
     r"Assunto:\s*(.*?)(?=\s*Relatoria:|$)",
     r"Relatoria:\s*(.*?)(?=\s*Tramitação encerrada:|$)",

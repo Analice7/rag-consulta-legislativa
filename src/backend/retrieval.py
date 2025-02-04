@@ -36,31 +36,28 @@ def rerank_documents(question, retrieved_docs, top_n=10):
 
     return ranked_docs
 
-model_name = "nlpaueb/legal-bert-base-uncased"
+model_name = "WhereIsAI/UAE-Large-V1"
 model = AutoModel.from_pretrained(model_name)
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 
 # Caminhos para os arquivos necessários
 index_path = "../../data/embeddings/atividade_legislativa/index.faiss"
-chunking_file = "../../data/chunkings/atividade_legislativa/chunkings.json"
-
-# Carregar os textos do arquivo de chunkings
-with open(chunking_file, "r", encoding="utf-8") as f:
-    chunks = json.load(f)
-
-texts = [chunk["chunk"] for chunk in chunks]
 
 # Carregar o modelo de embeddings
-embedding_model = HuggingFaceEmbeddings(model_name="nlpaueb/legal-bert-base-uncased")
+embedding_model = HuggingFaceEmbeddings(model_name=model_name)
 
 # Carregar o índice FAISS
 docsdb = FAISS.load_local(index_path, embedding_model, allow_dangerous_deserialization=True)
 
-query = "Qual é a ementa do Projeto de Lei da Câmara n° 29, de 2017"
+query = "qual é a ementa do Projeto de Lei n° 6201"
 
 # Recuperar os documentos do índice usando o retriever
 retriever = docsdb.as_retriever(search_type="similarity", search_kwargs={"k": 20})
 retrieved_docs = retriever.invoke(query)
+
+print("Documentos recuperados antes do reranking:")
+for doc in retrieved_docs:
+    print(doc.page_content)
 
 # Reordenar os documentos recuperados
 ranked_docs = rerank_documents(query, retrieved_docs, top_n=10)
@@ -69,4 +66,3 @@ ranked_docs = rerank_documents(query, retrieved_docs, top_n=10)
 print("Contexto relevante:")
 for doc in ranked_docs:
     print(doc.page_content)
-
