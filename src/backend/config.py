@@ -1,0 +1,1 @@
+MODEL_EMBEDDINGS="sentence-transformers/bert-base-nli-mean-tokens"
