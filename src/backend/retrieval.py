@@ -5,10 +5,8 @@ import config
 
 MODEL_EMBEDDINGS = config.MODEL_EMBEDDINGS
 
-# Carregar modelo de embeddings
 embedding_model = HuggingFaceEmbeddings(model_name=MODEL_EMBEDDINGS)
 
-# Caminho do índice FAISS
 index_path = "../../data/embeddings/all/"
 
 lista_query = [
@@ -31,7 +29,6 @@ for query in lista_query_prefix:
     # Ordenar os resultados por score
     lista_docs_ordenada = sorted(docs_scores, key=lambda x: x[1], reverse=True)
     
-    # Exibir os resultados
     for i, (doc, score) in enumerate(lista_docs_ordenada):
         print(f"\t{i+1}) Score: {score:.5f} - Source: {doc.metadata.get('nome_arquivo', 'Não disponível')} - Título: {doc.metadata.get('titulo', 'Não disponível')}")
         #print(f'\nConteúdo: {doc.page_content}\n')
