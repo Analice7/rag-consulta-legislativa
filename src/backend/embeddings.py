@@ -6,7 +6,6 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from dotenv import load_dotenv
 import config
 
-# Criar índice FAISS com embeddings normalizados
 def normalize(vecs):
     return vecs / np.linalg.norm(vecs, axis=1, keepdims=True)
 
@@ -16,23 +15,41 @@ model = config.MODEL_EMBEDDINGS
 embeddings = HuggingFaceEmbeddings(model_name=model)
 print("Embeddings carregadas com sucesso.")
 
-all_docs = []
+batch_size = 500 
+docsdb = None 
 
-for folder in ['atividade_legislativa', 'leis', 'vetos'] :
+for folder in ['atividade_legislativa', 'leis', 'vetos']:
     try:
         with open(f"../../data/chunkings/{folder}/chunkings.json", "r", encoding="utf-8") as f:
-            all_docs.extend([
+            chunks = json.load(f)
+
+        total_docs = len(chunks)
+        print(f"Pasta {folder} contém {total_docs} documentos.")
+
+        for i in range(0, total_docs, batch_size):
+            batch = chunks[i : i + batch_size]
+
+            docs_batch = [
                 Document(page_content=chunk["chunk"], metadata=chunk["metadata"])
-                for chunk in json.load(f)
-            ])
-        print(f"Pasta {folder} processada com {len(all_docs)} documentos.")
+                for chunk in batch
+            ]
+
+            if docsdb is None:
+                docsdb = FAISS.from_documents(docs_batch, embeddings)
+            else:
+                docsdb.add_documents(docs_batch)
+
+            print(f"Processados {min(i + batch_size, total_docs)}/{total_docs} documentos da pasta {folder}.")
+
     except Exception as e:
         print(f"Erro ao processar {folder}: {e}")
 
-docsdb = FAISS.from_documents(all_docs, embeddings)
-docsdb.save_local("../../data/embeddings/all/")
-print("Índice FAISS criado e salvo com sucesso.")
+if docsdb:
+    docsdb.save_local("../../data/embeddings/all/")
+    print("Índice FAISS criado e salvo com sucesso.")
 
-# Teste de busca
-sample_doc = docsdb.similarity_search("teste", k=1)
-print(f"Resultado FAISS: {sample_doc[0].metadata if sample_doc else 'Nenhum resultado encontrado'}")
+    # Teste de busca
+    sample_doc = docsdb.similarity_search("teste", k=1)
+    print(f"Resultado FAISS: {sample_doc[0].metadata if sample_doc else 'Nenhum resultado encontrado'}")
+else:
+    print("Nenhum documento foi processado.")

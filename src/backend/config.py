@@ -1,1 +1,1 @@
-MODEL_EMBEDDINGS="sentence-transformers/bert-base-nli-mean-tokens"
+MODEL_EMBEDDINGS="stjiris/bert-large-portuguese-cased-legal-mlm-sts-v1.0"

@@ -1,36 +1,33 @@
 # Integração com LLMs
-from transformers import AutoTokenizer, AutoModelForCausalLM
-from langchain_huggingface import HuggingFaceEmbeddings
+from retrieval import get_relevant_context
 
-def load_models():
-    """
-    Carrega os modelos de embeddings e de linguagem natural.
-    """
-    embedding_model = HuggingFaceEmbeddings(model_name="FacebookAI/roberta-base")
-    tokenizer = AutoTokenizer.from_pretrained("gpt2")
-    model = AutoModelForCausalLM.from_pretrained("gpt2")
-    return embedding_model, tokenizer, model
+def generate_response(query, client):
+    
+    # Recuperar documentos mais relevantes
+    relevant_docs = get_relevant_context(query)
 
-def generate_response(prompt, relevant_context, tokenizer, model):
+    # Criar um contexto com os documentos encontrados
+    context_text = "\n\n".join([doc.page_content for doc, score in relevant_docs])
+
+    # Criar o prompt para a LLM
+    prompt = f"""
+    Você é um assistente especializado em atividade legislativa. Baseie-se nos documentos a seguir para responder à pergunta do usuário.
+    
+    Documentos:
+    {context_text}
+    
+    Pergunta do usuário:
+    {query}
+    
+    Responda de forma objetiva e técnica.
     """
-    Gera uma resposta para o prompt com base no contexto relevante.
-    """
-    final_prompt = (
-        f"Você é um assistente jurídico especializado em atividade legislativa.\n\n"
-        f"Com base no contexto abaixo, responda de forma objetiva e clara à pergunta do usuário.\n\n"
-        f"Contexto relevante: {relevant_context}\n\n"
-        f"Pergunta: {prompt}\n\n"
-        f"Resposta:"
+
+    # Chamar a API Groq para gerar a resposta
+    response = client.chat.completions.create(
+        model="llama3-8b-8192",  
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.5,
+        max_tokens=500
     )
-    inputs = tokenizer(final_prompt, return_tensors="pt", max_length=512, truncation=True)
-    outputs = model.generate(
-        **inputs,
-        max_length=512,
-        num_beams=5,
-        early_stopping=True,
-        no_repeat_ngram_size=2,
-        pad_token_id=tokenizer.eos_token_id
-    )
-    response = tokenizer.decode(outputs[0], skip_special_tokens=True)
-    return response
 
+    return response.choices[0].message.content
