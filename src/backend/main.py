@@ -2,8 +2,8 @@ import streamlit as st
 import os
 from dotenv import load_dotenv
 import groq
-from backend.retrieval import get_relevant_context
-from backend.models import generate_response
+from retrieval import get_relevant_context
+from models import generate_response
 
 # Carregar variáveis do .env
 load_dotenv()

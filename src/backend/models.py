@@ -1,5 +1,5 @@
 # Integração com LLMs
-from retrieval import get_relevant_context
+from backend.retrieval import get_relevant_context
 
 def generate_response(query, client):
     
