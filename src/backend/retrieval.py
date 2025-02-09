@@ -1,7 +1,7 @@
 # Testar a busca de similaridade
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
-import backend.config as config
+import config
 
 def get_relevant_context(query):
 
@@ -9,11 +9,10 @@ def get_relevant_context(query):
 
     embedding_model = HuggingFaceEmbeddings(model_name=MODEL_EMBEDDINGS)
 
-    index_path = "../data/embeddings/all/"
+    index_path = "../../data/embeddings/all/"
 
     docsdb = FAISS.load_local(index_path, embedding_model, allow_dangerous_deserialization=True)
 
-    
     #print("--" * 50)
     print(f"\nPergunta: {query}")
     
