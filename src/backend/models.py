@@ -1,5 +1,6 @@
 # Integração com LLMs
-from backend.retrieval import get_relevant_context
+from retrieval import get_relevant_context
+import config
 
 def generate_response(query, client):
     
@@ -11,11 +12,14 @@ def generate_response(query, client):
         #print(f'\nConteúdo: {doc.page_content}\n')
 
     # Criar um contexto com os documentos encontrados
-    context_text = "\n\n".join([doc.page_content for doc, score in relevant_docs])
+    context_text = "\n\n".join([
+    f"Conteúdo: {doc.page_content}\nMetadados: {doc.metadata}"
+    for doc in relevant_docs
+])
 
     # Criar o prompt para a LLM
     prompt = f"""
-    Você é um assistente especializado em atividade legislativa. Baseie-se nos documentos a seguir para responder à pergunta do usuário.
+    Você é um assistente especializado em leis, abrangindo a atividade legislativa e os possíveis vetos. Baseie-se nos documentos a seguir para responder à pergunta do usuário.
     
     Documentos:
     {context_text}
@@ -23,15 +27,15 @@ def generate_response(query, client):
     Pergunta do usuário:
     {query}
     
-    Responda de forma objetiva e técnica.
+    Responda de forma clara e técnica, evitando redundâncias. Discorra sobre o tema, apresente fontes e, quando possível, o link da lei.
     """
 
     # Chamar a API Groq para gerar a resposta
     response = client.chat.completions.create(
-        model="llama3-8b-8192",  
+        model=config.MODEL,  
         messages=[{"role": "user", "content": prompt}],
         temperature=0.5,
-        max_tokens=500
+        max_tokens=750
     )
 
     return response.choices[0].message.content

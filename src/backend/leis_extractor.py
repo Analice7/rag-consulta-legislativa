@@ -20,7 +20,7 @@ def extract_text_from_html(arquivo):
     
     pattern = r'\d+[\.,]+\d+'
     
-    descricao = soup.find('p', class_='Ementaparagrafo').get_text()
+    descricao = f'ementa: {soup.find('p', class_='Ementaparagrafo').get_text()}'
     descricao = descricao.replace(descricao[0], descricao[0].lower())
     descricao = re.sub(pattern, lambda m:m.group().replace('.',''), descricao)
 
@@ -42,9 +42,9 @@ def extract_text_from_html(arquivo):
         lei_texto = None
         
     if arquivo[1] == 'C':
-       link = f'https://www.planalto.gov.br/ccivil_03/leis/lcp/{arquivo[:-5]}.htm'
+       link = f'link: https://www.planalto.gov.br/ccivil_03/leis/lcp/{arquivo[:-5]}.htm'
     else:
-       link = f'https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/{arquivo[:-5]}.htm'
+       link = f'link: https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/{arquivo[:-5]}.htm'
        
     output_directory = "data/extracted/leis"
     os.makedirs(output_directory, exist_ok=True) #Verifica se o diretorio existe
