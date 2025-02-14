@@ -35,8 +35,14 @@ if pergunta:
     st.chat_message("user").markdown(pergunta)
     st.session_state.mensagens.append({"tipo": "user", "conteudo": pergunta})
 
-    # Obter resposta da RAG
-    resposta = generate_response(pergunta, client)
+    # Criar o histórico formatado para a LLM
+    historico = [
+        {"role": "user" if m["tipo"] == "user" else "assistant", "content": m["conteudo"]}
+        for m in st.session_state.mensagens
+    ]
+
+    # Obter resposta da RAG considerando o histórico
+    resposta = generate_response(historico, client)
 
     # Exibir a resposta na interface
     with st.chat_message("assistant"):
@@ -44,5 +50,16 @@ if pergunta:
 
     st.session_state.mensagens.append({"tipo": "assistant", "conteudo": resposta})
 
+# Separador
 st.markdown("---")
-st.caption("Desenvolvido para o projeto de RAG da disciplina de Tópicos Especiais em Inteligência Artificial.")
+
+# Layout com duas colunas para o texto e o botão
+col1, col2 = st.columns([6, 1])
+
+with col1:
+    st.caption("Desenvolvido para o projeto de RAG da disciplina de Tópicos Especiais em Inteligência Artificial.")
+
+with col2:
+    if st.button("🗑️ Limpar Conversa"):
+        st.session_state.mensagens = []
+        st.rerun()
