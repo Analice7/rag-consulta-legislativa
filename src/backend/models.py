@@ -12,10 +12,7 @@ def generate_response(query, client):
         #print(f'\nConteúdo: {doc.page_content}\n')
 
     # Criar um contexto com os documentos encontrados
-    context_text = "\n\n".join([
-    f"Conteúdo: {doc.page_content}\nMetadados: {doc.metadata}"
-    for doc in relevant_docs
-])
+    context_text = "\n\n".join([f'Conteúdo: {doc.page_content}\nMetadados: {doc.metadata}' for doc, score in relevant_docs])
 
     # Criar o prompt para a LLM
     prompt = f"""

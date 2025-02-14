@@ -1,2 +1,2 @@
-MODEL_EMBEDDINGS="stjiris/bert-large-portuguese-cased-legal-mlm-sts-v1.0"
+MODEL_EMBEDDINGS="sentence-transformers/LaBSE"
 MODEL = "llama3-8b-8192"

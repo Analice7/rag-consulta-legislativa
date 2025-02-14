@@ -3,6 +3,7 @@ import numpy as np
 from langchain.schema import Document
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
+import time
 from sklearn.preprocessing import normalize
 from dotenv import load_dotenv
 import config
@@ -34,10 +35,18 @@ for folder in ['atividade_legislativa', 'leis', 'vetos']:
 if all_docs:
     print(f"Total de documentos carregados: {len(all_docs)}")
     
+    start_embeddings_time = time.time()
     embeddings_matrix = np.array(embeddings.embed_documents([doc.page_content for doc in all_docs]))
-    normalized_embeddings = normalize(embeddings_matrix, axis=1, norm='l2')
+    print(f'Tempo para gerar embeddings: {time.time() - start_embeddings_time:.2f} segundos')
 
+    start_norm_time = time.time()
+    normalized_embeddings = normalize(embeddings_matrix, axis=1, norm='l2')
+    print(f'Tempo para normalizar embeddings: {time.time() - start_norm_time:.2f} segundos')
+
+    start_faiss_time = time.time()
     docsdb = FAISS.from_documents(all_docs, embeddings)
+    print(f'Tempo para salvar em  índices: {time.time() - start_faiss_time:.2f} segundos')
+
 
     docsdb.save_local("../../data/embeddings/all/")
     print("Índice FAISS criado e salvo com sucesso.")
