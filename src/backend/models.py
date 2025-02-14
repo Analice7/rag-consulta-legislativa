@@ -2,30 +2,38 @@
 from retrieval import get_relevant_context
 import config
 
-def generate_response(query, client):
-    
+def generate_response(historico, client):
     # Recuperar documentos mais relevantes
+    query = historico[-1]["content"]  # Última pergunta do usuário
     relevant_docs = get_relevant_context(query)
 
     for i, (doc, score) in enumerate(relevant_docs):
         print(f"\t{i+1}) Score: {score:.5f} - Source: {doc.metadata.get('nome_arquivo', 'Não disponível')} - Título: {doc.metadata.get('titulo', 'Não disponível')}")
-        #print(f'\nConteúdo: {doc.page_content}\n')
 
     # Criar um contexto com os documentos encontrados
     context_text = "\n\n".join([
-    f"Conteúdo: {doc.page_content}\nMetadados: {doc.metadata}"
-    for doc in relevant_docs
-])
+        f"Conteúdo: {doc.page_content}\nMetadados: {doc.metadata}"
+        for doc, score in relevant_docs
+    ])
+
+    # Limitar o histórico às últimas 5 mensagens
+    historico_reduzido = historico[-5:]
+
+    # Criar o histórico formatado para a LLM
+    historico_formatado = "\n".join([
+        f"{msg['role']}: {msg['content']}"
+        for msg in historico_reduzido
+    ])
 
     # Criar o prompt para a LLM
     prompt = f"""
-    Você é um assistente especializado em leis, abrangindo a atividade legislativa e os possíveis vetos. Baseie-se nos documentos a seguir para responder à pergunta do usuário.
+    Você é um assistente especializado em leis, abrangendo a atividade legislativa e os possíveis vetos. Baseie-se nos documentos a seguir para responder à pergunta do usuário.
     
     Documentos:
     {context_text}
     
-    Pergunta do usuário:
-    {query}
+    Histórico da conversa:
+    {historico_formatado}
     
     Responda de forma clara e técnica, evitando redundâncias. Discorra sobre o tema, apresente fontes e, quando possível, o link da lei.
     """
