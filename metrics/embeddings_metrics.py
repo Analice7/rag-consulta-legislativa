@@ -80,11 +80,26 @@ print(f"\nDistância Euclidiana Média: {media_distancia:.4f}")
 # plt.ylabel("Frequência")
 # plt.show()
 
-query_embedding = docsdb.index.reconstruct(np.random.randint(0, docsdb.index.ntotal))
-_, ground_truth = docsdb.index.search(np.array([query_embedding]), 5)
-ground_truth = ground_truth[0] 
-precisao = precisao_at_k(query_embedding, ground_truth, k=5)
+# Selecionar um vetor de consulta aleatório
+query_idx = np.random.randint(0, docsdb.index.ntotal)
+query_embedding = docsdb.index.reconstruct(query_idx)
 
+# Buscar os 5 documentos mais próximos do vetor de consulta (ground truth)
+_, ground_truth = docsdb.index.search(np.array([query_embedding]), 5)
+ground_truth = ground_truth[0]  # Indices dos 5 documentos mais próximos
+
+# Remover o índice do vetor de consulta de ground_truth (para evitar coincidência)
+ground_truth = [idx for idx in ground_truth if idx != query_idx]
+
+# Caso o número de documentos relevantes para ground_truth seja menor que 5,
+# selecionar outros índices aleatórios do banco de dados
+# while len(ground_truth) < 5:
+#     random_idx = np.random.randint(0, docsdb.index.ntotal)
+#     if random_idx != query_idx and random_idx not in ground_truth:
+#         ground_truth.append(random_idx)
+
+# Calcular as métricas
+precisao = precisao_at_k(query_embedding, ground_truth, k=5)
 print(f"\nPrecisão@5: {precisao:.4f}")
 
 recall = recall_at_k(query_embedding, ground_truth, k=5)
@@ -97,8 +112,8 @@ ndcg = ndcg_at_k(query_embedding, ground_truth, k=10)
 print(f"\nNDCG@10: {ndcg:.4f}")
 
 # t-SNE para Visualização dos Embeddings
-tsne = TSNE(n_components=2, perplexity=30, random_state=42)
-embeddings_2d = tsne.fit_transform(embeddings_amostra)
+# tsne = TSNE(n_components=2, perplexity=30, random_state=42)
+# embeddings_2d = tsne.fit_transform(embeddings_amostra)
 
 # plt.scatter(embeddings_2d[:,0], embeddings_2d[:,1], alpha=0.5)
 # plt.title("Visualização dos Embeddings")
