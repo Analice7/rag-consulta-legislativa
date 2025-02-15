@@ -56,8 +56,7 @@ n_vetores = docsdb.index.ntotal
 print(f'\nNúmero de vetores: {n_vetores}')
 
 # Amostrar embeddings
-num_amostras = 9547
-indices_amostra = np.random.choice(n_vetores, num_amostras, replace=False)
+indices_amostra = np.random.choice(n_vetores, n_vetores, replace=False)
 embeddings_amostra = np.array([docsdb.index.reconstruct(int(i)) for i in indices_amostra])
 
 # Medir Similaridade Cosseno
@@ -67,18 +66,11 @@ media_similaridade = np.mean(similaridades)
 print(f"\nSimilaridade Cosseno: {media_similaridade:.4f}")
 
 # Medir Distância Euclidiana Média
-pares = np.random.choice(num_amostras, (500, 2), replace=False)
+pares = np.random.choice(n_vetores, (n_vetores, 2), replace=True)
 distancias = np.linalg.norm(embeddings_amostra[pares[:, 0]] - embeddings_amostra[pares[:, 1]], axis=1)
 media_distancia = np.mean(distancias)
 
 print(f"\nDistância Euclidiana Média: {media_distancia:.4f}")
-
-# Distribuição das Distâncias
-# plt.hist(distancias, bins=50, alpha=0.75, color="purple")
-# plt.title("Distribuição das Distâncias Entre Embeddings")
-# plt.xlabel("Distância Euclidiana")
-# plt.ylabel("Frequência")
-# plt.show()
 
 # Selecionar um vetor de consulta aleatório
 query_idx = np.random.randint(0, docsdb.index.ntotal)
@@ -86,7 +78,7 @@ query_embedding = docsdb.index.reconstruct(query_idx)
 
 # Buscar os 5 documentos mais próximos do vetor de consulta (ground truth)
 _, ground_truth = docsdb.index.search(np.array([query_embedding]), 5)
-ground_truth = ground_truth[0]  # Indices dos 5 documentos mais próximos
+ground_truth = ground_truth[0] 
 
 # Remover o índice do vetor de consulta de ground_truth (para evitar coincidência)
 ground_truth = [idx for idx in ground_truth if idx != query_idx]
@@ -114,10 +106,6 @@ print(f"\nNDCG@10: {ndcg:.4f}")
 # t-SNE para Visualização dos Embeddings
 tsne = TSNE(n_components=2, perplexity=30, random_state=42)
 embeddings_2d = tsne.fit_transform(embeddings_amostra)
-
-# plt.scatter(embeddings_2d[:,0], embeddings_2d[:,1], alpha=0.5)
-# plt.title("Visualização dos Embeddings")
-# plt.show()
 
 # Clusterização para verificar agrupamentos naturais
 num_clusters = 10
