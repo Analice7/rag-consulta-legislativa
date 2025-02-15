@@ -112,18 +112,18 @@ ndcg = ndcg_at_k(query_embedding, ground_truth, k=10)
 print(f"\nNDCG@10: {ndcg:.4f}")
 
 # t-SNE para Visualização dos Embeddings
-# tsne = TSNE(n_components=2, perplexity=30, random_state=42)
-# embeddings_2d = tsne.fit_transform(embeddings_amostra)
+tsne = TSNE(n_components=2, perplexity=30, random_state=42)
+embeddings_2d = tsne.fit_transform(embeddings_amostra)
 
 # plt.scatter(embeddings_2d[:,0], embeddings_2d[:,1], alpha=0.5)
 # plt.title("Visualização dos Embeddings")
 # plt.show()
 
 # Clusterização para verificar agrupamentos naturais
-# num_clusters = 10
-# kmeans = KMeans(n_clusters=num_clusters, random_state=42, n_init=10)
-# labels = kmeans.fit_predict(embeddings_amostra)
+num_clusters = 10
+kmeans = KMeans(n_clusters=num_clusters, random_state=42, n_init=10)
+labels = kmeans.fit_predict(embeddings_amostra)
 
-# plt.scatter(embeddings_2d[:, 0], embeddings_2d[:, 1], c=labels, cmap='tab10', alpha=0.7)
-# plt.title(f"Clusterização dos Embeddings ({num_clusters} Clusters)")
-# plt.show()
+plt.scatter(embeddings_2d[:, 0], embeddings_2d[:, 1], c=labels, cmap='tab10', alpha=0.7)
+plt.title(f"Clusterização dos Embeddings ({num_clusters} Clusters)")
+plt.show()

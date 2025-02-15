@@ -1,2 +1,2 @@
-MODEL_EMBEDDINGS="sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
+MODEL_EMBEDDINGS="alfaneo/bertimbau-base-portuguese-sts"
 MODEL = "llama3-8b-8192"
