@@ -3,10 +3,10 @@ import numpy as np
 from langchain.schema import Document
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
-import time
 from sklearn.preprocessing import normalize
 from dotenv import load_dotenv
 import config
+import os
 
 load_dotenv()
 
@@ -35,20 +35,28 @@ for folder in ['atividade_legislativa', 'leis', 'vetos']:
 if all_docs:
     print(f"Total de documentos carregados: {len(all_docs)}")
     
-    start_embeddings_time = time.time()
+    # Gera embeddings uma única vez
     embeddings_matrix = np.array(embeddings.embed_documents([doc.page_content for doc in all_docs]))
-    print(f'Tempo para gerar embeddings: {time.time() - start_embeddings_time:.2f} segundos')
-
-    start_norm_time = time.time()
     normalized_embeddings = normalize(embeddings_matrix, axis=1, norm='l2')
-    print(f'Tempo para normalizar embeddings: {time.time() - start_norm_time:.2f} segundos')
 
-    start_faiss_time = time.time()
-    docsdb = FAISS.from_documents(all_docs, embeddings)
-    print(f'Tempo para salvar em  índices: {time.time() - start_faiss_time:.2f} segundos')
+    # Prepara textos e metadados
+    texts = [doc.page_content for doc in all_docs]
+    metadatas = [doc.metadata for doc in all_docs]
 
+    # Converte embeddings para listas de floats
+    normalized_embeddings_list = normalized_embeddings.tolist()
 
-    docsdb.save_local("../../data/embeddings/all/")
+    # Cria o índice FAISS
+    docsdb = FAISS.from_embeddings(
+        text_embeddings=list(zip(texts, normalized_embeddings_list)),
+        embedding=embeddings,
+        metadatas=metadatas
+    )
+
+    # Garante que o diretório existe antes de salvar
+    save_path = "../../data/embeddings/all/"
+    os.makedirs(save_path, exist_ok=True)
+    docsdb.save_local(save_path)
     print("Índice FAISS criado e salvo com sucesso.")
 
     sample_doc = docsdb.similarity_search("teste", k=1)
