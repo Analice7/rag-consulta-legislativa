@@ -16,8 +16,8 @@ def generate_response(historico, client):
         for doc, score in relevant_docs
     ])
 
-    # Limitar o histórico às últimas 5 mensagens
-    historico_reduzido = historico[-5:]
+    # Limitar o histórico às últimas 3 mensagens
+    historico_reduzido = historico[-3:]
 
     # Criar o histórico formatado para a LLM
     historico_formatado = "\n".join([
