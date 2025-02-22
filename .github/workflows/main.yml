@@ -14,36 +14,18 @@ jobs:
 
     steps:
     - name: Check out repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v4
       with:
         python-version: 3.8
-
-    - name: Cache virtual environment
-      uses: actions/cache@v2
-      with:
-        path: ~/.venv
-        key: ${{ runner.os }}-venv-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-venv-
+        cache: 'pip'
 
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        python -m venv ~/.venv
-        source ~/.venv/bin/activate
         pip install -r requirements.txt
-
-    - name: Save virtual environment
-      run: tar -czf venv.tar.gz ~/.venv
-      
-    - name: Upload environment artifact
-      uses: actions/upload-artifact@v4
-      with:
-        name: python-env
-        path: venv.tar.gz
 
   streamlit:
     runs-on: ubuntu-latest
@@ -51,24 +33,21 @@ jobs:
 
     steps:
     - name: Check out repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v4
       with:
         python-version: 3.8
+        cache: 'pip'
 
-    - name: Download environment artifact
-      uses: actions/download-artifact@v4
-      with:
-        name: python-env
-
-    - name: Restore virtual environment
-      run: tar -xzf venv.tar.gz
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
 
     - name: Run Streamlit in headless mode
       run: |
-        source ~/.venv/bin/activate
         streamlit run src/main.py --server.headless true --server.runOnSave false &
         sleep 10
         pkill -f "streamlit run"
