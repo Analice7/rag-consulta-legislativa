@@ -1,15 +1,17 @@
 import time
 import pandas as pd
 import groq
-from dotenv import load_dotenv
+from dotenv import load_dotenv, find_dotenv
 import os
 from bert_score import score
-from models import generate_response
-import config
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../../..")))
+from backend.models import generate_response
+from backend import config
 import csv
 
 # Carregar variáveis do .env
-load_dotenv()
+load_dotenv(find_dotenv())
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 # Criar o cliente da API Groq

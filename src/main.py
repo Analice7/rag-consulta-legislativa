@@ -2,11 +2,11 @@ import streamlit as st
 import os
 from dotenv import load_dotenv
 import groq
-from retrieval import get_relevant_context
-from models import generate_response
+from backend.models import generate_response
 
 # Carregar variáveis do .env
-load_dotenv()
+env_path = os.path.join(os.path.dirname(__file__), "backend", ".env")
+load_dotenv(env_path)
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 # Criar o cliente da API Groq
@@ -41,8 +41,10 @@ if pergunta:
         for m in st.session_state.mensagens
     ]
 
-    # Obter resposta da RAG considerando o histórico
-    resposta = generate_response(historico, client)
+    # Exibir indicador de carregamento
+    with st.spinner("Buscando informações legislativas..."):
+        # Obter resposta da RAG considerando o histórico
+        resposta = generate_response(historico, client)
 
     # Exibir a resposta na interface
     with st.chat_message("assistant"):

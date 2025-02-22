@@ -1,7 +1,11 @@
 # Testar a busca de similaridade
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
-import config
+import os
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+from backend import config
+from pathlib import Path
 
 def get_relevant_context(query):
 
@@ -9,11 +13,11 @@ def get_relevant_context(query):
 
     embedding_model = HuggingFaceEmbeddings(model_name=MODEL_EMBEDDINGS)
 
-    index_path = "../../data/embeddings/all/"
+    destino = Path(__file__).parent.parent.parent / "data" / "embeddings" / "all"
+    index_path = os.path.relpath(destino, Path.cwd())
 
     docsdb = FAISS.load_local(index_path, embedding_model, allow_dangerous_deserialization=True)
 
-    #print("--" * 50)
     print(f"\nPergunta: {query}")
     
     docs_scores = docsdb.similarity_search_with_score(query, k=20)
