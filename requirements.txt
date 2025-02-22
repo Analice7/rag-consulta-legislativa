@@ -5,8 +5,6 @@ sentence-transformers==2.2.0 # Embeddings de sentenças e similaridade semântic
 numpy==1.24.0                # Cálculos numéricos e manipulação de arrays.
 pandas==1.5.3                # Manipulação e análise de dados estruturados.
 nltk==3.7                    # Processamento de linguagem natural (tokenização, etc.).
-matplotlib==3.6.2            # Biblioteca para criar gráficos e visualizações de dados em Python.
 spacy==3.4.1                 # NLP de alto desempenho (análise sintática, embeddings).
 faiss-cpu==1.7.4             # Busca de similaridade em vetores (otimizado para CPU).
-tqdm==4.64.1                 # Exibição de barras de progresso.
 matplotlib==3.6.2            # Criação de visualizações gráficas.
