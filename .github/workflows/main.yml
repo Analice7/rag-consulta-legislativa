@@ -40,7 +40,7 @@ jobs:
       run: tar -czf venv.tar.gz ~/.venv
       
     - name: Upload environment artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: python-env
         path: venv.tar.gz
@@ -59,7 +59,7 @@ jobs:
         python-version: 3.8
 
     - name: Download environment artifact
-      uses: actions/download-artifact@v3
+      uses: actions/download-artifact@v4
       with:
         name: python-env
 
