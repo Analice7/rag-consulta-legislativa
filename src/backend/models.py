@@ -1,6 +1,9 @@
 # Integração com LLMs
-from retrieval import get_relevant_context
-import config
+import os
+import sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+from backend.retrieval import get_relevant_context
+from backend import config
 
 def generate_response(historico, client):
     # Recuperar documentos mais relevantes

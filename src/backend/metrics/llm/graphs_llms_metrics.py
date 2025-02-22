@@ -2,13 +2,19 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
+import os
+from pathlib import Path
 
 arq = "avaliacao_geral_llms.csv"
 
+destino = Path(__file__).parent
+caminho = os.path.relpath(destino, Path.cwd())
+caminho = os.path.join(caminho, arq)
+
 try:
-    df = pd.read_csv(arq, encoding="utf-8")
+    df = pd.read_csv(caminho, encoding="utf-8")
 except UnicodeDecodeError:
-    df = pd.read_csv(arq, encoding="latin1", errors="replace")
+    df = pd.read_csv(caminho, encoding="latin1", errors="replace")
 
 df.columns = [
     "Modelo",
