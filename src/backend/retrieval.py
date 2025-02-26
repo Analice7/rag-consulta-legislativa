@@ -69,7 +69,7 @@ def get_relevant_context_simplificado(query):
 
     print(f"\nPergunta: {query}")
     
-    docs_scores = docsdb.similarity_search_with_score(query, k=20)
+    docs_scores = docsdb.similarity_search_with_score(query, k=30)
     
     # Ordenar os resultados por score
     lista_docs_ordenada = sorted(docs_scores, key=lambda x: x[1], reverse=True)
