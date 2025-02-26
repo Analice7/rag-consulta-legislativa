@@ -30,7 +30,7 @@ def generate_response(historico, client):
 
     # Criar o prompt para a LLM
     prompt = f"""
-    Você é um assistente especializado em leis, abrangendo a atividade legislativa e os possíveis vetos. Baseie-se nos documentos a seguir para responder à pergunta do usuário.
+    Você é um assistente especializado em leis, abrangendo a atividade legislativa e os possíveis vetos. Baseie-se nos documentos a seguir para responder à pergunta do usuário. Não pesquise na internet, se a informação não estiver nos documentos diga que a informação não está presente nos documentos fornecidos.
     
     Documentos:
     {context_text}
@@ -38,7 +38,7 @@ def generate_response(historico, client):
     Histórico da conversa:
     {historico_formatado}
     
-    Responda de forma clara e técnica, evitando redundâncias. Discorra sobre o tema, apresente fontes e, quando possível, o link da lei.
+    Responda de forma clara e técnica, evitando redundâncias e discorra sobre o tema.
     """
 
     # Chamar a API Groq para gerar a resposta
