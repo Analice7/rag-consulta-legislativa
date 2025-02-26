@@ -17,7 +17,7 @@ def calcular_similaridade(query, categorias, embedding_model):
         similaridades[categoria] = similaridade
     return similaridades
 
-def get_relevant_context(query, k=20):
+def get_relevant_context(query, k=30):
     MODEL_EMBEDDINGS = config.MODEL_EMBEDDINGS
     embedding_model = HuggingFaceEmbeddings(model_name=MODEL_EMBEDDINGS)
 
