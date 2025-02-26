@@ -38,7 +38,7 @@ def generate_response(historico, client):
     Histórico da conversa:
     {historico_formatado}
     
-    Responda de forma clara e técnica, evitando redundâncias. Discorra sobre o tema, apresente fontes e, quando possível, o link da lei.
+    Responda de forma clara e técnica, evitando redundâncias e discorra sobre o tema.
     """
 
     # Chamar a API Groq para gerar a resposta

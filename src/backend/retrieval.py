@@ -1,11 +1,11 @@
 # Testar a busca de similaridade
+import os
+import sys
 import backend.config as config
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from sklearn.metrics.pairwise import cosine_similarity
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
-import os
-import sys
 from pathlib import Path
 
 def calcular_similaridade(query, categorias, embedding_model):
@@ -21,7 +21,7 @@ def get_relevant_context(query, k=20):
     MODEL_EMBEDDINGS = config.MODEL_EMBEDDINGS
     embedding_model = HuggingFaceEmbeddings(model_name=MODEL_EMBEDDINGS)
 
-    index_path = "data/embeddings_separados/"
+    index_path = "../data/embeddings_separados/"
 
     docsal = FAISS.load_local(index_path + "atividade_legislativa/", embedding_model, allow_dangerous_deserialization=True)
     docsl = FAISS.load_local(index_path + "leis/", embedding_model, allow_dangerous_deserialization=True)
